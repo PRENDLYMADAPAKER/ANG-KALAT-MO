@@ -322,6 +322,18 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_thrill_sd.mpd
 #EXTINF:-82 tvg-logo="https://i.imgur.com/B9m9J1Y.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Movie Channels",CINEMAX 2
 http://185.236.229.62:9981/play/a07r
 
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png" group-title="Kids Zone" tvg-id="Boomerang.us",Boomerang 1
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v12.thetvapp.to/hls/Boomerang/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png" group-title="Kids Zone" tvg-id="Boomerang.us",Boomerang 2
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v12.thetvapp.to/hls/Boomerang/tracks-v2a1/mono.m3u8
+
 #EXTINF:-88 tvg-logo="https://i.imgur.com/rLROXxu.png" group-logo="https://i.imgur.com/NbRG0IW.jpeg" group-title="Kids Zone",DISNEY JR.
 http://185.236.229.62:9981/play/a06n
 
