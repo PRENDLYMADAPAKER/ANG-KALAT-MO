@@ -665,6 +665,12 @@ http://143.44.136.110:6910/001/2/ch00000090990000001223/manifest.mpd?virtualDoma
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001202/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
+#EXTINF:-1 tvg-id="WWE.Network.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/wwe-network.png" group-title="Internaional 🌍",WWE Network
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windnew.newkso.ru/wind/premium376/mono.m3u8
+
 #EXTINF:-171 tvg-logo="https://i.imgur.com/CIPTNnT.png" group-logo="https://i.imgur.com/9C0pL2G.png" group-title="Music",MYX
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
@@ -809,6 +815,9 @@ http://143.44.136.110:6910/001/2/ch00000090990000001245/manifest.mpd?virtualDoma
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/nba/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://imgur.com/a/TGsXrZy.png" group-title="Sports Channel 🏀",NBA LIVE
+https://nflarcadia.xyz/bRtT37sn3w/Sx5q6YTgCs/11.m3u8
 
 #EXTINF:-219 tvg-logo="https://i.imgur.com/1CL6aNQ.png" group-logo="https://i.imgur.com/IV8omb6.jpeg" group-title="Sports Channel 🏀",GOLF CHANNEL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
