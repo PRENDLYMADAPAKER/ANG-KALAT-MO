@@ -371,13 +371,7 @@ http://143.44.136.110:6910/001/2/ch00000090990000001215/manifest.mpd?virtualDoma
 #EXTVLCOPT:http-origin=https://thetvapp.to
 #EXTVLCOPT:http-referrer=https://thetvapp.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v15.thetvapp.to/hls/NicktoonsEast/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Nicktoons.png" group-title="Kids Zone" tvg-id="Nicktoons.-.East.us",Nicktoons - 2
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v15.thetvapp.to/hls/NicktoonsEast/tracks-v2a1/mono.m3u8
+http://supersonictv.live:8080/611366/682256/21809
 
 #EXTINF:-99 tvg-logo="https://i.imgur.com/Iy35n22.png" group-logo="https://i.imgur.com/NbRG0IW.jpeg" group-title="Kids Zone",DREAMWORKS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
