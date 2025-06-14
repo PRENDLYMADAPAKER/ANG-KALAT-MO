@@ -756,6 +756,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default_ott.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_ott.mpd
 
+#EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/espn-usa.png" group-title="Sports Channel 🏀",ESPN USA
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00NC9tb25vLm0zdTg=.m3u8
+
 #EXTINF:-203 tvg-logo="https://i.imgur.com/K3knyIN.png" group-logo="https://i.imgur.com/IV8omb6.jpeg" group-title="Sports Channel 🏀",SOLAR Sports
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
