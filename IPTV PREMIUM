@@ -698,6 +698,8 @@ http://supersonictv.live:8080/611366/682256/22125
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001202/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
+#EXTINF:-1  tvg-name="UFC" tvg-id="66ed3eb27358ce000830df49" tvg-logo="https://images.pluto.tv/channels/66ed3eb27358ce000830df49/colorLogoPNG.png" tvg-chno="709" group-title="International 🌍",UFC
+
 #EXTINF:-1 tvg-id="WWE.Network.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/wwe-network.png" group-title="International 🌍",WWE Network
 #EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
 #EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz/
