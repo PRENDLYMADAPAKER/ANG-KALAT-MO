@@ -277,12 +277,6 @@ http://190.102.246.93:9005/play/a01o
 #EXTINF:-56 tvg-logo="https://i.imgur.com/Qx7X56p.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Movie Channels",STUDIO UNIVERSAL
 http://190.102.246.93:9005/play/a01e
 
-#EXTINF:-59 tvg-logo="https://i.ibb.co/JRBqHQD/13131827-qe1sisbmxnifd4pd.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Movie Channels",WARNER TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6093e12639b24cd651ee6b3c13446d10:f8326f668c7bee309e5302b513e5bdf7
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2605/default_ott.mpd
-
 #EXTINF:-60 tvg-logo="https://i.imgur.com/J6Olkop.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Movie Channels",TAP TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
