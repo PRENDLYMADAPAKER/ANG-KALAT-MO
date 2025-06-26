@@ -74,10 +74,19 @@ http://143.44.136.110:6910/001/2/ch00000090990000001093/manifest.mpd?virtualDoma
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001143/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
+#EXTINF:-1  tvg-name="Heart of Asia" tvg-id="iptv/heartofasia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Heart_of_Asia_logo.svg/400px-Heart_of_Asia_logo.svg.png" group-title="Local Channels 🇵🇭",Heart of Asia
+https://ott.udptv.net/stream/iptv/heartofasia/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
+
+#EXTINF:-1  tvg-name="iHeart Movies" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/Iheartmovies1.png" group-title="Local Channels 🇵🇭",iHeart Movies
+https://ott.udptv.net/stream/iptv/iheartmovies/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
+
 #EXTINF:-18 tvg-logo="https://i.imgur.com/3yzbJE5.png" group-logo="https://i.imgur.com/083Ud3K.jpeg" group-title="Local Channels 🇵🇭",JEEPNEY TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.113:6910/001/2/ch00000090990000001250/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-name="Jugo Pinoy TV" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://dito.ph/hubfs/Dito_July2021/Ott%20Pages/Jungo-img/Jungo-logo.png" group-title="Local Channels 🇵🇭",Jugo Pinoy TV
+http://ott.udptv.net/stream/iptv/jugopinoytv/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 
 #EXTINF:-20 tvg-logo="https://i.imgur.com/Wsj7iPd.png" group-logo="https://i.imgur.com/083Ud3K.jpeg" group-title="Local Channels 🇵🇭",LIVING ASIA CHANNEL
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
