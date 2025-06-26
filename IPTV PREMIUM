@@ -1,5 +1,19 @@
 #EXTM3U
 
+#EXTINF:-206 tvg-logo="https://i.imgur.com/OGXzvsp.png" group-logo="https://i.imgur.com/IV8omb6.jpeg" group-title="NBA CHANNEL🏀",NBA TV PHILIPPINES
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c5e51f41ceac48709d0bdcd9c13a4d88:20b91609967e472c27040716ef6a8b9a
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cgnl_nba.mpd
+
+#EXTINF:-1  tvg-name="NBA TV - NBALP" tvg-id="NBA.TV.USA.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nba-tv-us.png" group-title="NBA CHANNEL🏀",NBA TV - NBALP
+https://ott.udptv.org/stream/udptvus/nbatvnbalp/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
+
+#EXTINF:-1  tvg-name="NBA TV HDTV" tvg-id="NBA.TV.USA.us" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/NBA_TV_HDTV._SL170_FMpng_.png" group-title="NBA CHANNEL🏀",NBA TV HDTV
+https://ott.udptv.com/stream/udptv/nbatvhdtv/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
+
+#EXTINF:-1  tvg-name="NBA TV USA" tvg-id="NBA.TV.USA.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-us.png?raw=true" group-title="NBA CHANNEL🏀",NBA TV USA
+https://ott.udptv.org/stream/udptvus/nbatv/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3myn4zH.png" group-logo="https://i.imgur.com/083Ud3K.jpeg" group-title="Local Channels 🇵🇭",A2Z
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -757,103 +771,90 @@ https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.
 #EXTINF:-199 tvg-logo="https://i.imgur.com/WNyPhah.png" group-logo="https://i.imgur.com/9C0pL2G.png" group-title="Music",CONCERT
 https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-200 tvg-logo="http://linear-poster.astro.com.my/prod/logo/beIN_Sports_v1.png" group-logo="https://i.imgur.com/IV8omb6.jpeg" group-title="Sports Channel 🏀",BEIN Sports
+#EXTINF:-200 tvg-logo="http://linear-poster.astro.com.my/prod/logo/beIN_Sports_v1.png" group-logo="https://i.imgur.com/IV8omb6.jpeg" group-title="Sports Channel",BEIN Sports
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a655189ab5c49eb235308c2b1a9e710:3c4508af348844107f5e026a4fd6b16e
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 http://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_ott.mpd
 
-#EXTINF:-201 tvg-logo="https://cms.cignal.tv/Upload/Images/BeIn-2.png" group-logo="https://i.imgur.com/IV8omb6.jpeg" group-title="Sports Channel 🏀",BEIN Sports Channel 2
+#EXTINF:-201 tvg-logo="https://cms.cignal.tv/Upload/Images/BeIn-2.png" group-logo="https://i.imgur.com/IV8omb6.jpeg" group-title="Sports Channel",BEIN Sports Channel 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39c175581e237eff9559607eb9b23c10:5102b12aac7756c65dcb46a101d960d3
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default_ott.mpd
 
-#EXTINF:-202 tvg-logo="https://cms.cignal.tv/Upload/Images/BeIn-3.png" group-logo="https://i.imgur.com/IV8omb6.jpeg" group-title="Sports Channel 🏀",BEIN Sports Channel 3
+#EXTINF:-202 tvg-logo="https://cms.cignal.tv/Upload/Images/BeIn-3.png" group-logo="https://i.imgur.com/IV8omb6.jpeg" group-title="Sports Channel",BEIN Sports Channel 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=20c884ef8ed26b2762f8b1a78f2d1910:042a21bf236ca729b1e343ed6e0a6337
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_ott.mpd
 
-#EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/espn-usa.png" group-title="Sports Channel 🏀",ESPN USA
+#EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/espn-usa.png" group-title="Sports Channel",ESPN USA
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00NC9tb25vLm0zdTg=.m3u8
 
-#EXTINF:-203 tvg-logo="https://i.imgur.com/K3knyIN.png" group-logo="https://i.imgur.com/IV8omb6.jpeg" group-title="Sports Channel 🏀",SOLAR Sports
+#EXTINF:-203 tvg-logo="https://i.imgur.com/K3knyIN.png" group-logo="https://i.imgur.com/IV8omb6.jpeg" group-title="Sports Channel",SOLAR Sports
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001081/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-204 tvg-logo="https://i.imgur.com/LGXe6fr.jpeg" group-logo="https://i.imgur.com/IV8omb6.jpeg" group-title="Sports Channel 🏀",PBA RUSH
+#EXTINF:-204 tvg-logo="https://i.imgur.com/LGXe6fr.jpeg" group-logo="https://i.imgur.com/IV8omb6.jpeg" group-title="Sports Channel",PBA RUSH
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=76dc29dd87a244aeab9e8b7c5da1e5f3:95b2f2ffd4e14073620506213b62ac82
 https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_pbarush_hd1.mpd
 
-#EXTINF:-206 tvg-logo="https://i.imgur.com/OGXzvsp.png" group-logo="https://i.imgur.com/IV8omb6.jpeg" group-title="Sports Channel 🏀",NBA TV PHILIPPINES
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c5e51f41ceac48709d0bdcd9c13a4d88:20b91609967e472c27040716ef6a8b9a
-https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cgnl_nba.mpd
-
-#EXTINF:-207 tvg-logo="https://i.imgur.com/V0sxXci.png" group-logo="https://i.imgur.com/IV8omb6.jpeg" group-title="Sports Channel 🏀",UAAP VARSITY
+#EXTINF:-207 tvg-logo="https://i.imgur.com/V0sxXci.png" group-logo="https://i.imgur.com/IV8omb6.jpeg" group-title="Sports Channel",UAAP VARSITY
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=95588338ee37423e99358a6d431324b9:6e0f50a12f36599a55073868f814e81e
 https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/cg_uaap_cplay_sd.mpd
 
-#EXTINF:-208 tvg-logo="https://i.imgur.com/E9WTTwg.png" group-logo="https://i.imgur.com/IV8omb6.jpeg" group-title="Sports Channel 🏀",SPOTV
+#EXTINF:-208 tvg-logo="https://i.imgur.com/E9WTTwg.png" group-logo="https://i.imgur.com/IV8omb6.jpeg" group-title="Sports Channel",SPOTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001133/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-209 tvg-logo="https://i.imgur.com/ymGJTxi.png" group-logo="https://i.imgur.com/IV8omb6.jpeg" group-title="Sports Channel 🏀",SPOTV2
+#EXTINF:-209 tvg-logo="https://i.imgur.com/ymGJTxi.png" group-logo="https://i.imgur.com/IV8omb6.jpeg" group-title="Sports Channel",SPOTV2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001200/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-210 tvg-logo="https://i.imgur.com/oYg5iPW.png" group-logo="https://i.imgur.com/IV8omb6.jpeg" group-title="Sports Channel 🏀",EUROSPORT
+#EXTINF:-210 tvg-logo="https://i.imgur.com/oYg5iPW.png" group-logo="https://i.imgur.com/IV8omb6.jpeg" group-title="Sports Channel",EUROSPORT
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.113:6910/001/2/ch00000090990000001325/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-211 tvg-logo="https://i.imgur.com/LUm5esA.png" group-logo="https://i.imgur.com/IV8omb6.jpeg" group-title="Sports Channel 🏀",FIGHT Sports
+#EXTINF:-211 tvg-logo="https://i.imgur.com/LUm5esA.png" group-logo="https://i.imgur.com/IV8omb6.jpeg" group-title="Sports Channel",FIGHT Sports
 https://cdn08jtedge.indihometv.com/dassdvr/133/fightsport/manifest.mpd
 
-#EXTINF:-212 tvg-logo="https://i.imgur.com/aeRpXyj.png" group-logo="https://i.imgur.com/IV8omb6.jpeg" group-title="Sports Channel 🏀",TAP Sports
+#EXTINF:-212 tvg-logo="https://i.imgur.com/aeRpXyj.png" group-logo="https://i.imgur.com/IV8omb6.jpeg" group-title="Sports Channel",TAP Sports
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001151/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-214 tvg-logo="https://i.imgur.com/YaD0B4f.jpeg" group-logo="https://i.imgur.com/IV8omb6.jpeg" group-title="Sports Channel 🏀",PREMIER Sports 2
+#EXTINF:-214 tvg-logo="https://i.imgur.com/YaD0B4f.jpeg" group-logo="https://i.imgur.com/IV8omb6.jpeg" group-title="Sports Channel",PREMIER Sports 2
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=59454adb530b4e0784eae62735f9d850:61100d0b8c4dd13e4eb8b4851ba192cc
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_premiertennishd.mpd
 
-#EXTINF:-215 tvg-logo="https://i.imgur.com/Wn8LXoz.png" group-logo="https://i.imgur.com/IV8omb6.jpeg" group-title="Sports Channel 🏀",PREMIER FOOTBALL
+#EXTINF:-215 tvg-logo="https://i.imgur.com/Wn8LXoz.png" group-logo="https://i.imgur.com/IV8omb6.jpeg" group-title="Sports Channel",PREMIER FOOTBALL
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001127/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-216 tvg-logo="https://i.imgur.com/vIboXpf.png" group-logo="https://i.imgur.com/IV8omb6.jpeg" group-title="Sports Channel 🏀",MOTORVISION +
+#EXTINF:-216 tvg-logo="https://i.imgur.com/vIboXpf.png" group-logo="https://i.imgur.com/IV8omb6.jpeg" group-title="Sports Channel",MOTORVISION +
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001245/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-217 tvg-logo="https://i.imgur.com/OGXzvsp.png" group-logo="https://i.imgur.com/IV8omb6.jpeg" group-title="Sports Channel 🏀",NBA TV ASIA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/133/nba/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://imgur.com/a/TGsXrZy.png" group-title="Sports Channel 🏀",NBA LIVE
-https://nflarcadia.xyz/bRtT37sn3w/Sx5q6YTgCs/11.m3u8
-
-#EXTINF:-219 tvg-logo="https://i.imgur.com/1CL6aNQ.png" group-logo="https://i.imgur.com/IV8omb6.jpeg" group-title="Sports Channel 🏀",GOLF CHANNEL
+#EXTINF:-219 tvg-logo="https://i.imgur.com/1CL6aNQ.png" group-logo="https://i.imgur.com/IV8omb6.jpeg" group-title="Sports Channel",GOLF CHANNEL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=705bab5e645b6d7c95588b29520f8110:28639bcfb5cbee8ff9ca398fcf5bfcd0
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1003/default_ott.mpd
 
-#EXTINF:-225 tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png" group-logo="https://i.imgur.com/IV8omb6.jpeg" group-title="Sports Channel 🏀",REDBULL TV
+#EXTINF:-225 tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png" group-logo="https://i.imgur.com/IV8omb6.jpeg" group-title="Sports Channel",REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
 
-#EXTINF:-1  tvg-name="ONE Championship TV" tvg-id="668c5d3bfd9eb2000882bb50" tvg-logo="https://images.pluto.tv/channels/668c5d3bfd9eb2000882bb50/colorLogoPNG.png" tvg-chno="2875" group-title="Sports Channel 🏀",ONE Championship TV
+#EXTINF:-1  tvg-name="ONE Championship TV" tvg-id="668c5d3bfd9eb2000882bb50" tvg-logo="https://images.pluto.tv/channels/668c5d3bfd9eb2000882bb50/colorLogoPNG.png" tvg-chno="2875" group-title="Sports Channel",ONE Championship TV
 https://jmp2.uk/plu-668c5d3bfd9eb2000882bb50.m3u8
 
 #EXTM3U
