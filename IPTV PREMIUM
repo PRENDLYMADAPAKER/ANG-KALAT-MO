@@ -510,22 +510,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/lovenature/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001267/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-‎#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png" group-title="Documentary📹" tvg-id="National.Geographic.US.-.Eastern.us",National Geographic US - Eastern (SD)
-‎#EXTVLCOPT:http-origin=https://thetvapp.to
-‎#EXTVLCOPT:http-referrer=https://thetvapp.to/
-‎#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-‎https://v15.thetvapp.to/hls/NationalGeographicEast/tracks-v2a1/mono.m3u8
-‎#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66804_dark_360w_270h.png" group-title="Documentary📹" tvg-id="National.Geographic.Wild.us",National Geographic Wild 1
-‎#EXTVLCOPT:http-origin=https://thetvapp.to
-‎#EXTVLCOPT:http-referrer=https://thetvapp.to/
-‎#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-‎https://v12.thetvapp.to/hls/NationalGeographicWildEast/tracks-v1a1/mono.m3u8
-‎#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66804_dark_360w_270h.png" group-title="Documentary📹" tvg-id="National.Geographic.Wild.us",National Geographic Wild 2
-‎#EXTVLCOPT:http-origin=https://thetvapp.to
-‎#EXTVLCOPT:http-referrer=https://thetvapp.to/
-‎#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-‎https://v12.thetvapp.to/hls/NationalGeographicWildEast/tracks-v2a1/mono.m3u8
-
 #EXTINF:-120 tvg-logo="https://i.imgur.com/LplHeem.png" group-logo="https://i.imgur.com/tURRa1o.png" group-title="Documentary📹",TRAVEL CHANNEL
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -541,7 +525,7 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001181/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-132 tvg-logo="https://i.imgur.com/IJm0dZa.png" group-logo="https://i.imgur.com/IYE1KHX.jpeg" group-title="News 🎥",CNN
+#EXTINF:-132 tvg-logo="https://i.imgur.com/IJm0dZa.png" group-logo="https://i.imgur.com/IYE1KHX.jpeg" group-title="New 🎥",CNN
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001073/manifest.mpd?virtualDomain=001.live_hls.zte.com
