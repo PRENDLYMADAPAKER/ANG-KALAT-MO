@@ -697,12 +697,6 @@ http://143.44.136.110:6910/001/2/ch00000090990000001202/manifest.mpd?virtualDoma
 #EXTINF:-1  tvg-name="UFC" tvg-id="677d9adfa9a51b0008497fa0" tvg-logo="https://images.pluto.tv/channels/677d9adfa9a51b0008497fa0/colorLogoPNG.png" tvg-chno="2850" group-title="International 🌍",UFC
 https://jmp2.uk/plu-677d9adfa9a51b0008497fa0.m3u8
 
-#EXTINF:-1 tvg-id="WWE.Network.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/wwe-network.png" group-title="International 🌍",WWE Network
-#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
-#EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0zNzYvbW9uby5tM3U4.m3u8
-
 #EXTINF:-171 tvg-logo="https://i.imgur.com/CIPTNnT.png" group-logo="https://i.imgur.com/9C0pL2G.png" group-title="Music",MYX
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
@@ -787,6 +781,9 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_ott.mpd
 
 #EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/espn-usa.png" group-title="Sports Channel",ESPN USA
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00NC9tb25vLm0zdTg=.m3u8
+
+#EXTINF:-1  tvg-name="HBO Boxing" tvg-id="Amazon.US.HBOBoxing" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Freevee_HBOBoxing_1920x1080_new._SL170_FMpng_.png" group-title="Sports Channel",HBO Boxing
+https://ott.udptv.net/stream/iptv/hboboxing/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 
 #EXTINF:-203 tvg-logo="https://i.imgur.com/K3knyIN.png" group-logo="https://i.imgur.com/IV8omb6.jpeg" group-title="Sports Channel",SOLAR Sports
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
