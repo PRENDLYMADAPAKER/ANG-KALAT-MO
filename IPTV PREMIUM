@@ -303,6 +303,12 @@ https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/hits_hd1.mpd
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001065/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
+#EXTINF:-1  tvg-name="HBO2" tvg-id="HBO.2.-.Eastern.Feed.us" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/HBO2._SL170_FMpng_.png" group-title="Movie Channels",HBO2
+https://ott.udptv.net/stream/iptv/hbo2/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
+
+#EXTINF:-1  tvg-name="HBO Comedy" tvg-id="HBO.Comedy.HD.-.East.us" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/HBO_Comedy._SL170_FMpng_.png" group-title="Movie Channels",HBO Comedy
+https://ott.udptv.net/stream/iptv/hbocomedy/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
+
 #EXTINF:-1  tvg-name="FX" tvg-id="sling/fxx" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fx-us.png?raw=true" group-title="Movie Channels",FX
 https://ott.udptv.org/stream/udptvus/fx/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 
@@ -332,6 +338,9 @@ https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=872910c843294319800d85f9a0940607:f79fd895b79c590708cf5e8b5c6263be
 https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbofam.mpd
+
+#EXTINF:-1  tvg-name="HBO Zone" tvg-id="HBO.Zone.HD.-.East.us" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/HBO_Zone_East._SL170_FMpng_.png" group-title="Movie Channels",HBO Zone
+https://ott.udptv.net/stream/iptv/hbozone/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 
 #EXTINF:-1  tvg-name="Korean Blockbusters" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/korean_blockbusters._SL170_FMpng_.png" group-title="Movie Channels",Korean Blockbusters
 http://ott.udptv.net/stream/iptv/koreanblockbusters/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
