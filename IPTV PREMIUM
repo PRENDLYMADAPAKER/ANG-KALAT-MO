@@ -278,18 +278,6 @@ http://143.44.136.113:6910/001/2/ch00000090990000001158/manifest.mpd?virtualDoma
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001108/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1  tvg-name="CRAVE 1" tvg-id="Crave1.-.East.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/crave-1-ca.png?raw=true" group-title="Movie Channels",CRAVE 1
-https://ott.udptv.com/stream/udptv/crave1/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1  tvg-name="CRAVE 2" tvg-id="Crave2.-.East.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/crave-2-ca.png?raw=true" group-title="Movie Channels",CRAVE 2
-https://ott.udptv.com/stream/udptv/crave2/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1  tvg-name="CRAVE 3" tvg-id="Crave3.-.East.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/crave-3-ca.png?raw=true" group-title="Movie Channels",CRAVE 3
-https://ott.udptv.com/stream/udptv/crave3/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1  tvg-name="CRAVE 4" tvg-id="Crave4.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/crave-4-ca.png?raw=true" group-title="Movie Channels",CRAVE 4
-https://ott.udptv.com/stream/udptv/crave4/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
 #EXTINF:-1  tvg-name="FX" tvg-id="sling/fxx" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fx-us.png?raw=true" group-title="Movie Channels",FX
 https://ott.udptv.org/stream/udptvus/fx/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 
