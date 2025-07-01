@@ -341,6 +341,9 @@ https://ott.udptv.org/stream/udptvus/paramountwithshowtimewest/master.m3u8?u=dis
 #EXTINF:-1  tvg-name="ScreamFlix" tvg-id="Scream.TV.distro" tvg-logo="https://static.wikia.nocookie.net/russel/images/f/fb/Scream_Flix_Logo_2022.png/revision/latest/scale-to-width-down/1200?cb=20220822212239" group-title="Movie Channels",ScreamFlix
 http://ott.udptv.net/stream/iptv/screamflix/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 
+#EXTINF:-1  tvg-name="Syfy" tvg-id="Syfy.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-us.png?raw=true" group-title="Movie Channels",Syfy
+https://ott.udptv.org/stream/udptvus/syfy/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
+
 #EXTINF:-63 tvg-logo="https://i.imgur.com/w64PvvF.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Movie Channels",TAP ACTION FLIX
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -472,6 +475,9 @@ http://supersonictv.live:8080/611366/682256/21809
 
 #EXTINF:-101 tvg-logo="https://i.imgur.com/xhmWQXs.png" group-logo="https://i.imgur.com/NbRG0IW.jpeg" group-title="Anime/Cartoons",PBS KIDS
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+
+#EXTINF:-1  tvg-name="Teen Nick" tvg-id="TeenNick.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/teen-nick-us.png?raw=true" group-title="Anime/Cartoons",Teen Nick
+https://ott.udptv.org/stream/udptvus/teennick/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 
 #EXTINF:-105 tvg-logo="https://i.imgur.com/daHHNzj.png" group-logo="https://i.imgur.com/NbRG0IW.jpeg" group-title="Anime/Cartoons",ZOOMOO
 https://zoomoo-samsungau.amagi.tv/playlist720p.m3u8
