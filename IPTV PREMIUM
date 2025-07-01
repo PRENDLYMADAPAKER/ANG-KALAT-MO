@@ -650,6 +650,9 @@ https://ott.udptv.net/stream/iptv/onetvasia/master.m3u8?u=discord.gg/civ3&p=fb3f
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001202/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
+#EXTINF:-1  tvg-name="TNT" tvg-id="TNT.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" group-title="Entertainment/Documentary" radio="false",TNT
+http://fl1.moveonjoy.com/TNT/index.m3u8
+
 #EXTINF:-120 tvg-logo="https://i.imgur.com/LplHeem.png" group-logo="https://i.imgur.com/tURRa1o.png" group-title="Entertainment/Documentary",TRAVEL CHANNEL
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
