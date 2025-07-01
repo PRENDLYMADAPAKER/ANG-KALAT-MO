@@ -187,7 +187,7 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_sari_sari_sd.mpd
 #EXTINF:-37 tvg-logo="https://i.imgur.com/7f0CxjO.png" group-logo="https://i.imgur.com/083Ud3K.jpeg" group-title="Local Channels 🇵🇭",SOLARFLIX
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://143.44.136.111:6910/001/2/ch00000090990000001243/manifest.mpd?virtualDomain=001.live_hls.zte.com
+http://143.44.136.110:6910/001/2/ch00000090990000001243/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-38 tvg-logo="https://i.imgur.com/OBUDDAp.jpeg" group-logo="https://i.imgur.com/083Ud3K.jpeg" group-title="Local Channels 🇵🇭",SUPER RADYO DZBB
 https://stream.gmaNews.tv/ioslive/livestream/playlist.m3u8
