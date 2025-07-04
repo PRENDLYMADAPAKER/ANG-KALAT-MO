@@ -262,13 +262,13 @@ http://143.44.136.113:6910/001/2/ch00000090990000001158/manifest.mpd?virtualDoma
 http://143.44.136.110:6910/001/2/ch00000090990000001108/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-1  tvg-name="FX" tvg-id="sling/fxx" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fx-us.png?raw=true" group-title="Movie Channels",FX
-https://ott.udptv.org/stream/udptvus/fx/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
+https://tvpass.org/live/FXEast/hd
 
 #EXTINF:-1  tvg-name="FXM" tvg-id="FXM.REGIONAL.OTT.(FX.Movies.DTH).pe" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fxm-movie-channel-us.png?raw=true" group-title="Movie Channels",FXM
-https://ott.udptv.org/stream/udptvus/fxm/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
+https://tvpass.org/live/FXMovieChannel/hd
 
 #EXTINF:-1  tvg-name="FXX" tvg-id="FXX.USA.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fxx-us.png?raw=true" group-title="Movie Channels",FXX
-https://ott.udptv.org/stream/udptvus/fxx/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
+https://tvpass.org/live/FXXEast/hd
 
 #EXTINF:-49 tvg-logo="https://i.imgur.com/YeqyD9W.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Movie Channels",HITS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
