@@ -458,10 +458,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default_ott.mpd
 http://143.44.136.110:6910/001/2/ch00000090990000001215/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Nicktoons.png" group-title="Anime/Cartoons" tvg-id="Nicktoons.-.East.us",Nicktoons
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://supersonictv.live:8080/611366/682256/21809
+http://watchtv.best:80/play/live.php?mac=00:1A:79:C0:A7:BA&stream=45258&extension=ts&play_token=mPtqjnwdMd
 
 #EXTINF:-101 tvg-logo="https://i.imgur.com/xhmWQXs.png" group-logo="https://i.imgur.com/NbRG0IW.jpeg" group-title="Anime/Cartoons",PBS KIDS
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
@@ -487,10 +484,13 @@ http://143.44.136.110:6910/001/2/ch00000090990000001107/manifest.mpd?virtualDoma
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.113:6910/001/2/ch00000090990000001342/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-111 tvg-logo="https://i.imgur.com/ShaJIDw.png" group-logo="https://i.imgur.com/tURRa1o.png" group-title="Entertainment/Documentary",BBC EARTH
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTINF:-111 tvg-logo="https://i.imgur.com/ShaJIDw.png" group-logo="https://i.imgur.com/tURRa1o.png" group-title="Entertainment/Documentary",BBtle="Anime/Cartoons" tvg-id="Nicktoons.-.East.us",Nicktoons
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://supersonictv.live:8080/611366/682256/21809
+
+#EXTINF:-101 tvg-logo="https://i.imgur.com/xhmWQXs.png" grtstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=34ce95b60c424e169619816c5181aded:0e2a2117d705613542618f58bf26fc8e
 https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_bbcearth_hd1.mpd
 
