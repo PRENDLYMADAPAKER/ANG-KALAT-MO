@@ -431,16 +431,18 @@ http://143.44.136.110:6910/001/2/ch00000090990000001125/manifest.mpd?virtualDoma
 https://jmp2.uk/plu-65652f7fc0fc88000883537a.m3u8
 
 #EXTINF:-1  tvg-name="Disney Channel CA" tvg-id="Disney.Channel.Canada.-.East.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/300px-2014_Disney_Channel_logo.svg.png" group-title="Anime/Cartoons",Disney Channel CA
-http://ott.udptv.net/stream/iptv/disneychannel/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
+http://user.scalecdn.co:8080/26725074/92867131/3630
 
 #EXTINF:-1  tvg-name="Disney JR CA" tvg-id="Disney.Junior.Canada.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/disney-jr-us.png?raw=true" group-title="Anime/Cartoons",Disney JR CA
-http://ott.udptv.net/stream/iptv/disneyjr/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
+http://user.scalecdn.co:8080/26725074/92867131/3632
 
 #EXTINF:-1  tvg-name="Disney XD CA" tvg-id="Disney.XD.Canada.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/disney-xd-hd-ca.png?raw=true" group-title="Anime/Cartoons",Disney XD CA
-http://ott.udptv.net/stream/iptv/disneyxd/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
+http://user.scalecdn.co:8080/26725074/92867131/2586
 
-#EXTINF:-1  tvg-name="Dreamworks Tagalized" tvg-id="Dreamworks.Hd.ph" tvg-logo="https://i.imgur.com/cgfKSDP.png" group-title="Anime/Cartoons",Dreamworks Tagalized
-http://ott.udptv.net/stream/iptv/dreamworkstagalized/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
+#EXTINF:-1  tvg-name="Dreamworks Tagalized" tvg-id="Dreamworks.Hd.ph" tvg-logo="https://i.imgur.com/cgfKSDP.png" group-title="Anime/Cartoons",Dreamworks
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4ab9645a2a0a47edbd65e8479c2b9669:8cb209f1828431ce9b50b593d1f44079
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_dreamworks_hd1.mpd
 
 #EXTINF:-1  tvg-name="Kartoon Channel!" tvg-id="60fb040d4795a6000762fe8f" tvg-logo="https://images.pluto.tv/channels/60fb040d4795a6000762fe8f/colorLogoPNG.png" tvg-chno="3860" group-title="Anime/Cartoons",Kartoon Channel!
 https://jmp2.uk/plu-60fb040d4795a6000762fe8f.m3u8
