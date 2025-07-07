@@ -286,6 +286,9 @@ https://fl3.moveonjoy.com/FXX/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=dac605bc197e442c93f4f08595a95100:975e27ffc1b7949721ee3ccb4b7fd3e5
 https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/hits_hd1.mpd
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gGbiY5u.png" group-title="Movie Channels",Hi-Yah!
+https://linear-59.frequency.stream/dist/xumo/59/hls/master/playlist_1920x1080.m3u8
+
 #EXTINF:-52 tvg-logo="https://i.imgur.com/pa2SF5Z.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Movie Channels",HBO
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
@@ -341,6 +344,9 @@ https://fl3.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
 
 #EXTINF:-1  tvg-name="STARZ WEST" tvg-id="Starz.-.Pacific.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true" group-title="Movie Channels" radio="false",STARZ WEST
 https://fl3.moveonjoy.com/STARZ_WEST/index.m3u8
+
+#EXTINF:-1 group-title="Movie Channels" tvg-id="Start.TV.us" tvg-logo="https://i.imgur.com/3KeTfBa.jpeg" tvg-name="Start TV",Start TV
+http://fl3.moveonjoy.com/Start_Tv/index.m3u8
 
 #EXTINF:-1  tvg-name="Syfy" tvg-id="Syfy.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-us.png?raw=true" group-title="Movie Channels",Syfy
 https://fl3.moveonjoy.com/SYFY/index.m3u8
@@ -439,6 +445,11 @@ http://user.scalecdn.co:8080/26725074/92867131/2586
 #KODIPROP:inputstream.adaptive.license_key=4ab9645a2a0a47edbd65e8479c2b9669:8cb209f1828431ce9b50b593d1f44079
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_dreamworks_hd1.mpd
 
+#EXTINF:-1 tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/40E328E7-FE69-4287-86EA-FA942A7EA302/0-16x9.jpg?width=203" group-title="Anime/Cartoons", DreamWorks Tagalized
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=564b3b1c781043c19242c66e348699c5:d3ad27d7fe1f14fb1a2cd5688549fbab
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_dreamworktag.mpd
+
 #EXTINF:-1  tvg-name="Kartoon Channel!" tvg-id="60fb040d4795a6000762fe8f" tvg-logo="https://images.pluto.tv/channels/60fb040d4795a6000762fe8f/colorLogoPNG.png" tvg-chno="3860" group-title="Anime/Cartoons",Kartoon Channel!
 https://jmp2.uk/plu-60fb040d4795a6000762fe8f.m3u8
 
@@ -472,6 +483,9 @@ https://jmp2.uk/sam-CABC2300012FY.m3u8
 
 #EXTINF:-1  tvg-name="Teen Nick" tvg-id="TeenNick.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/teen-nick-us.png?raw=true" group-title="Anime/Cartoons",Teen Nick
 http://fortv.cc:8080/38871863/38871863/140004
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PEwof7I.jpeg" group-title="Anime/Cartoons",TOM AND JERRY 24/7
+http://fortv.cc:8080/38871863/38871863/125635
 
 #EXTINF:-105 tvg-logo="https://i.imgur.com/daHHNzj.png" group-logo="https://i.imgur.com/NbRG0IW.jpeg" group-title="Anime/Cartoons",ZOOMOO
 https://zoomoo-samsungau.amagi.tv/playlist720p.m3u8
