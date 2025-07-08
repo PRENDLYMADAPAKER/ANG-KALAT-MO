@@ -50,16 +50,10 @@ http://143.44.136.113:6910/001/2/ch00000090990000001077/manifest.mpd?virtualDoma
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001314/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1  tvg-name="Cinema One Global" tvg-id="Cinema.One.ph" tvg-logo="https://i.imgur.com/hJ6MBiA.png" group-title="Local Channels 🇵🇭",Cinema One Global
-http://ott.udptv.net/stream/iptv/cinemaoneglobal/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
 #EXTINF:-9 tvg-logo="https://i.imgur.com/3Ckk8OH.jpeg" group-logo="https://i.imgur.com/083Ud3K.jpeg" group-title="Local Channels 🇵🇭",CINEMA ONE PH
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001283/manifest.mpd?virtualDomain=001.live_hls.zte.com
-
-#EXTINF:-1  tvg-name="Cinemo Global" tvg-id="CINEMO!.ph" tvg-logo="https://i.imgur.com/4xDiXMP.png" group-title="Local Channels 🇵🇭",Cinemo Global
-http://ott.udptv.net/stream/iptv/cinemoglobal/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 
 #EXTINF:-10 tvg-logo="https://i.imgur.com/Pf8CNau.png" group-logo="https://i.imgur.com/083Ud3K.jpeg" group-title="Local Channels 🇵🇭",CINEMO
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -278,18 +272,6 @@ http://143.44.136.113:6910/001/2/ch00000090990000001158/manifest.mpd?virtualDoma
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001108/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1  tvg-name="CRAVE 1" tvg-id="Crave1.-.East.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/crave-1-ca.png?raw=true" group-title="Movie Channels",CRAVE 1
-https://ott.udptv.com/stream/udptv/crave1/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1  tvg-name="CRAVE 2" tvg-id="Crave2.-.East.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/crave-2-ca.png?raw=true" group-title="Movie Channels",CRAVE 2
-https://ott.udptv.com/stream/udptv/crave2/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1  tvg-name="CRAVE 3" tvg-id="Crave3.-.East.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/crave-3-ca.png?raw=true" group-title="Movie Channels",CRAVE 3
-https://ott.udptv.com/stream/udptv/crave3/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1  tvg-name="CRAVE 4" tvg-id="Crave4.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/crave-4-ca.png?raw=true" group-title="Movie Channels",CRAVE 4
-https://ott.udptv.com/stream/udptv/crave4/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
 #EXTINF:-1  tvg-name="FX" tvg-id="sling/fxx" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fx-us.png?raw=true" group-title="Movie Channels",FX
 http://23.237.104.106:8080/USA_FX/index.m3u8
 
@@ -301,7 +283,7 @@ https://fl3.moveonjoy.com/FXX/index.m3u8
 
 #EXTINF:-49 tvg-logo="https://i.imgur.com/YeqyD9W.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Movie Channels",HITS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dac605bc197e442c93f4f08595a95100:975e27ffc1b7949721ee3ccb4b7fd3e5
+#KODIPROP:inputstream.adaptive.license_key=dac605bc197e442c93f4f08595a95100:975e27ffc1b7949721eeccb4b7fd3e5
 https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/hits_hd1.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gGbiY5u.png" group-title="Movie Channels",Hi-Yah!
@@ -342,14 +324,8 @@ https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbofam.mpd
 #EXTINF:-1  tvg-name="HBO Zone" tvg-id="HBO.Zone.HD.-.East.us" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/HBO_Zone_East._SL170_FMpng_.png" group-title="Movie Channels",HBO Zone
 http://fl1.moveonjoy.com/HBO_ZONE/index.m3u8
 
-#EXTINF:-1  tvg-name="Movies Now" tvg-id="MOVIES.NOW.HD.in" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/movies-now-hd-in.png" group-title="Movie Channels",Movies Now
-https://ott.udptv.net/stream/iptv/moviesnow/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
 #EXTINF:-1  tvg-name="MovieSphere by Lionsgate" tvg-id="645e7828e1979c00087b75b4" tvg-logo="https://images.pluto.tv/channels/645e7828e1979c00087b75b4/colorLogoPNG.png" tvg-chno="205" group-title="Movie Channels",MovieSphere by Lionsgate
 https://jmp2.uk/plu-645e7828e1979c00087b75b4.m3u8
-
-#EXTINF:-1  tvg-name="ScreamFlix" tvg-id="Scream.TV.distro" tvg-logo="https://static.wikia.nocookie.net/russel/images/f/fb/Scream_Flix_Logo_2022.png/revision/latest/scale-to-width-down/1200?cb=20220822212239" group-title="Movie Channels",ScreamFlix
-http://ott.udptv.net/stream/iptv/screamflix/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 
 #EXTINF:-1  tvg-name="Showtime" tvg-id="Paramount+.with.Showtime.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png?raw=true" group-title="Movie Channels" radio="false",Showtime
 https://fl3.moveonjoy.com/SHOWTIME/index.m3u8
@@ -370,13 +346,7 @@ https://fl3.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
 https://fl3.moveonjoy.com/STARZ_WEST/index.m3u8
 
 #EXTINF:-1 group-title="Movie Channels" tvg-id="Start.TV.us" tvg-logo="https://i.imgur.com/3KeTfBa.jpeg" tvg-name="Start TV",Start TV
-http://fl3.moveonjoy.com/Start_Tv/index.m3u8
-
-#EXTINF:-1  tvg-name="Syfy East" tvg-id="Syfy.-.Western.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/syfy-hz-us.png" group-title="Movie Channels",Syfy East
-https://ott.udptv.com/stream/nbc/syfyeast/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1  tvg-name="Syfy West" tvg-id="Syfy.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/syfy-hz-us.png" group-title="Movie Channels",Syfy West
-https://ott.udptv.com/stream/nbc/syfywest/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
+http://fl3.moveonjoy.com/Start_Tv/index.mu8
 
 #EXTINF:-63 tvg-logo="https://i.imgur.com/w64PvvF.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Movie Channels",TAP ACTION FLIX
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -458,26 +428,17 @@ http://143.44.136.110:6910/001/2/ch00000090990000001125/manifest.mpd?virtualDoma
 #EXTINF:-161" tvg-logo="https://i.imgur.com/ZG9pqFw.png" group-logo="https://i.imgur.com/rsPE0Fp.png" group-title="Anime/Cartoons",CRUNCHYROLL TV
 https://jmp2.uk/plu-65652f7fc0fc88000883537a.m3u8
 
-#EXTINF:-1  tvg-name="Disney Channel CA" tvg-id="Disney.Channel.Canada.-.East.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/300px-2014_Disney_Channel_logo.svg.png" group-title="Anime/Cartoons",Disney Channel CA
-http://ott.udptv.net/stream/iptv/disneychannel/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
 #EXTINF:-1  tvg-name="Disney Channel CA" tvg-id="Disney.Channel.Canada.-.East.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/300px-2014_Disney_Channel_logo.svg.png" group-title="Anime/Cartoons",Disney Channel
 https://fl5.moveonjoy.com/DISNEY/index.m3u8
 
-#EXTINF:-1  tvg-name="Disney JR CA" tvg-id="Disney.Junior.Canada.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/disney-jr-us.png?raw=true" group-title="Anime/Cartoons",Disney JR CA
-http://ott.udptv.net/stream/iptv/disneyjr/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
 #EXTINF:-1  tvg-name="Disney JR CA" tvg-id="Disney.Junior.Canada.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/disney-jr-us.png?raw=true" group-title="Anime/Cartoons",Disney JR
 http://user.scalecdn.co:8080/26725074/92867131/3632
-
-#EXTINF:-1  tvg-name="Disney XD CA" tvg-id="Disney.XD.Canada.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/disney-xd-hd-ca.png?raw=true" group-title="Anime/Cartoons",Disney XD CA
-http://ott.udptv.net/stream/iptv/disneyxd/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 
 #EXTINF:-1  tvg-name="Disney XD CA" tvg-id="Disney.XD.Canada.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/disney-xd-hd-ca.png?raw=true" group-title="Anime/Cartoons",Disney XD
 http://user.scalecdn.co:8080/26725074/92867131/2586
 
 #EXTINF:-1  tvg-name="Dreamworks Tagalized" tvg-id="Dreamworks.Hd.ph" tvg-logo="https://i.imgur.com/cgfKSDP.png" group-title="Anime/Cartoons",Dreamworks
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_tpe=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4ab9645a2a0a47edbd65e8479c2b9669:8cb209f1828431ce9b50b593d1f44079
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_dreamworks_hd1.mpd
 
