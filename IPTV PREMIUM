@@ -489,6 +489,9 @@ http://96.45.207.18:8881/channel/n3032cc1d/index.m3u8?q=1735600584362
 #EXTINF:-1  tvg-name="Disney XD CA" tvg-id="Disney.XD.Canada.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/disney-xd-hd-ca.png?raw=true" group-title="Anime/Cartoons",Disney XD
 https://fl3.moveonjoy.com/DISNEY_XD/index.m3u8
 
+#EXTINF:-1  tvg-id="Disney.XD.USA.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/disney-xd-us.png?raw=true" group-title="Anime/Cartoons" radio="false",Disney XD East
+http://user.scalecdn.co:8080/26725074/92867131/2586
+
 #EXTINF:-1  tvg-name="Dreamworks Tagalized" tvg-id="Dreamworks.Hd.ph" tvg-logo="https://i.imgur.com/cgfKSDP.png" group-title="Anime/Cartoons",Dreamworks
 #KODIPROP:inputstream.adaptive.license_tpe=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4ab9645a2a0a47edbd65e8479c2b9669:8cb209f1828431ce9b50b593d1f44079
