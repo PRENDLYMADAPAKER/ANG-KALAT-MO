@@ -477,14 +477,17 @@ https://jmp2.uk/plu-65652f7fc0fc88000883537a.m3u8
 #EXTINF:-1  tvg-name="Disney Channel CA" tvg-id="Disney.Channel.Canada.-.East.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/300px-2014_Disney_Channel_logo.svg.png" group-title="Anime/Cartoons",Disney Channel
 https://fl5.moveonjoy.com/DISNEY/index.m3u8
 
-#EXTINF:-1  tvg-id="Disney.-.Pacific.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/disney-channel-us.png?raw=true" group-title="Mystique USA" radio="false",Disney Channel CA
-http://user.scalecdn.co:8080/26725074/92867131/2590
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: DISNEY CHANNEL" tvg-logo="http://apkip.tv/logos/Canada/DisneyChannel.ca.png" group-title="Anime/Cartoons",Disney Channel CA
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=be9caaa813c5305e761c66ac63645901:3d40f2990ec5362ca5be3a3c9bb8f8b4
+https://a77aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/zuf794yutz/out/v1/ca3534bfe4f148298b36719204d108e0/cenc.mpd
 
 #EXTINF:-1  tvg-name="Disney JR CA" tvg-id="Disney.Junior.Canada.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/disney-jr-us.png?raw=true" group-title="Anime/Cartoons",Disney JR
 https://fl3.moveonjoy.com/DISNEY_JR/index.m3u8
 
-#EXTINF:-1  tvg-id="Disney.Junior.Canada.ca" tvg-logo="https://media.starlite.best/disney.junior.canada.ca.png" group-title="Anime/Cartoons" radio="false",Disney Jr. CA
-http://96.45.207.18:8881/channel/n3032cc1d/index.m3u8?q=1735600584362
+#EXTINF:-1  tvg-id="Kids.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/disney-jr-us.png?raw=true" group-title="Anime/Cartoons" radio="false",Disney Jr. West
+http://user.scalecdn.co:8080/26725074/92867131/2588
 
 #EXTINF:-1  tvg-name="Disney XD CA" tvg-id="Disney.XD.Canada.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/disney-xd-hd-ca.png?raw=true" group-title="Anime/Cartoons",Disney XD
 https://fl3.moveonjoy.com/DISNEY_XD/index.m3u8
