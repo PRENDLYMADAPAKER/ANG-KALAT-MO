@@ -5,8 +5,8 @@
 #KODIPROP:inputstream.adaptive.license_key=c5e51f41ceac48709d0bdcd9c13a4d88:20b91609967e472c27040716ef6a8b9a
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cgnl_nba.mpd
 
-#EXTINF:-1  tvg-name="NBA TV USA" tvg-id="NBA.TV.USA.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-us.png?raw=true" group-title="NBA CHANNEL🏀",NBA TV USA
-https://a1xs.vip/40000031
+#EXTINF:-1  tvg-name="NBA TV HD" tvg-id="nba-tv-usa" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" group-title="NBA CHANNEL🏀",NBA TV HD
+https://v3.thetvapp.to/hls/NBATV/tracks-v1a1/mono.m3u8?token=zAxivszZdJwBf1-sbDMq1Q&expires=1752323563&user_id=Tm1XaGhQYXVvRWtGbThMSmdqbExjRUs1MHdTTnRzeHJ0RmRDZURzbA==
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3myn4zH.png" group-logo="https://i.imgur.com/083Ud3K.jpeg" group-title="Local Channels 🇵🇭",A2Z
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -342,6 +342,9 @@ http://fl1.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
 
 #EXTINF:-1  tvg-name="MGM+ HITS" tvg-id="MGM+.Hits.HDTV.(East).(MGM+HTHD).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mgm-plus-hits-us.png?raw=true" group-title="Movie Channels" radio="false",MGM+ HITS
 http://fl1.moveonjoy.com/EPIX_HITS/index.m3u8
+
+#EXTINF:-1  tvg-name="MovieMAX HD" tvg-id="moviemax-max-6-east" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MovieMAX.png" group-title="Movie Channels",MovieMAX HD
+https://v15.thetvapp.to/hls/MovieMaxEast/tracks-v1a1/mono.m3u8?token=9JRpmysTkQGSejfrW-orlQ&expires=1752323516&user_id=Tm1XaGhQYXVvRWtGbThMSmdqbExjRUs1MHdTTnRzeHJ0RmRDZURzbA==
 
 #EXTINF:-1  tvg-name="MovieSphere by Lionsgate" tvg-id="645e7828e1979c00087b75b4" tvg-logo="https://images.pluto.tv/channels/645e7828e1979c00087b75b4/colorLogoPNG.png" tvg-chno="205" group-title="Movie Channels",MovieSphere by Lionsgate
 https://jmp2.uk/plu-645e7828e1979c00087b75b4.m3u8
