@@ -521,6 +521,12 @@ https://jmp2.uk/plu-60fb040d4795a6000762fe8f.m3u8
 #EXTINF:-1  tvg-name="LEGO Kids TV" tvg-id="60fb01a24795a6000762fe83" tvg-logo="https://images.pluto.tv/channels/60fb01a24795a6000762fe83/colorLogoPNG.png" tvg-chno="3830" group-title="Anime/Cartoons",LEGO Kids TV
 https://jmp2.uk/plu-60fb01a24795a6000762fe83.m3u8
 
+#EXTINF:-1  tvg-name="MeTV Toons SD" tvg-id="metv-toons-wjlp2-new-jersey" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/me-tv-toons-us.png?raw=true" group-title="Anime/Cartoons",MeTV Toons SD
+https://v1.thetvapp.to/hls/metv-toons/tracks-v2a1/mono.m3u8?token=itC26eGzMp-sIx-rFZP-aQ&expires=1752423934&user_id=eXVTTmphZEU4SURlVE10NXd4ZGtlSkRoRGc2ZkUwa0pHa0VoR24yQw==
+
+#EXTINF:-1  tvg-name="MeTV Toons HD" tvg-id="metv-toons-wjlp2-new-jersey" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/me-tv-toons-us.png?raw=true" group-title="Anime/Cartoons",MeTV Toons HD
+https://v4.thetvapp.to/hls/metv-toons/tracks-v1a1/mono.m3u8?token=8Iu_h3d9NOeLUHDrBcNj9w&expires=1752423939&user_id=eXVTTmphZEU4SURlVE10NXd4ZGtlSkRoRGc2ZkUwa0pHa0VoR24yQw==
+
 #EXTINF:-102 tvg-logo="https://i.imgur.com/cfQMx3J.png" group-logo="https://i.imgur.com/NbRG0IW.jpeg" group-title="Anime/Cartoons",MOONBUG
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0bf00921bec94a65a124fba1ef52b1cd:0f1488487cbe05e2badc3db53ae0f29f
