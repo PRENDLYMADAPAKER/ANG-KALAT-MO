@@ -343,6 +343,12 @@ http://fl1.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
 #EXTINF:-1  tvg-name="MGM+ HITS" tvg-id="MGM+.Hits.HDTV.(East).(MGM+HTHD).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mgm-plus-hits-us.png?raw=true" group-title="Movie Channels" radio="false",MGM+ HITS
 http://fl1.moveonjoy.com/EPIX_HITS/index.m3u8
 
+#EXTINF:-1  tvg-name="MovieMAX SD" tvg-id="moviemax-max-6-east" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MovieMAX.png" group-title="Movie Channels",MovieMAX SD
+https://v1.thetvapp.to/hls/MovieMaxEast/tracks-v2a1/mono.m3u8?token=XLqvqWpD-Z7bzgerISCvQg&expires=1752391864&user_id=eGRiaE11UUpudTZBYXo5NHdaOEw2RjNXaGJhOGN4Tjg0a1BxNTBRaw==
+
+#EXTINF:-1  tvg-name="MovieMAX HD" tvg-id="moviemax-max-6-east" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MovieMAX.png" group-title="Movie Channels",MovieMAX HD
+https://v5.thetvapp.to/hls/MovieMaxEast/tracks-v1a1/mono.m3u8?token=2IUGqgfGt2lr_zLTX0WZyA&expires=1752391869&user_id=eGRiaE11UUpudTZBYXo5NHdaOEw2RjNXaGJhOGN4Tjg0a1BxNTBRaw==
+
 #EXTINF:-1  tvg-name="MovieSphere by Lionsgate" tvg-id="645e7828e1979c00087b75b4" tvg-logo="https://images.pluto.tv/channels/645e7828e1979c00087b75b4/colorLogoPNG.png" tvg-chno="205" group-title="Movie Channels",MovieSphere by Lionsgate
 https://jmp2.uk/plu-645e7828e1979c00087b75b4.m3u8
 
