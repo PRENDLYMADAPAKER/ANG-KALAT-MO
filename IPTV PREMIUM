@@ -506,7 +506,7 @@ https://v3.thetvapp.to/hls/DisneyXDEast/tracks-v2a1/mono.m3u8?token=H5jQ24ldBlI_
 http://user.scalecdn.co:8080/26725074/92867131/2586
 
 #EXTINF:-1  tvg-name="Dreamworks Tagalized" tvg-id="Dreamworks.Hd.ph" tvg-logo="https://i.imgur.com/cgfKSDP.png" group-title="Anime/Cartoons",Dreamworks
-#KODIPROP:inputstream.adaptive.license_tpe=clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4ab9645a2a0a47edbd65e8479c2b9669:8cb209f1828431ce9b50b593d1f44079
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_dreamworks_hd1.mpd
 
