@@ -6,7 +6,7 @@
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cgnl_nba.mpd
 
 #EXTINF:-1  tvg-name="NBA TV HD" tvg-id="nba-tv-usa" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" group-title="NBA CHANNEL🏀",NBA TV HD
-https://v14.thetvapp.to/hls/NBATV/tracks-v1a1/mono.m3u8?token=afBQVHKKl1FJDC0JVqF4jg&expires=1752424022&user_id=eXVTTmphZEU4SURlVE10NXd4ZGtlSkRoRGc2ZkUwa0pHa0VoR24yQw==
+https://v12.thetvapp.to/hls/NBATV/tracks-v2a1/mono.m3u8?token=kq1B36tD_Txd8_c06zor3A&expires=1752460061&user_id=TVp1cmZSQnM1d2RYd3hVa0tMdDNqNmQ2NERDY2NGOXZtMW5mUXVpdQ==
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3myn4zH.png" group-logo="https://i.imgur.com/083Ud3K.jpeg" group-title="Local Channels 🇵🇭",A2Z
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -485,7 +485,7 @@ http://143.44.136.110:6910/001/2/ch00000090990000001125/manifest.mpd?virtualDoma
 https://jmp2.uk/plu-65652f7fc0fc88000883537a.m3u8
 
 #EXTINF:-1  tvg-name="Disney Channel CA" tvg-id="Disney.Channel.Canada.-.East.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/300px-2014_Disney_Channel_logo.svg.png" group-title="Anime/Cartoons",Disney Channel
-https://v8.thetvapp.to/hls/DisneyJuniorEast/tracks-v2a1/mono.m3u8?token=mZ_hDGFYYg8v4ubQkAZ0NQ&expires=1752459637&user_id=TVp1cmZSQnM1d2RYd3hVa0tMdDNqNmQ2NERDY2NGOXZtMW5mUXVpdQ==
+https://v4.thetvapp.to/hls/DisneyChannelEast/tracks-v2a1/mono.m3u8?token=33WZj2lr2S87A9-JbZKWTg&expires=1752459628&user_id=TVp1cmZSQnM1d2RYd3hVa0tMdDNqNmQ2NERDY2NGOXZtMW5mUXVpdQ==
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: DISNEY CHANNEL" tvg-logo="http://apkip.tv/logos/Canada/DisneyChannel.ca.png" group-title="Anime/Cartoons",Disney Channel CA
 #KODIPROP:inputstream.adaptive.manifest_type=dash
