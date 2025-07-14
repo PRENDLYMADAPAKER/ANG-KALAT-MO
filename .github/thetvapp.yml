@@ -1,0 +1,37 @@
+name: 🚀 Update TheTVApp Playlist 📺
+
+on:
+  schedule:
+    - cron: '0 */2 * * *'  # Every 2 hours on the hour (00:00, 02:00, ..., 22:00 UTC)
+  workflow_dispatch:        # Manual trigger
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v3
+
+      - name: 🐍 Set up Python 3.11
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: 📦 Install Python dependencies & Playwright browsers + system deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install playwright urllib3
+          playwright install firefox
+          playwright install-deps
+
+      - name: 🎯 Run scraping script
+        run: python tv.py
+
+      - name: 💾 Commit & force-push playlist if changed (excluding workflow files)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add TheTVApp.m3u8
+          git reset -- .github/workflows/ || true    # Unstage workflow files if staged
+          git diff --cached --quiet || (git commit -m "Update playlist $(date -u)" && git push --force origin main)
