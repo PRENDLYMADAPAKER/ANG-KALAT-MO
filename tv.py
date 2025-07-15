@@ -3,7 +3,7 @@ import urllib.parse
 from pathlib import Path
 from playwright.async_api import async_playwright
 
-M3U8_FILE = "TheTVApp.m3u8"
+M3U8_FILE = "TheTVApp.m3u"
 BASE_URL = "https://thetvapp.to"
 CHANNEL_LIST_URL = f"{BASE_URL}/tv"
 
