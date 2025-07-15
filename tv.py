@@ -1,6 +1,7 @@
 import asyncio
 import urllib.parse
 from pathlib import Path
+from datetime import datetime
 from playwright.async_api import async_playwright
 
 M3U8_FILE = "TheTVApp.m3u8"
@@ -37,7 +38,7 @@ async def scrape_tv_urls():
         context = await browser.new_context()
         page = await context.new_page()
 
-        print(f"🔄 Loading /tv channel list...")
+        print("🔄 Loading /tv channel list...")
         await page.goto(CHANNEL_LIST_URL)
         links = await page.locator("ol.list-group a").all()
         hrefs = [await link.get_attribute("href") for link in links if await link.get_attribute("href")]
@@ -58,10 +59,12 @@ async def scrape_tv_urls():
 
                 new_page.on("response", handle_response)
                 await new_page.goto(full_url)
+
                 try:
                     await new_page.get_by_text(f"Load {quality} Stream", exact=True).click(timeout=5000)
                 except:
                     pass
+
                 await asyncio.sleep(4)
                 await new_page.close()
 
@@ -200,40 +203,46 @@ def clean_m3u_header_with_epg(lines):
     return lines
 
 async def main():
+    print("🚀 Starting playlist scraper...")
+
     if not Path(M3U8_FILE).exists():
         print(f"❌ File not found: {M3U8_FILE}")
         return
 
+    print(f"[📥] Reading {M3U8_FILE}...")
     with open(M3U8_FILE, "r", encoding="utf-8") as f:
         lines = f.read().splitlines()
 
     lines = clean_m3u_header_with_epg(lines)
 
-    print("🔧 Replacing only /tv stream URLs...")
+    print("[🔧] Replacing /tv stream URLs...")
     tv_new_urls = await scrape_tv_urls()
     if not tv_new_urls:
-        print("❌ No TV URLs scraped.")
+        print("❌ No /tv URLs found — skipping update.")
         return
 
     updated_lines = replace_urls_in_tv_section(lines, tv_new_urls)
 
-    print("\n📦 Scraping all other sections (NBA, NFL, Events, etc)...")
+    print("\n📦 Scraping extra sections (NBA, NFL, PPV, etc.)...")
     append_new_urls = await scrape_all_append_sections()
 
     if append_new_urls:
-        # 🧹 Remove old section entries before appending new ones
+        print("[🧹] Removing old section entries...")
         section_groups = list(SECTIONS_TO_APPEND.values())
         updated_lines = remove_old_section_entries(updated_lines, section_groups)
 
-        # ➕ Append new streams
+        print("[➕] Appending new streams...")
         updated_lines = append_new_streams(updated_lines, append_new_urls)
 
     updated_lines = clean_m3u_header_with_epg(updated_lines)
 
+    print(f"[💾] Writing updated playlist to {M3U8_FILE}...")
     with open(M3U8_FILE, "w", encoding="utf-8") as f:
         f.write("\n".join(updated_lines))
+        f.write(f"\n# Updated at {datetime.utcnow().isoformat()}Z\n")
 
-    print(f"\n✅ {M3U8_FILE} updated: Cleaned old sections, added new streams, header set.")
+    print(f"[✅] Done! {M3U8_FILE} is ready with timestamp and updated streams.")
 
 if __name__ == "__main__":
     asyncio.run(main())
+            
