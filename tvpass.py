@@ -1,4 +1,6 @@
 import requests
+import re
+from datetime import datetime, timedelta
 
 UPSTREAM_URL = "http://tvpass.org/playlist/m3u"
 LOCAL_FILE = "TVPass.m3u"
@@ -18,6 +20,39 @@ LOCKED_GROUPS = {
     }
 }
 
+# Try to find a date in the title, e.g., July 14, 2025 or 07/14 or 2025-07-14
+def extract_event_date(title):
+    patterns = [
+        r"(\d{4}-\d{2}-\d{2})",       # 2025-07-14
+        r"(\d{1,2}/\d{1,2})",         # 7/14 or 07/14
+        r"([A-Za-z]+ \d{1,2})",       # July 14
+    ]
+    for pattern in patterns:
+        match = re.search(pattern, title)
+        if match:
+            try:
+                text = match.group(1)
+                # Try parsing in various formats
+                for fmt in ("%Y-%m-%d", "%m/%d", "%B %d", "%b %d"):
+                    try:
+                        parsed = datetime.strptime(text, fmt)
+                        # If no year, assume current year
+                        if "%Y" not in fmt:
+                            parsed = parsed.replace(year=datetime.now().year)
+                        return parsed.date()
+                    except ValueError:
+                        continue
+            except Exception:
+                continue
+    return None
+
+def is_event_outdated(title):
+    event_date = extract_event_date(title)
+    if event_date:
+        today = datetime.now().date()
+        return event_date < today
+    return False  # Keep if no date found
+
 def fetch_upstream_pairs():
     res = requests.get(UPSTREAM_URL, timeout=15)
     res.raise_for_status()
@@ -30,7 +65,9 @@ def fetch_upstream_pairs():
             i += 1
             if i < len(lines):
                 url = lines[i].strip()
-                pairs.append((meta, url))
+                title = extract_title(meta)
+                if not is_event_outdated(title):
+                    pairs.append((meta, url))
         i += 1
     return pairs
 
@@ -47,7 +84,9 @@ def parse_local_playlist():
             i += 1
             if i < len(lines):
                 url = lines[i].strip()
-                pairs.append((meta, url))
+                title = extract_title(meta)
+                if not is_event_outdated(title):
+                    pairs.append((meta, url))
         i += 1
     return header, pairs
 
