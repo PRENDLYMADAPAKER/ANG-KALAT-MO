@@ -32,6 +32,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add TheTVApp.m3u8
+          git add TheTVApp.m3u
           git reset -- .github/workflows/ || true    # Unstage workflow files if staged
           git diff --cached --quiet || (git commit -m "Update playlist $(date -u)" && git push --force origin main)
