@@ -9,6 +9,12 @@ jobs:
   scrape:
     runs-on: ubuntu-latest
 
+    env:
+      GIT_AUTHOR_NAME: github-actions[bot]
+      GIT_AUTHOR_EMAIL: github-actions[bot]@users.noreply.github.com
+      GIT_COMMITTER_NAME: github-actions[bot]
+      GIT_COMMITTER_EMAIL: github-actions[bot]@users.noreply.github.com
+
     steps:
       - name: 📥 Checkout repository
         uses: actions/checkout@v3
@@ -28,10 +34,14 @@ jobs:
       - name: 🎯 Run scraping script
         run: python tv.py
 
-      - name: 💾 Commit & force-push playlist if changed (excluding workflow files)
+      - name: 💾 Inject timestamp into playlist (forces GitHub to detect changes)
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          echo "# Updated at $(date -u '+%Y-%m-%dT%H:%M:%SZ')" >> TheTVApp.m3u8
+
+      - name: 🚀 Commit & push if changed (excluding workflow files)
+        run: |
           git add TheTVApp.m3u8
-          git reset -- .github/workflows/ || true    # Unstage workflow files if staged
-          git diff --cached --quiet || (git commit -m "Update playlist $(date -u)" && git push --force origin main)
+          git reset -- .github/workflows/ || true  # Don't commit workflow changes
+          git diff --cached --quiet || \
+            git commit --allow-empty -m "Update playlist $(date -u)" --no-edit
+          git push --force origin main
