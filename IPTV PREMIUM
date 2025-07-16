@@ -355,7 +355,7 @@ http://fl1.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
 http://fl1.moveonjoy.com/EPIX_HITS/index.m3u8
 
 #EXTINF:-1  tvg-name="MovieMAX SD" tvg-id="moviemax-max-6-east" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MovieMAX.png" group-title="Movie Channels",MovieMAX
-https://v13.thetvapp.to/hls/MoreMaxEast/tracks-v2a1/mono.m3u8?token=g4Unl88RUxWEABhdmImGkw&expires=1752651444&user_id=Tm5DbUV2emg4WUhMR1pFbENsRGhBS0dZNkVRdVRlMnp3bEVpZU9hSw==
+https://v18.thetvapp.to/hls/MovieMaxEast/tracks-v2a1/mono.m3u8?token=xCcOmZUNvuHj9DLLPYDENA&expires=1752658621&user_id=WldIV05KU21KNFZXaWs2SFRhdmpMNk9VMVF0VlhNdkpaYzM4YkQ2dg==
 
 #EXTINF:-1  tvg-name="MovieSphere by Lionsgate" tvg-id="645e7828e1979c00087b75b4" tvg-logo="https://images.pluto.tv/channels/645e7828e1979c00087b75b4/colorLogoPNG.png" tvg-chno="205" group-title="Movie Channels",MovieSphere by Lionsgate
 https://jmp2.uk/plu-645e7828e1979c00087b75b4.m3u8
@@ -530,7 +530,7 @@ https://ott.udptv.org/stream/udptvus/disneyxd/master.m3u8?u=discord.gg/civ4&p=b4
 https://jmp2.uk/plu-60fb040d4795a6000762fe8f.m3u8
 
 #EXTINF:-1  tvg-name="MeTV Toons SD" tvg-id="metv-toons-wjlp2-new-jersey" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/me-tv-toons-us.png?raw=true" group-title="Anime/Cartoons",MeTV Toons
-https://v16.thetvapp.to/hls/metv-toons/tracks-v2a1/mono.m3u8?token=bCZLxDxvHl5HmarIrFHyZw&expires=1752651426&user_id=Tm5DbUV2emg4WUhMR1pFbENsRGhBS0dZNkVRdVRlMnp3bEVpZU9hSw==
+https://v2.thetvapp.to/hls/metv-toons/tracks-v2a1/mono.m3u8?token=Uzy2j26UFVvIhuO0fGpzYA&expires=1752658584&user_id=WldIV05KU21KNFZXaWs2SFRhdmpMNk9VMVF0VlhNdkpaYzM4YkQ2dg==
 
 #EXTINF:-102 tvg-logo="https://i.imgur.com/cfQMx3J.png" group-logo="https://i.imgur.com/NbRG0IW.jpeg" group-title="Anime/Cartoons",MOONBUG
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -697,11 +697,20 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/lovenature/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001267/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1  tvg-name="Nat Geo Wild" tvg-id="National.Geographic.Wild.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/nat-geo-wild-pl.png" group-title="Entertainment/Documentary",Nat Geo Wild 
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium745%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
+#EXTINF:-1  tvg-name="Nat Geo Wild" tvg-id="National.Geographic.Wild.lt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/nat-geo-wild-pl.png" group-title="Entertainment/Documentary",Nat Geo Wild
+https://ott.udptv.com/stream/udptv/natgeowild/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd
+
+#EXTINF:-1  tvg-name="Nat Geo Wild US" tvg-id="sling/natgeowild" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/nat-geo-wild-pl.png" group-title="Entertainment/Documentary",Nat Geo Wild US
+https://ott.udptv.org/stream/udptvus/natgeowild/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd
 
 #EXTINF:-1  tvg-name="National Geographic Channel" tvg-id="National.Geographic.lt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Entertainment/Documentary",National Geographic Channel
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium328%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
+https://ott.udptv.com/stream/udptv/nationalgeographicchannel/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd
+
+#EXTINF:-1  tvg-name="National Geographic Channel CA" tvg-id="Amazon.US.NationalGeographic" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/national-geographic-us.png" group-title="Entertainment/Documentary",National Geographic Channel CA
+https://ott.udptv.com/stream/udptv/nationalgeographicca/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd
+
+#EXTINF:-1  tvg-name="National Geographic Channel US" tvg-id="National.Geographic.US.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/national-geographic-us.png" group-title="Entertainment/Documentary",National Geographic Channel US
+https://ott.udptv.org/stream/udptvus/nationalgeographic/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd
 
 #EXTINF:-158 tvg-logo="https://i.imgur.com/ar3ixog.png" group-logo="https://i.imgur.com/rsPE0Fp.png" group-title="Entertainment/Documentary",NHK BS
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
