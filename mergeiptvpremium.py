@@ -10,7 +10,7 @@ playlist_urls = [
 
 UDPTV_URL = "https://raw.githubusercontent.com/PRENDLYMADAPAKER/ANG-KALAT-MO/refs/heads/main/UDPTV.m3u"
 EPG_URL = "https://tinyurl.com/DrewLive002-epg"
-OUTPUT_FILE = "IPTV PREMIUM.m3u"
+OUTPUT_FILE = "IPTVPREMIUM.m3u"
 REMOVED_FILE = "Removed_NSFW.m3u8"
 
 def fetch_playlist(url):
