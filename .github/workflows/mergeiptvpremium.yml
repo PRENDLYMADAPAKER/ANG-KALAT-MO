@@ -1,4 +1,4 @@
-name: 🔄 Auto Update Merged Clean IPTV Playlist
+name: 🔄 Auto Update Merged IPTV Premium Playlist
 
 on:
   push:
@@ -47,7 +47,7 @@ jobs:
 
       - name: 📂 Stage & commit updated playlist
         run: |
-          git add IPTV PREMIUM
+          git add IPTV PREMIUM.m3u
           git diff --cached --quiet || git commit -m "📝 Auto-update merged clean IPTV playlist"
 
       - name: 🚀 Push changes to main branch
