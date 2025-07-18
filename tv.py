@@ -9,7 +9,6 @@ CHANNEL_LIST_URL = f"{BASE_URL}/tv"
 
 SECTIONS_TO_APPEND = {
     "/nba": "NBA",
-    "/mlb": "MLB",
     "/wnba": "WNBA",
     "/nfl": "NFL",
     "/ncaaf": "NCAAF",
