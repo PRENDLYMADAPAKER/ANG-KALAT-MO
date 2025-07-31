@@ -1,16 +1,16 @@
-name: 🔄 Auto Update Merged IPTV Premium Playlist
+name: 🔄 Auto Update NZM PREMIUM IPTV Playlist
 
 on:
   push:
     branches:
       - main
     paths:
-      - 'mergenzmiptvpremium.py'                  # 🛠 Trigger on script changes
-      - '.github/workflows/mergenzmiptvpremium.yml'  # 📝 Or workflow changes
+      - 'mergenzmiptvpremium.py'
+      - '.github/workflows/mergenzmiptvpremium.yml'
   schedule:
-    - cron: '0 * * * *'      # 🕛 Every hour at minute 0
-    - cron: '*/10 * * * *'   # ⏱ Every 10 minutes
-  workflow_dispatch:          # 🔘 Manual trigger
+    - cron: '0 * * * *'
+    - cron: '*/10 * * * *'
+  workflow_dispatch:
 
 jobs:
   update-playlist:
@@ -20,7 +20,8 @@ jobs:
       - name: 📥 Checkout repository
         uses: actions/checkout@v3
         with:
-          fetch-depth: 0  # 🧠 Full git history for safety
+          fetch-depth: 0
+          persist-credentials: true
 
       - name: 🐍 Set up Python environment
         uses: actions/setup-python@v4
@@ -40,15 +41,18 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git remote set-url origin https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git
-          git pull origin main --rebase
+          git pull --rebase --autostash origin main
 
-      - name: ▶️ Run mergeiptvpremium.py script
-        run: python mergeiptvpremium.py
+      - name: ▶️ Run mergeclean.py script
+        run: python mergenzmiptvpremium.py
 
       - name: 📂 Stage & commit updated playlist
         run: |
-          git add NZMIPTVPREMIUM.m3u
-          git diff --cached --quiet || git commit -m "📝 Auto-update merged clean IPTV playlist"
+          git add MergedCleanPlaylist.m3u8
+          git diff --cached --quiet || git commit -m "📝 Auto-update NZMIPTVPREMIUM.m3u IPTV playlist at $(date -u)"
+
+      - name: ⏳ Random delay before push to reduce collisions
+        run: sleep $((RANDOM % 10 + 5))
 
       - name: 🚀 Push changes to main branch
         env:
