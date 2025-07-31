@@ -1,0 +1,56 @@
+name: 🔄 Auto Update Merged IPTV Premium Playlist
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'mergenzmiptvpremium.py'                  # 🛠 Trigger on script changes
+      - '.github/workflows/mergenzmiptvpremium.yml'  # 📝 Or workflow changes
+  schedule:
+    - cron: '0 * * * *'      # 🕛 Every hour at minute 0
+    - cron: '*/10 * * * *'   # ⏱ Every 10 minutes
+  workflow_dispatch:          # 🔘 Manual trigger
+
+jobs:
+  update-playlist:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0  # 🧠 Full git history for safety
+
+      - name: 🐍 Set up Python environment
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: 📦 Install dependencies
+        run: pip install requests
+
+      - name: 🧠 Set Git identity
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: 🔃 Pull latest changes from main branch
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git remote set-url origin https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git
+          git pull origin main --rebase
+
+      - name: ▶️ Run mergeiptvpremium.py script
+        run: python mergeiptvpremium.py
+
+      - name: 📂 Stage & commit updated playlist
+        run: |
+          git add NZMIPTVPREMIUM.m3u
+          git diff --cached --quiet || git commit -m "📝 Auto-update merged clean IPTV playlist"
+
+      - name: 🚀 Push changes to main branch
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: git push origin main
