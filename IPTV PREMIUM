@@ -354,9 +354,6 @@ http://fl1.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
 #EXTINF:-1  tvg-name="MGM+ HITS" tvg-id="MGM+.Hits.HDTV.(East).(MGM+HTHD).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mgm-plus-hits-us.png?raw=true" group-title="Movie Channels" radio="false",MGM+ HITS
 http://fl1.moveonjoy.com/EPIX_HITS/index.m3u8
 
-#EXTINF:-1  tvg-name="MovieMAX SD" tvg-id="moviemax-max-6-east" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MovieMAX.png" group-title="Movie Channels",MovieMAX
-https://v3.thetvapp.to/hls/MovieMaxEast/tracks-v2a1/mono.m3u8?token=QxBMsnxYorBhONu74DL1GQ&expires=1752849435&user_id=MWxHNnhuVU9kQjRzYlZ3cmNmRXhTM0QzUmREVEtyY2RGTWw5aFBjQQ==
-
 #EXTINF:-1  tvg-name="MovieSphere by Lionsgate" tvg-id="645e7828e1979c00087b75b4" tvg-logo="https://images.pluto.tv/channels/645e7828e1979c00087b75b4/colorLogoPNG.png" tvg-chno="205" group-title="Movie Channels",MovieSphere by Lionsgate
 https://jmp2.uk/plu-645e7828e1979c00087b75b4.m3u8
 
@@ -496,8 +493,6 @@ http://143.44.136.110:6910/001/2/ch00000090990000001125/manifest.mpd?virtualDoma
 #EXTINF:-161" tvg-logo="https://i.imgur.com/ZG9pqFw.png" group-logo="https://i.imgur.com/rsPE0Fp.png" group-title="Anime/Cartoons",CRUNCHYROLL TV
 https://jmp2.uk/plu-65652f7fc0fc88000883537a.m3u8
 
-
-
 #EXTINF:-1  tvg-name="Dreamworks Tagalized" tvg-id="Dreamworks.Hd.ph" tvg-logo="https://i.imgur.com/cgfKSDP.png" group-title="Anime/Cartoons",Dreamworks
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4ab9645a2a0a47edbd65e8479c2b9669:8cb209f1828431ce9b50b593d1f44079
@@ -528,9 +523,6 @@ https://ott.udptv.org/stream/udptvus/disneyxd/master.m3u8?u=discord.gg/civ4&p=b4
 
 #EXTINF:-1  tvg-name="Kartoon Channel!" tvg-id="60fb040d4795a6000762fe8f" tvg-logo="https://images.pluto.tv/channels/60fb040d4795a6000762fe8f/colorLogoPNG.png" tvg-chno="3860" group-title="Anime/Cartoons",Kartoon Channel!
 https://jmp2.uk/plu-60fb040d4795a6000762fe8f.m3u8
-
-#EXTINF:-1  tvg-name="MeTV Toons SD" tvg-id="metv-toons-wjlp2-new-jersey" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/me-tv-toons-us.png?raw=true" group-title="Anime/Cartoons",MeTV Toons
-https://v18.thetvapp.to/hls/metv-toons/tracks-v2a1/mono.m3u8?token=9oye-fAh-ENg0bod_0npaQ&expires=1752849398&user_id=MWxHNnhuVU9kQjRzYlZ3cmNmRXhTM0QzUmREVEtyY2RGTWw5aFBjQQ==
 
 #EXTINF:-102 tvg-logo="https://i.imgur.com/cfQMx3J.png" group-logo="https://i.imgur.com/NbRG0IW.jpeg" group-title="Anime/Cartoons",MOONBUG
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1043,16 +1035,3 @@ https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/pl_sdi9.mpd
 #KODIPROP:inputstream.adaptive.license_key=63055a8904644407a64a57874703f71e:0fd611777d37a7ff8afce19d9cee2e91
 #EXTINF:-1 tvg-id="pilipinalive10" tvg-name="🇵🇭 PILIPINAS LIVE EVENT #10" tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png" group-title="🇵🇭 PILIPINAS LIVE",🇵🇭 PILIPINAS LIVE EVENT 10
 https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/pl_sdi10.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7MlsD0k.jpeg" group-title="PPV LIVE",Pacquiao vs Barrios
-https://ott.athenatv.net/stream/phcathenatv/ppvchannel1/stream_0.m3u8?u=phc-free&p=70ebfe055fb9df4f9b91b21907a517a27f6c97076aedda2c268712ec6766bf52&uid=916231059
-
-#EXTINF:-1 tvg-id="ptv41ph" tvg-name="(Pacquiao vs barios" tvg-logo="https://i.imghippo.com/files/aoGR4563OUI.jpg"group-title="PPV LIVE", Pacquiao vs barios ppv
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050
-https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/cg_ppv_main_hd.mpd
-
-#EXTINF:-1 tvg-id="pbc" tvg-logo="https://i.imgur.com/H24OJZx.png" group-logo="https://i.imgur.com/na7WMFe.png" group-title="PPV LIVE",Pacquiao vs Barrios
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363233303438393537383939373636:375650765372326e6c50544b337a6933
-http://143.44.136.110:6910/001/2/ch00000090990000001173/manifest.mpd?virtualDomain=001.live_hls.zte.com
