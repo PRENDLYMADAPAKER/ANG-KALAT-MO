@@ -48,7 +48,7 @@ jobs:
 
       - name: 📂 Stage & commit updated playlist
         run: |
-          git add MergedCleanPlaylist.m3u8
+          git add NZMIPTVPREMIUM.m3u
           git diff --cached --quiet || git commit -m "📝 Auto-update NZMIPTVPREMIUM.m3u IPTV playlist at $(date -u)"
 
       - name: ⏳ Random delay before push to reduce collisions
