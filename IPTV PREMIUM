@@ -354,6 +354,9 @@ http://fl1.moveonjoy.com/EPIX_HITS/index.m3u8
 #EXTINF:-1  tvg-name="MovieSphere by Lionsgate" tvg-id="645e7828e1979c00087b75b4" tvg-logo="https://images.pluto.tv/channels/645e7828e1979c00087b75b4/colorLogoPNG.png" tvg-chno="205" group-title="Movie Channels",MovieSphere by Lionsgate
 https://jmp2.uk/plu-645e7828e1979c00087b75b4.m3u8
 
+#EXTINF:-1  tvg-id="MovieTime.ca" tvg-logo="https://media.starlite.best/movietime.ca.png" group-title="Movie Channels" radio="false",Movie Time
+http://38.143.48.212:9981/stream/channelid/1403847081?profile=pass
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV3suWaQrCK8hU-TD0_Oj9DcBQ8oZmiVXY5xDhzSZ4YkrBmnv5Ah-JmMPL&s=10" group-title="Movie Channels", Movies Now  
 #KODIPROP:inputstream.adaptive.license_type=clearkey  
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e  
