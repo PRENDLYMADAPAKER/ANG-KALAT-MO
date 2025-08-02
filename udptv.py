@@ -5,7 +5,7 @@ from datetime import datetime
 UPSTREAM_URL = "https://tinyurl.com/DrewLiveUDPTV24"
 EPG_URL = "https://tinyurl.com/DrewLive002-epg"
 OUTPUT_FILE = "UDPTV.m3u"
-FORCED_GROUP = "UDPTV Live Streams"
+FORCED_GROUP = "NZM STREAM"
 
 # Match all junk timestamp/update lines
 TIMESTAMP_PATTERNS = [
