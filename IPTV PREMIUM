@@ -76,16 +76,15 @@ http://143.44.136.110:6910/001/2/ch00000090990000001314/manifest.mpd?virtualDoma
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001283/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1  tvg-name="Cinema One Global" tvg-id="Cinema.One.ph" tvg-logo="https://i.imgur.com/hJ6MBiA.png" group-title="Local Channels 🇵🇭",Cinema One Global
-http://ott.udptv.net/stream/iptv/cinemaoneglobal/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd
-
 #EXTINF:-10 tvg-logo="https://i.imgur.com/Pf8CNau.png" group-logo="https://i.imgur.com/083Ud3K.jpeg" group-title="Local Channels 🇵🇭",CINEMO
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001254/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-1  tvg-name="Cinemo Global" tvg-id="CINEMO!.ph" tvg-logo="https://i.imgur.com/4xDiXMP.png" group-title="Local Channels 🇵🇭",Cinemo Global
-http://ott.udptv.net/stream/iptv/cinemoglobal/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa8aebe35ccc4541b7ce6292efcb1bfb:aab1df109d22fc5d7e3ec121ddf24e5f
+https://d1bail49udbz1k.cloudfront.net/out/v1/3a895f368f4a467c9bca0962559efc19/index.mpd
 
 #EXTINF:-11 tvg-logo="https://i.imgur.com/93Rp1f6.png" group-logo="https://i.imgur.com/083Ud3K.jpeg" group-title="Local Channels 🇵🇭",DZMM TELERADYO
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -226,10 +225,9 @@ https://stream.gmaNews.tv/ioslive/livestream/playlist.m3u8
 https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_tagalogmovie.mpd
 
 #EXTINF:-1  tvg-name="TFC Asia" tvg-id="TFC.hk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tfc-us.png" group-title="Local Channels 🇵🇭",TFC Asia
-http://ott.udptv.net/stream/iptv/tfcasia/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd
-
-#EXTINF:-1  tvg-name="TFC Global" tvg-id="TFC.hk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tfc-us.png" group-title="Local Channels 🇵🇭",TFC Global
-http://ott.udptv.net/stream/iptv/tfcglobal/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9568cc84e1d944f38eac304517eab6fd:f12142af8f39b3bab79d3679d3665ebe
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-tfcasia-dash-abscbnono/index.mpd
 
 #EXTINF:-40 tvg-logo="https://i.imgur.com/wlQOzHo.png" group-logo="https://i.imgur.com/083Ud3K.jpeg" group-title="Local Channels 🇵🇭",TRUE TV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
