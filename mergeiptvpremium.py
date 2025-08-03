@@ -11,7 +11,7 @@ urls = [
 ]
 
 # File where merged content will be saved
-output_file = "merged_playlist.m3u"
+output_file = "IPTVPREMIUM.m3u"
 
 # Track whether we've added the #EXTM3U header already
 header_written = False
