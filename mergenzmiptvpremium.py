@@ -12,7 +12,7 @@ urls = [
 
 # File where merged content will be saved
 EPG_URL = "https://tinyurl.com/DrewLive002-epg"
-output_file = "IPTVPREMIUM.m3u"
+output_file = "NZMIPTVPREMIUM.m3u"
 
 # Track whether we've added the #EXTM3U header already
 header_written = False
