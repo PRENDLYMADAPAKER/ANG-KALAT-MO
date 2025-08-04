@@ -8,25 +8,25 @@ from bs4 import BeautifulSoup
 # 🔧 CONFIGURATION
 # ===============================
 MOVIE_LIST_FILE = "movies.txt"
-OUTPUT_M3U = "output/movies.m3u"  # updated filename
+OUTPUT_M3U = "output/movies.m3u"
 FAILED_LOG = "failed_movies.txt"
 BATCH_SIZE = 20
 DELAY_SECONDS = 2
-SKIP_EXISTING = True  # skip titles already in output
+SKIP_EXISTING = True
 # ===============================
 
 headers = {
     "User-Agent": "Mozilla/5.0"
 }
 
-# Ensure output dir exists
+# Ensure output dir
 os.makedirs(os.path.dirname(OUTPUT_M3U), exist_ok=True)
 
-# Read all movie titles
+# Read movie list
 with open(MOVIE_LIST_FILE, "r") as f:
     all_movies = [line.strip() for line in f if line.strip()]
 
-# Check already added titles
+# Skip already-added titles
 existing_titles = set()
 if SKIP_EXISTING and os.path.exists(OUTPUT_M3U):
     with open(OUTPUT_M3U, "r", encoding="utf-8") as f:
@@ -34,7 +34,7 @@ if SKIP_EXISTING and os.path.exists(OUTPUT_M3U):
             if line.startswith("#EXTINF"):
                 existing_titles.add(line.strip().split(",")[-1])
 
-# Prepare current batch
+# Get next batch
 to_run = []
 for title in all_movies:
     if title not in existing_titles:
@@ -46,7 +46,7 @@ if not to_run:
     print("✅ All titles already processed.")
     exit()
 
-# Write header if file is new
+# Write header if new
 if not os.path.exists(OUTPUT_M3U):
     with open(OUTPUT_M3U, "w", encoding="utf-8") as f:
         f.write("#EXTM3U\n")
@@ -95,5 +95,9 @@ for title in to_run:
             log.write(f"{title}\n")
 
     time.sleep(DELAY_SECONDS)
+
+# ➕ Always add timestamp so Git sees it as changed
+with open(OUTPUT_M3U, "a", encoding="utf-8") as f:
+    f.write(f"# Updated: {time.strftime('%Y-%m-%d %H:%M:%S')}\n")
 
 print(f"\n📁 Playlist updated → {OUTPUT_M3U}")
