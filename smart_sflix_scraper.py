@@ -8,25 +8,25 @@ from bs4 import BeautifulSoup
 # 🔧 CONFIGURATION
 # ===============================
 MOVIE_LIST_FILE = "movies.txt"
-OUTPUT_M3U = "output/sflix_movies.m3u"
+OUTPUT_M3U = "output/movies.m3u"  # updated filename
 FAILED_LOG = "failed_movies.txt"
 BATCH_SIZE = 20
 DELAY_SECONDS = 2
-SKIP_EXISTING = True  # ✅ Skip if already in M3U
+SKIP_EXISTING = True  # skip titles already in output
 # ===============================
 
 headers = {
     "User-Agent": "Mozilla/5.0"
 }
 
-# Prepare directories
+# Ensure output dir exists
 os.makedirs(os.path.dirname(OUTPUT_M3U), exist_ok=True)
 
-# Read movie list
+# Read all movie titles
 with open(MOVIE_LIST_FILE, "r") as f:
     all_movies = [line.strip() for line in f if line.strip()]
 
-# Read existing output to skip duplicates
+# Check already added titles
 existing_titles = set()
 if SKIP_EXISTING and os.path.exists(OUTPUT_M3U):
     with open(OUTPUT_M3U, "r", encoding="utf-8") as f:
@@ -34,7 +34,7 @@ if SKIP_EXISTING and os.path.exists(OUTPUT_M3U):
             if line.startswith("#EXTINF"):
                 existing_titles.add(line.strip().split(",")[-1])
 
-# Filter movies to run this batch
+# Prepare current batch
 to_run = []
 for title in all_movies:
     if title not in existing_titles:
@@ -43,15 +43,15 @@ for title in all_movies:
         break
 
 if not to_run:
-    print("✅ All movies already processed or batch complete.")
+    print("✅ All titles already processed.")
     exit()
 
-# Prepare or append to M3U file
+# Write header if file is new
 if not os.path.exists(OUTPUT_M3U):
     with open(OUTPUT_M3U, "w", encoding="utf-8") as f:
         f.write("#EXTM3U\n")
 
-# Scraping loop
+# Start scraping
 for title in to_run:
     print(f"🎬 Processing: {title}")
     try:
@@ -61,7 +61,7 @@ for title in to_run:
 
         first_result = soup.select_one("div.film-poster a")
         if not first_result:
-            raise Exception("Not found in search.")
+            raise Exception("Not found")
 
         movie_href = first_result["href"]
         movie_page_url = f"https://sflix.to{movie_href}"
@@ -71,7 +71,7 @@ for title in to_run:
 
         embed_frame = movie_soup.select_one("iframe")
         if not embed_frame:
-            raise Exception("No embed iframe found.")
+            raise Exception("No iframe")
 
         embed_url = embed_frame["src"]
         if embed_url.startswith("//"):
@@ -81,18 +81,19 @@ for title in to_run:
         m3u8_matches = re.findall(r'https://.*?\\.m3u8.*?"', embed_res.text)
 
         if not m3u8_matches:
-            raise Exception("No .m3u8 stream found.")
+            raise Exception("No .m3u8 link")
 
         stream_url = m3u8_matches[0].strip('"')
 
         with open(OUTPUT_M3U, "a", encoding="utf-8") as f:
             f.write(f"#EXTINF:-1,{title}\n{stream_url}\n")
 
-        print(f"✅ Success: {title}")
+        print(f"✅ Added: {title}")
     except Exception as e:
         print(f"❌ Failed: {title} — {e}")
         with open(FAILED_LOG, "a") as log:
             log.write(f"{title}\n")
+
     time.sleep(DELAY_SECONDS)
 
-print(f"\n✅ Done. Playlist updated at: {OUTPUT_M3U}")
+print(f"\n📁 Playlist updated → {OUTPUT_M3U}")
