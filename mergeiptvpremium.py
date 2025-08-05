@@ -7,7 +7,7 @@ from datetime import datetime
 urls = [
     "https://raw.githubusercontent.com/PRENDLYMADAPAKER/ANG-KALAT-MO/refs/heads/main/Tims247.m3u8",
     "https://raw.githubusercontent.com/PRENDLYMADAPAKER/ANG-KALAT-MO/refs/heads/main/TheTVApp.m3u",
-    "https://raw.githubusercontent.com/PRENDLYMADAPAKER/ANG-KALAT-MO/refs/heads/main/IPTV%20PREMIUM"
+    "https://raw.githubusercontent.com/PRENDLYMADAPAKER/ANG-KALAT-MO/refs/heads/main/UDPTV.m3u"
 ]
 
 # File where merged content will be saved
