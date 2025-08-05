@@ -1,8 +1,8 @@
-name: Auto Update Sflix Playlist with Playwright
+name: Auto Update Sflix Playlist
 
 on:
   schedule:
-    - cron: '0 7 * * *'  # every day at 7:00 UTC
+    - cron: '0 4 * * *'  # Daily at 4 AM UTC
   workflow_dispatch:
 
 jobs:
@@ -10,13 +10,13 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Checkout Code
         uses: actions/checkout@v3
 
       - name: Setup Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.10'
+          python-version: '3.11'
 
       - name: Install Playwright and dependencies
         run: |
@@ -30,8 +30,6 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add output/movies.m3u || true
+          git add output/movies.m3u
           git commit -m "🔄 Auto-update: movies.m3u" || echo "No changes to commit"
-          git push || echo "Nothing to push"
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          git push
