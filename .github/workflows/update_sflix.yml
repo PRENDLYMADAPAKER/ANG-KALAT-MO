@@ -22,7 +22,7 @@ jobs:
         run: |
           pip install requests beautifulsoup4
 
-      - name: 🚀 Run Smart Sflix Scraper
+      - name: 🚀 Run Scraper
         run: |
           python smart_sflix_scraper.py
 
@@ -30,7 +30,7 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add output/movies.m3u failed_movies.txt || true
+          git add output/movies.m3u || true
           git commit -m "🔄 Auto-update: movies.m3u" || echo "🟡 Nothing to commit"
           git push || echo "🟡 Nothing to push"
         env:
