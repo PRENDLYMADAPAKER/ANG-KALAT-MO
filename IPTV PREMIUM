@@ -382,6 +382,9 @@ https://fl3.moveonjoy.com/OUTER_MAX/index.m3u8
 #EXTINF:-1  tvg-name="RageTV" tvg-logo="https://i.imgur.com/Ym32WqZ.png" group-title="Movie Channels" radio="false",RageTV
 https://live20.bozztv.com/giatv/giatv-ragetv/ragetv/playlist.m3u8
 
+#EXTINF:-1  tvg-name="Rakuten Viki" tvg-id="c4bdfe6fd751590e9d096b5de264bba1" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/c4bdfe6fd751590e9d096b5de264bba1/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1678995051754_image_hud1_260x147.png" tvg-chno="392" group-title="Movie Channels",Rakuten Viki
+https://jmp2.uk/rok-c4bdfe6fd751590e9d096b5de264bba1.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="ScreamFlix" tvg-logo="" group-title="Movie Channels", ScreamFlix
 https://jungotvstream.chanall.tv/jungotv/screamflix/playlist_720p.m3u8
 
@@ -462,6 +465,9 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_taptv_sd.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=928114ffb2394d14b5585258f70ed183:a82edc340bc73447bac16cdfed0a4c62
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_thrill_sd.mpd
+
+#EXTINF:-1  tvg-name="Transformers" tvg-id="9bd570b8bf145f73bba7532221e12666" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/9bd570b8bf145f73bba7532221e12666/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1684427983619_TF_CSA_UK_2023Q4_Samsung_FAST_HUD_logo_C_260x147_3.png" tvg-chno="432" group-title="Movie Channels",Transformers
+https://jmp2.uk/rok-9bd570b8bf145f73bba7532221e12666.m3u8
 
 #EXTINF:-149 tvg-logo="https://i.imgur.com/lY1BAUH.png" group-logo="https://i.imgur.com/rsPE0Fp.png" group-title="Movie Channels",TVN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -569,6 +575,12 @@ https://jmp2.uk/sam-CABC2300012FY.m3u8
 
 #EXTINF:-1  tvg-name="Teen Nick" tvg-id="udptvus/teennick" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/teen-nick-us.png?raw=true" group-title="Anime/Cartoons",Teen Nick
 https://ott.udptv.org/stream/udptvus/teennick/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd
+
+#EXTINF:-1  tvg-name="The LEGO Channel" tvg-id="77761dc1928357d6809a2032fc2e17b8" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/77761dc1928357d6809a2032fc2e17b8/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1657671397295_LEGO_260x147.png" tvg-chno="404" group-title="Anime/Cartoons",The LEGO Channel
+https://jmp2.uk/rok-77761dc1928357d6809a2032fc2e17b8.m3u8
+
+#EXTINF:-1  tvg-name="Toony Planet" tvg-id="8e0ba996e9985beb9c5e7f7f994ddc2e" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/8e0ba996e9985beb9c5e7f7f994ddc2e/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1680614970035_Toony_Planet_HUD_logo_260x147.png" tvg-chno="417" group-title="Anime/Cartoons",Toony Planet
+https://jmp2.uk/rok-8e0ba996e9985beb9c5e7f7f994ddc2e.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PEwof7I.jpeg" group-title="Anime/Cartoons",TOM AND JERRY 24/7
 http://fortv.cc:8080/38871863/38871863/125635
