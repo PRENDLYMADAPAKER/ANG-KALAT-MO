@@ -1,0 +1,36 @@
+# .github/workflows/anime_247_update.yml
+# ✅ Auto-updates anime_247.m3u every day
+
+name: Auto Update Anime 24/7 Playlist
+
+on:
+  schedule:
+    - cron: '0 3 * * *'  # Every day at 03:00 UTC
+  workflow_dispatch:
+
+jobs:
+  update-anime:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run Playlist Generator
+        run: python anime_247_generator.py
+
+      - name: Commit and Push Changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add output/anime_247.m3u
+          git commit -m "🔄 Auto-update: anime_247.m3u" || echo "No changes to commit"
+          git push
