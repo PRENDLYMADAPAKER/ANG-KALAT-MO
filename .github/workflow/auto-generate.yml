@@ -1,0 +1,32 @@
+name: Auto Generate Playlist
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # Every 6 hours
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests pyyaml
+
+      - name: Run script to download M3U
+        run: python generate_m3u.py
+
+      - name: Commit and push playlist
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add playlist.m3u
+          git commit -m "🔁 Auto update playlist.m3u" || echo "No changes"
+          git push
