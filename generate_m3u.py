@@ -1,31 +1,40 @@
 import requests
-import os
+import yaml
 
-# Configuration (was in config.yml)
-sources = {
-    "IPTV_Org_Movies": "https://iptv-org.github.io/iptv/categories/movies.m3u",
-    "Curated_VOD": "https://raw.githubusercontent.com/jromero88/iptv/master/VOD.m3u"
-}
-
-output_path = "./output/combined_movies.m3u"
-
-# Fetch and combine
-combined_playlist = []
-
-for name, url in sources.items():
+def main():
+    # Load config
     try:
-        r = requests.get(url, timeout=10)
-        if r.status_code == 200:
-            print(f"✅ Fetched {name} ({len(r.text.splitlines())} lines)")
-            combined_playlist.append(r.text)
-        else:
-            print(f"❌ Failed to fetch {name}: HTTP {r.status_code}")
+        with open("config.yml", "r") as file:
+            config = yaml.safe_load(file)
+    except FileNotFoundError:
+        print("❌ config.yml not found.")
+        return
+    except yaml.YAMLError as e:
+        print(f"❌ Error parsing config.yml: {e}")
+        return
+
+    source_url = config.get("source")
+    output_file = config.get("output", "playlist.m3u")
+
+    if not source_url:
+        print("❌ No source URL found in config.yml.")
+        return
+
+    # Download M3U content
+    try:
+        response = requests.get(source_url)
+        response.raise_for_status()
     except Exception as e:
-        print(f"❌ Error fetching {name}: {e}")
+        print(f"❌ Failed to download M3U file: {e}")
+        return
 
-# Save combined M3U
-os.makedirs(os.path.dirname(output_path), exist_ok=True)
-with open(output_path, "w", encoding="utf-8") as f:
-    f.write("\n".join(combined_playlist))
+    # Save to file
+    try:
+        with open(output_file, "w", encoding="utf-8") as f:
+            f.write(response.text)
+        print(f"✅ M3U playlist saved to '{output_file}'")
+    except Exception as e:
+        print(f"❌ Failed to save file: {e}")
 
-print(f"📁 Combined M3U saved to: {output_path}")
+if __name__ == "__main__":
+    main()
