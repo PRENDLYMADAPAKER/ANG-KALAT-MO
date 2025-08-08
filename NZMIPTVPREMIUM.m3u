@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://tinyurl.com/DrewLive002-epg"
 # Last forced update: 2025-08-03T14:57:03.059537Z
-# Updated at 2025-08-08T01:18:38Z
+# Updated at 2025-08-08T03:15:00Z
 #EXTINF:-1  tvg-name="A&E SD" tvg-id="ae-us-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true" group-title="TheTVApp",A&E SD
 https://v8.thetvapp.to/hls/AEEast/tracks-v2a1/mono.m3u8?token=TtI0GofTbmRDazz-IKpTWw&expires=1754638851&user_id=cG1kV3F1UzNmOHBjRVFzd2QwbDRLckZUa3JlbmlKM0gzYUhhdUkzMg==
 #EXTINF:-1  tvg-name="A&E HD" tvg-id="ae-us-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true" group-title="TheTVApp",A&E HD
@@ -1548,3 +1548,45 @@ https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/pl_sdi9.mpd
 #KODIPROP:inputstream.adaptive.license_key=63055a8904644407a64a57874703f71e:0fd611777d37a7ff8afce19d9cee2e91
 #EXTINF:-1 tvg-id="pilipinalive10" tvg-name="🇵🇭 PILIPINAS LIVE EVENT #10" tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png" group-title="🇵🇭 PILIPINAS LIVE",🇵🇭 PILIPINAS LIVE EVENT 10
 https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/pl_sdi10.mpd
+
+#EXTINF:-1 tvg-logo="https://basti.clan.su/tv.png" group-title="Cinebox",Cinebox 1
+http://fortv.cc:8080/38871863/38871863/119420
+
+#EXTINF:-1 tvg-logo="https://basti.clan.su/tv.png" group-title="Cinebox",Cinebox 2
+http://fortv.cc:8080/38871863/38871863/119421
+
+#EXTINF:-1 tvg-logo="https://basti.clan.su/tv.png" group-title="Cinebox",Cinebox 3
+http://fortv.cc:8080/38871863/38871863/119422
+
+#EXTINF:-1 tvg-logo="https://basti.clan.su/tv.png" group-title="Cinebox",Cinebox 4
+http://fortv.cc:8080/38871863/38871863/119423
+
+#EXTINF:-1 tvg-logo="https://basti.clan.su/tv.png" group-title="Cinebox",Cinebox 5
+http://fortv.cc:8080/38871863/38871863/119424
+
+#EXTINF:-1 tvg-logo="https://basti.clan.su/tv.png" group-title="Cinebox",Cinebox 6
+http://fortv.cc:8080/38871863/38871863/119425
+
+#EXTINF:-1 tvg-logo="https://basti.clan.su/tv.png" group-title="Cinebox",Cinebox 7
+http://fortv.cc:8080/38871863/38871863/119427
+
+#EXTINF:-1 tvg-logo="https://basti.clan.su/tv.png" group-title="Cinebox",Cinebox 8
+http://fortv.cc:8080/38871863/38871863/119431
+
+#EXTINF:-1 tvg-logo="https://basti.clan.su/tv.png" group-title="Cinebox",Cinebox 9
+http://fortv.cc:8080/38871863/38871863/119432
+
+#EXTINF:-1 tvg-logo="https://basti.clan.su/tv.png" group-title="Cinebox",Cinebox 10
+http://fortv.cc:8080/38871863/38871863/119433
+
+#EXTINF:-1 tvg-logo="https://basti.clan.su/tv.png" group-title="Cinebox",Cinebox 11
+http://fortv.cc:8080/38871863/38871863/119434
+
+#EXTINF:-1 tvg-logo="https://basti.clan.su/tv.png" group-title="Cinebox",Cinebox 12
+http://fortv.cc:8080/38871863/38871863/119435
+
+#EXTINF:-1 tvg-logo="https://basti.clan.su/tv.png" group-title="Cinebox",Cinebox 13
+http://fortv.cc:8080/38871863/38871863/119436
+
+#EXTINF:-1 tvg-logo="https://basti.clan.su/tv.png" group-title="Cinebox",Cinebox 14
+http://fortv.cc:8080/38871863/38871863/119437
