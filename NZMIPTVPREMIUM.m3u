@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://tinyurl.com/DrewLive002-epg"
 # Last forced update: 2025-08-03T14:57:03.059537Z
-# Updated at 2025-08-10T01:08:08Z
+# Updated at 2025-08-10T03:14:24Z
 #EXTINF:-1  tvg-name="A&E SD" tvg-id="ae-us-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true" group-title="TheTVApp",A&E SD
 https://v12.thetvapp.to/hls/AEEast/tracks-v2a1/mono.m3u8?token=ZsIAF_1vqWuJJBwqTTubzw&expires=1754811841&user_id=NXJNZjFQWllYbnAwOURRSVU1NEVQQnpJUzJ6NG5pTnVFdGRiQ0YzNw==
 #EXTINF:-1  tvg-name="A&E HD" tvg-id="ae-us-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true" group-title="TheTVApp",A&E HD
@@ -570,7 +570,9 @@ http://143.44.136.110:6910/001/2/ch00000090990000001314/manifest.mpd?virtualDoma
 http://143.44.136.110:6910/001/2/ch00000090990000001283/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-1  tvg-name="Cinema One Global" tvg-id="Cinema.One.ph" tvg-logo="https://i.imgur.com/hJ6MBiA.png" group-title="Local Channels 🇵🇭",Cinema One Global
-http://ott.udptv.net/stream/iptv/cinemaoneglobal/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=58d0e56991194043b8fb82feb4db7276:d68f41b59649676788889e19fb10d22c
+https://d9rpesrrg1bdi.cloudfront.net/out/v1/93b9db7b231d45f28f64f29b86dc6c65/index.mpd
 
 #EXTINF:-10 tvg-logo="https://i.imgur.com/Pf8CNau.png" group-logo="https://i.imgur.com/083Ud3K.jpeg" group-title="Local Channels 🇵🇭",CINEMO
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
