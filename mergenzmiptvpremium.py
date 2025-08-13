@@ -5,7 +5,7 @@ from datetime import datetime
 
 # List of M3U source URLs
 urls = [
-    "https://raw.githubusercontent.com/PRENDLYMADAPAKER/ANG-KALAT-MO/refs/heads/main/Tims247.m3u8",
+    "http://drewlive24.duckdns.org:8081/Tims247.m3u8",
     "https://raw.githubusercontent.com/PRENDLYMADAPAKER/ANG-KALAT-MO/refs/heads/main/TheTVApp.m3u",
     "https://raw.githubusercontent.com/PRENDLYMADAPAKER/ANG-KALAT-MO/refs/heads/main/IPTV%20PREMIUM"
 ]
