@@ -15,31 +15,55 @@ https://fl3.moveonjoy.com/NBA_TV/index.m3u8
 http://mains.services/live/pmf0423/1aku0jt%40/2657e4ec-5654-43e4-a224-76209ede2f07.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3myn4zH.png" group-logo="https://i.imgur.com/083Ud3K.jpeg" group-title="Local Channels 🇵🇭",A2Z
-http://ott.udptv.net/stream/iptv/a2z/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f703e4c8ec9041eeb5028ab4248fa094:c22f2162e176eee6273a5d0b68d19530
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_a2z.mpd
 
 #EXTINF:-2 tvg-logo="https://i.imgur.com/lrd5Z0V.jpeg" group-logo="https://i.imgur.com/083Ud3K.jpeg" group-title="Local Channels 🇵🇭",ALIW CHANNEL
-http://ott.udptv.net/stream/iptv/aliwtv/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6610/001/2/ch00000090990000001109/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-3 tvg-logo="https://i.imgur.com/Cct1oKY.png" group-logo="https://i.imgur.com/jNO5leA.jpeg" group-title="Local Channels 🇵🇭",ALL TV
-http://ott.udptv.net/stream/iptv/alltv/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6610/001/2/ch00000090990000001179/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-4 tvg-logo="https://i.imgur.com/XzVYXaV.png" group-logo="https://i.imgur.com/083Ud3K.jpeg" group-title="Local Channels 🇵🇭",ANC
-http://ott.udptv.net/stream/iptv/ancph/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6610/001/2/ch00000090990000001274/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-5 tvg-logo="https://i.imgur.com/Rh80p0K.png" group-logo="https://i.imgur.com/083Ud3K.jpeg" group-title="Local Channels 🇵🇭",BILYONARYO CHANNEL
-http://ott.udptv.net/stream/iptv/billonaryonewschannel/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=227ffaf09bec4a889e0e0988704d52a2:b2d0dce5c486891997c1c92ddaca2cd2
+https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/bilyonaryoch.mpd
 
 #EXTINF:-6 tvg-logo="https://i.imgur.com/Du6LQCi.png" group-logo="https://i.imgur.com/083Ud3K.jpeg" group-title="Local Channels 🇵🇭",BUKO
-https://ott.udptv.net/stream/iptv/buko/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d273c085f2ab4a248e7bfc375229007d:7932354c3a84f7fc1b80efa6bcea0615
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_buko_sd.mpd 
 
 #EXTINF:-7 tvg-logo="https://i.imgur.com/EUlYIWv.png" group-logo="https://i.imgur.com/083Ud3K.jpeg" group-title="Local Channels 🇵🇭",CELESTIAL MOVIES PINOY
-http://ott.udptv.net/stream/iptv/celestialmoviespinoy/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0f8537d8412b11edb8780242ac120002:2ffd7230416150fd5196fd7ea71c36f3
+https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/celmovie_pinoy_sd.mpd
 
 #EXTINF:-8 tvg-logo="https://i.imgur.com/ICbvO7y.jpeg" group-logo="https://i.imgur.com/083Ud3K.jpeg" group-title="Local Channels 🇵🇭",CENTRAL LUZON TV
-http://ott.udptv.net/stream/iptv/cltv36/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6610/001/2/ch00000090990000001314/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-9 tvg-logo="https://i.imgur.com/3Ckk8OH.jpeg" group-logo="https://i.imgur.com/083Ud3K.jpeg" group-title="Local Channels 🇵🇭",CINEMA ONE PH
-http://ott.udptv.net/stream/iptv/cinemaoneph/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6610/001/2/ch00000090990000001283/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-1  tvg-name="Cinema One Global" tvg-id="Cinema.One.ph" tvg-logo="https://i.imgur.com/hJ6MBiA.png" group-title="Local Channels 🇵🇭",Cinema One Global
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -47,7 +71,9 @@ http://ott.udptv.net/stream/iptv/cinemaoneph/master.m3u8?u=cocked&p=dd0abb52723d
 https://d9rpesrrg1bdi.cloudfront.net/out/v1/93b9db7b231d45f28f64f29b86dc6c65/index.mpd
 
 #EXTINF:-10 tvg-logo="https://i.imgur.com/Pf8CNau.png" group-logo="https://i.imgur.com/083Ud3K.jpeg" group-title="Local Channels 🇵🇭",CINEMO
-http://ott.udptv.net/stream/iptv/cinemoph/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6610/001/2/ch00000090990000001254/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-1  tvg-name="Cinemo Global" tvg-id="CINEMO!.ph" tvg-logo="https://i.imgur.com/4xDiXMP.png" group-title="Local Channels 🇵🇭",Cinemo Global
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -55,38 +81,49 @@ http://ott.udptv.net/stream/iptv/cinemoph/master.m3u8?u=cocked&p=dd0abb52723d22a
 https://d1bail49udbz1k.cloudfront.net/out/v1/3a895f368f4a467c9bca0962559efc19/index.mpd
 
 #EXTINF:-11 tvg-logo="https://i.imgur.com/93Rp1f6.png" group-logo="https://i.imgur.com/083Ud3K.jpeg" group-title="Local Channels 🇵🇭",DZMM TELERADYO
-https://ott.udptv.net/stream/iptv/dzmmteleradyo/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6610/001/2/ch00000090990000001249/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-12 tvg-logo="https://i.imgur.com/P1mCl2k.png" group-logo="https://i.imgur.com/083Ud3K.jpeg" group-title="Local Channels 🇵🇭",DZRH TV
-http://ott.udptv.net/stream/iptv/dzrhtv/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6610/001/2/ch00000090990000001174/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-13 tvg-logo="https://i.imgur.com/qgy7oAa.png" group-logo="https://i.imgur.com/083Ud3K.jpeg" group-title="Local Channels 🇵🇭",GMA
-https://ott.udptv.net/stream/iptv/gma/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-
-#EXTINF:-1  tvg-name="GMA Life TV" tvg-id="GMA.Life.TV.hk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/GMA_Life_TV.png" group-title="Local Channels 🇵🇭",GMA Life TV
-https://ott.udptv.net/stream/iptv/gmalifetv/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-#EXTINF:-1  tvg-name="GMA News TV" tvg-id="GMA.News.TV.hk" tvg-logo="https://static.wikia.nocookie.net/russel/images/e/e3/GMA_News_TV_Logo_2019.png" group-title="Local Channels 🇵🇭",GMA News TV
-https://ott.udptv.net/stream/iptv/gmanewstv/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-#EXTINF:-1  tvg-name="GMA Pinoy TV" tvg-id="GMA.Pinoy.TV.hk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/af/GMA_Pinoy_TV_logo.png" group-title="Local Channels 🇵🇭",GMA Pinoy TV
-https://ott.udptv.net/stream/iptv/gmapinoytv/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6610/001/2/ch00000090990000001093/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-14 tvg-logo="https://i.imgur.com/yMK7Fd5.png" group-logo="https://i.imgur.com/083Ud3K.jpeg" group-title="Local Channels 🇵🇭",GTV
-http://ott.udptv.net/stream/iptv/gtv/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-
-#EXTINF:-1  tvg-name="iHeart Movies" tvg-id="iptv/iheartmovies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/Iheartmovies1.png" group-title="Local Channels 🇵🇭",iHeart Movies
-https://ott.udptv.net/stream/iptv/iheartmovies/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6610/001/2/ch00000090990000001143/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-18 tvg-logo="https://i.imgur.com/3yzbJE5.png" group-logo="https://i.imgur.com/083Ud3K.jpeg" group-title="Local Channels 🇵🇭",JEEPNEY TV
-http://ott.udptv.net/stream/iptv/jeepneytv/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.113:6610/001/2/ch00000090990000001250/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-1  tvg-name="Jugo Pinoy TV" tvg-id="iptv/jugopinoytv" tvg-logo="https://dito.ph/hubfs/Dito_July2021/Ott%20Pages/Jungo-img/Jungo-logo.png" group-title="Local Channels 🇵🇭",Jugo Pinoy TV
-http://ott.udptv.net/stream/iptv/jugopinoytv/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+https://jungotvstream.chanall.tv/jungotv/jungopinoytv/stream.m3u8
+
+#EXTINF:-1 tvg-id="Kapamilya Channel" group-title="Local Channels 🇵🇭" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Kapamilya_Channel_Logo_2020.svg/2560px-Kapamilya_Channel_Logo_2020.svg.png",Kapamilya Channel
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6610/001/2/ch00000090990000001248/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-22 tvg-logo="https://i.imgur.com/LXQmZvX.png" group-logo="https://i.imgur.com/083Ud3K.jpeg" group-title="Local Channels 🇵🇭",KAPAMILYA CHANNEL HD
-http://ott.udptv.net/stream/iptv/kapamilyachannel/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6610/001/2/ch00000090990000001286/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-23 tvg-logo="https://i.imgur.com/9ROZkXn.png" group-logo="https://i.imgur.com/083Ud3K.jpeg" group-title="Local Channels 🇵🇭",KNOWLEDGE CHANNEL
-http://ott.udptv.net/stream/iptv/knowledgechannel/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0f856fa0412b11edb8780242ac120002:783374273ef97ad3bc992c1d63e091e7
+https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_knowledgechannel.mpd
 
 #EXTINF:-24 tvg-logo="https://i.imgur.com/H2QFNam.png" group-logo="https://i.imgur.com/083Ud3K.jpeg" group-title="Local Channels 🇵🇭",MEDIA PILIPINAS TV
 http://ott.udptv.net/stream/iptv/mptv/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
