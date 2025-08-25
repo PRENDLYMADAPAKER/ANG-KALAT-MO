@@ -125,11 +125,10 @@ http://143.44.136.110:6610/001/2/ch00000090990000001286/manifest.mpd?virtualDoma
 #KODIPROP:inputstream.adaptive.license_key=0f856fa0412b11edb8780242ac120002:783374273ef97ad3bc992c1d63e091e7
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_knowledgechannel.mpd
 
-#EXTINF:-24 tvg-logo="https://i.imgur.com/H2QFNam.png" group-logo="https://i.imgur.com/083Ud3K.jpeg" group-title="Local Channels 🇵🇭",MEDIA PILIPINAS TV
-http://ott.udptv.net/stream/iptv/mptv/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-
 #EXTINF:-26 tvg-logo="https://i.imgur.com/s6gOugU.jpeg" group-logo="https://i.imgur.com/083Ud3K.jpeg" group-title="Local Channels 🇵🇭",NET25
-http://ott.udptv.net/stream/iptv/net25/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.111:6610/001/2/ch00000090990000001090/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-28 tvg-logo="https://i.imgur.com/9dMuFE1.png" group-logo="https://i.imgur.com/083Ud3K.jpeg" group-title="Local Channels 🇵🇭",ONE PH
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -146,22 +145,42 @@ https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/oneph_sd.mpd
 https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/onenews_hd1.mpd
 
 #EXTINF:-29 tvg-logo="https://i.imgur.com/btiNwYt.png" group-logo="https://i.imgur.com/083Ud3K.jpeg" group-title="Local Channels 🇵🇭",ONE SPORTS
-http://ott.udptv.net/stream/iptv/onesports-1/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.111:6610/001/2/ch00000090990000001083/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-205 tvg-logo="https://i.imgur.com/nFLt8cN.png" group-logo="https://i.imgur.com/IV8omb6.jpeg" group-title="Local Channels 🇵🇭",ONE SPORTS PLUS
-http://ott.udptv.net/stream/iptv/onesports/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=322d06e9326f4753a7ec0908030c13d8:1e3e0ca32d421fbfec86feced0efefda
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_onesportsplus_hd1.mpd
 
 #EXTINF:-204 tvg-logo="https://i.imgur.com/LGXe6fr.jpeg" group-logo="https://i.imgur.com/IV8omb6.jpeg" group-title="Local Channels 🇵🇭",PBA RUSH
-http://ott.udptv.net/stream/iptv/pbarush/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=76dc29dd87a244aeab9e8b7c5da1e5f3:95b2f2ffd4e14073620506213b62ac82
+https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_pbarush_hd1.mpd
 
 #EXTINF:-30 tvg-logo="https://i.imgur.com/709Uy7N.png" group-logo="https://i.imgur.com/083Ud3K.jpeg" group-title="Local Channels 🇵🇭",PBO
-http://ott.udptv.net/stream/iptv/pbo/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.113:6610/001/2/ch00000090990000001078/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-34 tvg-logo="https://i.imgur.com/IDCHfXm.png" group-logo="https://i.imgur.com/083Ud3K.jpeg" group-title="Local Channels 🇵🇭",RPTV
-https://ott.udptv.net/stream/udptvppv/ppvch5sd/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1917f4caf2364e6d9b1507326a85ead6:a1340a251a5aa63a9b0ea5d9d7f67595
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cnn_rptv_prod_hd.mpd
 
 #EXTINF:-35 tvg-logo="https://i.imgur.com/l2A1mt5.jpg" group-logo="https://i.imgur.com/083Ud3K.jpeg" group-title="Local Channels 🇵🇭",SARI-SARI
-http://ott.udptv.net/stream/iptv/ptv/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0a7ab3612f434335aa6e895016d8cd2d:b21654621230ae21714a5cab52daeb9d
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_sari_sari_sd.mpd
 
 #EXTINF:-1  tvg-name="Sinemanila" tvg-logo="https://i.imgur.com/2N1kh1D.png" group-title="Local Channels 🇵🇭" radio="false",Sinemanila
 https://live20.bozztv.com/giatv/giatv-sinemanila/sinemanila/playlist.m3u8
@@ -175,9 +194,9 @@ https://stream.gmaNews.tv/ioslive/livestream/playlist.m3u8
 https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_tagalogmovie.mpd
 
 #EXTINF:-1  tvg-name="TFC Asia" tvg-id="TFC.hk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tfc-us.png" group-title="Local Channels 🇵🇭",TFC Asia
-http://ott.udptv.net/stream/iptv/tapmovies/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-#EXTINF:-1  tvg-name="TFC Global" tvg-id="TFC.hk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tfc-us.png" group-title="Local Channels 🇵🇭",TFC Global
-http://ott.udptv.net/stream/iptv/tapsports/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9568cc84e1d944f38eac304517eab6fd:f12142af8f39b3bab79d3679d3665ebe
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-tfcasia-dash-abscbnono/index.mpd
 
 #EXTINF:-40 tvg-logo="https://i.imgur.com/wlQOzHo.png" group-logo="https://i.imgur.com/083Ud3K.jpeg" group-title="Local Channels 🇵🇭",TRUE TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -207,7 +226,9 @@ https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/tvup_prd.mpd
 https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/cg_uaap_cplay_sd.mpd
 
 #EXTINF:-44 tvg-logo="https://i.imgur.com/03L9rhX.png" group-logo="https://i.imgur.com/083Ud3K.jpeg" group-title="Local Channels 🇵🇭",UNTV
-http://ott.udptv.net/stream/iptv/tvn/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.111:6610/001/2/ch00000090990000001091/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-45 tvg-logo="https://i.imgur.com/8y3fc3F.png" group-logo="https://i.imgur.com/083Ud3K.jpeg" group-title="Local Channels 🇵🇭",VIVA CINEMA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -218,14 +239,7 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/viva_sd.mpd
 http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 
 #EXTINF:-1  tvg-name="AMC" tvg-id="udptvus/amc" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/amc-es.png" group-title="Movie Channels",AMC
-https://ott.udptv.xyz/stream/udptvus/amc/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-#EXTINF:-1  tvg-name="AMC IT" tvg-id="AMC.lt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/amc-es.png" group-title="Movie Channels",AMC IT
-https://ott.udptv.xyz/stream/udptv/amc/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-#EXTINF:-1  tvg-name="AMC Thrillers" tvg-id="udptvus/amcthrillers" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/amc-thrillers-vod.png?raw=true" group-title="Movie Channels",AMC Thrillers
-https://ott.udptv.xyz/stream/udptvus/amcthrillers/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-
-#EXTINF:-72 tvg-logo="https://i.imgur.com/5nphPif.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Movie Channels",ASTRO SHOWCASE
-https://ott.udptv.xyz/stream/astro/showcasemovies/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+http://jabawalkies.club:8080/Yge18mSBSG/Tygp63MXun/1527
 
 #EXTINF:-163 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Celestial_HD_v1.png" group-logo="https://i.imgur.com/rsPE0Fp.png" group-title="Movie Channels",CELESTIAL MOVIES
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -235,15 +249,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_ott.mpd
 
 #EXTINF:-1  tvg-name="CINEMAX MOREMAX" tvg-id="MoreMax..Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-moremax-us.png?raw=true" group-title="Movie Channels" radio="false",CINEMAX MOREMAX
 http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
-
-#EXTINF:-1  tvg-name="CRAVE 1" tvg-id="Amazon.US.CRAVE1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/crave-1-ca.png?raw=true" group-title="Movie Channels",CRAVE 1
-https://ott.udptv.xyz/stream/udptv/crave1/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-#EXTINF:-1  tvg-name="CRAVE 2" tvg-id="Amazon.US.CRAVE2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/crave-2-ca.png?raw=true" group-title="Movie Channels",CRAVE 2
-https://ott.udptv.xyz/stream/udptv/crave2/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-#EXTINF:-1  tvg-name="CRAVE 3" tvg-id="Amazon.US.CRAVE3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/crave-3-ca.png?raw=true" group-title="Movie Channels",CRAVE 3
-https://ott.udptv.xyz/stream/udptv/crave3/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-#EXTINF:-1  tvg-name="CRAVE 4" tvg-id="Amazon.US.CRAVE4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/crave-4-ca.png?raw=true" group-title="Movie Channels",CRAVE 4
-https://ott.udptv.xyz/stream/udptv/crave4/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
 
 #EXTINF:-1  tvg-name="FX" tvg-id="sling/fxx" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fx-us.png?raw=true" group-title="Movie Channels",FX
 http://23.237.104.106:8080/USA_FX/index.m3u8
@@ -255,36 +260,63 @@ http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2F
 https://fl3.moveonjoy.com/FXX/index.m3u8
 
 #EXTINF:-49 tvg-logo="https://i.imgur.com/YeqyD9W.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Movie Channels",HITS
-http://ott.udptv.net/stream/iptv/hits/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b04ae8017b5b4601a5a0c9060f6d5b7d:a8795f3bdb8a4778b7e888ee484cc7a1
+https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hbohits.mpd
 
 #EXTINF:-1  tvg-name="Hits Movies" tvg-id="Hits.Movies.ph" tvg-logo="https://astromedia.com.my/wp-content/uploads/2023/12/hitsmovie2.jpeg" group-title="Movie Channels",Hits Movies
-https://ott.udptv.xyz/stream/astro/hitsmovies/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f56b57b32d7e4b2cb21748c0b56761a7:3df06a89aa01b32655a77d93e09e266f
+https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_hitsmovies.mpd
+
 #EXTINF:-1  tvg-name="Hits Now" tvg-id="HITS.NOW.my" tvg-logo="https://i.imgur.com/tYfJVjx.png" group-title="Movie Channels",Hits Now
-https://ott.udptv.xyz/stream/astro/hitsnow/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=14439a1b7afc4527bb0ebc51cf11cbc1:92b0287c7042f271b266cc11ab7541f1
+https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hitsnow.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gGbiY5u.png" group-title="Movie Channels",Hi-Yah!
 https://linear-59.frequency.stream/dist/xumo/59/hls/master/playlist_1920x1080.m3u8
 
 #EXTINF:-52 tvg-logo="https://i.imgur.com/pa2SF5Z.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Movie Channels",HBO
-https://ott.udptv.net/stream/iptv/hbohd/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d47ebabf7a21430b83a8c4b82d9ef6b1:54c213b2b5f885f1e0290ee4131d425b
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbohd.mpd
 
 #EXTINF:-1  tvg-name="HBO2" tvg-id="HBO.2.-.Eastern.Feed.us" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/HBO2._SL170_FMpng_.png" group-title="Movie Channels",HBO2
-https://ott.udptv.net/stream/iptv/hbo2/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+http://jabawalkies.club:8080/Yge18mSBSG/Tygp63MXun/18267
 
 #EXTINF:-1  tvg-name="HBO Comedy" tvg-id="HBO.Comedy.HD.-.East.us" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/HBO_Comedy._SL170_FMpng_.png" group-title="Movie Channels",HBO Comedy
-https://ott.udptv.net/stream/iptv/hbocomedy/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+http://jabawalkies.club:8080/Yge18mSBSG/Tygp63MXun/1609
 
 #EXTINF:-69 tvg-logo="https://i.imgur.com/pZn9JHj.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Movie Channels",HBO HITS
-http://ott.udptv.net/stream/iptv/hbohits/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b04ae8017b5b4601a5a0c9060f6d5b7d:a8795f3bdb8a4778b7e888ee484cc7a1
+https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hbohits.mpd
 
 #EXTINF:-70 tvg-logo="https://i.imgur.com/3BOoqQn.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Movie Channels",HBO SIGNATURE
-http://ott.udptv.net/stream/iptv/hbosignature/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f
+https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd
 
 #EXTINF:-71 tvg-logo="https://i.imgur.com/Zy3pvJV.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Movie Channels",HBO FAMILY
-https://ott.udptv.net/stream/iptv/hbofamily/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=872910c843294319800d85f9a0940607:f79fd895b79c590708cf5e8b5c6263be
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbofam.mpd
 
 #EXTINF:-1  tvg-name="HBO Zone" tvg-id="HBO.Zone.HD.-.East.us" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/HBO_Zone_East._SL170_FMpng_.png" group-title="Movie Channels",HBO Zone
-http://fl1.moveonjoy.com/HBO_ZONE/index.m3u8
+http://jabawalkies.club:8080/Yge18mSBSG/Tygp63MXun/1614
 
 #EXTINF:-1  tvg-name="MGM+" tvg-id="MGM+.HDTV.(East).(MGM+HD).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mgm-plus-us.png?raw=true" group-title="Movie Channels" radio="false",MGM+
 https://fl3.moveonjoy.com/EPIX/index.m3u8
@@ -302,7 +334,10 @@ https://jmp2.uk/plu-645e7828e1979c00087b75b4.m3u8
 http://38.143.48.212:9981/stream/channelid/1403847081?profile=pass
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV3suWaQrCK8hU-TD0_Oj9DcBQ8oZmiVXY5xDhzSZ4YkrBmnv5Ah-JmMPL&s=10" group-title="Movie Channels", Movies Now  
-https://ott.udptv.net/stream/iptv/moviesnow/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 
 #EXTINF:-1  tvg-name="OUTER MAX" tvg-id="OuterMax.east.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-outermax-us.png?raw=true" group-title="Movie Channels" radio="false",OUTER MAX
 https://fl3.moveonjoy.com/OUTER_MAX/index.m3u8
@@ -362,28 +397,46 @@ http://fl3.moveonjoy.com/Start_Tv/index.mu8
 https://fl3.moveonjoy.com/SYFY/index.m3u8
 
 #EXTINF:-63 tvg-logo="https://i.imgur.com/w64PvvF.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Movie Channels",TAP ACTION FLIX
-https://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bee1066160c0424696d9bf99ca0645e3:f5b72bf3b89b9848de5616f37de040b7
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapactionflix_hd1.mpd
 
 #EXTINF:-61 tvg-logo="https://i.imgur.com/e7xA7qK.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Movie Channels",TAP EDGE
-https://ott.udptv.xyz/stream/skyde/syfy/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6610/001/2/ch00000090990000001150/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-62 tvg-logo="https://i.imgur.com/3RVA5mV.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Movie Channels",TAP MOVIES
-https://ott.udptv.xyz/stream/udptvus/syfy/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=71cbdf02b595468bb77398222e1ade09:c3f2aa420b8908ab8761571c01899460
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapmovies_hd1.mpd
 
 #EXTINF:-60 tvg-logo="https://i.imgur.com/J6Olkop.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Movie Channels",TAP TV
-https://ott.udptv.xyz/stream/nbc/syfywest/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6610/001/2/ch00000090990000001149/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-79 tvg-logo="https://i.imgur.com/mNmRiMA.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Movie Channels",THRILL
-http://ott.udptv.net/stream/iptv/taptv/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-
-#EXTINF:-149 tvg-logo="https://i.imgur.com/lY1BAUH.png" group-logo="https://i.imgur.com/rsPE0Fp.png" group-title="Movie Channels",TVN
-https://ott.udptv.net/stream/iptv/tsn2/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=928114ffb2394d14b5585258f70ed183:a82edc340bc73447bac16cdfed0a4c62
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_thrill_sd.mpd 
 
 #EXTINF:-150 tvg-logo="https://i.imgur.com/oLzTyUX.png" group-logo="https://i.imgur.com/rsPE0Fp.png" group-title="Movie Channels",TVN MOVIES
-https://ott.udptv.net/stream/iptv/tsn3/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8e269c8aa32ad77eb83068312343d610:d12ccebafbba2a535d88a3087f884252
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_ott.mpd
 
 #EXTINF:-148 tvg-logo="https://i.imgur.com/QxTehhs.png" group-logo="https://i.imgur.com/rsPE0Fp.png" group-title="Anime/Cartoons",ANIMAX
-http://ott.udptv.net/stream/iptv/animax/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=edf1a715de9748638dd2fad75a419af2:2f5a3199b26e9b693ae881af7ff864cf
+https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
 
 #EXTINF:-1  tvg-name="Anime All Day" tvg-id="5812b7d3249444e05d09cc49" tvg-logo="https://images.pluto.tv/channels/5812b7d3249444e05d09cc49/colorLogoPNG.png" tvg-chno="3980" group-title="Anime/Cartoons",Anime All Day
 https://jmp2.uk/plu-5812b7d3249444e05d09cc49.m3u8
@@ -392,7 +445,7 @@ https://jmp2.uk/plu-5812b7d3249444e05d09cc49.m3u8
 https://live20.bozztv.com/giatv/giatv-animex/animex/playlist.m3u8
 
 #EXTINF:-167 tvg-logo="https://i.imgur.com/E1LIeR2.png" group-logo="https://i.imgur.com/rsPE0Fp.png" group-title="Anime/Cartoons",ANIME X HIDIVE
-https://ott.udptv.net/stream/iptv/animexhidive/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd
+https://amc-anime-x-hidive-1-us.tablo.wurl.tv/playlist.m3u8
 
 #EXTINF:-1  tvg-name="Aniplus" tvg-id="Aniplus.id" tvg-logo="https://static.wikia.nocookie.net/animax/images/b/b8/Aniplus_Asia_Logo.png" group-title="Anime/Cartoons",Aniplus
 https://ott.udptv.net/stream/iptv/aniplus/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
@@ -427,18 +480,25 @@ https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_dreamworks_hd1.mpd
 #KODIPROP:inputstream.adaptive.license_key=564b3b1c781043c19242c66e348699c5:d3ad27d7fe1f14fb1a2cd5688549fbab
 https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_dreamworktag.mpd
 
-#EXTINF:-1  tvg-name="Disney Channel CA" tvg-id="Disney.Channel.Canada.-.East.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/300px-2014_Disney_Channel_logo.svg.png" group-title="Anime/Cartoons",Disney Channel CA
-http://ott.udptv.net/stream/iptv/disneychannel/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
 #EXTINF:-1  tvg-name="Disney Channel US" tvg-id="sling/disneychannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/300px-2014_Disney_Channel_logo.svg.png" group-title="Anime/Cartoons",Disney Channel US
-https://ott.udptv.xyz/stream/udptvus/disneychannel/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-#EXTINF:-1  tvg-name="Disney JR CA" tvg-id="Disney.Junior.Canada.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/disney-jr-us.png?raw=true" group-title="Anime/Cartoons",Disney JR CA
-http://ott.udptv.net/stream/iptv/disneyjr/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=be9caaa813c5305e761c66ac63645901:3d40f2990ec5362ca5be3a3c9bb8f8b4
+https://a77aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/zuf794yutz/out/v1/ca3534bfe4f148298b36719204d108e0/cenc.mpd
+
 #EXTINF:-1  tvg-name="Disney JR US" tvg-id="sling/disneyjr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/disney-jr-us.png?raw=true" group-title="Anime/Cartoons",Disney JR US
-https://ott.udptv.xyz/stream/udptvus/disneyjr/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-#EXTINF:-1  tvg-name="Disney XD CA" tvg-id="Disney.XD.Canada.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/disney-xd-ca.png?raw=true" group-title="Anime/Cartoons",Disney XD CA
-http://ott.udptv.net/stream/iptv/disneyxd/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f5df57914a0922d5d5ed6b0a4af6290a:c62b10a180d1770a355b3c4cb6506ca0
+https://uselector.cdn.intigral-ott.net/DJR/DJR.isml/manifest.mpd
+
 #EXTINF:-1  tvg-name="Disney XD US" tvg-id="sling/disneyxd" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/disney-xd-ca.png?raw=true" group-title="Anime/Cartoons",Disney XD US
-https://ott.udptv.xyz/stream/udptvus/disneyxd/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=39cebece8b36640f9ba3f248ecfdf86a:fad936249e036830aa5bef41bec05326
+https://a53aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/jts4tzzv1k/out/v1/8a5b29f7068c415aa371ea95743382e6/cenc.mpd
 
 #EXTINF:-1  tvg-name="Garfield and Friends" tvg-id="677f927554f43dad4b3258aa" tvg-logo="https://images.pluto.tv/channels/677f927554f43dad4b3258aa/colorLogoPNG.png" tvg-chno="619" group-title="Anime/Cartoons",Garfield and Friends
 https://jmp2.uk/plu-677f927554f43dad4b3258aa.m3u8
@@ -458,10 +518,12 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_moonbug_kids_sd.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default_ott.mpd
 
 #EXTINF:-96 tvg-logo="https://i.imgur.com/eaUHjP6.png" group-logo="https://i.imgur.com/NbRG0IW.jpeg" group-title="Anime/Cartoons",NICK JR.
-https://ott.udptv.xyz/stream/astro/nickjunior/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001215/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Nicktoons.png" group-title="Anime/Cartoons" tvg-id="Nicktoons.-.East.us",Nicktoons
-http://fl1.moveonjoy.com/NICKTOONS/index.m3u8
+http://jabawalkies.club:8080/Yge18mSBSG/Tygp63MXun/100947
 
 #EXTINF:-101 tvg-logo="https://i.imgur.com/xhmWQXs.png" group-logo="https://i.imgur.com/NbRG0IW.jpeg" group-title="Anime/Cartoons",PBS KIDS
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
@@ -470,7 +532,7 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 https://jmp2.uk/sam-CABC2300012FY.m3u8
 
 #EXTINF:-1  tvg-name="Teen Nick" tvg-id="udptvus/teennick" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/teen-nick-us.png?raw=true" group-title="Anime/Cartoons",Teen Nick
-https://ott.udptv.org/stream/udptvus/teennick/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd
+http://jabawalkies.club:8080/Yge18mSBSG/Tygp63MXun/100978
 
 #EXTINF:-1  tvg-name="The LEGO Channel" tvg-id="77761dc1928357d6809a2032fc2e17b8" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/77761dc1928357d6809a2032fc2e17b8/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1657671397295_LEGO_260x147.png" tvg-chno="404" group-title="Anime/Cartoons",The LEGO Channel
 https://jmp2.uk/rok-77761dc1928357d6809a2032fc2e17b8.m3u8
@@ -487,20 +549,25 @@ https://jmp2.uk/rok-9bd570b8bf145f73bba7532221e12666.m3u8
 #EXTINF:-105 tvg-logo="https://i.imgur.com/daHHNzj.png" group-logo="https://i.imgur.com/NbRG0IW.jpeg" group-title="Anime/Cartoons",ZOOMOO
 https://zoomoo-samsungau.amagi.tv/playlist720p.m3u8
 
-#EXTINF:-1  tvg-id="Adult.Swim.-.East.HD.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/adult-swim-us.png?raw=true" group-title="Entertainment/Documentary",Adult Swim
-https://ott.udptv.xyz/stream/udptv/adultswim/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd
-
 #EXTINF:-1  tvg-name="American Ninja Warrior" tvg-id="eec9d131b4095083a23c485d804c8b2d" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/eec9d131b4095083a23c485d804c8b2d/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1713548868549_ANW_260x147_2x1_logo_center_align_EFEFEF_transparent_bkgd_roku_PNG.png" tvg-chno="612" group-title="Entertainment/Documentary",American Ninja Warrior
 https://jmp2.uk/rok-eec9d131b4095083a23c485d804c8b2d.m3u8
 
 #EXTINF:-110 tvg-logo="https://i.imgur.com/RXMzzlB.png" group-logo="https://i.imgur.com/tURRa1o.png" group-title="Entertainment/Documentary",ANIMAL PLANET
-https://ott.udptv.xyz/stream/astro/animalplanet/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=436b69f987924fcbbc06d40a69c2799a:c63d5b0d7e52335b61aeba4f6537d54d
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_animal_planet_sd.mpd
 
 #EXTINF:-157 tvg-logo="https://i.imgur.com/jgiNWxJ.png" group-logo="https://i.imgur.com/rsPE0Fp.png" group-title="Entertainment/Documentary",ARIRANG
-
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6610/001/2/ch00000090990000001107/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-130 tvg-logo="https://i.imgur.com/ykb2DmC.png" group-logo="https://i.imgur.com/tURRa1o.png" group-title="Entertainment/Documentary",ASIAN FOOD NETWORK
-https://ott.udptv.xyz/stream/udptvus/foodnetwork/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.113:6610/001/2/ch00000090990000001342/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-112 tvg-logo="https://i.imgur.com/ipKlaA4.png" group-logo="https://i.imgur.com/tURRa1o.png" group-title="Entertainment/Documentary",BBC LIFESTYLE
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -508,7 +575,9 @@ https://ott.udptv.xyz/stream/udptvus/foodnetwork/master.m3u8?u=cocked&p=dd0abb52
 https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_bbclifestyle.mpd
 
 #EXTINF:-152 tvg-logo="https://i.imgur.com/IAfMULB.png" group-logo="https://i.imgur.com/rsPE0Fp.png" group-title="Entertainment/Documentary",CGTN DOCUMENTARY
-https://ott.udptv.xyz/stream/astro/cgtn/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6610/001/2/ch00000090990000001110/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-1  tvg-name="Cleo TV" tvg-id="CLEO.TV.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cleo-tv-us.png?raw=true" group-title="Entertainment/Documentary" radio="false",Cleo TV
 https://fl3.moveonjoy.com/Cleo_TV/index.m3u8
