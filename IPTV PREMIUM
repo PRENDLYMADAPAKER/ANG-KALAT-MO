@@ -24,7 +24,7 @@ https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_a2z.mpd
 #EXTINF:-2 tvg-logo="https://i.imgur.com/lrd5Z0V.jpeg" group-logo="https://i.imgur.com/083Ud3K.jpeg" group-title="Local Channels 🇵🇭",ALIW CHANNEL
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://143.44.136.110:6610/001/2/ch00000090990000001109/manifest.mpd?virtualDomain=001.live_hls.zte.com
+http://161.49.17.2:6610/001/2/ch00000090990000001109/manifest.mpd?JITPDRMType=Widevine&amp;virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-3 tvg-logo="https://i.imgur.com/Cct1oKY.png" group-logo="https://i.imgur.com/jNO5leA.jpeg" group-title="Local Channels 🇵🇭",ALL TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
