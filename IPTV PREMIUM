@@ -130,9 +130,7 @@ http://161.49.17.2:6610/001/2/ch00000090990000001286/manifest.mpd?JITPDRMType=Wi
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_knowledgechannel.mpd
 
 #EXTINF:-26 tvg-logo="https://i.imgur.com/s6gOugU.jpeg" group-logo="https://i.imgur.com/083Ud3K.jpeg" group-title="Local Channels 🇵🇭",NET25
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://143.44.136.111:6610/001/2/ch00000090990000001090/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
 
 #EXTINF:-28 tvg-logo="https://i.imgur.com/9dMuFE1.png" group-logo="https://i.imgur.com/083Ud3K.jpeg" group-title="Local Channels 🇵🇭",ONE PH
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -162,7 +160,9 @@ https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_onesports_hd.mpd
 #KODIPROP:inputstream.adaptive.license_key=322d06e9326f4753a7ec0908030c13d8:1e3e0ca32d421fbfec86feced0efefda
 https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_onesportsplus_hd1.mpd
 
-#EXTINF:-204 tvg-logo="https://i.imgur.com/LGXe6fr.jpeg" group-logo="https://i.imgur.com/IV8omb6.jpeg" group-title="Local Channels 🇵🇭",PBA RUSH
+#E#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.111:6910/001/2/ch00000090990000001090/manifest.mpd?JITPDRMType=Widevine&amp;virtualDomain=001.live_hls.zte.comXTINF:-204 tvg-logo="https://i.imgur.com/LGXe6fr.jpeg" group-logo="https://i.imgur.com/IV8omb6.jpeg" group-title="Local Channels 🇵🇭",PBA RUSH
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
