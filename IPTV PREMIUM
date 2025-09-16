@@ -1,9 +1,11 @@
 #EXTM3U url-tvg="http://drewlive24.duckdns.org:8081/merged2_epg.xml.gz"
 
 #EXTINF:-206 tvg-logo="https://i.imgur.com/OGXzvsp.png" group-logo="https://i.imgur.com/IV8omb6.jpeg" group-title="NBA CHANNEL🏀",NBA TV PHILIPPINES
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c5e51f41ceac48709d0bdcd9c13a4d88:20b91609967e472c27040716ef6a8b9a
-https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cgnl_nba.mpd
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cgnl_nba/default/index.mpd
 
 #EXTINF:-1  tvg-name="NBA TV HD" tvg-id="nba-tv-usa" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" group-title="NBA CHANNEL🏀",NBA TV HD
 http://fl5.moveonjoy.com/NBA_TV/index.m3u8
