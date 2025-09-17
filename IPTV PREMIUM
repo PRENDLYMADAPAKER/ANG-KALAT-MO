@@ -115,14 +115,10 @@ http://143.44.136.113:6910/001/2/ch00000090990000001250/manifest.mpd?JITPDRMType
 https://jungotvstream.chanall.tv/jungotv/jungopinoytv/stream.m3u8
 
 #EXTINF:-1 tvg-id="Kapamilya Channel" group-title="Local Channels 🇵🇭" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Kapamilya_Channel_Logo_2020.svg/2560px-Kapamilya_Channel_Logo_2020.svg.png",Kapamilya Channel
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bd17afb5dc9648a39be79ee3634dd4b8:3ecf305d54a7729299b93a3d69c02ea5
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/index.mpd
+https://d1uf7s78uqso1e.cloudfront.net/out/v1/efa01372657648be830e7c23ff68bea2/index.mpd
 
 #EXTINF:-22 tvg-logo="https://i.imgur.com/LXQmZvX.png" group-logo="https://i.imgur.com/083Ud3K.jpeg" group-title="Local Channels 🇵🇭",KAPAMILYA CHANNEL HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://161.49.17.2:6610/001/2/ch00000090990000001286/manifest.mpd?JITPDRMType=Widevine&amp;virtualDomain=001.live_hls.zte.com
+https://live-faws.akamaized.net/out/v1/efa01372657648be830e7c23ff68bea2/index.mpd
 
 #EXTINF:-23 tvg-logo="https://i.imgur.com/9ROZkXn.png" group-logo="https://i.imgur.com/083Ud3K.jpeg" group-title="Local Channels 🇵🇭",KNOWLEDGE CHANNEL
 #KODIPROP:inputstreamaddon=inputstream.adaptive
