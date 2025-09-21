@@ -230,7 +230,9 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/tv5_hd/default1/index.mpd
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_tvnmovie/default/index.mpd
 
 #EXTINF:-43 tvg-logo="https://i.imgur.com/oDBbEYW.jpeg" group-logo="https://i.imgur.com/083Ud3K.jpeg" group-title="Local Channels 🇵🇭",TVUP
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=83e813ccd4ca4837afd611037af02f63:a97c515dbcb5dcbc432bbd09d15afd41
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/tvup_prd/default/index.mpd
 
 #EXTINF:-207 tvg-logo="https://i.imgur.com/V0sxXci.png" group-logo="https://i.imgur.com/IV8omb6.jpeg" group-title="Local Channels 🇵🇭",UAAP VARSITY
 #KODIPROP:inputstreamaddon=inputstream.adaptive
