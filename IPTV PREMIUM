@@ -362,50 +362,42 @@ https://268d7193278949b4b4796e63861deee5.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="" tvg-name="ScreamFlix" tvg-logo="" group-title="Movie Channels", ScreamFlix
 https://jungotvstream.chanall.tv/jungotv/screamflix/playlist_720p.m3u8
 
-#EXTINF:-1  tvg-name="Showtime" tvg-id="Paramount+.with.Showtime.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png?raw=true" group-title="Movie Channels" radio="false",Showtime
-https://fl3.moveonjoy.com/SHOWTIME/index.m3u8
-
-#EXTINF:-1  tvg-name="Showtime 2" tvg-id="Showtime.2.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true" group-title="Movie Channels",Showtime 2
-https://fl3.moveonjoy.com/SHOWTIME_2/index.m3u8
-
-#EXTINF:-1  tvg-name="Showtime Extreme" tvg-id="Showtime.Extreme.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-extreme-us.png?raw=true" group-title="Movie Channels",Showtime Extreme
-http://fl1.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
-
-#EXTINF:-1  tvg-name="Showtime Next" tvg-id="Showtime.Next.HD.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-next-us.png?raw=true" group-title="Movie Channels",Showtime Next
-https://fl3.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
-
-#EXTINF:-1  tvg-name="Showtime Women" tvg-id="Showtime.Women.HD.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-women-us.png?raw=true" group-title="Movie Channels" radio="false",Showtime Women
-https://fl3.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
+#EXTINF:-1  tvg-name="Showtime" tvg-id="Paramount+.with.Showtime.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png?raw=true" group-title="Movie Channels" radio="false",Showtime
+https://fl7.moveonjoy.com/SHOWTIME/index.m3u8
+#EXTINF:-1  tvg-name="Showtime 2" tvg-id="Showtime.2.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true" group-title="Movie Channels" radio="false",Showtime 2
+https://fl7.moveonjoy.com/SHOWTIME_2/index.m3u8
+#EXTINF:-1  tvg-name="Showtime Extreme" tvg-id="Showtime.Extreme.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-extreme-us.png?raw=true" group-title="Movie Channels" radio="false",Showtime Extreme
+https://fl7.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
+#EXTINF:-1  tvg-name="Showtime Next" tvg-id="Showtime.Next.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-next-us.png?raw=true" group-title="Movie Channels" radio="false",Showtime Next
+https://fl7.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
+#EXTINF:-1  tvg-name="Showtime West" tvg-id="Paramount+.with.Showtime.HD.(Pacific).us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png?raw=true" group-title="Movie Channels" radio="false",Showtime West
+https://fl7.moveonjoy.com/SHOWTIME_WEST/index.m3u8
+#EXTINF:-1  tvg-name="Showtime Women" tvg-id="Showtime.Women.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-women-us.png?raw=true" group-title="Movie Channels" radio="false",Showtime Women
+https://fl7.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
 
 #EXTINF:-1  tvg-name="Sony Movie Channel" tvg-id="Sony.Movies.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sony-movie-channel-hz-us.png?raw=true" group-title="Movie Channels" radio="false",Sony Movie Channel
-http://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
+https://fl7.moveonjoy.com/Sony_Movie_Channel/index.m3u8
 
-#EXTINF:-1  tvg-name="Starz" tvg-id="Starz.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true" group-title="Movie Channels" radio="false",Starz
-https://fl3.moveonjoy.com/STARZ/index.m3u8
-
-#EXTINF:-1  tvg-name="Starz Comedy" tvg-id="Starz.Comedy.HD.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-comedy-us.png?raw=true" group-title="Movie Channels" radio="false",Starz Comedy
-http://fl1.moveonjoy.com/STARZ_COMEDY/index.m3u8
-
-#EXTINF:-1  tvg-name="Starz Edge" tvg-id="Starz.Edge.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-edge-us.png?raw=true" group-title="Movie Channels" radio="false",Starz Edge
-http://fl1.moveonjoy.com/STARZ_EDGE/index.m3u8
-
-#EXTINF:-1  tvg-name="Starz Encore Action" tvg-id="Starz.Encore.Action.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-action-us.png?raw=true" group-title="Movie Channels" radio="false",Starz Encore Action
-http://fl1.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
-
-#EXTINF:-1  tvg-name="STARZ ENCORE CLASSIC" tvg-id="Starz.Encore.Classic.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-classic-us.png?raw=true" group-title="Movie Channels" radio="false",STARZ ENCORE CLASSIC
-http://fl5.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
-
-#EXTINF:-1  tvg-name="Starz Encore Westerns" tvg-id="Starz.Encore.Westerns.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-westerns-us.png?raw=true" group-title="Movie Channels" radio="false",Starz Encore Westerns
-http://fl1.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
-
-#EXTINF:-1  tvg-name="STARZ WEST" tvg-id="Starz.-.Pacific.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true" group-title="Movie Channels" radio="false",STARZ WEST
-https://fl3.moveonjoy.com/STARZ_WEST/index.m3u8
-
-#EXTINF:-1 group-title="Movie Channels" tvg-id="Start.TV.us" tvg-logo="https://i.imgur.com/3KeTfBa.jpeg" tvg-name="Start TV",Start TV
-http://fl3.moveonjoy.com/Start_Tv/index.mu8
-
-#EXTINF:-1  tvg-name="SYFY" tvg-id="Syfy.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-us.png?raw=true" group-title="Movie Channels" radio="false",SYFY
-https://fl3.moveonjoy.com/SYFY/index.m3u8
+#EXTINF:-1  tvg-name="Start TV" tvg-id="Start.TV.Network.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/start-tv-us.png?raw=true" group-title="Movie Channels" radio="false",Start TV
+https://fl7.moveonjoy.com/Start_Tv/index.m3u8
+#EXTINF:-1  tvg-name="Starz" tvg-id="Starz.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true" group-title="Movie Channels" radio="false",Starz
+https://fl7.moveonjoy.com/STARZ/index.m3u8
+#EXTINF:-1  tvg-name="Starz Comedy" tvg-id="Starz.Comedy.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-comedy-us.png?raw=true" group-title="Movie Channels" radio="false",Starz Comedy
+https://fl7.moveonjoy.com/STARZ_COMEDY/index.m3u8
+#EXTINF:-1  tvg-name="Starz Edge" tvg-id="Starz.Edge.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-edge-us.png?raw=true" group-title="Movie Channels" radio="false",Starz Edge
+https://fl7.moveonjoy.com/STARZ_EDGE/index.m3u8
+#EXTINF:-1  tvg-name="Starz Encore Action" tvg-id="Starz.Encore.Action.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-action-us.png?raw=true" group-title="Movie Channels" radio="false",Starz Encore Action
+https://fl7.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
+#EXTINF:-1  tvg-name="STARZ ENCORE CLASSIC" tvg-id="Starz.Encore.Classic.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-classic-us.png?raw=true" group-title="Movie Channels" radio="false",STARZ ENCORE CLASSIC
+https://fl7.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
+#EXTINF:-1  tvg-name="Starz Encore Westerns" tvg-id="Starz.Encore.Westerns.SD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-westerns-us.png?raw=true" group-title="Movie Channels" radio="false",Starz Encore Westerns
+https://fl7.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
+#EXTINF:-1  tvg-name="STARZ WEST" tvg-id="Starz.HD.(Pacific).us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true" group-title="Movie Channels" radio="false",STARZ WEST
+https://fl7.moveonjoy.com/STARZ_WEST/index.m3u8
+#EXTINF:-1  tvg-name="SundanceTV" tvg-id="SundanceTV.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16108_dark_360w_270h.png" group-title="Movie Channels" radio="false",SundanceTV
+https://fl7.moveonjoy.com/SUNDANCE/index.m3u8
+#EXTINF:-1  tvg-name="SYFY" tvg-id="Syfy.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-us.png?raw=true" group-title="Movie Channels" radio="false",SYFY
+https://fl7.moveonjoy.com/SYFY/index.m3u8
 
 #EXTINF:-63 tvg-logo="https://i.imgur.com/w64PvvF.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Movie Channels",TAP ACTION FLIX
 #KODIPROP:inputstreamaddon=inputstream.adaptive
