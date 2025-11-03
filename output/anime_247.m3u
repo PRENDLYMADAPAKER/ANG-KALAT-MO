@@ -1,24 +1,30 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="PokemonClassic" group-title="Anime", Pokemon Classic 24/7
-http://live.poketv.to/classic/stream.m3u8
-#EXTINF:-1 tvg-id="ChainsawMan" group-title="Anime", Chainsaw Man 24/7
-http://animehero.tv/chainsawman/stream.m3u8
-#EXTINF:-1 tvg-id="TokyoGhoul" group-title="Anime", Tokyo Ghoul 24/7
-http://animevibes.live/tokyoghoul/playlist.m3u8
-#EXTINF:-1 tvg-id="CodeGeass" group-title="Anime", Code Geass 24/7
-http://198.251.81.236:8080/live/CodeGeass/stream.m3u8
+#EXTINF:-1 tvg-id="MHA" group-title="Anime", My Hero Academia 24/7
+http://animefox.tv/mha/stream.m3u8
 #EXTINF:-1 tvg-id="Inuyasha" group-title="Anime", Inuyasha 24/7
 http://animefox.tv/inuyasha/stream.m3u8
-#EXTINF:-1 tvg-id="DeathNote" group-title="Anime", Death Note 24/7
-http://198.251.81.236:8080/live/DeathNote/stream.m3u8
-#EXTINF:-1 tvg-id="DBZ" group-title="Anime", Dragon Ball Z 24/7
-http://178.33.132.162:1935/live/dragonballz.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="FairyTail" group-title="Anime", Fairy Tail 24/7
-http://198.251.81.236:8080/live/FairyTail/stream.m3u8
+#EXTINF:-1 tvg-id="YuYuHakusho" group-title="Anime", Yu Yu Hakusho 24/7
+http://animetv.stream/yuyu/stream.m3u8
+#EXTINF:-1 tvg-id="BlackClover" group-title="Anime", Black Clover 24/7
+http://animefox.tv/blackclover/stream.m3u8
 #EXTINF:-1 tvg-id="Naruto" group-title="Anime", Naruto Shippuden 24/7
 http://161.97.123.52:8080/anime/naruto/playlist.m3u8
-#EXTINF:-1 tvg-id="Bleach" group-title="Anime", Bleach 24/7
-http://198.251.81.236:8080/live/Bleach/stream.m3u8
-#EXTINF:-1 tvg-id="Digimon" group-title="Anime", Digimon 24/7
-http://live.animetv.online/digimon.m3u8
-# Updated: 2025-11-02T06:12:13.077206Z
+#EXTINF:-1 tvg-id="DBZ" group-title="Anime", Dragon Ball Z 24/7
+http://178.33.132.162:1935/live/dragonballz.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ChainsawMan" group-title="Anime", Chainsaw Man 24/7
+http://animehero.tv/chainsawman/stream.m3u8
+#EXTINF:-1 tvg-id="DemonSlayer" group-title="Anime", Demon Slayer 24/7
+http://103.145.12.56:8080/demonslayer/live.m3u8
+#EXTINF:-1 tvg-id="FairyTail" group-title="Anime", Fairy Tail 24/7
+http://198.251.81.236:8080/live/FairyTail/stream.m3u8
+#EXTINF:-1 tvg-id="AOT" group-title="Anime", Attack on Titan 24/7
+http://51.81.208.167:8080/aot/live.m3u8
+#EXTINF:-1 tvg-id="Toonami" group-title="Anime", Toonami Loop
+http://freeviewanime.ddns.net:8000/stream/toonami.m3u8
+#EXTINF:-1 tvg-id="Gintama" group-title="Anime", Gintama 24/7
+http://otakustream.to/gintama/stream.m3u8
+#EXTINF:-1 tvg-id="PokemonClassic" group-title="Anime", Pokemon Classic 24/7
+http://live.poketv.to/classic/stream.m3u8
+#EXTINF:-1 tvg-id="JJK" group-title="Anime", Jujutsu Kaisen 24/7
+http://iptvanime.net:8000/jujutsukaisen/stream.m3u8
+# Updated: 2025-11-03T06:14:37.438262Z
