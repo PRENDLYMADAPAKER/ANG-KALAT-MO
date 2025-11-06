@@ -547,16 +547,6 @@ http://mains.services/live/pmf0423/1aku0jt%40/2657e4ec-5654-43e4-a224-76209ede2f
 #KODIPROP:inputstream.adaptive.license_key=f703e4c8ec9041eeb5028ab4248fa094:c22f2162e176eee6273a5d0b68d19530
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_a2z/default/index.mpd
 
-#EXTINF:-2 tvg-logo="https://i.imgur.com/lrd5Z0V.jpeg" group-logo="https://i.imgur.com/083Ud3K.jpeg" group-title="Local Channels 🇵🇭",ALIW CHANNEL
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://161.49.17.2:6610/001/2/ch00000090990000001109/manifest.mpd?JITPDRMType=Widevine&amp;virtualDomain=001.live_hls.zte.com
-
-#EXTINF:-3 tvg-logo="https://i.imgur.com/Cct1oKY.png" group-logo="https://i.imgur.com/jNO5leA.jpeg" group-title="Local Channels 🇵🇭",ALL TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://161.49.17.2:6610/001/2/ch00000090990000001179/manifest.mpd?JITPDRMType=Widevine&amp;virtualDomain=001.live_hls.zte.com
-
 #EXTINF:-4 tvg-logo="https://i.imgur.com/XzVYXaV.png" group-logo="https://i.imgur.com/083Ud3K.jpeg" group-title="Local Channels 🇵🇭",ANC
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -581,25 +571,10 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_buko_sd/default/index.m
 #KODIPROP:inputstream.adaptive.license_key=0f8537d8412b11edb8780242ac120002:2ffd7230416150fd5196fd7ea71c36f3
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/celmovie_pinoy_sd/default/index.mpd
 
-#EXTINF:-8 tvg-logo="https://i.imgur.com/ICbvO7y.jpeg" group-logo="https://i.imgur.com/083Ud3K.jpeg" group-title="Local Channels 🇵🇭",CENTRAL LUZON TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://161.49.17.2:6610/001/2/ch00000090990000001314/manifest.mpd?JITPDRMType=Widevine&amp;virtualDomain=001.live_hls.zte.com
-
-#EXTINF:-9 tvg-logo="https://i.imgur.com/3Ckk8OH.jpeg" group-logo="https://i.imgur.com/083Ud3K.jpeg" group-title="Local Channels 🇵🇭",CINEMA ONE PH
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://143.44.136.110:6910/001/2/ch00000090990000001283/manifest.mpd?virtualDomain=001.live_hls.zte.com
-
 #EXTINF:-1  tvg-name="Cinema One Global" tvg-id="Cinema.One.ph" tvg-logo="https://i.imgur.com/hJ6MBiA.png" group-title="Local Channels 🇵🇭",Cinema One Global
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=58d0e56991194043b8fb82feb4db7276:d68f41b59649676788889e19fb10d22c
 https://d9rpesrrg1bdi.cloudfront.net/out/v1/93b9db7b231d45f28f64f29b86dc6c65/index.mpd
-
-#EXTINF:-10 tvg-logo="https://i.imgur.com/Pf8CNau.png" group-logo="https://i.imgur.com/083Ud3K.jpeg" group-title="Local Channels 🇵🇭",CINEMO
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://143.44.136.110:6910/001/2/ch00000090990000001254/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-1  tvg-name="Cinemo Global" tvg-id="CINEMO!.ph" tvg-logo="https://i.imgur.com/4xDiXMP.png" group-title="Local Channels 🇵🇭",Cinemo Global
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -612,21 +587,6 @@ https://d1bail49udbz1k.cloudfront.net/out/v1/3a895f368f4a467c9bca0962559efc19/in
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=47c093e0c9fd4f80839a0337da3dd876:50547394045b3d047dc7d92f57b5fb33
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-teleradyo-dash-abscbnono/index.mpd
-
-#EXTINF:-12 tvg-logo="https://i.imgur.com/P1mCl2k.png" group-logo="https://i.imgur.com/083Ud3K.jpeg" group-title="Local Channels 🇵🇭",DZRH TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://161.49.17.2:6610/001/2/ch00000090990000001174/manifest.mpd?JITPDRMType=Widevine&amp;virtualDomain=001.live_hls.zte.com
-
-#EXTINF:-13 tvg-logo="https://i.imgur.com/qgy7oAa.png" group-logo="https://i.imgur.com/083Ud3K.jpeg" group-title="Local Channels 🇵🇭",GMA
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://161.49.17.2:6610/001/2/ch00000090990000001093/manifest.mpd?JITPDRMType=Widevine&amp;virtualDomain=001.live_hls.zte.com
-
-#EXTINF:-14 tvg-logo="https://i.imgur.com/yMK7Fd5.png" group-logo="https://i.imgur.com/083Ud3K.jpeg" group-title="Local Channels 🇵🇭",GTV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://161.49.17.2:6610/001/2/ch00000090990000001143/manifest.mpd?JITPDRMType=Widevine&amp;virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dxs/images/b/b0/Heart_of_Asia_2D_Logo_2020.png" group-title="Local Channels 🇵🇭",Heart of Asia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -643,11 +603,6 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/ibc13_sd_new/default1/inde
 #KODIPROP:inputstream.adaptive.license_key=abba271e8bcf552bbd2e86a434a9a5d9:69eaa802a6763af979e8d1940fb88392
 https://kaotv.ganbaruby23.xyz/dash/iheartmovies/manifest.mpd
 
-#EXTINF:-18 tvg-logo="https://i.imgur.com/3yzbJE5.png" group-logo="https://i.imgur.com/083Ud3K.jpeg" group-title="Local Channels 🇵🇭",JEEPNEY TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://143.44.136.113:6910/001/2/ch00000090990000001250/manifest.mpd?JITPDRMType=Widevine&amp;virtualDomain=001.live_hls.zte.com
-
 #EXTINF:-1  tvg-name="Jugo Pinoy TV" tvg-id="iptv/jugopinoytv" tvg-logo="https://dito.ph/hubfs/Dito_July2021/Ott%20Pages/Jungo-img/Jungo-logo.png" group-title="Local Channels 🇵🇭",Jugo Pinoy TV
 https://jungotvstream.chanall.tv/jungotv/jungopinoytv/stream.m3u8
 
@@ -663,11 +618,6 @@ https://live-faws.akamaized.net/out/v1/efa01372657648be830e7c23ff68bea2/index.mp
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0f856fa0412b11edb8780242ac120002:783374273ef97ad3bc992c1d63e091e7
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_knowledgechannel.mpd
-
-#EXTINF:-26 tvg-logo="https://i.imgur.com/s6gOugU.jpeg" group-logo="https://i.imgur.com/083Ud3K.jpeg" group-title="Local Channels 🇵🇭",NET25
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://143.44.136.111:6910/001/2/ch00000090990000001090/manifest.mpd?JITPDRMType=Widevine&amp;virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-28 tvg-logo="https://i.imgur.com/9dMuFE1.png" group-logo="https://i.imgur.com/083Ud3K.jpeg" group-title="Local Channels 🇵🇭",ONE PH
 #KODIPROP:inputstreamaddon=inputstream.adaptive
