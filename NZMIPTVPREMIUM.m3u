@@ -564,9 +564,6 @@ https://v1.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=hGikRx-FBMxN85LEhY
 #KODIPROP:inputstream.adaptive.license_key=c5e51f41ceac48709d0bdcd9c13a4d88:20b91609967e472c27040716ef6a8b9a
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cgnl_nba/default/index.mpd
 
-#EXTINF:-1  tvg-name="NBA TV HD" tvg-id="nba-tv-usa" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" group-title="NBA CHANNEL🏀",NBA TV HD
-http://jabawalkies.club:8080/Yge18mSBSG/Tygp63MXun/3616
-
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA TV Canada" tvg-logo="https://imgur.com/5hqShvt.png" group-title="NBA CHANNEL🏀",NBA TV Canada
 http://mains.services/live/pmf0423/1aku0jt%40/2657e4ec-5654-43e4-a224-76209ede2f07.ts
 
@@ -794,9 +791,6 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/viva_sd/default/index.mpd
 #EXTINF:-1  tvg-name="5 StarMax" tvg-id="5.Star.Max.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-5-starmax-us.png" group-title="Movie Channels" radio="false",5 StarMax
 http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 
-#EXTINF:-1  tvg-name="AMC" tvg-id="udptvus/amc" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/amc-es.png" group-title="Movie Channels",AMC
-http://jabawalkies.club:8080/Yge18mSBSG/Tygp63MXun/1527
-
 #EXTINF:-163 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Celestial_HD_v1.png" group-logo="https://i.imgur.com/rsPE0Fp.png" group-title="Movie Channels",CELESTIAL MOVIES
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c5c1ba26907291afec11a9a78d513410:361197805d0149c29801946cf2dde67c
@@ -805,15 +799,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_ott.mpd
 
 #EXTINF:-1  tvg-name="CINEMAX MOREMAX" tvg-id="MoreMax..Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-moremax-us.png?raw=true" group-title="Movie Channels" radio="false",CINEMAX MOREMAX
 http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
-
-#EXTINF:-1  tvg-name="FX" tvg-id="sling/fxx" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fx-us.png?raw=true" group-title="Movie Channels",FX
-http://jabawalkies.club:8080/Yge18mSBSG/Tygp63MXun/1599
-
-#EXTINF:-1  tvg-name="FXM" tvg-id="FXM.REGIONAL.OTT.(FX.Movies.DTH).pe" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fxm-movie-channel-us.png?raw=true" group-title="Movie Channels",FXM
-http://jabawalkies.club:8080/Yge18mSBSG/Tygp63MXun/46182
-
-#EXTINF:-1  tvg-name="FXX" tvg-id="FXX.USA.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fxx-us.png?raw=true" group-title="Movie Channels",FXX
-http://jabawalkies.club:8080/Yge18mSBSG/Tygp63MXun/8321
 
 #EXTINF:-1 tvg-id="hits-hd" tvg-logo="https://i.imgur.com/CxqHKUO.png" group-title="Movie Channels",Hits HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -840,12 +825,6 @@ https://linear-59.frequency.stream/dist/xumo/59/hls/master/playlist_1920x1080.m3
 #KODIPROP:inputstream.adaptive.license_key=d47ebabf7a21430b83a8c4b82d9ef6b1:54c213b2b5f885f1e0290ee4131d425b
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohd/default/index.mpd
 
-#EXTINF:-1  tvg-name="HBO2" tvg-id="HBO.2.-.Eastern.Feed.us" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/HBO2._SL170_FMpng_.png" group-title="Movie Channels",HBO2
-http://jabawalkies.club:8080/Yge18mSBSG/Tygp63MXun/18267
-
-#EXTINF:-1  tvg-name="HBO Comedy" tvg-id="HBO.Comedy.HD.-.East.us" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/HBO_Comedy._SL170_FMpng_.png" group-title="Movie Channels",HBO Comedy
-http://jabawalkies.club:8080/Yge18mSBSG/Tygp63MXun/1609
-
 #EXTINF:-69 tvg-logo="https://i.imgur.com/pZn9JHj.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Movie Channels",HBO HITS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b04ae8017b5b4601a5a0c9060f6d5b7d:a8795f3bdb8a4778b7e888ee484cc7a1
@@ -861,18 +840,6 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbosign/default/index.m
 #KODIPROP:inputstream.adaptive.license_key=872910c843294319800d85f9a0940607:f79fd895b79c590708cf5e8b5c6263be
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbofam/default/index.mpd
 
-#EXTINF:-1  tvg-name="HBO Zone" tvg-id="HBO.Zone.HD.-.East.us" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/HBO_Zone_East._SL170_FMpng_.png" group-title="Movie Channels",HBO Zone
-http://jabawalkies.club:8080/Yge18mSBSG/Tygp63MXun/1614
-
-#EXTINF:-1  tvg-name="MGM+" tvg-id="MGM+.HDTV.(East).(MGM+HD).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mgm-plus-us.png?raw=true" group-title="Movie Channels" radio="false",MGM+
-http://jabawalkies.club:8080/Yge18mSBSG/Tygp63MXun/1584
-
-#EXTINF:-1  tvg-name="MGM+ Drive-In" tvg-id="MGM+.Drive-In.(MGM+DI).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mgm-plus-drive-in-us.png?raw=true" group-title="Movie Channels" radio="false",MGM+ Drive-In
-http://jabawalkies.club:8080/Yge18mSBSG/Tygp63MXun/13115
-
-#EXTINF:-1  tvg-name="MGM+ HITS" tvg-id="MGM+.Hits.HDTV.(East).(MGM+HTHD).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mgm-plus-hits-us.png?raw=true" group-title="Movie Channels" radio="false",MGM+ HITS
-http://jabawalkies.club:8080/Yge18mSBSG/Tygp63MXun/46144
-
 #EXTINF:-1  tvg-name="MovieSphere by Lionsgate" tvg-id="645e7828e1979c00087b75b4" tvg-logo="https://images.pluto.tv/channels/645e7828e1979c00087b75b4/colorLogoPNG.png" tvg-chno="205" group-title="Movie Channels",MovieSphere by Lionsgate
 https://jmp2.uk/plu-645e7828e1979c00087b75b4.m3u8
 
@@ -885,11 +852,6 @@ http://38.143.48.212:9981/stream/channelid/1403847081?profile=pass
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="Movie Channels" group-title="Movie Channels",OXYGEN
-http://jabawalkies.club:8080/Yge18mSBSG/Tygp63MXun/1658
-#EXTINF:-1 tvg-id="" tvg-name="Movie Channels" group-title="Movie Channels",PARAMOUNT CHANNEL
-http://jabawalkies.club:8080/Yge18mSBSG/Tygp63MXun/1660
-
 #EXTINF:-1  tvg-name="RageTV" tvg-logo="https://i.imgur.com/Ym32WqZ.png" group-title="Movie Channels" radio="false",RageTV
 https://live20.bozztv.com/giatv/giatv-ragetv/ragetv/playlist.m3u8
 
@@ -898,43 +860,6 @@ https://268d7193278949b4b4796e63861deee5.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-id="" tvg-name="ScreamFlix" tvg-logo="" group-title="Movie Channels", ScreamFlix
 https://jungotvstream.chanall.tv/jungotv/screamflix/playlist_720p.m3u8
-
-#EXTINF:-1  tvg-name="Showtime" tvg-id="Paramount+.with.Showtime.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png?raw=true" group-title="Movie Channels" radio="false",Showtime
-http://jabawalkies.club:8080/Yge18mSBSG/Tygp63MXun/3771
-#EXTINF:-1  tvg-name="Showtime 2" tvg-id="Showtime.2.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true" group-title="Movie Channels" radio="false",Showtime 2
-http://jabawalkies.club:8080/Yge18mSBSG/Tygp63MXun/46316
-#EXTINF:-1  tvg-name="Showtime Extreme" tvg-id="Showtime.Extreme.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-extreme-us.png?raw=true" group-title="Movie Channels" radio="false",Showtime Extreme
-http://jabawalkies.club:8080/Yge18mSBSG/Tygp63MXun/13121
-#EXTINF:-1  tvg-name="Showtime Next" tvg-id="Showtime.Next.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-next-us.png?raw=true" group-title="Movie Channels" radio="false",Showtime Next
-http://jabawalkies.club:8080/Yge18mSBSG/Tygp63MXun/13122
-#EXTINF:-1  tvg-name="Showtime West" tvg-id="Paramount+.with.Showtime.HD.(Pacific).us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png?raw=true" group-title="Movie Channels" radio="false",Showtime West
-http://jabawalkies.club:8080/Yge18mSBSG/Tygp63MXun/1671
-#EXTINF:-1  tvg-name="Showtime Women" tvg-id="Showtime.Women.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-women-us.png?raw=true" group-title="Movie Channels" radio="false",Showtime Women
-http://jabawalkies.club:8080/Yge18mSBSG/Tygp63MXun/13123
-
-#EXTINF:-1  tvg-name="Sony Movie Channel" tvg-id="Sony.Movies.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sony-movie-channel-hz-us.png?raw=true" group-title="Movie Channels" radio="false",Sony Movie Channel
-http://jabawalkies.club:8080/Yge18mSBSG/Tygp63MXun/1674
-
-#EXTINF:-1  tvg-name="Start TV" tvg-id="Start.TV.Network.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/start-tv-us.png?raw=true" group-title="Movie Channels" radio="false",Start TV
-http://jabawalkies.club:8080/Yge18mSBSG/Tygp63MXun/1675
-#EXTINF:-1  tvg-name="Starz" tvg-id="Starz.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true" group-title="Movie Channels" radio="false",Starz Cinema
-http://jabawalkies.club:8080/Yge18mSBSG/Tygp63MXun/13124
-#EXTINF:-1  tvg-name="Starz Comedy" tvg-id="Starz.Comedy.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-comedy-us.png?raw=true" group-title="Movie Channels" radio="false",Starz Comedy
-http://jabawalkies.club:8080/Yge18mSBSG/Tygp63MXun/25425
-#EXTINF:-1  tvg-name="Starz Edge" tvg-id="Starz.Edge.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-edge-us.png?raw=true" group-title="Movie Channels" radio="false",Starz Edge
-http://jabawalkies.club:8080/Yge18mSBSG/Tygp63MXun/25427
-#EXTINF:-1  tvg-name="Starz Encore Action" tvg-id="Starz.Encore.Action.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-action-us.png?raw=true" group-title="Movie Channels" radio="false",Starz Encore Action
-http://jabawalkies.club:8080/Yge18mSBSG/Tygp63MXun/25426
-#EXTINF:-1  tvg-name="STARZ ENCORE CLASSIC" tvg-id="Starz.Encore.Classic.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-classic-us.png?raw=true" group-title="Movie Channels" radio="false",STARZ ENCORE CLASSIC
-http://jabawalkies.club:8080/Yge18mSBSG/Tygp63MXun/46342
-#EXTINF:-1 tvg-id="" tvg-name="NZM STREAMS🇵🇭" group-title="Movie Channels",Starz Kids & Family
-http://jabawalkies.club:8080/Yge18mSBSG/Tygp63MXun/1680
-#EXTINF:-1  tvg-name="STARZ WEST" tvg-id="Starz.HD.(Pacific).us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true" group-title="Movie Channels" radio="false",STARZ WEST
-http://jabawalkies.club:8080/Yge18mSBSG/Tygp63MXun/50407
-#EXTINF:-1  tvg-name="SundanceTV" tvg-id="SundanceTV.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16108_dark_360w_270h.png" group-title="Movie Channels" radio="false",SundanceTV
-http://jabawalkies.club:8080/Yge18mSBSG/Tygp63MXun/1686
-#EXTINF:-1  tvg-name="SYFY" tvg-id="Syfy.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-us.png?raw=true" group-title="Movie Channels" radio="false",SYFY
-http://jabawalkies.club:8080/Yge18mSBSG/Tygp63MXun/1687
 
 #EXTINF:-63 tvg-logo="https://i.imgur.com/w64PvvF.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Movie Channels",TAP ACTION FLIX
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -998,12 +923,6 @@ https://amc-anime-x-hidive-1-us.tablo.wurl.tv/playlist.m3u8
 #EXTINF:-1  tvg-name="Aniplus" tvg-id="Aniplus.id" tvg-logo="https://static.wikia.nocookie.net/animax/images/b/b8/Aniplus_Asia_Logo.png" group-title="Anime/Cartoons",Aniplus
 https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png" group-title="Anime/Cartoons" tvg-id="Boomerang.us",Boomerang
-http://jabawalkies.club:8080/Yge18mSBSG/Tygp63MXun/1543
-
-#EXTINF:-91 tvg-logo="https://i.imgur.com/Offhcm1.png" group-logo="https://i.imgur.com/NbRG0IW.jpeg" group-title="Anime/Cartoons",CARTOON NETWORK
-http://jabawalkies.club:8080/Yge18mSBSG/Tygp63MXun/3946
-
 #EXTINF:-92 tvg-logo="https://i.imgur.com/l7p2MpK.png" group-logo="https://i.imgur.com/NbRG0IW.jpeg" group-title="Anime/Cartoons",CARTOON NETWORK HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a05bebf706408431a390c3f9f40f410:89c5ff9f8e65c7fe966afbd2f9128e5f
@@ -1032,15 +951,6 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_dreamworks_hd1/default/
 #KODIPROP:inputstream.adaptive.license_key=564b3b1c781043c19242c66e348699c5:d3ad27d7fe1f14fb1a2cd5688549fbab
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_dreamworktag/default/index.mpd
 
-#EXTINF:-1  tvg-name="Disney Channel US" tvg-id="sling/disneychannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/300px-2014_Disney_Channel_logo.svg.png" group-title="Anime/Cartoons",Disney Channel US
-http://jabawalkies.club:8080/Yge18mSBSG/Tygp63MXun/1574
-
-#EXTINF:-1  tvg-name="Disney JR US" tvg-id="sling/disneyjr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/disney-jr-us.png?raw=true" group-title="Anime/Cartoons",Disney JR US
-http://jabawalkies.club:8080/Yge18mSBSG/Tygp63MXun/1576
-
-#EXTINF:-1  tvg-name="Disney XD US" tvg-id="sling/disneyxd" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/disney-xd-ca.png?raw=true" group-title="Anime/Cartoons",Disney XD US
-http://jabawalkies.club:8080/Yge18mSBSG/Tygp63MXun/1578
-
 #EXTINF:-1  tvg-name="Garfield and Friends" tvg-id="677f927554f43dad4b3258aa" tvg-logo="https://images.pluto.tv/channels/677f927554f43dad4b3258aa/colorLogoPNG.png" tvg-chno="619" group-title="Anime/Cartoons",Garfield and Friends
 https://jmp2.uk/plu-677f927554f43dad4b3258aa.m3u8
 
@@ -1054,23 +964,11 @@ https://jmp2.uk/plu-60fb040d4795a6000762fe8f.m3u8
 #KODIPROP:inputstream.adaptive.license_key=0bf00921bec94a65a124fba1ef52b1cd:0f1488487cbe05e2badc3db53ae0f29f
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_moonbug_kids_sd/default/index.mpd
 
-#EXTINF:-95 tvg-logo="https://i.imgur.com/kbIi1V6.png" group-logo="https://i.imgur.com/NbRG0IW.jpeg" group-title="Anime/Cartoons",NICKELODEON
-http://jabawalkies.club:8080/Yge18mSBSG/Tygp63MXun/1652
-
-#EXTINF:-96 tvg-logo="https://i.imgur.com/eaUHjP6.png" group-logo="https://i.imgur.com/NbRG0IW.jpeg" group-title="Anime/Cartoons",NICK JR.
-http://jabawalkies.club:8080/Yge18mSBSG/Tygp63MXun/1650
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Nicktoons.png" group-title="Anime/Cartoons" tvg-id="Nicktoons.-.East.us",Nicktoons
-http://jabawalkies.club:8080/Yge18mSBSG/Tygp63MXun/1653
-
 #EXTINF:-101 tvg-logo="https://i.imgur.com/xhmWQXs.png" group-logo="https://i.imgur.com/NbRG0IW.jpeg" group-title="Anime/Cartoons",PBS KIDS
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
 #EXTINF:-1  tvg-name="RetroCrush" tvg-id="CABC2300012FY" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC2300012FY_20250318T021309SQUARE.png" tvg-chno="3207" group-title="Anime/Cartoons",RetroCrush
 https://jmp2.uk/rok-72a54a3c7a3d5381a1baa223a5dc8d23.m3u8
-
-#EXTINF:-1  tvg-name="Teen Nick" tvg-id="udptvus/teennick" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/teen-nick-us.png?raw=true" group-title="Anime/Cartoons",Teen Nick
-http://jabawalkies.club:8080/Yge18mSBSG/Tygp63MXun/1693
 
 #EXTINF:-1  tvg-name="The LEGO Channel" tvg-id="77761dc1928357d6809a2032fc2e17b8" tvg-logo="http://xxip25.top:8080/98333898/98333898/38https://images.sr.roku.com/idType/roku/context/trc/id/77761dc1928357d6809a2032fc2e17b8/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1657671397295_LEGO_260x147.png" tvg-chno="404" group-title="Anime/Cartoons",The LEGO Channel
 https://jmp2.uk/rok-77761dc1928357d6809a2032fc2e17b8.m3u8
