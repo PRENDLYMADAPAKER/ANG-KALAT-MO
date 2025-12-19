@@ -88,9 +88,6 @@ https://d1bail49udbz1k.cloudfront.net/out/v1/3a895f368f4a467c9bca0962559efc19/in
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-teleradyo-dash-abscbnono/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Cu1tAY8.png" group-title="Local Channels 🇵🇭", GMA 7
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 https://converse.nathcreqtives.com/1093/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJFc3RldmFuMDAxIiwiZXhwIjoxNzY2NDEwNDYxfQ.YPu0ym8LCB3b1_4EKQ0o1I0bqIhYnHJrbJSp5n0JpTg
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/geuq18u.png" group-title="Local Channels 🇵🇭", GTV
@@ -101,7 +98,7 @@ https://converse.nathcreqtives.com/1143/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsI
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dxs/images/b/b0/Heart_of_Asia_2D_Logo_2020.png" group-title="Local Channels 🇵🇭",Heart of Asia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e2a7b8c1d9f0e3a4b5c6d7e8f1a2b3c4:0f1e2d3c4b5a60798877665544332211
+#KODIROP:inputstream.adaptive.license_key=e2a7b8c1d9f0e3a4b5c6d7e8f1a2b3c4:0f1e2d3c4b5a60798877665544332211
 http://hls.nathcreqtives.com/playlist.m3u8?id=1&?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJFc3RldmFuIiwiZXhwIjoxNzY2NzU4NjMzfQ.uZh-I1FUhiI7XTcAaqsvb2q4YMOLI-ZyLGmFasVHGs4
 
 #EXTINF:-1 tvg-id="ibc" tvg-logo="https://i.imgur.com/CTHhr3Q.png" group-title="Local Channels 🇵🇭",IBC 13
