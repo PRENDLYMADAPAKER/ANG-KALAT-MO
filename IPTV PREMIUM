@@ -400,7 +400,7 @@ https://amc-anime-x-hidive-1-us.tablo.wurl.tv/playlist.m3u8
 https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E6FA5Sr.jpeg" group-title="Anime/Cartoons",BOOMERANG TV
-http://fl3.moveonjoy.com/BOOMERANG/index.m3u8
+http://fl1.moveonjoy.com/BOOMERANG/index.m3u8
 
 #EXTINF:-92 tvg-logo="https://i.imgur.com/l7p2MpK.png" group-logo="https://i.imgur.com/NbRG0IW.jpeg" group-title="Anime/Cartoons",CARTOON NETWORK HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -452,7 +452,8 @@ https://jmp2.uk/plu-60fb040d4795a6000762fe8f.m3u8
 #KODIPROP:inputstream.adaptive.license_key=0bf00921bec94a65a124fba1ef52b1cd:0f1488487cbe05e2badc3db53ae0f29f
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_moonbug_kids_sd/default/index.mpd
 
-#EXTINF:-1 tvg-id="US: NICKELODEON EAST" tvg-name="USA Nickelodeon UHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" group-title="Anime/Cartoons",USA Nickelodeon
+#EXTINF:-1 tvg-id="Nickelodeon.USA.-.East.Feed.us" tvg-name="NICKELODEON" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" group-title="Anime/Cartoons",NICKELODEON
+http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
 
 #EXTINF:-1 tvg-id="Nick.Jr..-.East.us" tvg-name="NICK JR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19211_dark_360w_270h.png" group-title="Anime/Cartoons",NICK JR
 http://fl1.moveonjoy.com/NICK_JR/index.m3u8
