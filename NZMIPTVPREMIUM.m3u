@@ -572,6 +572,12 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-teleradyo-dash-abscbn
 #KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 https://gma.mikuy30.dpdns.org/7/gma7.mpd
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/geuq18u.png" group-title="Local Channels 🇵🇭", GTV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363232353335323435353337353331:35416a68643065697575493337566135
+https://honortvph.dpdns.org/1143/manifest.mpd
+
 #EXTINF:-1 tvg-id="ibc" tvg-logo="https://i.imgur.com/CTHhr3Q.png" group-title="Local Channels 🇵🇭",IBC 13
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=16ecd238c0394592b8d3559c06b1faf5:05b47ae3be1368912ebe28f87480fc84
