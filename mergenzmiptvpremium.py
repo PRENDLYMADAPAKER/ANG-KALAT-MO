@@ -11,7 +11,7 @@ urls = [
 ]
 
 # File where merged content will be saved
-EPG_URL = "https://tinyurl.com/DrewLive002-epg"
+EPG_URL = "https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz"
 output_file = "NZMIPTVPREMIUM.m3u"
 
 # Track whether we've added the #EXTM3U header already
