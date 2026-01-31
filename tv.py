@@ -195,7 +195,7 @@ def append_new_streams(lines, new_urls_with_groups):
 
 def clean_m3u_header_with_epg(lines):
     lines = [line for line in lines if not line.strip().startswith("#EXTM3U")]
-    lines.insert(0, '#EXTM3U url-tvg="https://tinyurl.com/DrewLive002-epg"')
+    lines.insert(0, '#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz"')
     return lines
 
 async def main():
