@@ -82,7 +82,7 @@ http://136.158.97.2:6610/001/2/ch00000090990000001093/manifest.mpd?AuthInfo=v87H
 https://honortvph.dpdns.org/1143/manifest.mpd
 
 #EXTINF:-1 group-title="Local Channels 🇵🇭",Heart Of Asia
-https://hls.nathcreqtives.com/playlist.m3u8?id=1&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJNb29uIiwiaWF0IjoxNzY3NjA5MjcyLCJleHAiOjE3NjgwNDEyNzIsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2ODA0MTI3Mn0.qrZR7snA7bitoXy-R-EztYsfYhfJo3hApqRjGQU2R-o
+https://hls.nathcreqtives.com/playlist.m3u8?id=1&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJNb29uIiwiaWF0IjoxNzY5MzE5NDc3LCJleHAiOjE3NzA2MTU0NzcsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc3MDYxNTQ3N30.GOfY8SO5KoHhQZiLp_dLOiyWtwyfgjXnyn8ElW7ARHM
 
 #EXTINF:-1 tvg-id="ibc" tvg-logo="https://i.imgur.com/CTHhr3Q.png" group-title="Local Channels 🇵🇭",IBC 13
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -90,7 +90,7 @@ https://hls.nathcreqtives.com/playlist.m3u8?id=1&token=eyJhbGciOiJIUzI1NiIsInR5c
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/ibc13_sd_new/default1/index.mpd
 
 #EXTINF:-1 group-title="Local Channels 🇵🇭",I Heart Movies
-https://hls.nathcreqtives.com/playlist.m3u8?id=2&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJNb29uIiwiaWF0IjoxNzY3NjA5MjcyLCJleHAiOjE3NjgwNDEyNzIsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2ODA0MTI3Mn0.qrZR7snA7bitoXy-R-EztYsfYhfJo3hApqRjGQU2R-o
+https://hls.nathcreqtives.com/playlist.m3u8?id=2&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJNb29uIiwiaWF0IjoxNzY5MzE5NDc3LCJleHAiOjE3NzA2MTU0NzcsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc3MDYxNTQ3N30.GOfY8SO5KoHhQZiLp_dLOiyWtwyfgjXnyn8ElW7ARHM
 
 #EXTINF:-1  tvg-name="Jugo Pinoy TV" tvg-id="iptv/jugopinoytv" tvg-logo="https://dito.ph/hubfs/Dito_July2021/Ott%20Pages/Jungo-img/Jungo-logo.png" group-title="Local Channels 🇵🇭",Jugo Pinoy TV
 https://jungotvstream.chanall.tv/jungotv/jungopinoytv/stream.m3u8
@@ -107,6 +107,9 @@ https://live-faws.akamaized.net/out/v1/efa01372657648be830e7c23ff68bea2/index.mp
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0f856fa0412b11edb8780242ac120002:783374273ef97ad3bc992c1d63e091e7
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_knowledgechannel.mpd
+
+#EXTINF:-1 tvg-id="kqtv" tvg-name="kqtv" tvg-logo="https://i.imgur.com/b4rjf8n.png" group-title="Local Channels 🇵🇭",MovieBoxPh
+https://live20.bozztv.com/giatvplayout7/giatv-210731/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-28 tvg-logo="https://i.imgur.com/9dMuFE1.png" group-logo="https://i.imgur.com/083Ud3K.jpeg" group-title="Local Channels 🇵🇭",ONE PH
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -164,12 +167,15 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cnn_rptv_prod_hd/default/i
 #KODIPROP:inputstream.adaptive.license_key=0a7ab3612f434335aa6e895016d8cd2d:b21654621230ae21714a5cab52daeb9d
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_sari_sari_sd.mpd
 
+#EXTINF:-1 tvg-id="kqtv" tvg-name="kqtv" tvg-logo="https://i.imgur.com/3DN05Kv.jpeg" group-title="Local Channels 🇵🇭",SDTV Global
+https://live20.bozztv.com/giatvplayout7/giatv-210938/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1  tvg-name="Sinemanila" tvg-logo="https://i.imgur.com/2N1kh1D.png" group-title="Local Channels 🇵🇭" radio="false",Sinemanila
 https://live20.bozztv.com/giatv/giatv-sinemanila/sinemanila/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-id="1086" tvg-logo="" group-title="Local Channels 🇵🇭",Star Movies HD
-https://converse.nathcreqtives.com/channels/starmovies.ts?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJNb29uIiwiaWF0IjoxNzY3NjA5MjcyLCJleHAiOjE3NjgwNDEyNzIsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2ODA0MTI3Mn0.qrZR7snA7bitoXy-R-EztYsfYhfJo3hApqRjGQU2R-o
+https://converse.nathcreqtives.com/channels/starmovies.ts?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJNb29uIiwiaWF0IjoxNzY5MzE5NDc3LCJleHAiOjE3NzA2MTU0NzcsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc3MDYxNTQ3N30.GOfY8SO5KoHhQZiLp_dLOiyWtwyfgjXnyn8ElW7ARHM
 
 #EXTINF:-38 tvg-logo="https://i.imgur.com/OBUDDAp.jpeg" group-logo="https://i.imgur.com/083Ud3K.jpeg" group-title="Local Channels 🇵🇭",SUPER RADYO DZBB
 https://stream.gmaNews.tv/ioslive/livestream/playlist.m3u8
@@ -249,6 +255,9 @@ http://fl1.moveonjoy.com/CRAVE_2/index.m3u8
 #EXTINF:-1 tvg-id="Crave4.ca" tvg-name="CRAVE 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-4-ca.png" group-title="Movie Channels",CRAVE 4
 http://fl1.moveonjoy.com/CRAVE_4/index.m3u8
 
+#EXTINF:-1 tvg-id="kqtv" tvg-name="kqtv" tvg-logo="https://i.imgur.com/HLJtTBw.jpeg" group-title="Movie Channels",&Flix HD
+https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/chunklist_b996000.m3u8
+
 #EXTINF:-1 tvg-id="FX.Networks.East.Coast.us" tvg-name="FX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png" group-title="Movie Channels",FX
 http://23.237.104.106:8080/USA_FX/index.m3u8
 #EXTINF:-1 tvg-id="FX.Movie.Channel.us" tvg-name="FXM" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fxm-movie-channel-us.png?raw=true" group-title="Movie Channels",FXM
@@ -311,6 +320,9 @@ http://fl1.moveonjoy.com/EPIX/index.m3u8
 http://fl1.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
 #EXTINF:-1 tvg-id="MGM+.Hits.HDTV.(East).(MGM+HTHD).us" tvg-name="MGM+ HITS" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mgm-plus-hits-us.png?raw=true" group-title="Movie Channels",MGM+ HITS
 http://fl1.moveonjoy.com/EPIX_HITS/index.m3u8
+
+#EXTINF:-1 tvg-id="kqtv" tvg-name="kqtv" tvg-logo="https://i.imgur.com/Y9gGFen.jpeg" group-title="Movie Channels",Movies Action
+https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index_2.m3u8
 
 #EXTINF:-1  tvg-name="MovieSphere by Lionsgate" tvg-id="645e7828e1979c00087b75b4" tvg-logo="https://images.pluto.tv/channels/645e7828e1979c00087b75b4/colorLogoPNG.png" tvg-chno="205" group-title="Movie Channels",MovieSphere by Lionsgate
 https://jmp2.uk/plu-645e7828e1979c00087b75b4.m3u8
