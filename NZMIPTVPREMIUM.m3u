@@ -570,7 +570,7 @@ http://136.158.97.2:6610/001/2/ch00000090990000001093/manifest.mpd?AuthInfo=v87H
 https://honortvph.dpdns.org/1143/manifest.mpd
 
 #EXTINF:-1 group-title="Local Channels 🇵🇭",Heart Of Asia
-https://hls.nathcreqtives.com/playlist.m3u8?id=1&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJNb29uIiwiaWF0IjoxNzY5MzE5NDc3LCJleHAiOjE3NzA2MTU0NzcsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc3MDYxNTQ3N30.GOfY8SO5KoHhQZiLp_dLOiyWtwyfgjXnyn8ElW7ARHM
+https://hls.nathcreqtives.com/playlist.m3u8?id=1&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJNb29uIiwiaWF0IjoxNzcwNjEwODk1LCJleHAiOjE3NzE1NjM1MDMsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc3MTU2MzUwM30.6AGR58l_FbMlLaEVUJQrVlQsgcD9kdkNe6nzZXbub8g
 
 #EXTINF:-1 tvg-id="ibc" tvg-logo="https://i.imgur.com/CTHhr3Q.png" group-title="Local Channels 🇵🇭",IBC 13
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -578,7 +578,7 @@ https://hls.nathcreqtives.com/playlist.m3u8?id=1&token=eyJhbGciOiJIUzI1NiIsInR5c
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/ibc13_sd_new/default1/index.mpd
 
 #EXTINF:-1 group-title="Local Channels 🇵🇭",I Heart Movies
-https://hls.nathcreqtives.com/playlist.m3u8?id=2&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJNb29uIiwiaWF0IjoxNzY5MzE5NDc3LCJleHAiOjE3NzA2MTU0NzcsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc3MDYxNTQ3N30.GOfY8SO5KoHhQZiLp_dLOiyWtwyfgjXnyn8ElW7ARHM
+https://hls.nathcreqtives.com/playlist.m3u8?id=2&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJNb29uIiwiaWF0IjoxNzcwNjEwODk1LCJleHAiOjE3NzE1NjM1MDMsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc3MTU2MzUwM30.6AGR58l_FbMlLaEVUJQrVlQsgcD9kdkNe6nzZXbub8g
 
 #EXTINF:-1  tvg-name="Jugo Pinoy TV" tvg-id="iptv/jugopinoytv" tvg-logo="https://dito.ph/hubfs/Dito_July2021/Ott%20Pages/Jungo-img/Jungo-logo.png" group-title="Local Channels 🇵🇭",Jugo Pinoy TV
 https://jungotvstream.chanall.tv/jungotv/jungopinoytv/stream.m3u8
@@ -662,8 +662,12 @@ https://live20.bozztv.com/giatvplayout7/giatv-210938/tracks-v1a1/mono.ts.m3u8
 https://live20.bozztv.com/giatv/giatv-sinemanila/sinemanila/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="1086" tvg-logo="" group-title="Local Channels 🇵🇭",Star Movies HD
-https://converse.nathcreqtives.com/channels/starmovies.ts?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJNb29uIiwiaWF0IjoxNzY5MzE5NDc3LCJleHAiOjE3NzA2MTU0NzcsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc3MDYxNTQ3N30.GOfY8SO5KoHhQZiLp_dLOiyWtwyfgjXnyn8ElW7ARHM
+#EXTINF:-1 tvg-id="1086" tvg-logo="" group-title="Local Channels 🇵🇭",Star Movies FHD
+https://converse.nathcreqtives.com/channels/starmovies/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJNb29uIiwiaWF0IjoxNzcwNjEwODk1LCJleHAiOjE3NzE1NjM1MDMsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc3MTU2MzUwM30.6AGR58l_FbMlLaEVUJQrVlQsgcD9kdkNe6nzZXbub8g
+
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:-1 tvg-id="1086" tvg-logo="" group-title="Local Channels 🇵🇭,Star Movies Select FHD
+https://converse.nathcreqtives.com/channels/smselect/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJNb29uIiwiaWF0IjoxNzcwNjEwODk1LCJleHAiOjE3NzE1NjM1MDMsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc3MTU2MzUwM30.6AGR58l_FbMlLaEVUJQrVlQsgcD9kdkNe6nzZXbub8g
 
 #EXTINF:-38 tvg-logo="https://i.imgur.com/OBUDDAp.jpeg" group-logo="https://i.imgur.com/083Ud3K.jpeg" group-title="Local Channels 🇵🇭",SUPER RADYO DZBB
 https://stream.gmaNews.tv/ioslive/livestream/playlist.m3u8
