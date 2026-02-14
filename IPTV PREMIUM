@@ -254,10 +254,25 @@ http://fl1.moveonjoy.com/CINEMAX_EAST/index.m3u8
 #EXTINF:-1  tvg-name="CINEMAX MOREMAX" tvg-id="MoreMax..Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-moremax-us.png?raw=true" group-title="Movie Channels" radio="false",CINEMAX MOREMAX
 http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
 
-#EXTINF:-1 tvg-id="Crave2.-.East.ca" tvg-name="CRAVE 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-2-ca.png" group-title="Movie Channels",CRAVE 2
-http://fl1.moveonjoy.com/CRAVE_2/index.m3u8
-#EXTINF:-1 tvg-id="Crave4.ca" tvg-name="CRAVE 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-4-ca.png" group-title="Movie Channels",CRAVE 4
-http://fl1.moveonjoy.com/CRAVE_4/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-1-ca.png" group-title="Movie Channels", CRAVE 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4a107945066f45a9af2c32ea88be60f4:df97e849d68479ec16e395feda7627d0
+https://live-crave.video.9c9media.com/137c6e2e72e1bf67b82614c7c9b216d6f3a8c8281748505659713/fe/f/crave/crave1/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-2-ca.png" group-title="Movie Channels", CRAVE 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4ac6eaaf0e5e4f94987cbb5b243b54e8:8bb3f2f421f6afd025fa46c784944ad6
+https://live-crave.video.9c9media.com/ab4332c60e19b6629129eeb38a2a6ac6db5df2571721750022187/fe/f/crave/crave2/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-3-ca.png" group-title="Movie Channels", CRAVE 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eac7cd7979f04288bc335fc1d88fa344:0fca71cf91b3c4931ad3cf66c631c24c
+https://live-crave.video.9c9media.com/58def7d65f59ffaf995238981dd0e276d5a8fe8d1748593014588/fe/f/crave/crave3/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-4-ca.png" group-title="Movie Channels", CRAVE 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7242a7026ff45609114ee1f3beb34dc:65c32ada65548203a3683d5d37dd3a06
+https://live-crave.video.9c9media.com/c5875a31f178e038f7cc572b1aa0defb996ce7171748593186018/fe/f/crave/crave4/manifest.mpd
 
 #EXTINF:-1 tvg-id="kqtv" tvg-name="kqtv" tvg-logo="https://i.imgur.com/HLJtTBw.jpeg" group-title="Movie Channels",&Flix HD
 https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/chunklist_b996000.m3u8
@@ -295,10 +310,16 @@ https://linear-59.frequency.stream/dist/xumo/59/hls/master/playlist_1920x1080.m3
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohd/default/index.mpd
 
 #EXTINF:-1  tvg-name="HBO2" tvg-id="HBO.2.-.Eastern.Feed.us" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/HBO2._SL170_FMpng_.png" group-title="Movie Channels",HBO2
-http://fl1.moveonjoy.com/HBO_2/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1c73219e929389385aba7d52fc5fecdf:04aac082576d853b80734f5d8d4ebbbc
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/k0ixizzzeu/out/v1/058efc3c023b4424b4bff6c52cf7e81e/cenc.mpd
 
 #EXTINF:-1  tvg-name="HBO Comedy" tvg-id="HBO.Comedy.HD.-.East.us" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/HBO_Comedy._SL170_FMpng_.png" group-title="Movie Channels",HBO Comedy
-http://fl1.moveonjoy.com/HBO_COMEDY/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=217624a3983b3593ca7d1f3b01042d4f:fecaa3486d9deef3f7f0e1a95b662cb7
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/f6ns8qsqde/out/v1/0827e077a8224107a1e6137627cc8198/cenc.mpd
 
 #EXTINF:-69 tvg-logo="https://i.imgur.com/pZn9JHj.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Movie Channels",HBO HITS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -316,14 +337,24 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbosign/default/index.m
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbofam/default/index.mpd
 
 #EXTINF:-1  tvg-name="HBO Zone" tvg-id="HBO.Zone.HD.-.East.us" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/HBO_Zone_East._SL170_FMpng_.png" group-title="Movie Channels",HBO Zone
-http://fl1.moveonjoy.com/HBO_ZONE/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b380bec87af5c16ee145bbf8cd7d65e:edcb65d1269bd76f166d6bc56114211f
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/u7xfabrc5b/out/v1/67371e988d6649afbde43ba1e9747550/cenc.mpd
 
 #EXTINF:-1 tvg-id="MGM+.HDTV.(East).(MGM+HD).us" tvg-name="MGM+" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mgm-plus-us.png?raw=true" group-title="Movie Channels",MGM+
-http://fl1.moveonjoy.com/EPIX/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=34bbe1d5cad94e81a2f2eb3275611f85:7e6a42fbe78e7ff8c20cb4eeb475ed17
+https://epix.live.epix.services/out/v1/9e8d7f463c10401da4c78387a627e184/index.mpd
+
 #EXTINF:-1 tvg-id="MGM+.Drive-In.(MGM+DI).us" tvg-name="MGM+ DRIVE-IN" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mgm-plus-drive-in-us.png?raw=true" group-title="Movie Channels",MGM+ DRIVE-IN
-http://fl1.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2aa5443eab3841fca0804ed7df621e21:f6337da72d318e72e77742c7f8d2e698
+https://epix-drivein.live.epix.services/out/v1/bef1dd342f69416e9fdd844ece496dc0/index.mpd
+
 #EXTINF:-1 tvg-id="MGM+.Hits.HDTV.(East).(MGM+HTHD).us" tvg-name="MGM+ HITS" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mgm-plus-hits-us.png?raw=true" group-title="Movie Channels",MGM+ HITS
-http://fl1.moveonjoy.com/EPIX_HITS/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2e177abdd25b476dbb474fa7c2ee76b3:dc43cb2d4bd48774ef9620fda1158060
+https://epix2.live.epix.services/out/v1/08bcf975c3ef4013adb31929aef1fb82/index.mpd
 
 #EXTINF:-1 tvg-id="kqtv" tvg-name="kqtv" tvg-logo="https://i.imgur.com/Y9gGFen.jpeg" group-title="Movie Channels",Movies Action
 https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index_2.m3u8
@@ -365,28 +396,17 @@ http://fl1.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
 #EXTINF:-1 tvg-id="Sony.Movies.us" tvg-name="SONY MOVIE CHANNEL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sony-movie-channel-hz-us.png?raw=true" group-title="Movie Channels",SONY MOVIE CHANNEL
 http://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
 
-#EXTINF:-1 tvg-id="Start.TV.us" tvg-name="START TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/start-tv-us.png?raw=true" group-title="Movie Channels",START TV
-http://fl3.moveonjoy.com/Start_Tv/index.m3u8
-#EXTINF:-1 tvg-id="Starz.-.Eastern.us" tvg-name="STARZ" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true" group-title="Movie Channels",STARZ
-http://fl1.moveonjoy.com/STARZ/index.m3u8
-#EXTINF:-1 tvg-id="Starz.Cinema.HD.-.Eastern.us" tvg-name="STARZ CINEMA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19634_dark_360w_270h.png" group-title="Movie Channels",STARZ CINEMA
-http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
-#EXTINF:-1 tvg-id="Starz.Comedy.HD.-.Eastern.us" tvg-name="STARZ COMEDY" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-comedy-us.png?raw=true" group-title="Movie Channels",STARZ COMEDY
-http://fl1.moveonjoy.com/STARZ_COMEDY/index.m3u8
-#EXTINF:-1 tvg-id="Starz.Edge.-.Eastern.us" tvg-name="STARZ EDGE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-edge-us.png?raw=true" group-title="Movie Channels",STARZ EDGE
-http://fl1.moveonjoy.com/STARZ_EDGE/index.m3u8
-#EXTINF:-1 tvg-id="Starz.Encore.Action.-.Eastern.us" tvg-name="STARZ ENCORE ACTION" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-action-us.png?raw=true" group-title="Movie Channels",STARZ ENCORE ACTION
-http://fl1.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
-#EXTINF:-1 tvg-id="Starz.Encore.Classic.-.Eastern.us" tvg-name="STARZ ENCORE CLASSIC" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-classic-us.png?raw=true" group-title="Movie Channels",STARZ ENCORE CLASSIC
-http://fl5.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
-#EXTINF:-1 tvg-id="Starz.Encore.Westerns.-.Eastern.us" tvg-name="STARZ ENCORE WESTERNS" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-westerns-us.png?raw=true" group-title="Movie Channels",STARZ ENCORE WESTERNS
-http://fl1.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
-#EXTINF:-1 tvg-id="Starz.-.Pacific.us" tvg-name="STARZ WEST" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true" group-title="Movie Channels",STARZ WEST
-http://fl1.moveonjoy.com/STARZ_WEST/index.m3u8
-#EXTINF:-1 tvg-id="SundanceTV.USA.-.East.us" tvg-name="SUNDANCE TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16108_dark_360w_270h.png" group-title="Movie Channels",SUNDANCE TV
-http://fl1.moveonjoy.com/SUNDANCE/index.m3u8
-#EXTINF:-1 tvg-id="Syfy.-.Eastern.Feed.us" tvg-name="SYFY" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-us.png?raw=true" group-title="Movie Channels",SYFY
-http://fl1.moveonjoy.com/SYFY/index.m3u8
+#EXTINF:-1 tvg-id="Starz1" tvg-name="Starz 1" tvg-logo="" group-title="Movie Channels",STARZ 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5ebcf53fd1794237aa02af52413e0c2a:bd2f5d20887507da6f26401b1d95aeee
+https://live-crave.video.9c9media.com/59c2df870a1e8c5b14c4f5ed7e951e1cef9474581754944303887/fe/f/crave/starz1/manifest.mpd?u=li
+
+#EXTINF:-1 tvg-id="Starz2" tvg-name="Starz 2" tvg-logo="" group-title="Movie Channels",STARZ 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5389bf9aa04e467aac818fac7138f8f4:ebb8e28d9081a462015de790e76759f0
+https://live-crave.video.9c9media.com/65a655714b62d8c989ad80dc30e3035b0bfb65b41754945004845/fe/f/crave/starz2/manifest.mpd?u=li
 
 #EXTINF:-63 tvg-logo="https://i.imgur.com/w64PvvF.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Movie Channels",TAP ACTION FLIX
 #KODIPROP:inputstreamaddon=inputstream.adaptive
