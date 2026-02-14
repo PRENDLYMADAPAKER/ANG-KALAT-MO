@@ -281,9 +281,12 @@ http://fl1.moveonjoy.com/FX_MOVIE/index.m3u8
 http://fl1.moveonjoy.com/FXX/index.m3u8
 
 #EXTINF:-1 tvg-id="hits-hd" tvg-logo="https://i.imgur.com/CxqHKUO.png" group-title="Movie Channels",Hits HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dac605bc197e442c93f4f08595a95100:975e27ffc1b7949721ee3ccb4b7fd3e5
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/hits_hd1/default/index.mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"NssgY79TONGNMWVzcbFYFw","kid":"H+kmhadYRNxUydrBJIAlEA"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/606/default_ott.mpd
 
 #EXTINF:-1  tvg-name="Hits Movies" tvg-id="Hits.Movies.ph" tvg-logo="https://astromedia.com.my/wp-content/uploads/2023/12/hitsmovie2.jpeg" group-title="Movie Channels",Hits Movies
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -293,17 +296,18 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/hits_hd1/default/index.mpd
 https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_hitsmovies.mpd
 
 #EXTINF:-1  tvg-name="Hits Now" tvg-id="HITS.NOW.my" tvg-logo="https://i.imgur.com/tYfJVjx.png" group-title="Movie Channels",Hits Now
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=14439a1b7afc4527bb0ebc51cf11cbc1:92b0287c7042f271b266cc11ab7541f1
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_hitsnow/default/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=HishamKamarul&channelid=5110
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5110/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gGbiY5u.png" group-title="Movie Channels",Hi-Yah!
 https://linear-59.frequency.stream/dist/xumo/59/hls/master/playlist_1920x1080.m3u8
 
 #EXTINF:-52 tvg-logo="https://i.imgur.com/pa2SF5Z.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Movie Channels",HBO
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d47ebabf7a21430b83a8c4b82d9ef6b1:54c213b2b5f885f1e0290ee4131d425b
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohd/default/index.mpd
+http://fortv.cc:8080/38871863/38871863/46713
 
 #EXTINF:-1  tvg-name="HBO2" tvg-id="HBO.2.-.Eastern.Feed.us" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/HBO2._SL170_FMpng_.png" group-title="Movie Channels",HBO2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
