@@ -376,19 +376,6 @@ https://268d7193278949b4b4796e63861deee5.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="" tvg-name="ScreamFlix" tvg-logo="" group-title="Movie Channels", ScreamFlix
 https://jungotvstream.chanall.tv/jungotv/screamflix/playlist_720p.m3u8
 
-#EXTINF:-1 tvg-id="Paramount+.with.Showtime.-.Eastern.Feed.us" tvg-name="SHOWTIME" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png?raw=true" group-title="Movie Channels",SHOWTIME
-http://fl1.moveonjoy.com/SHOWTIME/index.m3u8
-#EXTINF:-1 tvg-id="Showtime.2.-.Eastern.us" tvg-name="SHOWTIME 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true" group-title="Movie Channels",SHOWTIME 2
-http://fl1.moveonjoy.com/SHOWTIME_2/index.m3u8
-#EXTINF:-1 tvg-id="Showtime.Extreme.-.Eastern.us" tvg-name="SHOWTIME EXTREME" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-extreme-us.png?raw=true" group-title="Movie Channels",SHOWTIME EXTREME
-http://fl1.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
-#EXTINF:-1 tvg-id="Showtime.Next.HD.-.Eastern.us" tvg-name="SHOWTIME NEXT" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-next-us.png?raw=true" group-title="Movie Channels",SHOWTIME NEXT
-http://fl1.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
-#EXTINF:-1 tvg-id="Paramount+.with.Showtime..West.us" tvg-name="SHOWTIME WEST" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png?raw=true" group-title="Movie Channels",SHOWTIME WEST
-http://fl1.moveonjoy.com/SHOWTIME_WEST/index.m3u8
-#EXTINF:-1 tvg-id="Showtime.Women.HD.-.Eastern.us" tvg-name="SHOWTIME WOMEN" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-women-us.png?raw=true" group-title="Movie Channels",SHOWTIME WOMEN
-http://fl1.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
-
 #EXTINF:-1 tvg-id="Sony.Movies.us" tvg-name="SONY MOVIE CHANNEL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sony-movie-channel-hz-us.png?raw=true" group-title="Movie Channels",SONY MOVIE CHANNEL
 http://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
 
@@ -467,7 +454,7 @@ https://amc-anime-x-hidive-1-us.tablo.wurl.tv/playlist.m3u8
 https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E6FA5Sr.jpeg" group-title="Anime/Cartoons",BOOMERANG TV
-http://fl1.moveonjoy.com/BOOMERANG/index.m3u8
+http://fortv.cc:8080/38871863/38871863/14741
 
 #EXTINF:-92 tvg-logo="https://i.imgur.com/l7p2MpK.png" group-logo="https://i.imgur.com/NbRG0IW.jpeg" group-title="Anime/Cartoons",CARTOON NETWORK HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -519,13 +506,13 @@ https://jmp2.uk/plu-60fb040d4795a6000762fe8f.m3u8
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_moonbug_kids_sd/default/index.mpd
 
 #EXTINF:-1 tvg-id="US: NICKELODEON EAST" tvg-name="USA Nickelodeon UHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" group-title="Anime/Cartoons",USA Nickelodeon
+http://fortv.cc:8080/38871863/38871863/47349
 
 #EXTINF:-1 tvg-id="Nick.Jr..-.East.us" tvg-name="NICK JR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19211_dark_360w_270h.png" group-title="Anime/Cartoons",NICK JR
-http://fl1.moveonjoy.com/NICK_JR/index.m3u8
+http://fortv.cc:8080/38871863/38871863/9807
 
-http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
 #EXTINF:-1 tvg-id="US: NICKTOONS EAST" tvg-name="USA NickToons UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Nicktoons.png" group-title="Anime/Cartoons",USA NickToons
-http://fl1.moveonjoy.com/NICKTOONS/index.m3u8
+http://fortv.cc:8080/38871863/38871863/36
 
 #EXTINF:-101 tvg-logo="https://i.imgur.com/xhmWQXs.png" group-logo="https://i.imgur.com/NbRG0IW.jpeg" group-title="Anime/Cartoons",PBS KIDS
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
