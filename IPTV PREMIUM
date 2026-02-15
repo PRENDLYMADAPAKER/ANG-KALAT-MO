@@ -243,6 +243,9 @@ http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=3e429eb91a1791d55df2a554dc58dda7:2f688f94ef580a61eada6932598137e4
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/oynu8tcxfa/out/v1/ab567b96658c4d84ae1fc6c67110987c/cenc.mpd
 
+#EXTINF:-1 tvg-id="kqtv" tvg-name="kqtv" tvg-logo="https://i.imgur.com/heg9onl.png" group-title="Movie Channels",Blast Movies
+https://amg19223-amg19223c7-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c7-amgplt0351/playlist.m3u8
+
 #EXTINF:-163 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Celestial_HD_v1.png" group-logo="https://i.imgur.com/rsPE0Fp.png" group-title="Movie Channels",CELESTIAL MOVIES
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c5c1ba26907291afec11a9a78d513410:361197805d0149c29801946cf2dde67c
@@ -376,8 +379,8 @@ https://epix2.live.epix.services/out/v1/08bcf975c3ef4013adb31929aef1fb82/index.m
 #EXTINF:-1 tvg-id="kqtv" tvg-name="kqtv" tvg-logo="https://i.imgur.com/Y9gGFen.jpeg" group-title="Movie Channels",Movies Action
 https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index_2.m3u8
 
-#EXTINF:-1  tvg-name="MovieSphere by Lionsgate" tvg-id="645e7828e1979c00087b75b4" tvg-logo="https://images.pluto.tv/channels/645e7828e1979c00087b75b4/colorLogoPNG.png" tvg-chno="205" group-title="Movie Channels",MovieSphere by Lionsgate
-https://jmp2.uk/plu-645e7828e1979c00087b75b4.m3u8
+#EXTINF:-1 tvg-id="kqtv" tvg-name="kqtv" tvg-logo="https://i.imgur.com/PfhtYtr.jpeg" group-title="Movie Channels",Movies Sphere
+https://moviesphereuk-samsunguk.amagi.tv/720p-vtt/index.m3u8
 
 #EXTINF:-1  tvg-id="MovieTime.ca" tvg-logo="https://media.starlite.best/movietime.ca.png" group-title="Movie Channels" radio="false",Movie Time
 http://38.143.48.212:9981/stream/channelid/1403847081?profile=pass
@@ -397,8 +400,9 @@ https://268d7193278949b4b4796e63861deee5.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="" tvg-name="ScreamFlix" tvg-logo="" group-title="Movie Channels", ScreamFlix
 https://jungotvstream.chanall.tv/jungotv/screamflix/playlist_720p.m3u8
 
-#EXTINF:-1 tvg-id="Sony.Movies.us" tvg-name="SONY MOVIE CHANNEL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sony-movie-channel-hz-us.png?raw=true" group-title="Movie Channels",SONY MOVIE CHANNEL
-http://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="Movie Channels",Sony Pix HD
+https://converse.nathcreqtives.com/channels/sonypixhd/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJNb29uIiwiaWF0IjoxNzcwNjEwODk1LCJleHAiOjE3NzE1NjM1MDMsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc3MTU2MzUwM30.6AGR58l_FbMlLaEVUJQrVlQsgcD9kdkNe6nzZXbub8g
 
 #EXTINF:-1 tvg-id="Starz1" tvg-name="Starz 1" tvg-logo="" group-title="Movie Channels",STARZ 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
