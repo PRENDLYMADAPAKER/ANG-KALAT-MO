@@ -376,6 +376,11 @@ https://epix-drivein.live.epix.services/out/v1/bef1dd342f69416e9fdd844ece496dc0/
 #KODIPROP:inputstream.adaptive.license_key=2e177abdd25b476dbb474fa7c2ee76b3:dc43cb2d4bd48774ef9620fda1158060
 https://epix2.live.epix.services/out/v1/08bcf975c3ef4013adb31929aef1fb82/index.mpd
 
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/leazcc.jpeg" group-title="Movie Channels",MN+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
+
 #EXTINF:-1 tvg-id="kqtv" tvg-name="kqtv" tvg-logo="https://i.imgur.com/Y9gGFen.jpeg" group-title="Movie Channels",Movies Action
 https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index_2.m3u8
 
@@ -396,6 +401,11 @@ https://live20.bozztv.com/giatv/giatv-ragetv/ragetv/playlist.m3u8
 
 #EXTINF:-1  tvg-name="Rakuten Viki" tvg-id="c4bdfe6fd751590e9d096b5de264bba1" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/c4bdfe6fd751590e9d096b5de264bba1/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1678995051754_image_hud1_260x147.png" tvg-chno="392" group-title="Movie Channels",Rakuten Viki
 https://268d7193278949b4b4796e63861deee5.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LG_RakutenViki/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/nchght.jpeg" group-title="Movie Channels",Romedy Now
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="ScreamFlix" tvg-logo="" group-title="Movie Channels", ScreamFlix
 https://jungotvstream.chanall.tv/jungotv/screamflix/playlist_720p.m3u8
