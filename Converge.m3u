@@ -2,11 +2,6 @@
 
 #EXTINF:-1 group-logo="https://res.cloudinary.com/lomi/image/upload/v1742393748/KayLomiToWagNakawin/JokeLang/KungGagamitinLogoPaCreditNaLangAko/Salamat/IPTV/Group/converge-vision.png?cache=20250322042023"
 
-#EXTINF:-1 tvg-id="converge_al_jazeera" tvg-logo="https://res.cloudinary.com/lomi/image/upload/v1742397143/KayLomiToWagNakawin/JokeLang/KungGagamitinLogoPaCreditNaLangAko/Salamat/IPTV/Converge%20Vision/al-jazeera.png?cache=20250322042023" group-title="Converge Vision", Al Jazeera
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://143.44.136.110:6910/001/2/ch00000090990000001343/manifest.mpd?virtualDomain=001.live_hls.zte.com
-
 #EXTINF:-1 tvg-id="converge_al_saudiya" tvg-logo="https://res.cloudinary.com/lomi/image/upload/v1742397145/KayLomiToWagNakawin/JokeLang/KungGagamitinLogoPaCreditNaLangAko/Salamat/IPTV/Converge%20Vision/al-saudiya.png?cache=20250322042023" group-title="Converge Vision", Al Saudiya
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
