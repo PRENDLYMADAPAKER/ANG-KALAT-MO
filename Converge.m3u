@@ -2,11 +2,6 @@
 
 #EXTINF:-1 group-logo="https://res.cloudinary.com/lomi/image/upload/v1742393748/KayLomiToWagNakawin/JokeLang/KungGagamitinLogoPaCreditNaLangAko/Salamat/IPTV/Group/converge-vision.png?cache=20250322042023"
 
-#EXTINF:-1 tvg-id="converge_a2z" tvg-logo="https://res.cloudinary.com/lomi/image/upload/v1742397141/KayLomiToWagNakawin/JokeLang/KungGagamitinLogoPaCreditNaLangAko/Salamat/IPTV/Converge%20Vision/a2z.png?cache=20250322042023" group-title="Converge Vision", A2Z
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://143.44.136.110:6910/001/2/ch00000090990000001087/manifest.mpd?virtualDomain=001.live_hls.zte.com
-
 #EXTINF:-1 tvg-id="converge_abc_australia" tvg-logo="https://res.cloudinary.com/lomi/image/upload/v1742397142/KayLomiToWagNakawin/JokeLang/KungGagamitinLogoPaCreditNaLangAko/Salamat/IPTV/Converge%20Vision/abc-australia.png?cache=20250322042023" group-title="Converge Vision", ABC Australia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
