@@ -906,21 +906,23 @@ https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
 #EXTINF:-1 tvg-id="" tvg-name="ScreamFlix" tvg-logo="" group-title="Movie Channels", ScreamFlix
 https://jungotvstream.chanall.tv/jungotv/screamflix/playlist_720p.m3u8
 
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="Movie Channels",Sony Pix HD
-https://converse.nathcreqtives.com/channels/sonypixhd/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJNb29uIiwiaWF0IjoxNzcwNjEwODk1LCJleHAiOjE3NzE1NjM1MDMsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc3MTU2MzUwM30.6AGR58l_FbMlLaEVUJQrVlQsgcD9kdkNe6nzZXbub8g
+#EXTINF:-1 tvg-logo="" group-logo="" group-title="Movie Channels", SONY Movies FHD
+http://nocable.cc:8080/vVgP6v/817017/2214
 
-#EXTINF:-1 tvg-id="Starz1" tvg-name="Starz 1" tvg-logo="" group-title="Movie Channels",STARZ 1
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5ebcf53fd1794237aa02af52413e0c2a:bd2f5d20887507da6f26401b1d95aeee
-https://live-crave.video.9c9media.com/59c2df870a1e8c5b14c4f5ed7e951e1cef9474581754944303887/fe/f/crave/starz1/manifest.mpd?u=li
-
-#EXTINF:-1 tvg-id="Starz2" tvg-name="Starz 2" tvg-logo="" group-title="Movie Channels",STARZ 2
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5389bf9aa04e467aac818fac7138f8f4:ebb8e28d9081a462015de790e76759f0
-https://live-crave.video.9c9media.com/65a655714b62d8c989ad80dc30e3035b0bfb65b41754945004845/fe/f/crave/starz2/manifest.mpd?u=li
+#EXTINF:-1 tvg-logo="" group-logo="" group-title="Movie Channels", Starz Cinema (East)
+http://nocable.cc:8080/vVgP6v/817017/9301
+#EXTINF:-1 tvg-logo="" group-logo="" group-title="Movie Channels", Starz East (S)
+http://nocable.cc:8080/vVgP6v/817017/9299
+#EXTINF:-1 tvg-logo="" group-logo="" group-title="Movie Channels", Starz Encore Westerns (East)
+http://nocable.cc:8080/vVgP6v/817017/16263
+#EXTINF:-1 tvg-logo="" group-logo="" group-title="Movie Channels", Starz in Black (East)
+http://nocable.cc:8080/vVgP6v/817017/17779
+#EXTINF:-1 tvg-logo="" group-logo="" group-title="Movie Channels", Starz West (S)
+http://nocable.cc:8080/vVgP6v/817017/21091
+#EXTINF:-1 tvg-logo="" group-logo="" group-title="Movie Channels", SUNDANCE
+http://nocable.cc:8080/vVgP6v/817017/46712
+#EXTINF:-1 tvg-logo="" group-logo="" group-title="Movie Channels", Syfy (East)
+http://nocable.cc:8080/vVgP6v/817017/46685
 
 #EXTINF:-63 tvg-logo="https://i.imgur.com/w64PvvF.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Movie Channels",TAP ACTION FLIX
 #KODIPROP:inputstream.adaptive.license_type=clearkey
