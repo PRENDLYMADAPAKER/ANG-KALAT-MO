@@ -9,6 +9,15 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cgnl_nba/default/index.mpd
 #EXTINF:-1 tvg-id="NBA.TV.USA.us" tvg-name="NBA TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-us.png?raw=true" group-title="NBA CHANNEL🏀",NBA TV
 http://fortv.cc:8080/zC5wUbTpQU/x28AczEFnJ/20073
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E0WsVnn.jpeg" group-title="NBA LEAGUE PASS", NBA League Pass 1
+https://nbalp.djdoolky76.io/stream/nbalp/live/master.m3u8?u=gratisph&p=63cf25ef147f4a246999697ffcf17837b0161ad0d193d67abb68ea520d23e6e5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E0WsVnn.jpeg" group-title="NBA LEAGUE PASS", NBA League Pass 2
+https://nbalp.djdoolky76.io/stream/nbalp/live2/master.m3u8?u=gratisph&p=63cf25ef147f4a246999697ffcf17837b0161ad0d193d67abb68ea520d23e6e5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E0WsVnn.jpeg" group-title="NBA LEAGUE PASS", NBA League Pass 3
+https://nbalp.djdoolky76.io/stream/nbalp/live3/master.m3u8?u=gratisph&p=63cf25ef147f4a246999697ffcf17837b0161ad0d193d67abb68ea520d23e6e5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E0WsVnn.jpeg" group-title="NBA LEAGUE PASS", NBA League Pass 4
+https://nbalp.djdoolky76.io/stream/nbalp/live4/master.m3u8?u=gratisph&p=63cf25ef147f4a246999697ffcf17837b0161ad0d193d67abb68ea520d23e6e5
+
 #EXTINF:-1 tvg-id="A2z.ph" tvg-logo="https://i.imgur.com/3myn4zH.png" group-logo="https://i.imgur.com/083Ud3K.jpeg" group-title="Local Channels 🇵🇭",A2Z
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3f6d8a2c1b7e4c9f8d52a7e1b0c6f93d:4019f9269b9054a2b9e257b114ebbaf2
