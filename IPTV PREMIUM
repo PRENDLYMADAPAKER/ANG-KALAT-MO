@@ -9,14 +9,14 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cgnl_nba/default/index.mpd
 #EXTINF:-1 tvg-id="NBA.TV.USA.us" tvg-name="NBA TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-us.png?raw=true" group-title="NBA CHANNEL🏀",NBA TV
 http://fortv.cc:8080/zC5wUbTpQU/x28AczEFnJ/20073
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E0WsVnn.jpeg" group-title="NBA LEAGUE PASS", Detroit Pistons vs Cleveland Cavaliers 8:00 AM
+https://v18.thetvapp.to/hls/nba01/tracks-v1a1/mono.m3u8?token=0mLLOBxY5y2CnqFw0YAg2g&expires=1778557988&user_id=NlJ0N3N5OTdnY1NPMExUQjNJcFZqVzA4RWVXR3dsSHFvWk5CR2dTWA==
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E0WsVnn.jpeg" group-title="NBA LEAGUE PASS", Oklahoma City Thunder vs Los Angeles Lakers 9:30 AM
+https://v2.thetvapp.to/hls/nba02/tracks-v1a1/mono.m3u8?token=dlPnDy-s_-cv7CEOK_qKHg&expires=1778558007&user_id=NlJ0N3N5OTdnY1NPMExUQjNJcFZqVzA4RWVXR3dsSHFvWk5CR2dTWA==
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E0WsVnn.jpeg" group-title="NBA LEAGUE PASS", New York Knicks vs. Philadelphia 76ers
 https://nbalp.djdoolky76.io/stream/nbalp/live/master.m3u8?u=gratisph&p=8c6c31bf7e43801428106be8669164130067e693a344c40c3dd343ca131534cd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/E0WsVnn.jpeg" group-title="NBA LEAGUE PASS", Spurs vs Timberwolves - 08:00 AM
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E0WsVnn.jpeg" group-title="NBA LEAGUE PASS", Spurs vs Timberwolves
 https://nbalp.djdoolky76.io/stream/nbalp/live2/master.m3u8?u=gratisph&p=8c6c31bf7e43801428106be8669164130067e693a344c40c3dd343ca131534cd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/E0WsVnn.jpeg" group-title="NBA LEAGUE PASS", NBA League Pass 3
-https://nbalp.djdoolky76.io/stream/nbalp/live3/master.m3u8?u=gratisph&p=8c6c31bf7e43801428106be8669164130067e693a344c40c3dd343ca131534cd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/E0WsVnn.jpeg" group-title="NBA LEAGUE PASS", NBA League Pass 4
-https://nbalp.djdoolky76.io/stream/nbalp/live4/master.m3u8?u=gratisph&p=8c6c31bf7e43801428106be8669164130067e693a344c40c3dd343ca131534cd
 
 #EXTINF:-1 tvg-id="A2z.ph" tvg-logo="https://i.imgur.com/3myn4zH.png" group-logo="https://i.imgur.com/083Ud3K.jpeg" group-title="Local Channels 🇵🇭",A2Z
 #KODIPROP:inputstream.adaptive.license_type=clearkey
