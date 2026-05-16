@@ -609,7 +609,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/oneph_sd/default/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2e6a9d7c1f4b4c8a8d33c7b1f0a5e924:4c71e178d090332fbfe72e023b59f6d2
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/onenews_hd1/default/index.mpd
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/onenews_hd1/default/index.mpd
 
 #EXTINF:-29 tvg-id="Onesports.ph" tvg-logo="https://i.imgur.com/btiNwYt.png" group-logo="https://i.imgur.com/083Ud3K.jpeg" group-title="Local Channels 🇵🇭",ONE SPORTS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -623,11 +623,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesports_hd/default/in
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f00bd0122a8a4da1a49ea6c49f7098ad:a4079f3667ba4c2bcfdeb13e45a6e9c6
-https://converse.nathcreqtives.com/cignal-one-sports-plus/manifest.mpd?token=eyJhbGciOiJIUzI#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b1c7e9d24f8a4d6c9e337a2f1c5b8d60:8ff2e524cc1e028f2a4d4925e860c796
-https://converse.nathcreqtives.com/cignal-one-sports-hd/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJNYXNhdG8xOTE5IiwiaWF0IjoxNzc0NjA0NDUxLCJleHAiOjE3NzU0Njg0NTEsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc3NTQ2ODQ1MSwiYWxsb3dlZE9yaWdpbnMiOltdfQ.8sevP2DREVDo-dZqkKYrbEJf-qB8Q05Lrk5Nmq2P1Uk1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJNYXNhdG8xOTE5IiwiaWF0IjoxNzc0NjA0NDUxLCJleHAiOjE3NzU0Njg0NTEsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc3NTQ2ODQ1MSwiYWxsb3dlZE9yaWdpbnMiOltdfQ.8sevP2DREVDo-dZqkKYrbEJf-qB8Q05Lrk5Nmq2P1Uk
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_onesportsplus_hd1/default/index.mpd
 
 #EXTINF:-1 tvg-id="Pbarush.Hd.ph" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A7650-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" channel-number="28" group-title="Local Channels 🇵🇭", PBA Rush
 #KODIPROP:inputstream.adaptive.license_type=clearkey
