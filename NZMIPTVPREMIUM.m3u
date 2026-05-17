@@ -1140,33 +1140,25 @@ http://fortv.cc:8080/zC5wUbTpQU/x28AczEFnJ/46717
 https://dtqutq7lmcchv.cloudfront.net/10001/99991204/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991204&ads._fw_ifa_type=dpid&ads._fw_did=413d7e29-b63e-b34e-b143-bf0efe32f394&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=JustForLaughsGags&ads.csid=xumo_desktopweb_JustForLaughsGags_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=1YNN&ads._fw_coppa=0&ads.genre=Comedy&ads._fw_content_category=IAB1-7&ads._fw_content_language=undefined&ads._fw_content_genre=Comedy&ads._fw_content_rating=TV-PG&ads.xumo_contentId=146&ads.xumo_contentName=JustForLaughsGags&ads.xumo_providerId=146&ads.xumo_providerName=JustForLaughsGags&ads._fw_deviceMake=&ads._fw_device_model=&ads.channelId=99991204&ads.xumo_platform=desktopweb&ads.site_id=26840&ads.appName=xumo&ads.appVersion=2.18.0&ads._fw_app_bundle=&ads._fw_app_store_url=&ads.site_name=XumoPlay&ads.site_page=https%253A%252F%252Fplay.xumo.com
 
 #EXTINF:-155 tvg-logo="https://i.imgur.com/JAL3Ohz.png" group-logo="https://i.imgur.com/rsPE0Fp.png" group-title="Entertainment/Documentary",KBS WORLD
-‎#KODIPROP:inputstreamaddon=inputstream.adaptive
-‎#KODIPROP:inputstream.adaptive.manifest_type=dash
-‎#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-‎#KODIPROP:inputstream.adaptive.license_key=22ff2347107e4871aa423bea9c2bd363:c6e7ba2f48b3a3b8269e8bc360e60404
-‎https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/kbsworld/default/index.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=22ff2347107e4871aa423bea9c2bd363:c6e7ba2f48b3a3b8269e8bc360e60404
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/kbsworld/default/index.mpd
 
 #EXTINF:-122 tvg-logo="https://i.imgur.com/LIrEjuN.png" group-logo="https://i.imgur.com/tURRa1o.png" group-title="Entertainment/Documentary",LIFETIME
-‎#KODIPROP:inputstreamaddon=inputstream.adaptive
-‎#KODIPROP:inputstream.adaptive.manifest_type=dash
-‎#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-‎#KODIPROP:inputstream.adaptive.license_key=cf861d26e7834166807c324d57df5119:64a81e30f6e5b7547e3516bbf8c647d0
-‎https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/dr_lifetime/default/index.mpd
+http://fortv.cc:8080/zC5wUbTpQU/x28AczEFnJ/46714
 
 #EXTINF:-160 tvg-logo="https://i.imgur.com/SNc90AX.png" group-logo="https://i.imgur.com/rsPE0Fp.png" group-title="Entertainment/Documentary",LOTUS MACAU
-‎#KODIPROP:inputstreamaddon=inputstream.adaptive
-‎#KODIPROP:inputstream.adaptive.manifest_type=dash
-‎#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-‎#KODIPROP:inputstream.adaptive.license_key=60dc692e64ea443a8fb5ac186c865a9b:01bdbe22d59b2a4504b53adc2f606cc1
-‎https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/lotusmacau_prd/default/index.mpd
+http://136.239.159.20:6610/001/2/ch00000090990000001196/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrUraXHxRLZkchi69sJ%2B10xytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001400&contentid=ch00000000000000001400&videoid=ch00000090990000001196&recommendtype=0&userid=1065444060343&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=9JQRNS5OZKWXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
 #EXTINF:-128 tvg-logo="https://i.imgur.com/YZzpZx1.png" group-logo="https://i.imgur.com/tURRa1o.png" group-title="Entertainment/Documentary",LOVE NATURE
-‎#KODIPROP:inputstreamaddon=inputstream.adaptive
-‎#KODIPROP:inputstream.adaptive.manifest_type=dash
-‎#KODIPROP:inputstream.adaptive.license_type=clearkey
-‎#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"d1plTAYQgRrQIjKaaIhN4Q","kid":"FovYFUaGOf5FKLS/AUHzEA"}],"type":"temporary"}
-‎#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
-‎https://linearjitp-playback.astro.com.my/dash-wv/linear/5096/default_ott.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"d1plTAYQgRrQIjKaaIhN4Q","kid":"FovYFUaGOf5FKLS/AUHzEA"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5096/default_ott.mpd
 
 #EXTINF:-126 tvg-logo="https://i.imgur.com/9ekYwkZ.png" group-logo="https://i.imgur.com/tURRa1o.png" group-title="Entertainment/Documentary",METRO CHANNEL
 ‎http://136.158.97.2:6610/001/2/ch00000090990000001267/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Br4hyjlpFsJWrmHS5nwWoXTytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001549&contentid=ch00000000000000001549&videoid=ch00000090990000001267&recommendtype=0&userid=1142671346514&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=LTCR16K4MRAXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
@@ -1177,11 +1169,7 @@ http://fortv.cc:8080/zC5wUbTpQU/x28AczEFnJ/9277
 http://fortv.cc:8080/zC5wUbTpQU/x28AczEFnJ/11664
 
 #EXTINF:-1  tvg-name="NHK World Japan" tvg-id="Nhk.Japan.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/360px-NHK_World.svg.png" group-title="Entertainment/Documentary",NHK World Japan
-‎#KODIPROP:inputstreamaddon=inputstream.adaptive
-‎#KODIPROP:inputstream.adaptive.manifest_type=dash
-‎#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-‎#KODIPROP:inputstream.adaptive.license_key=3d6e9d4de7d7449aadd846b7a684e564:0800fff80980f47f7ac6bc60b361b0cf
-‎https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/dr_nhk_japan/default/index.mpd
+http://136.239.173.3:6610/001/2/ch00000090990000001145/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqZTKpeZkGzV2we2%2BZ6q6g3ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001315&contentid=ch00000000000000001315&videoid=ch00000090990000001145&recommendtype=0&userid=1553915080287&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=G0CGMZFORK5XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
 #EXTINF:-158 tvg-logo="https://i.imgur.com/ar3ixog.png" grdualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" group-title="Entertainment/Documentary" radio="false",TNT
 http://fortv.cc:8080/zC5wUbTpQU/x28AczEFnJ/10455
