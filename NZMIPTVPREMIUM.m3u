@@ -475,9 +475,9 @@ https://e1.thetvapp.to/hls/WNYWDT1/tracks-v1a1/mono.m3u8?token=cTjrPnZhMDxv_r1Er
 https://v4.thetvapp.to/hls/WNYWDT1/tracks-v2a1/mono.m3u8?token=iMtsJ2oUjMd4AY5VwhzTpg&expires=1752677012&user_id=Q3dSeUczaHdOQnFLblZsV3hNMW9COGNvRUx5b3M1WDdXNGxKejd1Rw==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="American League @ National League - 7/16/25, 12:00:00 AM UTC" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB",American League @ National League - 7/16/25, 12:00:00 AM UTC
 https://v4.thetvapp.to/hls/WNYWDT1/tracks-v1a1/mono.m3u8?token=AZ4pc-6K38kGzrir0AouEg&expires=1752677017&user_id=Q3dSeUczaHdOQnFLblZsV3hNMW9COGNvRUx5b3M1WDdXNGxKejd1Rw==
-#EXTINF:-1 group-title="NBA",San Antonio Spurs vs Oklahoma City Thunder @ May 18 8:30 PM - 5/19/26, 12:30:00 AM UTC
+#EXTINF:-1 group-title="NBA",San Antonio Spurs vs Oklahoma City Thunder @ May 18 8:30 PM - 5/19/26, San Antonio Spurs vs Oklahoma City Thunder Game 1
 https://v5.thetvapp.to/hls/nba01/tracks-v1a1/mono.m3u8?token=y2OqxMLAknXxLa9kyTKygA&expires=1779162431&user_id=d2ZIekRLMHk1dm53RjZxZVdZTDJMRFJpNHFSUEtNNnl0eEpYcldaVA==
-#EXTINF:-1 group-title="NBA",San Antonio Spurs vs Oklahoma City Thunder @ May 18 8:30 PM - 5/19/26, 12:30:00 AM UTC
+#EXTINF:-1 group-title="NBA",San Antonio Spurs vs Oklahoma City Thunder @ May 18 8:30 PM - 5/19/26, San Antonio Spurs vs Oklahoma City Thunder Game 1
 https://v16.thetvapp.to/hls/nba01/tracks-v1a1/mono.m3u8?token=kLCgFMeKTGmvv-NNvycZ0g&expires=1779162440&user_id=d2ZIekRLMHk1dm53RjZxZVdZTDJMRFJpNHFSUEtNNnl0eEpYcldaVA==
 
 #EXTINF:-1 tvg-id="Cgnl.Nba.ph" tvg-logo="https://i.imgur.com/RcxNoIC.png" group-title="NBA CHANNEL🏀",NBA TV Philippines
@@ -488,10 +488,14 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cgnl_nba/default/index.mpd
 #EXTINF:-1 tvg-id="NBA.TV.USA.us" tvg-name="NBA TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-us.png?raw=true" group-title="NBA CHANNEL🏀",NBA TV
 http://fortv.cc:8080/zC5wUbTpQU/x28AczEFnJ/20073
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/E0WsVnn.jpeg" group-title="NBA LEAGUE PASS", Cavaliers vs Piston 8:00 AM
-https://nbalp.djdoolky76.io/stream/nbalp/live/master.m3u8?u=gratisph&p=6ca82cdbf500411d515ef574f7d7d83b2fcfd79100eb3929732845c54476a5d3
-#EXTINF:-1 tvg-logo="https://i.imgur.com/E0WsVnn.jpeg" group-title="NBA LEAGUE PASS", NBA LEAGUE PASS
-https://nbalp.djdoolky76.io/stream/nbalp/live2/master.m3u8?u=gratisph&p=6ca82cdbf500411d515ef574f7d7d83b2fcfd79100eb3929732845c54476a5d3
+‎#EXTINF:-1 tvg-logo="https://i.imgur.com/E0WsVnn.jpeg" group-title="NBA LEAGUE PASS", SEMI FINALS SERVER 1
+‎https://nbalp.djdoolky76.io/stream/nbalp/live/master.m3u8?u=gratisph&p=30419504855e55f998d12bba57cbed51b08ecb835e6ed25a676e925c3e27f158
+‎#EXTINF:-1 tvg-logo="https://i.imgur.com/E0WsVnn.jpeg" group-title="NBA LEAGUE PASS", SEMI FINALS SERVER 2
+‎https://nbalp2.djdoolky76.io/stream/nbalp/live/master.m3u8?u=gratisph&p=30419504855e55f998d12bba57cbed51b08ecb835e6ed25a676e925c3e27f158
+‎#EXTINF:-1 tvg-logo="https://i.imgur.com/E0WsVnn.jpeg" group-title="NBA LEAGUE PASS", SEMI FINALS SERVER 3
+‎https://nbalp.djdoolky76.io/stream/nbalp/live2/master.m3u8?u=gratisph&p=30419504855e55f998d12bba57cbed51b08ecb835e6ed25a676e925c3e27f158
+‎#EXTINF:-1 tvg-logo="https://i.imgur.com/E0WsVnn.jpeg" group-title="NBA LEAGUE PASS", SEMI FINALS SERVER 4
+‎https://nbalp2.djdoolky76.io/stream/nbalp/live2/master.m3u8?u=gratisph&p=30419504855e55f998d12bba57cbed51b08ecb835e6ed25a676e925c3e27f158
 
 #EXTINF:-1 tvg-id="A2z.ph" tvg-logo="https://i.imgur.com/3myn4zH.png" group-logo="https://i.imgur.com/083Ud3K.jpeg" group-title="Local Channels 🇵🇭",A2Z
 #KODIPROP:inputstream.adaptive.license_type=clearkey
