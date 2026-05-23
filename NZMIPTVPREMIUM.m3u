@@ -1008,6 +1008,11 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cartoonnetworkhd/default/i
 #EXTINF:-93 tvg-logo="https://i.imgur.com/kHhmOMp.png" group-logo="https://i.imgur.com/NbRG0IW.jpeg" group-title="Anime/Cartoons",CARTOONITO
 http://161.49.17.2:6610/001/2/ch00000090990000001125/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoZQDeIq8A03ROpfeWN75MYytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001238&contentid=ch00000000000000001238&videoid=ch00000090990000001125&recommendtype=0&userid=1642489849443&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=9X3U5ZPDLQVXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
+#EXTINF:-1  tvg-id="97098" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6318760'&EntityType='Item'&EntityId='97098'&Width=356&Height=250", Channel 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc3767ece98a4bdeb39b9ad6b7b8d2fe:769e78dc02d8f73811c97e0f9d5f12fe
+https://tglmp02.akamaized.net/out/v1/a32e566460eb41ce9295b9c45fe25825/manifest.mpd
+
 #EXTINF:-161" tvg-logo="https://i.imgur.com/ZG9pqFw.png" group-logo="https://i.imgur.com/rsPE0Fp.png" group-title="Anime/Cartoons",CRUNCHYROLL TV
 https://bit.ly/Crunchyroll-ph
 
@@ -1065,6 +1070,9 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
 #EXTINF:-1  tvg-name="RetroCrush" tvg-id="CABC2300012FY" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC2300012FY_20250318T021309SQUARE.png" tvg-chno="3207" group-title="Anime/Cartoons",RetroCrush
 https://jmp2.uk/rok-72a54a3c7a3d5381a1baa223a5dc8d23.m3u8
+
+#EXTINF:-1  tvg-id="556877" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='9358838'&EntityType='Item'&EntityId='556877'&Width=264&Height=250", TG Junior
+https://tglmp03.akamaized.net/out/v1/a3992c3d704443c991a8586e01a4cc1c/manifest.mpd
 
 #EXTINF:-1  tvg-name="The LEGO Channel" tvg-id="77761dc1928357d6809a2032fc2e17b8" tvg-logo="http://xxip25.top:8080/98333898/98333898/38https://images.sr.roku.com/idType/roku/context/trc/id/77761dc1928357d6809a2032fc2e17b8/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1657671397295_LEGO_260x147.png" tvg-chno="404" group-title="Anime/Cartoons",The LEGO Channel
 https://jmp2.uk/rok-77761dc1928357d6809a2032fc2e17b8.m3u8
@@ -1130,6 +1138,9 @@ https://jmp2.uk/plu-554158e864526b29254ff105.m3u8
 #KODIPROP:inputstream.adaptive.license_key=971ebbe2d887476398e97c37e0c5c591:472aa631b1e671070a4bf198f43da0c7
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_fashiontvhd.mpd
 
+#EXTINF:-1  tvg-id="557763" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='9358830'&EntityType='Item'&EntityId='557763'&Width=264&Height=250", FIFA+
+https://tglmp03.akamaized.net/out/v1/c8e964618dbd41b38ae487760387af24/manifest.mpd
+
 #EXTINF:-115 tvg-logo="https://i.imgur.com/dBjSEyl.png" group-logo="https://i.imgur.com/tURRa1o.png" group-title="Entertainment/Documentary",FOOD NETWORK
 http://fortv.cc:8080/zC5wUbTpQU/x28AczEFnJ/7323
 
@@ -1159,6 +1170,14 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/kbsworld/default/index.mpd
 #EXTINF:-122 tvg-logo="https://i.imgur.com/LIrEjuN.png" group-logo="https://i.imgur.com/tURRa1o.png" group-title="Entertainment/Documentary",LIFETIME
 http://fortv.cc:8080/zC5wUbTpQU/x28AczEFnJ/46714
 
+#EXTINF:-1  tvg-id="97073" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6318742'&EntityType='Item'&EntityId='97073'&Width=488&Height=249", LIVE 1
+https://tglmp04.akamaized.net/out/v1/b38b8a6306714a8e91ae7674291a4a94/manifest.mpd
+
+#EXTINF:-1  tvg-id="97078" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6318744'&EntityType='Item'&EntityId='97078'&Width=515&Height=250", LIVE 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aafd4cc04e18453a8cb18d1e9b9eabeb:37f5e8b3da54affdea805a11501ad2cb
+https://tglmp02.akamaized.net/out/v1/a655d44ba90444a38a4c2bd74aa998e0/manifest.mpd
+
 #EXTINF:-160 tvg-logo="https://i.imgur.com/SNc90AX.png" group-logo="https://i.imgur.com/rsPE0Fp.png" group-title="Entertainment/Documentary",LOTUS MACAU
 http://136.239.159.20:6610/001/2/ch00000090990000001196/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrUraXHxRLZkchi69sJ%2B10xytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001400&contentid=ch00000000000000001400&videoid=ch00000090990000001196&recommendtype=0&userid=1065444060343&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=9JQRNS5OZKWXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
@@ -1169,6 +1188,9 @@ http://136.239.159.20:6610/001/2/ch00000090990000001196/manifest.mpd?AuthInfo=v8
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"d1plTAYQgRrQIjKaaIhN4Q","kid":"FovYFUaGOf5FKLS/AUHzEA"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5096/default_ott.mpd
+
+#EXTINF:-1  tvg-id="558278" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10089891'&EntityType='Item'&EntityId='558278'&Width=62&Height=59", MasterChef
+https://tglmp03.akamaized.net/out/v1/5623928a97774b698b3404a843a827d6/manifest.mpd
 
 #EXTINF:-126 tvg-logo="https://i.imgur.com/9ekYwkZ.png" group-logo="https://i.imgur.com/tURRa1o.png" group-title="Entertainment/Documentary",METRO CHANNEL
 ‎http://136.158.97.2:6610/001/2/ch00000090990000001267/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Br4hyjlpFsJWrmHS5nwWoXTytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001549&contentid=ch00000000000000001549&videoid=ch00000090990000001267&recommendtype=0&userid=1142671346514&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=LTCR16K4MRAXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
@@ -1205,6 +1227,11 @@ http://fortv.cc:8080/zC5wUbTpQU/x28AczEFnJ/46691
 
 #EXTINF:-1  tvg-name="UFC" tg-id="677d9adfa9a51b0008497fa0" tvg-logo="https://images.pluto.tv/channels/677d9adfa9a51b0008497fa0/colorLogoPNG.png" tvg-chno="2850" group-title="Entertainment/Documentary",UFC
 https://jmp2.uk/plu-677d9adfa9a51b0008497fa0.m3u8
+
+#EXTINF:-1  tvg-id="558112" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='9358826'&EntityType='Item'&EntityId='558112'&Width=409&Height=250", W-Sport
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9e8888ac964d430cbfef9c922ee6714b:9b1dbd9f59a39a9ebaf1fb8e665a3ef3
+https://tglmp02.akamaized.net/out/v1/1063ebb215c14312ba9d4e415ac706d2/manifest.mpd
 
 #EXTINF:-1 group-title="Entertainment/Documentary" tvg-id="" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/a77021bb-a973-4a9b-8902-47e05787b08f/d8txzp1-3f32b570-9b7f-437d-ad29-2df8cdbf554c.png/v1/fill/w_707,h_668/wwe_network_logo_by_jjk100_d8txzp1-fullview.png", WWE Network
 http://nocable.cc:8080/vVgP6v/817017/11645
