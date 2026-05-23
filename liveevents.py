@@ -16,7 +16,7 @@ HEADERS = {
     "User-Agent": USER_AGENT
 }
 
-TARGET_SPORTS = ["Soccer", "Cricket", "Fight", "Nba", "WWE"]
+TARGET_SPORTS = ["Soccer", "Cricket", "Fight", "WWE"]
 
 # ==========================================
 # 2. HIGH-SPEED PLAYLIST GENERATOR
