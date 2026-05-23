@@ -1,0 +1,46 @@
+name: Update Stream99 Playlist
+
+on:
+  # Allows you to trigger it manually from the Actions tab
+  workflow_dispatch: 
+  # Runs automatically every 3 hours. 
+  # (Cron format: Minute Hour Day Month DayOfWeek)
+  schedule:
+    - cron: '*/20 * * * *'    
+
+# Give the action permission to commit files back to your repo
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.12'
+
+    - name: Install Python Dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests playwright
+
+    - name: Install Playwright Browsers & OS Dependencies
+      run: playwright install chromium --with-deps
+
+    - name: Run Scraper Script
+      run: python liveevents.py
+
+    - name: Commit and Push Playlist
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add liveevents.m3u
+        # The '|| true' prevents the workflow from failing if no changes were made
+        git commit -m "Auto-update liveevents.m3u" || true
+        git push
