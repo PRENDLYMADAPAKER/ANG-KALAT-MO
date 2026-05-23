@@ -1109,6 +1109,24 @@ http://136.239.173.10:6610/001/2/ch00000090990000001107/manifest.mpd?AuthInfo=v8
 #KODIPROP:inputstream.adaptive.license_key=1619db30b9ed42019abb760a0a3b5e7f:5921e47fb290ae263291b851c0b4b6e4
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/asianfoodnetwork_sd/default/index.mpd
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/23Sk75s.png" group-title="Entertainment/Documentary", beIN Sports 1
+http://37.27.230.251:8000/play/bein1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BnS7XQw.png" group-title="Entertainment/Documentary", beIN Sports 2
+http://37.27.230.251:8000/play/bein2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a4o2d4O.png" group-title="Entertainment/Documentary", beIN Sports 3
+http://37.27.230.251:8000/play/bein3/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pqB63RT.png" group-title="Entertainment/Documentary", beIN Sports 4
+http://37.27.230.251:8000/play/bein4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lvsCAi6.png" group-title="Entertainment/Documentary", beIN Sports 5
+http://37.27.230.251:8000/play/bein5/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SYH90Vu.jpeg" group-title="Entertainment/Documentary", beIN Sports Xtra
+https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
+
 #EXTINF:-152 tvg-logo="https://i.imgur.com/IAfMULB.png" group-logo="https://i.imgur.com/rsPE0Fp.png" group-title="Entertainment/Documentary",CGTN DOCUMENTARY
 http://136.239.173.26:6610/001/2/ch00000090990000001146/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bq0bLdlQQxjquEy7BUYBE%2BOytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001316&contentid=ch00000000000000001316&videoid=ch00000090990000001146&recommendtype=0&userid=1917967408923&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=4ADPFTEPDLCXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
