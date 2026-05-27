@@ -1,169 +1,421 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="Cricket.1" tvg-name="[Cricket] 1st Test | Day 1 : Ireland vs New Zealand vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test | Day 1 : Ireland vs New Zealand vs  (Willow 2 Cricket)
+#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Brescia vs Salernitana (Sky Sport Calcio)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Brescia vs Salernitana (Sky Sport Calcio)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+calcio&code=it&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+calcio&code=it&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/it-sky-sport-calcio/playlist.m3u8?token=05012ed87c3eab6eb22b2589db9b826ce105475ff5eccf2cdfd196e7d2db1962.1779906983.fa4a62f9db5fc7bb6f08a2bc5507372e.75b839440745cd92494dfe5a8bbb714d.d2aab8bc4764310b13b76ff7e968912b&signature=d39a83cd585aa45a67e7d727826759038fcf3c932a53602318fe99148332fd26|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Catania vs Ascoli (TNT Sports 7)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2725.png" group-title="Soccer",[Soccer] Catania vs Ascoli (TNT Sports 7)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+7&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+7&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-7/playlist.m3u8?token=633dae2fe2c6b0de1245bf2fe0559eff34361125eb0edf90cf3f697a06c3d28a.1779906985.779cd6440134f7ad99c24ebc7e13cb71.808c2701c260bff454a7ee8d01ed9540.9165edeaea71630609f750776c793163&signature=d3751c939e00bfa691fb6e63e5c723135e7ebde319cc04ec9d4a8b6df46b12dd|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.3" tvg-name="[Soccer] Catania vs Ascoli (Rai Sport)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2725.png" group-title="Soccer",[Soccer] Catania vs Ascoli (Rai Sport)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=rai+sport&code=it&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=rai+sport&code=it&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/it-rai-sport/playlist.m3u8?token=b2c4e47d2d297c5bdf11efce6ad32971bd5e4f7191a00365c1d5e5778708b84c.1779906986.114a305538b93ec93f3b4cdef59691eb.15489b0636c51018e6f5575d772157e4.c7275ab9a376e2c93186f04ecea69852&signature=5e74e9be234a90bdbeb5d8e5b944cc22805737778da25fd234131def06b1e6db|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.4" tvg-name="[Soccer] Catania vs Ascoli (Sky Sport Max)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2725.png" group-title="Soccer",[Soccer] Catania vs Ascoli (Sky Sport Max)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+max&code=it&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+max&code=it&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/it-sky-sport-max/playlist.m3u8?token=8a73514b48da8495313864eb7acd277997ac2d4e399df7e6f1b98eba4ead0c1f.1779906986.c81782e8a5fa137d164d4cd0f6bdd2e8.6052dbb00a0ecc785e21013f71e714b4.bd331d6e605e55739f8ffc9eadbb6c66&signature=b78c66bdefe2417118ebc2bb9869b3590af5b2f7d0137dfe1d624d2caf30f3d5|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.5" tvg-name="[Soccer] Crystal Palace vs Rayo Vallecano (CBS Sports Network)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/7.png" group-title="Soccer",[Soccer] Crystal Palace vs Rayo Vallecano (CBS Sports Network)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=cbs+sports+network&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=cbs+sports+network&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-cbs-sports-network/playlist.m3u8?token=13ab884a4f421431718ef069718d1b4b2735653422b0206cf78e1385b989023c.1779906987.00701e19834bfa0a6036428439e881a6.c6e3aca61f406de1d840609c89bc6057.0df4b7eca784139449e4b743206f8566&signature=c810b509473c914023047fbbe25b427f46c07d68618722952c845d88bc143b68|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.6" tvg-name="[Soccer] Crystal Palace vs Rayo Vallecano (TUDN)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/7.png" group-title="Soccer",[Soccer] Crystal Palace vs Rayo Vallecano (TUDN)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tudn&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tudn&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-tudn/playlist.m3u8?token=735232b57ec6f47d4d6985e35eb3573ccd0c77c2c0f052d6c980856c5684504e.1779906988.b7088bb818cf801d7e171e948e0b15a4.edd3ef43ad6a87ba15bce016cad78f23.62edf0e34e47cda6218eae41eaa4b815&signature=ae8b0ae8a38b104720ce8944e506cf05373a9b34d67fad23a8798ebb9e1d0a3a|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="7" tvg-id="Soccer.7" tvg-name="[Soccer] Crystal Palace vs Rayo Vallecano (beIN SPORTS 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/7.png" group-title="Soccer",[Soccer] Crystal Palace vs Rayo Vallecano (beIN SPORTS 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+1&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+1&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-bein-sports-1/playlist.m3u8?token=4dd1e25a94455e8ee8bf6353243df51ff3cd30d2a348934dd5f7b09968d6c42b.1779906988.62b679bfffc18413e346d19090a9a554.1746d1c99336e7ce027090eb13a0669e.863dc4a573e685f294df0fbc27d6a6d6&signature=44d70b918efea8b22c7595248e46fa7b1c38825e62de5a0dabff10b7b285a8c7|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="8" tvg-id="Soccer.8" tvg-name="[Soccer] Crystal Palace vs Rayo Vallecano (beIN SPORTS MENA 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/7.png" group-title="Soccer",[Soccer] Crystal Palace vs Rayo Vallecano (beIN SPORTS MENA 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+mena+1&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+mena+1&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-bein-sports-mena-1/playlist.m3u8?token=66dc7a245059575a898bf5cef20f4408af2574477a054f9ad90ec84d9053dc42.1779906989.907f423150d3287d484a8935613aa228.bfcbcacb8a0ec95babbab8f4cfffdb9b.fb57ecd65d50b9bcaba997bd15ece265&signature=959d164eb90d225c1cf99e88b6b12230aa7e7345ddfe40e314b654864ed1ac72|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="9" tvg-id="Soccer.9" tvg-name="[Soccer] Crystal Palace vs Rayo Vallecano (TNT Sports 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/7.png" group-title="Soccer",[Soccer] Crystal Palace vs Rayo Vallecano (TNT Sports 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+1&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+1&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-1/playlist.m3u8?token=71481b78390716e09aa8006335f9540d11d56e3ed381f56c2651e4ea0ccfdde2.1779906989.095e415683cead8b0881b18c741da3b3.5e70828998b6f5ead026ba06dd5db1ba.e6363546b20ff5f13e27dcec1905cffd&signature=d1aa34c8f5e7c13111123ab349bd613504344df51e528b484084581cbef58dcc|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="10" tvg-id="Soccer.10" tvg-name="[Soccer] Crystal Palace vs Rayo Vallecano (Premier Sports 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/7.png" group-title="Soccer",[Soccer] Crystal Palace vs Rayo Vallecano (Premier Sports 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+1&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+1&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-premier-sports-1/playlist.m3u8?token=823cb0fdbb506f84f44ee27506b2b0b733100acd4cc136f03174f26f0c88bc22.1779906990.61aaaea0d264a80528665ec4be6b831a.bd673de44fd900ccb23970e6f3fa2d68.075827f4de99ff3f31f85444805c0bc8&signature=91c19f1c91a382911864d17ac15bee1bc71071006b075917cf10cfb5a84a9faa|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="11" tvg-id="Soccer.11" tvg-name="[Soccer] Crystal Palace vs Rayo Vallecano (Hub Premier 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/7.png" group-title="Soccer",[Soccer] Crystal Palace vs Rayo Vallecano (Hub Premier 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=hub+premier+1&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=hub+premier+1&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-hub-premier-1/playlist.m3u8?token=497c49a10d5dd5f99afe2d60d96d6b92eb6a593cec843580d95e1a75e94c9f93.1779906991.c6e8f187b1455c0f175fcb1efd195d82.21a3036a6b57b80e422aea25adbbaeab.558e09265ee42382ce65263b9538c769&signature=4783909d6fcec5fedd69ce8b5288c06a712bd0c0fe4161c0ff05a327993f03db|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="12" tvg-id="Soccer.12" tvg-name="[Soccer] Crystal Palace vs Rayo Vallecano (SuperSport Premier League)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/7.png" group-title="Soccer",[Soccer] Crystal Palace vs Rayo Vallecano (SuperSport Premier League)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+premier+league&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+premier+league&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-premier-league/playlist.m3u8?token=a7fbbe2ef42ed397722f2c4f428b85d86ad9442868ca3fab1469c35002e0fc42.1779906991.bc86a7e9a3b1e4bb0092b7bd3213984e.6aa080b62c45503da8e2cd88d46e30f1.005d5a8da6047a20ef1f1645e727cad5&signature=0d5d492c611b3ca184e4a7094fb72dc4a8a959dd3b5f2cc40624eb8406660554|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="13" tvg-id="Soccer.13" tvg-name="[Soccer] Crystal Palace vs Rayo Vallecano (Canal Foot)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/7.png" group-title="Soccer",[Soccer] Crystal Palace vs Rayo Vallecano (Canal Foot)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=canal+foot&code=fr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=canal+foot&code=fr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/fr-canal-foot/playlist.m3u8?token=708a0c7e5277c9d6dd8dc1392075df56f6db8d3ea2430922666aa524d5dc8405.1779906992.2d3c90e7e49b33e8282afb1072669c12.c1cea0d6df2fe80763c340b7fea5c4eb.705dc1dd41b597fbef91ad0ccfed1033&signature=e4c56e915deae5365dbf8ea473ac38c0f064a8879de3c5892b022e1457224031|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="14" tvg-id="Soccer.14" tvg-name="[Soccer] Crystal Palace vs Rayo Vallecano (M Liga de Campeones 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/7.png" group-title="Soccer",[Soccer] Crystal Palace vs Rayo Vallecano (M Liga de Campeones 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=m+liga+de+campeones+1&code=es&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=m+liga+de+campeones+1&code=es&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/es-m-liga-de-campeones-1/playlist.m3u8?token=bb0bfd61e657b8731fbe08ea074651c14cf888297d0570d225c346b7b7283521.1779906993.0ec197df44b86a9b105435742e5b6ef1.d2458f45bb28ac528ed40fc90f803687.bc9ccd6f217e585f751b1521e7a25d47&signature=559918bb429bc9ca83c1fd28257cc0cd12408923bb67f029f1d2994a4d9cf864|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="15" tvg-id="Soccer.15" tvg-name="[Soccer] Crystal Palace vs Rayo Vallecano (Sky Sport Uno)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/7.png" group-title="Soccer",[Soccer] Crystal Palace vs Rayo Vallecano (Sky Sport Uno)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+uno&code=it&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+uno&code=it&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/it-sky-sport-uno/playlist.m3u8?token=f114e3a1bfe91d45ab3e6114c189032e04b97ff5ebb2067c89e6728d56318fab.1779906993.9f69c2100a396603748db888e0e4e096.34836eeac2692be6ab2afa9143955af2.b94da538c9730290ea2ddbae060b49a0&signature=628434bb5784981d6c1cffc3b0ac0a712c7f2357adee564395b00423501d68e5|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="16" tvg-id="Soccer.16" tvg-name="[Soccer] Crystal Palace vs Rayo Vallecano (Sky Sport Bundesliga 7)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/7.png" group-title="Soccer",[Soccer] Crystal Palace vs Rayo Vallecano (Sky Sport Bundesliga 7)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+bundesliga+7&code=de&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+bundesliga+7&code=de&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/de-sky-sport-bundesliga-7/playlist.m3u8?token=1c05ff4248ca568182893feaba342f9a0ecdf8aaa14accfa04438a1fd2f0c2c7.1779906994.7ec1b24342d3a6bb90c26a430ef5da55.6b1f75f49a116dac6a8d80dd325c87a6.c791846267da6a53067aac9f7d1b9e4d&signature=39a4b76686aac9a57cf7ff972e1b40393da474d2f0177cee5520bd6816becac8|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="17" tvg-id="Soccer.17" tvg-name="[Soccer] Crystal Palace vs Rayo Vallecano (Sky Sport Bundesliga 6)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/7.png" group-title="Soccer",[Soccer] Crystal Palace vs Rayo Vallecano (Sky Sport Bundesliga 6)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+bundesliga+6&code=de&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+bundesliga+6&code=de&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/de-sky-sport-bundesliga-6/playlist.m3u8?token=cbbb6bd0edc8d89447c6e6c18f5e3bb79bd9c90e193eaedd502dece1e7d06709.1779906994.a0eb69d927f24090bf825f1d64f6fc15.b824dc788d94beb499af214e39071402.c3c22b396e830e5b3f9ee53ee5baba93&signature=eddf8b026b3ba4e382298d00d0bd04802ec24f6dc3a679087334edd1755ff9f0|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="18" tvg-id="Soccer.18" tvg-name="[Soccer] Crystal Palace vs Rayo Vallecano (Sport TV 5)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/7.png" group-title="Soccer",[Soccer] Crystal Palace vs Rayo Vallecano (Sport TV 5)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+5&code=pt&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+5&code=pt&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/pt-sport-tv-5/playlist.m3u8?token=db728970b64856c83e6a33bbfc0ee99cd16ab8e53d94a76e76cef66aa518beac.1779906995.4c31400369315623e0803b403b8b65b7.236ea2ea7806b549620a286278920586.1ebfc12b1d3ce21d7eb05a7638adfbdf&signature=5933dad98e136263c62580fdb14162a08193868bb2949c91c1627371f7924fbe|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="19" tvg-id="Soccer.19" tvg-name="[Soccer] Crystal Palace vs Rayo Vallecano (Ziggo Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/7.png" group-title="Soccer",[Soccer] Crystal Palace vs Rayo Vallecano (Ziggo Sport 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ziggo+sport+1&code=nl&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=ziggo+sport+1&code=nl&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/nl-ziggo-sport-1/playlist.m3u8?token=d4692a6646cfbcf5f35202de119cf7503b374ce8b2aed24e8c26a3ff11e87b5d.1779906996.2eedd19599cbe2f24e3cd8c9a01edbb8.569f59c2090997ae564f5e90cb3252a7.da5664dc66ff939f384af99bdb8d02f8&signature=53981982d4f8370afa2b6fdb2b5f8d6dc0c4e1bc9c236f748ea41a2faa95cae0|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="20" tvg-id="Soccer.20" tvg-name="[Soccer] Crystal Palace vs Rayo Vallecano (Cosmote Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/7.png" group-title="Soccer",[Soccer] Crystal Palace vs Rayo Vallecano (Cosmote Sport 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=cosmote+sport+1&code=gr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=cosmote+sport+1&code=gr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gr-cosmote-sport-1/playlist.m3u8?token=24c92197e0deb61f30a3bebca8d7db95f74bc0db4db1573a3f9dca7578150bb3.1779906996.e80593ccead17f598e07b0f462e2154e.599e8c50e32cbc33e6f8558e9ef31565.e85b5025b79f672e5ec8e6ed0acd4717&signature=e31fa40da8dc8d2c7750f7a4861368372a4b2460fc39b4711e006e4a79e6dc90|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="21" tvg-id="Soccer.21" tvg-name="[Soccer] Crystal Palace vs Rayo Vallecano (bTV Action)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/7.png" group-title="Soccer",[Soccer] Crystal Palace vs Rayo Vallecano (bTV Action)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=btv+action&code=bg&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=btv+action&code=bg&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/bg-btv-action/playlist.m3u8?token=891fff4427cc224570d763b9ec37b751d98732a56c784b9b76b8e1632524893f.1779906997.0b99a525d1b24cd941776d15ff308db6.57677165189e6cf7877d5bc8915cd309.57be81e04390b830302563eea063f51b&signature=2deacd2adb07a79d58cb4f03b5abf3bfc1a2c9bbb1572b6de87fc73766bac965|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="22" tvg-id="Soccer.22" tvg-name="[Soccer] Crystal Palace vs Rayo Vallecano (Max Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/7.png" group-title="Soccer",[Soccer] Crystal Palace vs Rayo Vallecano (Max Sport 3)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=max+sport+3&code=bg&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=max+sport+3&code=bg&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/bg-max-sport-3/playlist.m3u8?token=1d70eb844c3a3c50dbd02f9f587d0bd3717fad48502cfd878f8902111fd71fbb.1779906998.7558f404f2903c71826e7647f51c00a6.45b312617958123938b907a87a77b4de.53fa825b018e21a3a1f1be3b21cdbea8&signature=20ed0169d14de218f454f3a788a17a3c661b021c589c5792e08e838e9b7f57d3|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="23" tvg-id="Soccer.23" tvg-name="[Soccer] Crystal Palace vs Rayo Vallecano (Arena 1 Premium)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/7.png" group-title="Soccer",[Soccer] Crystal Palace vs Rayo Vallecano (Arena 1 Premium)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+1+premium&code=rs&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+1+premium&code=rs&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-1-premium/playlist.m3u8?token=4537c63797908f5a46741f919f4df75887a59085fa2b4d4d2333fe86a8c2a948.1779906998.49c565a177399e8e58f3be345b111b17.d7d35faba5d7d3ce85dcb0259c32c2f9.0e8df0ca8ecdaf04ac124951a1aa1957&signature=fdc66670188720f4a709be758f5b0f9c675703f2e77acde60ced7fd9baeeb17a|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="24" tvg-id="Soccer.24" tvg-name="[Soccer] Crystal Palace vs Rayo Vallecano (Arena Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/7.png" group-title="Soccer",[Soccer] Crystal Palace vs Rayo Vallecano (Arena Sport 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+1&code=hr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+1&code=hr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/hr-arena-sport-1/playlist.m3u8?token=00335c3768e797894538f8acd319b46cd79351f03acb43f89bc35b08deeb7f7f.1779906999.123204428909a322418572ce7778b7c1.c5a82830c4bf53bd47e9a5d9afc15fbf.fa3a786b99c1a4b1f3c086c60987effd&signature=785049744bf6ce887ccbcd9d4c3b528fc506390ef5c653916bcc95a451dd052d|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="25" tvg-id="Soccer.25" tvg-name="[Soccer] Crystal Palace vs Rayo Vallecano (Nova Sport 5)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/7.png" group-title="Soccer",[Soccer] Crystal Palace vs Rayo Vallecano (Nova Sport 5)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sport+5&code=cz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sport+5&code=cz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/cz-nova-sport-5/playlist.m3u8?token=8f39327d38263bfc55621309ca19b5b0320660eb03e0c13daf0ae044d7cbc178.1779907000.18093fbf352daef4b585bd2b59f333ff.2b406283df84ce2535daebc37d9c8ee9.e98477baa6ef730feee13ec35e232ebf&signature=2375dae061f8b1f01c58692b98f8b4a7a692e7de6898778b40085f9c86941e9c|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="26" tvg-id="Soccer.26" tvg-name="[Soccer] Crystal Palace vs Rayo Vallecano (ESPN)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/7.png" group-title="Soccer",[Soccer] Crystal Palace vs Rayo Vallecano (ESPN)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=ar&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=ar&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/ar-espn/playlist.m3u8?token=d3fdc0231e5d9ef34d62858b929424d7313a91dfd4886cff2e4255bbd736a09f.1779907000.5fedbd5f4be26ec2f988a2525d1535d8.22599703a91484849ff24192850044c2.6ae0a1cfb0dd461ff84d7c453da9e9bb&signature=165745f82cb2b3e2452f06ffb36851a90fe6f7bb938eb0c30bf58c40545c277c|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="27" tvg-id="Soccer.27" tvg-name="[Soccer] Crystal Palace vs Rayo Vallecano (ESPN)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/7.png" group-title="Soccer",[Soccer] Crystal Palace vs Rayo Vallecano (ESPN)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=mx&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=mx&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/mx-espn/playlist.m3u8?token=570c23556c468b9680f8248f7928dd79a05d1cda624f770d2ddd2b50ddee68a9.1779907001.63fea5d7015e84014d17b6861946e7f0.facd0a2d0468cc5e61d289114590bd1d.862edce259fe77929e7e8ac1d3297ee2&signature=e8cd1b91ff2fd71a9f557203d8fdac343d98fe63d27f2e72652a42a3276a4d74|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="28" tvg-id="Soccer.28" tvg-name="[Soccer] Crystal Palace vs Rayo Vallecano (Prima Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/7.png" group-title="Soccer",[Soccer] Crystal Palace vs Rayo Vallecano (Prima Sport 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+1&code=ro&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+1&code=ro&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/ro-prima-sport-1/playlist.m3u8?token=f086a40fc7b54cc3e59c3b548f81b20aece7415a6d2fc497118310591dfcd584.1779907001.fe66e1ac3be927f199abdaaf833d9798.48bb74ef7d11f066676f744f6313caa1.49446493dbe537eba3e11cad2c13a4d6&signature=312443837224e6f7aa7f99501930e1762fb8e0420c1e5b8961563bdd3a3ebcd8|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="29" tvg-id="Soccer.29" tvg-name="[Soccer] Crystal Palace vs Rayo Vallecano (Digi Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/7.png" group-title="Soccer",[Soccer] Crystal Palace vs Rayo Vallecano (Digi Sport 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+1&code=ro&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+1&code=ro&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/ro-digi-sport-1/playlist.m3u8?token=7b73a6559ea9593d93f02fc0cee220927d3e8dfa52f1841a50b70c1d2bda3e1a.1779907002.3fd29a4c96397b379473bdaea62e9454.50580af4039d724463193f8ab91ab081.f3d7741ebd3c1775afd3aad63f687518&signature=9da048fad38e7aebbc4d9d7d7e606848ff94e516a22c6129d5b717dad4ee449f|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="30" tvg-id="Soccer.30" tvg-name="[Soccer] Crystal Palace vs Rayo Vallecano (TRT Spor)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/7.png" group-title="Soccer",[Soccer] Crystal Palace vs Rayo Vallecano (TRT Spor)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=trt+spor&code=tr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=trt+spor&code=tr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/tr-trt-spor/playlist.m3u8?token=cb6f45b839d6ef103f52f64ff8fc1d2a56973daedbe5da1ee6ef9da04268f76a.1779907003.29e07442481fa26d23586087650ee1e2.b0c6770ebd3b73df0f05f931ea9596f9.3770374fa8bee89480544d7c93599a43&signature=01cc76a8732c5644fdd901e846717346b3041bbb5425f45aa63803a0747e90e6|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="31" tvg-id="Soccer.31" tvg-name="[Soccer] Crystal Palace vs Rayo Vallecano (Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/7.png" group-title="Soccer",[Soccer] Crystal Palace vs Rayo Vallecano (Sport 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+1&code=il&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+1&code=il&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/il-sport-1/playlist.m3u8?token=8bc80415d2d34568e7c9580962c80401754df4a8425a7657e22b14dcc2ad5bc0.1779907003.7aaf46f11450bc19d067cd9d826e2451.c8b1ee76afb41a2d96954a326c1f7db2.b2ca5b59c2d0b65d18289f68f4d7d9f1&signature=e5202aee9d7db8b650b8bb71165a8884651b803ff5f67adc0b1a64780ceb4cdb|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="32" tvg-id="Soccer.32" tvg-name="[Soccer] Crystal Palace vs Rayo Vallecano (beIN SPORTS 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/7.png" group-title="Soccer",[Soccer] Crystal Palace vs Rayo Vallecano (beIN SPORTS 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+1&code=sa&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+1&code=sa&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/sa-bein-sports-1/playlist.m3u8?token=30b4d306fe9b990e1ca381a9e9a1a4266db6f09320428fb889fd2a8939430bd1.1779907004.26d06e3e12d704b1608b37fc513fa019.f0c33de012903c146367aaafda18d5b1.79210fc0d44d67f05c6060529741e5f1&signature=dba48053481df513c3955b111d49c5aaa0bbaaf356665532d8a0f372b686f25a|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="33" tvg-id="Soccer.33" tvg-name="[Soccer] Crystal Palace vs Rayo Vallecano (SONY TEN 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/7.png" group-title="Soccer",[Soccer] Crystal Palace vs Rayo Vallecano (SONY TEN 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sony+ten+2&code=in&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sony+ten+2&code=in&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/in-sony-ten-2/playlist.m3u8?token=f0030c68b168f7fdf9c57c8f7f0cdadafd4fb4f7213fa79bbbead19b27501d24.1779907005.017c3c2c1fcf033daed47ffd5e23f090.ba3cac06a9f755478dc4c498c8edc3e8.ed7d8452bd7b9f422f271321344f14fd&signature=d79b76d5e7b06d1d4d89584b4fbd0b3c10e4529cb33546840364729ef3f07050|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="34" tvg-id="Soccer.34" tvg-name="[Soccer] Crystal Palace vs Rayo Vallecano (M4 Sports)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/7.png" group-title="Soccer",[Soccer] Crystal Palace vs Rayo Vallecano (M4 Sports)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=m4+sports&code=hu&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=m4+sports&code=hu&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/hu-m4-sports/playlist.m3u8?token=55d5236fface933912452b881e1dac3a5cb2e26387428a46367ca4160709252e.1779907005.026cda1cf2ae5921e05f5b0cba835cf2.17d500bce022843b2a0a2a67b9fb5644.39a1e7e47ce99f32a2c57d85072f63cd&signature=25607423160c1e102ae377d0b3dfa11d394d6fe41095de1de2656f85c51b68bf|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="35" tvg-id="Cricket.35" tvg-name="[Cricket] 1st Test | Day 1 : Ireland vs New Zealand vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test | Day 1 : Ireland vs New Zealand vs  (Willow 2 Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=bb3fd6745307cba77bc9f2fe0d36597b3bcffcb0c523fea3faa010a244aa86af.1779897741.916fd9d93154920f87f548c3caf2c2bd.4970f3fbcb6f282817095edda47d622e.1f3c62738d31e190cd75f32acd1b7857&signature=19278c004d2c746165af5f8256cb26efaad40cfc020129f3bdd9876102be4f91|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=66d9a9e67dcbd914d8624375088fb8e7df5f71f3bca6836e1a7c75e0eed73751.1779907006.fbfffe382fd423178967ae068413c114.dc80a1daef1d7b04bcf116a9b0cb5b8e.4c99d8cb0079807c31159dcb3d754c1b&signature=dda7949cdc7a02a0e9e5bfc75cc4823a191c601e58289ed385296996728ff531|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="2" tvg-id="Cricket.2" tvg-name="[Cricket] 1st Test | Day 1 : Ireland vs New Zealand vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test | Day 1 : Ireland vs New Zealand vs  (Astro Cricket)
+#EXTINF:-1 tvg-chno="36" tvg-id="Cricket.36" tvg-name="[Cricket] 1st Test | Day 1 : Ireland vs New Zealand vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test | Day 1 : Ireland vs New Zealand vs  (Astro Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=6c55f4e1744352104884054e00e66800ceb06f50fc5c52bbaaab2d7eba3447a1.1779897742.1a6343bedf4aec1c5bbbdef657cee214.05a0f3e3b3920acb793104e5e0fa62ab.e2eb5b84cc4d8c4f4e9de70685814353&signature=aed7377f0e591daae3a0f5cc7966701ffaaa45f50ef5226d87d8fca37120f7e7|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=b931dff936393f823d0d670b35a1386a2e3c15b23a148f4fde1c1341976a7661.1779907007.411cba944fa42ab9126d3f418a73141d.f7ef973940cbb5af5520987954df01dd.636d5861be9cfe0c654ee82b0e0367d0&signature=392192506c30806a441c21054c5707be51da58774cb59b9d88d5264a24a10240|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="3" tvg-id="Cricket.3" tvg-name="[Cricket] 1st Test | Day 1 : Ireland vs New Zealand vs  (TNT Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test | Day 1 : Ireland vs New Zealand vs  (TNT Sports 2)
+#EXTINF:-1 tvg-chno="37" tvg-id="Cricket.37" tvg-name="[Cricket] 1st Test | Day 1 : Ireland vs New Zealand vs  (TNT Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test | Day 1 : Ireland vs New Zealand vs  (TNT Sports 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-2/playlist.m3u8?token=5a2678a7dd99d83e9447f1507a4e2efa8cfb2910f9f5674dc8a2a2c38fac989a.1779897743.65e0b5bda169d80135c3493821042430.77d3747b9d58802a62b33d22ea7bf4fd.a6eef806dc0c4576f6a5d391a365f621&signature=0ece815a4475064a740091de0a4baca4696e4d9f937c22e404050b0c7fcc29bc|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-2/playlist.m3u8?token=e68f10afa93544140633d7235ca0b1a07e1f771b7bec0943cbc2257a47897ea5.1779907007.14c74ed2332d719b6ba86cc26e8b5ddb.e786016ce794e9168cb024945cd35ba6.e6c28e4fd64197db073db7c8b29bcd7a&signature=c0b8bfc4d0827ad6f0b2e0fdf266f7a938d23e7557da22012716f34528dafa0f|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="4" tvg-id="Cricket.4" tvg-name="[Cricket] 1st Test | Day 1 : Ireland vs New Zealand vs  (Sky Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test | Day 1 : Ireland vs New Zealand vs  (Sky Sport 2)
+#EXTINF:-1 tvg-chno="38" tvg-id="Cricket.38" tvg-name="[Cricket] 1st Test | Day 1 : Ireland vs New Zealand vs  (Sky Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test | Day 1 : Ireland vs New Zealand vs  (Sky Sport 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-2/playlist.m3u8?token=e024b751d030107bdb6a87e535ea2d16afb18b1b3c5e4389b611807c38ae9217.1779897743.4b0dfaea80d6fa0778aaabcfb45746b0.ff6187fa2f9728cb43578cd9fb05df50.784436e370cdb269b1d8448a8ed2bcd7&signature=97d9e265f16b610e51f0174e38ac0630c460865e0d18ee145e0319665eb7953a|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-2/playlist.m3u8?token=585ae23467928bb8045383728d2241233d17ca1d36c14ff2be85768f15ce3769.1779907008.a031b5fdb4481db4efbf17f719986792.19d654fdec98fd1a7aff2a589477c749.cdc5a61715fa233af22fae65c0bb6285&signature=9f6961156c86e25c40b965efa41baf5595754a19c5f325f13d9742546dc09ce2|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="5" tvg-id="Cricket.5" tvg-name="[Cricket] 1st Test | Day 1 : Ireland vs New Zealand vs  (SuperSport Action)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test | Day 1 : Ireland vs New Zealand vs  (SuperSport Action)
+#EXTINF:-1 tvg-chno="39" tvg-id="Cricket.39" tvg-name="[Cricket] 1st Test | Day 1 : Ireland vs New Zealand vs  (SuperSport Action)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test | Day 1 : Ireland vs New Zealand vs  (SuperSport Action)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+action&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+action&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-action/playlist.m3u8?token=7b07a8cd2a3a9c4c0d6492307b694cfbcef3209c2b2cf3590a4d864f01dfa2d2.1779897744.c3deefb6dc29ad01b5c94056187e1e98.4349312aaf2ed1370587a88c1e2d6586.8c5d211e3b12e338cff012599612c71a&signature=f9abd0aea85a8a498b9b7af4d0c3506be2febd891390aced79ba41139591b773|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-action/playlist.m3u8?token=6924bb45efb88b82f2b04866fd843194da681547ff8ab1ec55b8b53d61659358.1779907008.e4a6a5954d3245bce03d07b340a16831.03edcaeafbaf694ed0307b73841da2d0.c0a236d89845a37d12ee8e66c8dcb390&signature=8da780091e962a6ce0d91622ee105a867a558973c94b31687c0108871506b1dd|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="6" tvg-id="Cricket.6" tvg-name="[Cricket] 1st Test | Day 1 : Ireland vs New Zealand vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test | Day 1 : Ireland vs New Zealand vs  (SuperSport Cricket)
+#EXTINF:-1 tvg-chno="40" tvg-id="Cricket.40" tvg-name="[Cricket] 1st Test | Day 1 : Ireland vs New Zealand vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test | Day 1 : Ireland vs New Zealand vs  (SuperSport Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=f1c850dcdea1fdbd179a555c789716e1cd4effd3b8ca3cb9a886ca271e876465.1779897744.787c0f5509018791be054a874bbc50be.8a282d94b814b53146fe781cb097bd60.6fc22ffecd7ac9877a8d121ea8cd3b21&signature=aa7eb6ca0c20a031fc0ac4f7aa0b4005e09f4d1580fb972b3088541f5e72800e|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=502871396c1c1713fc099aac7ab8c089035ae6a91220061e8195ec0e8ac878ea.1779907009.88f24bc6a6f6b8a173938e06f21d08aa.c2523cc19c56ca91060aa6036de78511.52330719849b81c07201737eb0029d86&signature=b07706d65c6d19b2044bb9e10da259bffd381f516f37c5ad65aff04a4ba8c716|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="7" tvg-id="Cricket.7" tvg-name="[Cricket] IPL 2026 Eliminator : Sunrisers vs Rajasthan vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] IPL 2026 Eliminator : Sunrisers vs Rajasthan vs  (Willow Cricket)
+#EXTINF:-1 tvg-chno="41" tvg-id="Cricket.41" tvg-name="[Cricket] IPL 2026 Eliminator : Sunrisers vs Rajasthan vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] IPL 2026 Eliminator : Sunrisers vs Rajasthan vs  (Willow Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=dc96481eff3b0f464a0e4b9f847823485c666282f829cd6cceb38d1cde7cbc0b.1779897745.a3b1c2790da86bf6a11c1f37a3d99292.a374db99e99cb7f06a6d2b8eb8e1468f.04ae77056ad3594863cdf1f2875bade3&signature=ffe1ebf5c8cfcbc80c446cb5dcfb9c742709eeec7a620a019203ffeb74e28885|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=fd0d5efea8a7143e37ac46c62df42adc02943c3e6d871eaa46e1c938280a2d62.1779907010.8cc793ce2ec7e7514c07ffee00555154.6c4e43d9a30e98a578f243f1a0f95da5.5f211f4eb076595943dd9d8f6130fc74&signature=2009ff828cebe3f37130021b141ca1273cf821609c580741cd933482d358d9e5|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="8" tvg-id="Cricket.8" tvg-name="[Cricket] IPL 2026 Eliminator : Sunrisers vs Rajasthan vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] IPL 2026 Eliminator : Sunrisers vs Rajasthan vs  (Willow 2 Cricket)
+#EXTINF:-1 tvg-chno="42" tvg-id="Cricket.42" tvg-name="[Cricket] IPL 2026 Eliminator : Sunrisers vs Rajasthan vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] IPL 2026 Eliminator : Sunrisers vs Rajasthan vs  (Willow 2 Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=4ce1b14568b43711dd666b6f57189fb5babd7cef192534001f5b866accf29750.1779897745.179777ea0a5e7e6a34402a2b8c9e1196.cff61b54d0d8118ce2c947369578d272.d06074676eba2b6a7ea5b73e53689afc&signature=7bcf7af664ed94a1c409167225a63015e61f126711ca4c46cb2175b0ac5f7399|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=9f4d4ac94fa5d44b06ead552130fd627b2c863ac59333a64764e5d8d37dbca17.1779907010.861ff18dff8683e8979ba304b60513c2.836595c8866cd216b9860ead97831a54.442ff4cbaba78154baf2f256cbeaef75&signature=cecdeaa0b56e317b05725e18a59dafae70f2dbaca639c755421a186e40c837ae|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="9" tvg-id="Cricket.9" tvg-name="[Cricket] IPL 2026 Eliminator : Sunrisers vs Rajasthan vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] IPL 2026 Eliminator : Sunrisers vs Rajasthan vs  (Fox Cricket)
+#EXTINF:-1 tvg-chno="43" tvg-id="Cricket.43" tvg-name="[Cricket] IPL 2026 Eliminator : Sunrisers vs Rajasthan vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] IPL 2026 Eliminator : Sunrisers vs Rajasthan vs  (Fox Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=a5ab500aabc1a4c292d826c7d3a6e3eaebd611692c967f7d2f6ccc95eaed9605.1779897746.d9f3fc7353de35a911058e9d0c33cea1.ffa609a4d06d210d1058d46aef506c1e.bbc15551cd02cd214c634f6ee8d534ba&signature=e06296c515b38ca3b3a3eeb87ad91d8033b14ee113e962440d9dc220ddb8b8b5|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=9cf72e59aef89b990ac76fda8463cc0cfd7a96962db1e76e4435d8083f02c8de.1779907011.556d209cb4ef8568947cb33d00071e32.31c1a2053479eddc0961c6e46e52605b.d6c82f1341717ba87da6cb12b1bf7300&signature=ad392b083eeae3835232b5b8d45e056fb7b29c3eb729784f0202ef12cea1eb1e|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="10" tvg-id="Cricket.10" tvg-name="[Cricket] IPL 2026 Eliminator : Sunrisers vs Rajasthan vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] IPL 2026 Eliminator : Sunrisers vs Rajasthan vs  (Astro Cricket)
+#EXTINF:-1 tvg-chno="44" tvg-id="Cricket.44" tvg-name="[Cricket] IPL 2026 Eliminator : Sunrisers vs Rajasthan vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] IPL 2026 Eliminator : Sunrisers vs Rajasthan vs  (Astro Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=6e2244017cbf69f745aeb67b8800d3239627b13a2ad0b2bc439d1ef26cb76fc1.1779897746.86b282ffd0633822370124dc6f1df4a4.7ba590e2d03b8443f713582f21950390.b7ff7dc504d3dbcebde41e655a07cc6c&signature=a8c3919d82af79256f5ec64e02d433400b47c20976c5cbaa2ee864ffb5ed620d|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=56d25c286649bdfca482b05a55a723471ab27a9163168c31d342ddb66d433764.1779907012.9af734dad4bd85f7ac1e377747232c89.63deabf2ca1d7303a33412532adc0550.4b88da4cc640136a75711fe7778bae65&signature=58ca3c47e1155f3b99acf4eca1533956a31ff55ec971571f169595913b8489b7|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="11" tvg-id="Cricket.11" tvg-name="[Cricket] IPL 2026 Eliminator : Sunrisers vs Rajasthan vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] IPL 2026 Eliminator : Sunrisers vs Rajasthan vs  (Sky Sports Cricket)
+#EXTINF:-1 tvg-chno="45" tvg-id="Cricket.45" tvg-name="[Cricket] IPL 2026 Eliminator : Sunrisers vs Rajasthan vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] IPL 2026 Eliminator : Sunrisers vs Rajasthan vs  (Sky Sports Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=3b853ffb9e9009cdc273128bdbd67e48d44f496cfa14867cf04e856939eff6e3.1779897747.b5fcde297e0330684ce51956d234175b.734ab31f03aaa129cdceced233c790aa.b8a22ed9d1afc734a57febd484bdf831&signature=7aa540b56437670edf44a512869553484caa24b3f16cb397cf8f65ab66b595a0|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=94342659b28201fe8b28c3696bcf74dc9a8a2e9b030928ce5bb6d5361c935d82.1779907012.154ebe1d7202553df6798c3c23d51e48.1aa7d3998c549acb66d95f9be00083a4.d21d7a45ae851d4ad221cb65f150d75c&signature=f95f99f7f7b1ed1e89528b9a8873e6d3e8ae98e8d5c7ad0b4c47232a3970c40f|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="12" tvg-id="Cricket.12" tvg-name="[Cricket] IPL 2026 Eliminator : Sunrisers vs Rajasthan vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] IPL 2026 Eliminator : Sunrisers vs Rajasthan vs  (Sky Sports Main Event)
+#EXTINF:-1 tvg-chno="46" tvg-id="Cricket.46" tvg-name="[Cricket] IPL 2026 Eliminator : Sunrisers vs Rajasthan vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] IPL 2026 Eliminator : Sunrisers vs Rajasthan vs  (Sky Sports Main Event)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=5ebced7a53dd1895c34e14ab0939dad15e6105e76905c1cff6e58b2ab7586d34.1779897747.4e1c08b87815bff2d9723cd9afa6c6c3.df5ef338a8279adc9e28c099fdf3367b.023ed260f0eb2e7e953571da5576fafc&signature=c4ef2258b82b50673727c63f058fa5fcf78988a21ffeeaaf3e6c54d9fd632581|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=5786a45229084ef1ff9851519a720fd3afdf81295f764eed5682b14e021edca7.1779907013.9d048fab9232a052950dee058bbdf65d.9e0157ac75e17482b18feac1d953a851.2f45c35f5c944fbb55ae52d89b1b0395&signature=14d385b3117e7d8375f2f415cd32c4e4dc9b4de16844a2a5f9ff42c5aa8274ed|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="13" tvg-id="Cricket.13" tvg-name="[Cricket] IPL 2026 Eliminator : Sunrisers vs Rajasthan vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] IPL 2026 Eliminator : Sunrisers vs Rajasthan vs  (Sky Sport 1)
+#EXTINF:-1 tvg-chno="47" tvg-id="Cricket.47" tvg-name="[Cricket] IPL 2026 Eliminator : Sunrisers vs Rajasthan vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] IPL 2026 Eliminator : Sunrisers vs Rajasthan vs  (Sky Sport 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=7c90c26bbf896183ff322aa21be46d7ba17b501afa81237b8c30631b3dbd991e.1779897747.442fb2100632bb6fac96dc538689c309.2f6e89128497e480abf34351c97b6df0.3b4ec472f2321f40d35968873e50f521&signature=ddea07e605bbbece9ee4f9f5f67202fb44fc024bb293e5c0914d70682b4b17dd|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=e8f9e5d330e47bc5ef512cb07078e3e4c044d67f4df1f71502855bc7554ecd04.1779907014.5882fd3e2e46b5dced4539e769f3b499.0061ea77cc1fd5f66a30509410b4c8eb.3a236072d3a1c515ce80c58ccc8b2b9d&signature=9b87abae46a266b8441da28ec7a0c837b331d20740414663d2f32dd80b65df61|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="14" tvg-id="Cricket.14" tvg-name="[Cricket] IPL 2026 Eliminator : Sunrisers vs Rajasthan vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] IPL 2026 Eliminator : Sunrisers vs Rajasthan vs  (SuperSport Cricket)
+#EXTINF:-1 tvg-chno="48" tvg-id="Cricket.48" tvg-name="[Cricket] IPL 2026 Eliminator : Sunrisers vs Rajasthan vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] IPL 2026 Eliminator : Sunrisers vs Rajasthan vs  (SuperSport Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=7a4ba52d2de01064c5de1c94f4efea55cb5a430c7e8584af9be306d39a7de0dc.1779897748.09de22fd2f1426d211ee8bcfa28a42d7.e22d26582063c28d7a5a11ef18d09c01.fc6fde255a40e5ff2c53248461207039&signature=1163d431cc3350c3c92dd5483ebb6538cb09a967ad1b9643e0d1bef3001f19b0|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=d587b9941e65ea4adf060833f94c5359952df3cd4ab64f76651dde2a921b23c4.1779907014.1edc91424204ddb358a95778f3f5eaee.227adb5f92ac3060a62ee5fe9be2ac80.0fc364d1af75fca5e4240bc4fc3f79ae&signature=2771ce4cbf747a98001c83bb64c38dfa3a92ad93ada464253ebb2eaf03839ca3|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="15" tvg-id="Cricket.15" tvg-name="[Cricket] 1st Test | Day 1 : Ireland vs New Zealand vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test | Day 1 : Ireland vs New Zealand vs  (Willow 2 Cricket)
+#EXTINF:-1 tvg-chno="49" tvg-id="Cricket.49" tvg-name="[Cricket] NatWest T20 Blast : Leicestershire vs Derbyshire vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Leicestershire vs Derbyshire vs  (Willow 2 Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=1ee171370e322e778383d54540598fe432ce4d8c4ee8b83a428bc3e16b6838a0.1779897748.9c51570cf16160590a8408fdec361bbd.c8ea3f1d49e6161db5ef3e53d98a5df4.963c495a7c4ad99dd145efae8c05087a&signature=287d4f74702483b3f90cf7ef8d0561c526f4061124223afe888d7427c93121e3|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=c693dbf1304249d1aaeb7eb1c851463613666b0f078c2cd13ae872c780e9360d.1779907015.af36b394a1bf3d725142039151e2aff4.c31dc08e43bbbb17d2f0b03e6038195a.ab36e86beecf8c9bbf770e78a6a55ee6&signature=118a0ddb35a84492f2532fba76e63cb923ec0248a215df3923c5f13328e1f408|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="16" tvg-id="Cricket.16" tvg-name="[Cricket] 1st Test | Day 1 : Ireland vs New Zealand vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test | Day 1 : Ireland vs New Zealand vs  (Astro Cricket)
+#EXTINF:-1 tvg-chno="50" tvg-id="Cricket.50" tvg-name="[Cricket] NatWest T20 Blast : Leicestershire vs Derbyshire vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Leicestershire vs Derbyshire vs  (Sky Sports Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=e99d52d98fea54f171f175f11196133922af0c337a8b8065a31788af750ee6dc.1779907015.18ff3e30019166b82c25b1cba3dc7fbc.6c6537fe1f7b7448d884bfc019e22d69.bfbcecdde722a5bf7ae59aa1f9f768df&signature=a496a6d733a1116066b44d86ea57a4d2d9ac6ef64a423d2d4051da368c74936f|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="51" tvg-id="Cricket.51" tvg-name="[Cricket] NatWest T20 Blast : Leicestershire vs Derbyshire vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Leicestershire vs Derbyshire vs  (Sky Sports Main Event)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=01e31ed5a0a994baa3a08d3b6d637b8c2d76fe948a98f893c9d05c4f1d55e4ac.1779907016.0f906888dcddcdf1f5ae75634e0ec229.08eb2a8cd5ec59ee7556248a3ee99297.2b7b1e0d711eafe0f00034df1ce07783&signature=6df8709759390a74a5b6214abd656da07666d55553a3861bbfbf3b9a3b189936|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="52" tvg-id="Cricket.52" tvg-name="[Cricket] NatWest T20 Blast : Leicestershire vs Derbyshire vs  (Sky Sport 6)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Leicestershire vs Derbyshire vs  (Sky Sport 6)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+6&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+6&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-6/playlist.m3u8?token=6ec557aa37ec50c5011860a78167cd0da48e3145c3d83e050f83c07af43d22d5.1779907017.61d202eb4fc8f7bd3fcab55015be9ed1.7178cd1b7443da2fcd72e227a87c914e.12b683ec15c960bc308ac9f7a858143c&signature=dbdfdf63059b41f55af8715e9cbf8f8c02f6801d0d191bbcd000df6036b5ba4b|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="53" tvg-id="Cricket.53" tvg-name="[Cricket] 1st Test | Day 1 : Ireland vs New Zealand vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test | Day 1 : Ireland vs New Zealand vs  (Willow 2 Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=a99377501512dc73e828f5521ba5588586da7e1f59e530edf25f01c146aa61eb.1779907017.3a99be98ad7eebda4a34228ef2195d02.08cf92703aa73a47f8d8dc1bc246ddd1.556640cb2e8dc297a9c8e1cf22ba16fd&signature=e209128955d1ded5afa5f3a70caf1afa3a246d361ce906f77d2c25aa5f6af9bb|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="54" tvg-id="Cricket.54" tvg-name="[Cricket] 1st Test | Day 1 : Ireland vs New Zealand vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test | Day 1 : Ireland vs New Zealand vs  (Astro Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=6b0f489441971848b43ac955b7ea21df56a6b2075f66686d97e0a50b27d20751.1779897749.bc7a367b79ba639b5b39d035078f9b47.be8b6d33381687d8c696c17e37cec365.cce5a01c74ba59d15da943aedee93143&signature=14048aab92c87ec6c49b12f85e61881b4b8e58010a77f4cf4e233d506e890603|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=e43aa5eda36d54cacb98eb93b479a245bf44e4b89f98c8ff9c62de05788c4ce8.1779907018.7eafa03c4a9619928edec4643a2d537d.22cdb9260913b5230f8d9d587577a3c9.4c646c8b69c11d099bb217f3ec2919da&signature=6242d2554f5cbccbce8f530276cab35ee34167e98ddb3b91c682e9af741dbdda|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="17" tvg-id="Cricket.17" tvg-name="[Cricket] 1st Test | Day 1 : Ireland vs New Zealand vs  (TNT Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test | Day 1 : Ireland vs New Zealand vs  (TNT Sports 2)
+#EXTINF:-1 tvg-chno="55" tvg-id="Cricket.55" tvg-name="[Cricket] 1st Test | Day 1 : Ireland vs New Zealand vs  (TNT Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test | Day 1 : Ireland vs New Zealand vs  (TNT Sports 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-2/playlist.m3u8?token=5c55524824c06c4ffca4fd02e3fbb88d8c3309a3dab6782fc74efe03e4ab1f82.1779897749.a962d6e6c7ec991171d54ff8950eb407.fa66ee8a5c61db756f56936e3e75d815.9e73ad463ffc1d960c50816720208fc9&signature=8edba5567496a6c2e1ae3fc015913dd5c09b19cc88695684f08f37a45f198100|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-2/playlist.m3u8?token=3833ea9e9560f996116a95b25d5bcb63bdc32ee33fa704fbcd7ce79dff52854f.1779907019.54599142130e6a9a9198ce1c0a9b6250.e9a727373a29d30e3dd2f0cbb8abdf9b.58acf3bdec6aafe5588ad7a7d8ac886b&signature=dd0b6eba60dac4e1495e2a8b2bc4de7f90bf65667b5a2d62e76ce3c69018b772|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="18" tvg-id="Cricket.18" tvg-name="[Cricket] 1st Test | Day 1 : Ireland vs New Zealand vs  (Sky Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test | Day 1 : Ireland vs New Zealand vs  (Sky Sport 2)
+#EXTINF:-1 tvg-chno="56" tvg-id="Cricket.56" tvg-name="[Cricket] 1st Test | Day 1 : Ireland vs New Zealand vs  (Sky Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test | Day 1 : Ireland vs New Zealand vs  (Sky Sport 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-2/playlist.m3u8?token=82767d433e3e4b2840366139586ecb547b6cc0ca47f29d68a06388ed22de5e2c.1779897750.06cbb6f9e76cb43418edd5bf8bfef5f4.21c2cbc0b06bb355dbb4638d8042fd84.dfc1f399652dfa438c1658f46342254b&signature=d800b372074c0996c3c5ca5dcb7ff0d5eeb2baee0f6062c0ada4b20f94963d4c|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-2/playlist.m3u8?token=a274f27ad10ec9bebde6f61286bfe583753264d8844f13b79fe41cccae65d46c.1779907019.930ccb3e7c25b4c5d9a5752a20a1955c.bb244dee3b99286344776d1c891cc287.e6968b19c6a85e4571b98ccea7e0795e&signature=fffdd9f115309ee12d1aeb8245cb1f78401a3845f0d0f3df468b7966e0b90d9c|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="19" tvg-id="Cricket.19" tvg-name="[Cricket] 1st Test | Day 1 : Ireland vs New Zealand vs  (SuperSport Action)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test | Day 1 : Ireland vs New Zealand vs  (SuperSport Action)
+#EXTINF:-1 tvg-chno="57" tvg-id="Cricket.57" tvg-name="[Cricket] 1st Test | Day 1 : Ireland vs New Zealand vs  (SuperSport Action)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test | Day 1 : Ireland vs New Zealand vs  (SuperSport Action)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+action&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+action&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-action/playlist.m3u8?token=62b6f2a0e6ff76cbd6840ea22be9abb8d38df0acb6d59191e4e7e78631d1aec8.1779897750.f873528db22036965fb0e941f534efb3.6248fb08a15244e4073c2a337682e9d3.f795d614191fc8f016a308192759366c&signature=c786e3dc813d10219a6af6f9dac0ae51f4ba0b8e657eeedd94b00f5391957397|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-action/playlist.m3u8?token=1f91750fc903d2d53df8e91e918eff0520f2e2dbb9ff08366f535726cd161406.1779907020.aa737d344f18b2722526750f30a50f37.1ded4ff33e6a7f1d1adcaa0a7a71e5b5.3e0a97c29c0b5ff23e6799e577333200&signature=8e4fcbb0ed03da3f9dc46c7fe7dfcb758f0519790788d43e0652f03f55ca58d4|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="20" tvg-id="Cricket.20" tvg-name="[Cricket] 1st Test | Day 1 : Ireland vs New Zealand vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test | Day 1 : Ireland vs New Zealand vs  (SuperSport Cricket)
+#EXTINF:-1 tvg-chno="58" tvg-id="Cricket.58" tvg-name="[Cricket] 1st Test | Day 1 : Ireland vs New Zealand vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test | Day 1 : Ireland vs New Zealand vs  (SuperSport Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=b3ef273a5449331a05d9284e77a5f5cabef0c15322cc641d632444fd325d0995.1779897751.a96d6059fc1ddce90fc74425306acf28.60c0934582fd5c01cfc34232ce0376e5.699c07483f53018e02c6e454ef996185&signature=8c8f330adb5a0401ff067130bfda0025817b138ab335e41c6f8f011bb6620501|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=df89129782f3e1ee21987c3d4c23749643ed598e0d7507c866bef10539cd7f7b.1779907020.cfa3358459ec460b499eb8d768488a28.0a8891313d340bdd5ca833e3bb208a2e.ce2e351b29aa934a47bafbc93360d30e&signature=b06f9cc9f69a8cac69b747bb135c5ab807dfbee18e4bec3c6678dcb759a80473|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="21" tvg-id="Cricket.21" tvg-name="[Cricket] IPL 2026 Eliminator : Sunrisers vs Rajasthan vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] IPL 2026 Eliminator : Sunrisers vs Rajasthan vs  (Willow Cricket)
+#EXTINF:-1 tvg-chno="59" tvg-id="Cricket.59" tvg-name="[Cricket] IPL 2026 Eliminator : Sunrisers vs Rajasthan vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] IPL 2026 Eliminator : Sunrisers vs Rajasthan vs  (Willow Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=19aa517da48c6c3ae5c5a8cbc9cc7348efffd4e9e532cfccfe21096cd4a41fdb.1779897751.5f4ff3b735d52a21b9056842392e3c76.6cfbaec13655038bb56deea0bac1c72a.2441726e63fc273d2c2d14ad3e6d5d88&signature=10b8727b2a6cf2ac0a1d50b7d36511952e0dd32689e76b8baf2fddbb84a152ce|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=c6ad3b3c3003bd192a191444118ea9905143f20d41015a766a7a199a6f4e5e24.1779907021.d38bc82c20015a9305d4609bd9cdcf38.69374c41d4293ea23de8ec7b8167647a.7921256609719e66af31f09cd79918c2&signature=e0a803c6d8a5abaf9f6fc030e9051d8e94e57c13bf871e47ff13b4bfd05411bd|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="22" tvg-id="Cricket.22" tvg-name="[Cricket] IPL 2026 Eliminator : Sunrisers vs Rajasthan vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] IPL 2026 Eliminator : Sunrisers vs Rajasthan vs  (Willow 2 Cricket)
+#EXTINF:-1 tvg-chno="60" tvg-id="Cricket.60" tvg-name="[Cricket] IPL 2026 Eliminator : Sunrisers vs Rajasthan vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] IPL 2026 Eliminator : Sunrisers vs Rajasthan vs  (Willow 2 Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=3f6d6381f947f809023e644977bce503fe54d37b401f2c61dcac4f42ecee836d.1779897752.0bd893f8e7ebb7ec79681d82c19d9ae9.30d75611dc20a11e614a60f5df4528c7.732ce3ffb7cf3e9dbd3d2a15ac93cfb7&signature=258ced2b0ade6e978904e1d009310ac271c0a7e895894765b9a6a01ed0980e78|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=8bd079e8be4a75e32418fda6a2261a82510f324bbe4f330b5b445f51b3648af0.1779907022.0d60420b7014ec89f0c31a8b06574b65.45d076bd66397d2b12b3dc7709e8b942.ed6618c8c730d77d5a9ef18312140b16&signature=5fc7eb84dc037c76ad801458c1cb86489f59c8ace2e666f8b51aefd01d3967f2|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="23" tvg-id="Cricket.23" tvg-name="[Cricket] IPL 2026 Eliminator : Sunrisers vs Rajasthan vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] IPL 2026 Eliminator : Sunrisers vs Rajasthan vs  (Fox Cricket)
+#EXTINF:-1 tvg-chno="61" tvg-id="Cricket.61" tvg-name="[Cricket] IPL 2026 Eliminator : Sunrisers vs Rajasthan vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] IPL 2026 Eliminator : Sunrisers vs Rajasthan vs  (Fox Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=973c657ab7b26a57f706972fc707702c556fcb8574f62356d97a2e15bb52b469.1779897752.44682f967e1b31e3d9f32e8eec7d8338.31c7d507dd1e07d8e53dc2e8c3e9eabf.ee646f70af0fdd1547b6c616c8ba98ce&signature=9546f1bec84103612d888950e0abb7e403d9b92b8c250d9362174123d33a6213|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=5a116350841f4b892f32eb888e17d49526ff0000cc1986b2f9227fae2e7a3fd9.1779907022.7b640f5637bee80d9cb7abddf08cbf2d.6f414174c7e289432b25f046ca965c09.521ee9d154ebf961780d31119a978275&signature=bbee387ee96afefbf5e02432bfbcd17e1c1e6e31454477b1ed700282df04cab0|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="24" tvg-id="Cricket.24" tvg-name="[Cricket] IPL 2026 Eliminator : Sunrisers vs Rajasthan vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] IPL 2026 Eliminator : Sunrisers vs Rajasthan vs  (Astro Cricket)
+#EXTINF:-1 tvg-chno="62" tvg-id="Cricket.62" tvg-name="[Cricket] IPL 2026 Eliminator : Sunrisers vs Rajasthan vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] IPL 2026 Eliminator : Sunrisers vs Rajasthan vs  (Astro Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=153f1f402c004042094f5a118e39662fd8230e4b3ead3aa715e49b496c724691.1779897753.11098c710e76c62f165d02b56630ae6e.d8473c4bdde9d1bd16a742d55d9faa6d.81e8986b632af83678385a90565c6fd3&signature=0fe53160cc29dd45078709f6a780cf37363d5e311ac9ca42703a602eec7207a0|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=e982551aa44ecb5f6a094a5712e66f10ee04c8f06fd56a014168e952405662d0.1779907023.d8100d0ff43943e00a877e7271bbe54f.3f82460c924d427917ae1882db2f58d7.51c3b6c89a694f0b722120621c265fe9&signature=e5e1c0499b8b33f2a69aa7425e9b98f61f0c9dab837dbfec50fe4bd0f8859741|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="25" tvg-id="Cricket.25" tvg-name="[Cricket] IPL 2026 Eliminator : Sunrisers vs Rajasthan vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] IPL 2026 Eliminator : Sunrisers vs Rajasthan vs  (Sky Sports Cricket)
+#EXTINF:-1 tvg-chno="63" tvg-id="Cricket.63" tvg-name="[Cricket] IPL 2026 Eliminator : Sunrisers vs Rajasthan vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] IPL 2026 Eliminator : Sunrisers vs Rajasthan vs  (Sky Sports Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=7502c28f167e010e387ab6c364730577de3813346e9f6c6b4a6507dece1f09c2.1779897753.38e3ffa7ef564ef8b0bc1026beebf8dc.1ba10d898d93c2e40d0401045f2842e7.6b31a19e1acffb90a418d2973cf6cfd3&signature=9b214c35aae72711eb875c86424d47195158180470c765a85f0dd455e09f5b02|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=f40688d00b7824e78e7d5c950ffbcc8b2a2c79874b96bfde9bb23022adcdf624.1779907024.aacd7f4475512b9f3a24f927102d02de.11bb17d628c9ff7a2ec4690aa00063f6.1690c5dc415ee00d166d7c3acac947b7&signature=5e97252f24a3b50602ced13e1c6df05ab3d6088d9dad136c38ae88c31f29df10|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="26" tvg-id="Cricket.26" tvg-name="[Cricket] IPL 2026 Eliminator : Sunrisers vs Rajasthan vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] IPL 2026 Eliminator : Sunrisers vs Rajasthan vs  (Sky Sports Main Event)
+#EXTINF:-1 tvg-chno="64" tvg-id="Cricket.64" tvg-name="[Cricket] IPL 2026 Eliminator : Sunrisers vs Rajasthan vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] IPL 2026 Eliminator : Sunrisers vs Rajasthan vs  (Sky Sports Main Event)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=d4273e95a7276a69b4a23bdefaef5894a0f16388a4bc58400eb386d095d35979.1779897754.e9bc81ad824f69a1b01bbb5666e5d82e.0a66edc6ed2e527bd38a4baf227beb29.7a1a605614c1c69b851cc2eb7603be4d&signature=f0bdcdc7c547691fb8ed535c51b8feb4797a928e49b63f6602e6a1ae08cc4e00|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=89a59f0d5bbba6e98591aac7c97767dd832075af7826c42f29ee77d19dcde9d4.1779907024.bdd35b479b990500a120aa0d9fc82ff5.d033fdd63b02507a46e325595e2a314e.bb293fb63f13f99ffcb6a060f624506d&signature=9a02d99c17bf0d44fb8e890845c2af8354a6a51df019ad1c95df1b9e2bb2c826|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="27" tvg-id="Cricket.27" tvg-name="[Cricket] IPL 2026 Eliminator : Sunrisers vs Rajasthan vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] IPL 2026 Eliminator : Sunrisers vs Rajasthan vs  (Sky Sport 1)
+#EXTINF:-1 tvg-chno="65" tvg-id="Cricket.65" tvg-name="[Cricket] IPL 2026 Eliminator : Sunrisers vs Rajasthan vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] IPL 2026 Eliminator : Sunrisers vs Rajasthan vs  (Sky Sport 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=fa036e88a133b34572718e6fd30e56973fc5226d239f39970f18046af0dd7245.1779897754.fe8974c1e2d9d55e1bcc0639bcbd11b6.557b46256bee06b88d8485637f2efdce.e15aa80bd4aaea329695353207d1af93&signature=5c665631cc6ec186e6973afca5320453c15e138ba02413f906feb723b119b573|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=5f329c1afe70eddb457185b66297a4292121a3509d6ca30c746cd0c7965b3381.1779907025.3c3d2e2f436757d6de2a9fdc37c32e7f.66adafb4e7a1366f891014652552b146.2ea26ec13060c093aebb355878b2bc90&signature=db76bb2b3b6ac4f4e4db7a673d11b1e96956f7c4565f7e3d1443b22132424930|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="28" tvg-id="Cricket.28" tvg-name="[Cricket] IPL 2026 Eliminator : Sunrisers vs Rajasthan vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] IPL 2026 Eliminator : Sunrisers vs Rajasthan vs  (SuperSport Cricket)
+#EXTINF:-1 tvg-chno="66" tvg-id="Cricket.66" tvg-name="[Cricket] IPL 2026 Eliminator : Sunrisers vs Rajasthan vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] IPL 2026 Eliminator : Sunrisers vs Rajasthan vs  (SuperSport Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=dc6323306eed9c579db2d3f441df1901cf295304e6c03637c6ba06dfa9320259.1779897755.bfe4a26d56eaf9ad874f9f904b564a33.cbd4f71b6a3d16f10aa800ddbcfe954b.87131c4087f88291dc1ef086dad1e090&signature=3c4bb777a0039663eebbf37ea4c6996ecac0f66c238ef3c6fa12a826ef5c7325|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=4a06a777c6f0c603a5538d545ebf7216eca36cf110d36afbbca43967ef3f3890.1779907026.9d039fd4add29a0b218cbadcd3f00954.eb88d25dde9347ba8cbd8c410bef5938.5555c14f98d6daf3dd91ae1cf96c030e&signature=91ac743fd68ed0bbaaa3203e6c50c0157a10bb5a6afce76398b23f97d68e7ba9|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="67" tvg-id="Cricket.67" tvg-name="[Cricket] NatWest T20 Blast : Leicestershire vs Derbyshire vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Leicestershire vs Derbyshire vs  (Willow 2 Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=a4a8b740dd9a97a0707e5d814eda2f7e9bb164b0c1c009b72cb25d4bc0870ea6.1779907026.073b9625f7b91443c94f5c9808baf85b.824037149e11916117bb541d39b5a7d6.de94d988889e96c007ab23cfc7be8c10&signature=68f0f373e1032643afa521686d717bd21b6ff2e071115a33fcf670e646e3e81b|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="68" tvg-id="Cricket.68" tvg-name="[Cricket] NatWest T20 Blast : Leicestershire vs Derbyshire vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Leicestershire vs Derbyshire vs  (Sky Sports Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=cc374273aca7acb59738e0ef4e3032725d1dd0294a6771e1f2536acbb6ae5772.1779907027.bfcd87ca9196863391d88c5d3aa41d87.c5730eaa2394d97e5b25db5fef44b084.0aea4e2b41f5c481d9fd30d228868c1b&signature=af7cf5de3ad046cd9e090b76d3f14fa8430f2f0466e2ed1b8df3f97b03d85d6a|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="69" tvg-id="Cricket.69" tvg-name="[Cricket] NatWest T20 Blast : Leicestershire vs Derbyshire vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Leicestershire vs Derbyshire vs  (Sky Sports Main Event)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=70c6709fd30dcc0ae2fef7f55cfe07f93ebda7d0a00c9d5fc2d97d16f7ccb1ce.1779907027.8eadecb5285c8046aade7c2e99445a85.0e19e62086a45b0f6b4b6ace2c0c0c64.81caaf6ab0e62e4ea07c34c122bf21da&signature=53fc6d19b7d7a59b64199a6a27438601e17437b7935c96bc3fd4dc6d206685f4|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="70" tvg-id="Cricket.70" tvg-name="[Cricket] NatWest T20 Blast : Leicestershire vs Derbyshire vs  (Sky Sport 6)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Leicestershire vs Derbyshire vs  (Sky Sport 6)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+6&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+6&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-6/playlist.m3u8?token=d445b39e8a14a12c7f8025b4039c54dfc54ad9ea856919930be661dba48dc766.1779907028.8b668fefd43c7ce4ce368ff75a6e78bd.e62a5e845e99848777da7f6b2bad24ff.77214f5e2ec3b09252244dda6a43ca38&signature=b509ff426be6588e33d4aaa00c920f8bbcf7ada358ed5b4cb6020f4f4866b697|x-forwarded-for:77.238.79.111
 
