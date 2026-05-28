@@ -1,73 +1,235 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="Cricket.1" tvg-name="[Cricket] 1st Test | Day 2 : Ireland vs New Zealand vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test | Day 2 : Ireland vs New Zealand vs  (Willow Cricket)
+#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Tutti In Gioco vs Powered By Dazn Bet Club (Sky Sport 5)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Tutti In Gioco vs Powered By Dazn Bet Club (Sky Sport 5)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+5&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+5&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-5/playlist.m3u8?token=59d68f411987400058f17ea7018da580229bbb4633e7ae879b2a0e2bb08b30d4.1779991926.ae2ccde4182778d0ae70c309506d2996.de9ccbd692391146d8ad709307d7e34f.6474848055a09fae2db70f6cc2ed198f&signature=27a55720de5e8f2bc3a39c07f94ed857130ff3878bc16becbd96f95f126d2b59|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Egypt vs Russia (FOX Deportes)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Egypt vs Russia (FOX Deportes)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+deportes&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+deportes&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-fox-deportes/playlist.m3u8?token=a92ca857466205eae67b0bd6bcc24e7004d9c96cac03c3d93a7456260803c1bd.1779991927.5daeae1c5c620600cf1e7bc8d7f94552.45164a6de3d731cd20f5849fe033e7df.6bdc926edec2003ffa2888d979622762&signature=7cf08a0457dc0cedd31d1cdba82e5be420f27fa975932da7257efc807dbb04c7|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.3" tvg-name="[Soccer] Egypt vs Russia (Match Premier)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Egypt vs Russia (Match Premier)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=match+premier&code=ru&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=match+premier&code=ru&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/ru-match-premier/playlist.m3u8?token=0113faec587d2b5ef0b61b8c868cff7d10791bb99558d2ebc5eebb74e7200879.1779991928.ff0a860b2bf2cf16aa88880227b3e195.f6a710ee9b03346eaf4a6ea0c5154c45.5759847e95a7bd5a9f105a7fe0469655&signature=2e64ba262d562b6fbcfcf4286557c9c8a9dcd7209768fcb70288e3cd2e64c17e|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.4" tvg-name="[Soccer] Egypt vs Russia (ON Time Sports)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Egypt vs Russia (ON Time Sports)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=on+time+sports&code=eg&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=on+time+sports&code=eg&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/eg-on-time-sports/playlist.m3u8?token=94959a7a8bb08d3596b965bde887685e8f905ea7b07afd4a3e73e7f9ad08e756.1779991929.03d228fd15898b989dfbf28568945e15.b7ec6009188a492d6bcca978fb7fbec3.1253cd226d4890af06ddabb37b2cb27c&signature=1fe0726a4474741670f529da0936657ff78c23b771e0688f540e8423f8353661|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.5" tvg-name="[Soccer] Ireland Republic vs Qatar (FOX Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Ireland Republic vs Qatar (FOX Sports 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+2&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+2&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-fox-sports-2/playlist.m3u8?token=9efa32ae377e32ad5562711712bc3a7e847df6a1ad145cafa1d64d32ab0e9f8e.1779991930.dedebc0dac75df43b547cf631a161d28.941d5862b89988a39fa8b649ffc29bfb.0000818ed32d70a9afb479e0aa02682b&signature=0142df5ecf2648af309d371efd5414515ae067638e9a430a9363cae6843139f3|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.6" tvg-name="[Soccer] Ireland Republic vs Qatar (Sky Sport 7)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Ireland Republic vs Qatar (Sky Sport 7)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+7&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+7&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-7/playlist.m3u8?token=7aa18963f812a80207f8d877504a63d12707a6abd4e9b2d19e9c6378964a33df.1779991931.1eee3a25fbe63012dfa6f0840e50a087.a73fdc7b88b6ae4ab05313144b543cbd.b5889187eec3fc6fedb2855c5e9526cf&signature=2a86f47a7abe05623aa72c6a04f670507171ba065aaa753166e8f69e19a46ac9|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="7" tvg-id="Soccer.7" tvg-name="[Soccer] Ireland Republic vs Qatar (SuperSport Maximo 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Ireland Republic vs Qatar (SuperSport Maximo 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+maximo+1&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+maximo+1&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-maximo-1/playlist.m3u8?token=aedee0daf96317121cfdcc781f081c889a4ea3af5be54e62a3dc8903eb5c623e.1779991932.5e7847e0eb344a025c7bec37adae7e77.0b2291c0d133cb39f4a20b9e51c66400.b5af4a010f595c6922c8b2eb9d56a352&signature=ede372f323273952afb5b28c35f1f75945e1f8dc2552b41d525cdfb32cb9fe1a|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="8" tvg-id="Soccer.8" tvg-name="[Soccer] Ireland Republic vs Qatar (DAZN 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Ireland Republic vs Qatar (DAZN 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+1&code=de&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+1&code=de&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/de-dazn-1/playlist.m3u8?token=71b602292f87dfc7fa31e82a493d77d4d6d173fb91f6e67f7e7b01d494745f66.1779991933.e84f33fe8a7797c308c6491718a13b2c.cd48e1363044f5361f1d0405dedfbe44.e671b368ce6a0676ea15bdb5686ce20a&signature=7767e90c5f7710fc1f0361f8b08a5795f0792adfd449a99e80e5f8bc636bb8ce|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="9" tvg-id="Soccer.9" tvg-name="[Soccer] Ireland Republic vs Qatar (Sport TV 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Ireland Republic vs Qatar (Sport TV 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+2&code=pt&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+2&code=pt&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/pt-sport-tv-2/playlist.m3u8?token=a42ef0b7c6a24177a75a71c85a3b3d4304b04ee89f14fbe498bd96a8f6c02b4b.1779991934.15fe34ec4140b322a5e9523919abd96c.d54446bab59ad90a255233c45d5643aa.0f0d85a202f765c1b209400781c66328&signature=365dcc20ac82b296342b45c1ab6b24ff57871cc5b0a359798b2d7802d02682ba|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="10" tvg-id="Soccer.10" tvg-name="[Soccer] Ireland Republic vs Qatar (TV2 Sport)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Ireland Republic vs Qatar (TV2 Sport)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tv2+sport&code=dk&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tv2+sport&code=dk&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/dk-tv2-sport/playlist.m3u8?token=70865f11a0ee28b6b30bc1c89fce833d4938498f3aec962214b72b10290c5803.1779991935.ad2450495f2aed14da5b06520f418b3e.846a8546c76fd7fb2ed8a693ccce2f49.faf09605131dd97f4a2c3dc5c78da01f&signature=70b0636b2c7ccc4c9d8c573c19a933e75ffb9c91a1d6f63cd443f24da9f7047e|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="11" tvg-id="Soccer.11" tvg-name="[Soccer] Ireland Republic vs Qatar (Polsat Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Ireland Republic vs Qatar (Polsat Sport 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=polsat+sport+2&code=pl&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=polsat+sport+2&code=pl&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/pl-polsat-sport-2/playlist.m3u8?token=c41440f06dd0829901daeaee16d2a3ddff5493da00f1f582a54119a9eabfb26a.1779991936.40192b5c9008aad1181d8a824b078d72.0a67c239c87da3591ee9b7fee289549a.d25316986a8d6ac817945fa3838f0e02&signature=d3a543df62090642a43ff10379adecc1eae35747d6dcaef1eec197cf7e151a59|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="12" tvg-id="Soccer.12" tvg-name="[Soccer] Ireland Republic vs Qatar (Cytavision Sports 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Ireland Republic vs Qatar (Cytavision Sports 3)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=cytavision+sports+3&code=cy&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=cytavision+sports+3&code=cy&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/cy-cytavision-sports-3/playlist.m3u8?token=d1d5e422ebba22809128a081c9a7d17e3b1c9cd92c664ce6bf59a796a28c29a5.1779991937.4b30c939e92e56e41f870beed4aa0931.4020c99cf654738cddce63018a43bd91.998288f9e76a98d4b7fd7d7f6601d209&signature=1652a47d3446b3a37c3db816adaf049a65d5a4716b77b92695f3322fb7e6e901|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="13" tvg-id="Soccer.13" tvg-name="[Soccer] Ireland Republic vs Qatar (Arena Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Ireland Republic vs Qatar (Arena Sport 3)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+3&code=rs&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+3&code=rs&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-sport-3/playlist.m3u8?token=11574283857806ec58d592714f4002933947c50b182872e8135e732487d47012.1779991938.8ac97b0d7f3507f9f89596edce7cfab1.7e923b732cab554c9db3e207daa844b8.fae9e155d2e5fbddcb2af6ba69f7689c&signature=6e593a10636b3c16ba728b928dad0cc54c5eb50004a09f0d1d767ea4d0df0fa7|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="14" tvg-id="Soccer.14" tvg-name="[Soccer] Ireland Republic vs Qatar (Sport Klub 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Ireland Republic vs Qatar (Sport Klub 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+klub+1&code=rs&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+klub+1&code=rs&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/rs-sport-klub-1/playlist.m3u8?token=21b34feb619d331b84199ff0922b24ac31d9fce35b2a9f0961f209a53ebf51fd.1779991939.82f87a6b1e2280295ca8bd2de960974a.6859e93379d7fb81bb9224503eacafc1.3a0b3ac00b9251e7dfe18a09bc4bbb69&signature=1a56d90d61366569d94dfe181e74e2010516a4acbf4a4784d34f70107b359f23|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="15" tvg-id="Soccer.15" tvg-name="[Soccer] Ireland Republic vs Qatar (SporTV 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Ireland Republic vs Qatar (SporTV 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sportv+1&code=br&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sportv+1&code=br&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/br-sportv-1/playlist.m3u8?token=0f266bc03eee69847add1432484c467c9628b21a33b45d7bad19220e6c918829.1779991940.d6fa1265fcebad66d33a32ca0fce5e67.cd1349d9c04ec9ed5ad811e5e0eea64e.3134edba7091b50057dfdc2799bb09f8&signature=da483e821f87fed993b1678ceb279b997c704c63da40bbb500a1db9c99e0aba5|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="16" tvg-id="Soccer.16" tvg-name="[Soccer] Ireland Republic vs Qatar (Digi Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Ireland Republic vs Qatar (Digi Sport 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+2&code=ro&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+2&code=ro&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/ro-digi-sport-2/playlist.m3u8?token=6d90c85de7ca8fc5cb0c08c04df438cdba342da13a0bd279e5e119ee7a78fff6.1779991941.f888995e87509ca9d68d561f3f33afab.a1035c84b67e3169314f3640e047f2d1.4787f3d41865daf1945a93f40bd473bc&signature=7c5ae97319c76865e81428df0c2f5a6a940aa56ce39264abc8dc42c1240061f3|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="17" tvg-id="Soccer.17" tvg-name="[Soccer] Ireland Republic vs Qatar (Prima Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Ireland Republic vs Qatar (Prima Sport 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+1&code=ro&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+1&code=ro&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/ro-prima-sport-1/playlist.m3u8?token=f19fc10927e683d52140c08c751268ecb37268b54294bf398e2424867b28fe0d.1779991942.495a0defebe142391a1487ffc54969d4.96930c2492aa11615b75fe7d0b3be263.52c75426d52c021a2cae76c7e8871ea9&signature=b4f9f630b723fd89d7868df3c4b8b4f6a086a713734abf6f537cf52d428fbf15|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="18" tvg-id="Soccer.18" tvg-name="[Soccer] Casa Pia vs Torreense (Sport TV 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/36365.png" group-title="Soccer",[Soccer] Casa Pia vs Torreense (Sport TV 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+1&code=pt&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+1&code=pt&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/pt-sport-tv-1/playlist.m3u8?token=a43a7eebe374c7ad5736dea277d78de01420d708b3accb9545db5d43b1a6ccce.1779991943.1c0639b8e8c7a362b920712d6027d6fb.8aa575be5d709579cc4d3ec2039e87ef.e8672639449963c8fdb399330d8e4d32&signature=9b646c10d65dc42485cd6eef22d60629ba278ed7cc43f1818ea743110aad4937|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="19" tvg-id="Soccer.19" tvg-name="[Soccer] Casa Pia vs Torreense (Arena Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/36365.png" group-title="Soccer",[Soccer] Casa Pia vs Torreense (Arena Sport 4)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+4&code=rs&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+4&code=rs&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-sport-4/playlist.m3u8?token=f8e7ac196186ebd8ff0757402e5f0f2f333df8f1d69f77b7a92d7abdfe7cd8e8.1779991943.a3d9562046915e98789934ab4b47dd3b.cd091ece5fbeedec923da092acded71e.bd3cef86c157d9867ff14f504fa3454f&signature=cd54321724c10828ac4b2c44b3423c955b458b7caae9e82c6a4fd9fce4207f13|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="20" tvg-id="Cricket.20" tvg-name="[Cricket] 1st Test | Day 2 : Ireland vs New Zealand vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test | Day 2 : Ireland vs New Zealand vs  (Willow Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=d4ddbbff0aa44efda6e465b1cc8d741aff1f5a6c82f1edbf3c617eb6fa726561.1779979880.079f1cd72ba84e4091557ec5cf8d1346.928011e0267a4b8beb1ed5586d0ffe87.c4c35aa9a3f6dec839fb84fefb689345&signature=21f8569792a21601f338bee9b5da6e629ed081d7b286a7dc2949de2f226c7408|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=a0e6cea70cc633644ad5f195159a374aa3a4262d16dcded12cde9e1babee9dc3.1779991944.8532175dbc725bb10af60a153ec41549.7a009ed88a95d6eadabb7953629a310f.941b2b558ce119ce801010bcba5a3034&signature=d8491909839781f724ffada1f98665e5f4b89a8ba418eb6e960dd325993f27d9|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="2" tvg-id="Cricket.2" tvg-name="[Cricket] 1st Test | Day 2 : Ireland vs New Zealand vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test | Day 2 : Ireland vs New Zealand vs  (Astro Cricket)
+#EXTINF:-1 tvg-chno="21" tvg-id="Cricket.21" tvg-name="[Cricket] 1st Test | Day 2 : Ireland vs New Zealand vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test | Day 2 : Ireland vs New Zealand vs  (Astro Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=c73961ec676e9c486f8274fb77a718ff1a0f5a1d2f41f9c4754ca3ade65e5d38.1779979881.881406a5fd11c8bd996ad07440a33506.a9654e39ff6d59a8131b3491599028c0.12c8ced194d2057858170728652efa83&signature=813f016cfd3a0957396e3507189194949a54cf240de568cb950641d8b9536bdc|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=82e6cffd0a178c2b0fdfb059fe05a3d879ac4a1f0e6ccd9fb630e1db7a29c4e7.1779991945.48b1e6b0975e07c87dd2d96e9e224a41.3fd77625a36451b3ef1a3fde0b8f6cb3.529fff93ab268b5e3339e1a69e3c6617&signature=8a1a0d0a6bf95104fc534ef18b42138db60bbbe7578c01f9a86ad13b2c201994|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="3" tvg-id="Cricket.3" tvg-name="[Cricket] 1st Test | Day 2 : Ireland vs New Zealand vs  (TNT Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test | Day 2 : Ireland vs New Zealand vs  (TNT Sports 2)
+#EXTINF:-1 tvg-chno="22" tvg-id="Cricket.22" tvg-name="[Cricket] 1st Test | Day 2 : Ireland vs New Zealand vs  (TNT Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test | Day 2 : Ireland vs New Zealand vs  (TNT Sports 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-2/playlist.m3u8?token=d4f43e421dbc552f03b993e354137503f2502a1c6d1c62340016bea077c03a4b.1779979882.a460aa9be608e94b5828bc0d2d1b5eb0.f7344cc9959a9c7f650bed4444b70ec2.fabd54f00c98f9432531aa8a8c506fcb&signature=b3cf1440e186259568a8f635cce7b4ec8ae7e5fe55db2171e6a6311094ac15d2|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-2/playlist.m3u8?token=4ba21adb2285be82bc380dadffd0c0fd59d3e0776e8a35a78822e089253602e5.1779991946.1b612c70c6ad63922c0a3f16441da7e9.615b24dec349c2dffb38e4ccef02589a.5f25577f65d2d53cf22bd73acef697ac&signature=8304204aec926cb5a08d3a00b414670cbd609a9ca8e07dd03f77c35011f91f9d|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="4" tvg-id="Cricket.4" tvg-name="[Cricket] 1st Test | Day 2 : Ireland vs New Zealand vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test | Day 2 : Ireland vs New Zealand vs  (Sky Sport 1)
+#EXTINF:-1 tvg-chno="23" tvg-id="Cricket.23" tvg-name="[Cricket] 1st Test | Day 2 : Ireland vs New Zealand vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test | Day 2 : Ireland vs New Zealand vs  (Sky Sport 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=b59ba792cca78895c2184743bd6798f74322f41338e88f008b916d3e81614bf1.1779979882.46a7965b094969781bf6ad0750fca02b.e07a540960a31977f4c2c244118145b1.15019012192d402a0a9f7700d31a4928&signature=eb9c567e7f2be23588500b79c33e179adb4b5d181f416a36b15fff581383cd1f|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=05aecb6f2223bae71e11f4a1f803fec3af86c52d01d1f43433be9572663293b3.1779991947.e433129fc763ac0bda9cdca2cb112b5d.b1b360baa21c7d05451dad585c4b5bb4.5522e2d9605d285b297f97de442fd406&signature=5061e2dbc4ab47878f6611249baabe1a140c6203af1033c0cc7033fd3203f6ed|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="5" tvg-id="Cricket.5" tvg-name="[Cricket] 1st Test | Day 2 : Ireland vs New Zealand vs  (SuperSport Action)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test | Day 2 : Ireland vs New Zealand vs  (SuperSport Action)
+#EXTINF:-1 tvg-chno="24" tvg-id="Cricket.24" tvg-name="[Cricket] 1st Test | Day 2 : Ireland vs New Zealand vs  (SuperSport Action)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test | Day 2 : Ireland vs New Zealand vs  (SuperSport Action)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+action&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+action&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-action/playlist.m3u8?token=bf133b662dea9b1cb1210b87664d53890595f949137a5c2ee753abccf76575e3.1779979882.feec407e210151c23e3ca275d87dcdc9.2834cfb644a3f5251a7aee4ea954fd09.0c8e24265270cffb14f29e9abc71b9a8&signature=65aad2e9551b1f5b9ebe876ad9b1b54742ca3ab03152b4a3f59e5885b8613681|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-action/playlist.m3u8?token=5f6a780f546c8ac9af0d3b76fa68574fb817e825c1b5e049152a02dc862b4d26.1779991948.ec408609e6fbbfbde9bf8f07e3cd245c.a0716ab15d97d96c998663c8691f6d65.fac7e7e6f5562e0a7de810cf5520be5a&signature=1cdba7528888bbbca27b9fbf828bde07fdee909eadc25ba55b21e00e17314ab2|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="6" tvg-id="Cricket.6" tvg-name="[Cricket] 1st Test | Day 2 : Ireland vs New Zealand vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test | Day 2 : Ireland vs New Zealand vs  (SuperSport Cricket)
+#EXTINF:-1 tvg-chno="25" tvg-id="Cricket.25" tvg-name="[Cricket] 1st Test | Day 2 : Ireland vs New Zealand vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test | Day 2 : Ireland vs New Zealand vs  (SuperSport Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=35a8734e9b9cc10fb678f6f2a203f170a2d0f3fb9dfdda5f2cd44194d195bb25.1779979883.7aaf08e9ff6f2fbbac8deb70466c2ef2.ff29c4d13277916581299b9aca39fe14.cbcb21d74b449c10074a736b4b5e1f48&signature=703de17fe9ecc241a79730bac41532b7dde23ce215272618ecd497c503bce459|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=cbaccd5ab2669511d640f07974c52287aaa2788770a009d7e725a2acc269f593.1779991949.1b70a186366fc30403455980d0108ee7.62b8ee942fe7f5e5fe9d2da8a36fbbf5.8ddcd5f0f02169b97d09ba6ca8961382&signature=436643f4284a3f1f2d16aa9241fc65478c3a3d3a92bbf9cf4412b82503b5bf84|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="7" tvg-id="Cricket.7" tvg-name="[Cricket] 1st Test | Day 2 : Ireland vs New Zealand vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test | Day 2 : Ireland vs New Zealand vs  (Willow Cricket)
+#EXTINF:-1 tvg-chno="26" tvg-id="Cricket.26" tvg-name="[Cricket] Twenty20 International Women : England W vs India W vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Twenty20 International Women : England W vs India W vs  (Willow Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=b66e93cd50f86e5759e0d27061fdef98136dc0a5d1233ee474daf3d5b2acd663.1779979883.281796643b4f2a6302639da9d5579b77.4335e2bef0a657e2c258f23fdf6b74a1.faea973de2fda20a003c67a9fcdccc5b&signature=479c7a3f541c2f1c84dfe7ee6d466ae91d64f2d154a31f938f43b26bed2a3e0b|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=8e21f67c3e92a4fcf0e016b8d85985ea17dc5b72bd01b5ddf91fbb20bea5ee2f.1779991950.c6071562a9d971d231a076c1f8b700d4.f9ece861e1a4c0872aa5832dceef8770.a45302dde6fd4c00799ea9254644c57d&signature=224f356f70ea1a84906950c351ca947a5b93d396e43b46630e481f45b126b5de|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="8" tvg-id="Cricket.8" tvg-name="[Cricket] 1st Test | Day 2 : Ireland vs New Zealand vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test | Day 2 : Ireland vs New Zealand vs  (Astro Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="27" tvg-id="Cricket.27" tvg-name="[Cricket] Twenty20 International Women : England W vs India W vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Twenty20 International Women : England W vs India W vs  (Sky Sports Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=491a16f3b41fe84268d0e5a7ecf570848e65a58dea5d2e071bd3c84a78a6e083.1779979884.18e7d8c3b2d965ce22d81a3574e41ab7.2e93bb20eeb20330d8a02fbc74af0bbd.38ac20706ccf58537430c1306b393c64&signature=ada852505073aebb460f7188180ff07b5be4ae77517e6cd0bf5f9da2cad474b0|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=e660ff36938a188da1bdf024f3500ea935ed3deb4eb3c51c83b8ba0e11a740d0.1779991951.631ee32f8d8faa2e65b6123a43b5ef21.96e63888943b6ed98cc2eed3c4a8ea78.e315fb67ce2bf938cdb0a93308a5e7fb&signature=72583730b603913a851bd84152dab2b945b6e6c6303b042546178cff808e8fe1|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="9" tvg-id="Cricket.9" tvg-name="[Cricket] 1st Test | Day 2 : Ireland vs New Zealand vs  (TNT Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test | Day 2 : Ireland vs New Zealand vs  (TNT Sports 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+2&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+2&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="28" tvg-id="Cricket.28" tvg-name="[Cricket] Twenty20 International Women : England W vs India W vs  (Sky Sport 5)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Twenty20 International Women : England W vs India W vs  (Sky Sport 5)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+5&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+5&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-2/playlist.m3u8?token=4f5a337cefbbffcb6e3d7bc266a54307e682844fd0ec2f7911a0fda5c4f5bb80.1779979884.4db290a358b83122fb48891e5055cc4b.c7fc652ce6eaa93a25ee6d3702900b63.b8898ebba9ebc971623e0d26abed4b22&signature=e5cd47a6fbe4a66744ac212f878f360ed9290e8345ecfec1d72b24533109130c|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-5/playlist.m3u8?token=c55b31ca6d408691481471755f4d31f6c787976b0d1140ef725fe9549ec1c9fc.1779991952.5f3fef06802460d88258e54c93ae8cf3.1220a211a0100827666c88439402b986.6d7cf0790bddea5f8364f9ed665113c8&signature=d3f0455a485f1892c05fbbd18b91db8f5427afdbcdf07b49519413eeec922456|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="10" tvg-id="Cricket.10" tvg-name="[Cricket] 1st Test | Day 2 : Ireland vs New Zealand vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test | Day 2 : Ireland vs New Zealand vs  (Sky Sport 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=e1a8fdf742c9008159241f893e67c00d896055f62eebc76b4f6fc68c15389970.1779979885.528b0aed1a9f20dac7a5998d9e8ab87c.5c2e31b2e4fb8e8a8c325ec1404cb6c0.daa5a96923dc651bff68d3a530734dc9&signature=8d7fb1eca8ee1732bc9a726fe9c48cb4de90d0c37786b7a3bc9357785de980f3|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="11" tvg-id="Cricket.11" tvg-name="[Cricket] 1st Test | Day 2 : Ireland vs New Zealand vs  (SuperSport Action)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test | Day 2 : Ireland vs New Zealand vs  (SuperSport Action)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+action&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+action&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-action/playlist.m3u8?token=a88f90f6c0ffb4ee8cadc7c88961f7676e8fdc50a325e02a7028d63a66282922.1779979885.5014f00733aa97769dddf851d3431a86.d9736a7e50a7397acf9fdd1848f24b50.de1985d1e01fd6ceaf7bd6af8a5997b2&signature=82107debed30bdd67c289bc554246d62335536877e444bd5a43f9ca2b30d5df7|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="12" tvg-id="Cricket.12" tvg-name="[Cricket] 1st Test | Day 2 : Ireland vs New Zealand vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test | Day 2 : Ireland vs New Zealand vs  (SuperSport Cricket)
+#EXTINF:-1 tvg-chno="29" tvg-id="Cricket.29" tvg-name="[Cricket] Twenty20 International Women : England W vs India W vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Twenty20 International Women : England W vs India W vs  (SuperSport Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=509843e2be003faad9740570097544af3340280a58767592eadb87d902e8d109.1779979886.5626a64f914e6b44e75086553d9936e7.72d64f1b052755a8152d46db14893fe4.1839754e33c2d4c2be454cc9952f60da&signature=62437e1340ea7da2090ff236c1c0df603d17112ef6a30751b49c61cab0b74827|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=f39bde456b3b6d9f06a7a3f0f5cb769adcebdc8c3858bdcdd5a088995062abf3.1779991953.45f12139a269c1852ac47e6d30804b5a.53a02b8e4f14d2814c87c93a6a6e09b2.b5c69f5bbecf79e1e9b4584c00ec7389&signature=6574669fdcfb9c0cee27b6e51bb507b8dc89adb806315659c2c9cadeaef402cf|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="30" tvg-id="Cricket.30" tvg-name="[Cricket] 1st Test | Day 2 : Ireland vs New Zealand vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test | Day 2 : Ireland vs New Zealand vs  (Willow Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=304452abdefb68241bdee61e192737a587722fcd4ad8a0ba3bb14850d0d836e8.1779991954.b28296954a3a3d1f7b823f011577d371.06af9536c482b7024ff7d5ca0ccdcfca.63b6048f61cb5331d94a0ac6a9ef3741&signature=ac6c6e3be24e594be3cc41125fc7e79893c00270f702f2584283c66a0df55bdc|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="31" tvg-id="Cricket.31" tvg-name="[Cricket] 1st Test | Day 2 : Ireland vs New Zealand vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test | Day 2 : Ireland vs New Zealand vs  (Astro Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=e8af85846bbaec1909db5868842114d1cb8951d7e46df03129fc190edfbbbeef.1779991955.12ce38a061c0fc9570dc5b441b4a08e6.5d7a74bac7b25d34f11e4e45e60a65f6.7e55c5ec93d4e091e7386139f2fdcbd2&signature=4f37eba24498a9f27b1014d25e1132778285fbc46623fa1ae8c83486cfeec7c9|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="32" tvg-id="Cricket.32" tvg-name="[Cricket] 1st Test | Day 2 : Ireland vs New Zealand vs  (TNT Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test | Day 2 : Ireland vs New Zealand vs  (TNT Sports 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+2&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+2&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-2/playlist.m3u8?token=34cf6d82991ce9f59c54660ff057261e3d58101b9052f2196149800ae1bade38.1779991956.2999d22b487881017c04a9e0a23a3de8.c71536c2d4f6aa2f86c416deb24cd15d.1804b6371c1ac57db0b150372fcda37b&signature=7891d02bc9fa983e82e89d532263e5dbfcf6f42621539e8dd296543ba12216e2|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="33" tvg-id="Cricket.33" tvg-name="[Cricket] 1st Test | Day 2 : Ireland vs New Zealand vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test | Day 2 : Ireland vs New Zealand vs  (Sky Sport 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=fafbb01d0045562b01863a22582e506dc7f9405d4e0e98a1984c9a5be28bdaf7.1779991957.eaf64a9269c47480f1ec47fee74fcb4b.7ee74ed704354443bf473d1515a931af.378ae6b36eaf2e598742691dc16510a6&signature=a670f7c3ecce46bef4dedaf6d6c9de45cdacdb9c8f5c04df02410d00f5c591d9|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="34" tvg-id="Cricket.34" tvg-name="[Cricket] 1st Test | Day 2 : Ireland vs New Zealand vs  (SuperSport Action)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test | Day 2 : Ireland vs New Zealand vs  (SuperSport Action)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+action&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+action&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-action/playlist.m3u8?token=b00b6d7e238453e499a1b5dba01c8adb54af10ef1bbb4f224d83721b205aabcd.1779991958.d40ef28787e40b0058ba600c0e6609d7.7847a3b0d1d6396e20f939ca356cac3d.94d6b0c172066f2afbfee64c8aee105e&signature=787c8569f6e77989b227c9859863e6dd54a77adeae8ef4cee426a718a95d671d|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="35" tvg-id="Cricket.35" tvg-name="[Cricket] 1st Test | Day 2 : Ireland vs New Zealand vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test | Day 2 : Ireland vs New Zealand vs  (SuperSport Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=6935ba52a73b93a69669926dd2a31d5457a1f2e665f8b13e44c44de7865708e3.1779991959.b028f81154b294ecafb3a0ff425da97c.c7ad262ff1fcf72c85b1fc26ee192f20.8fd5628236a9d4907c16101cb057c4a4&signature=fcd7dba727cd3bc3946048ae7e1fb7e623544160d73136eb076ba6d9d5f97087|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="36" tvg-id="Cricket.36" tvg-name="[Cricket] Twenty20 International Women : England W vs India W vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Twenty20 International Women : England W vs India W vs  (Willow Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=70ad814c0ff00861bc147a905e3e0697a7019392fcb1dd50f7a268fb9d1cb602.1779991960.29049d39e3960191a29ddd40a8ae06f7.3901c080c81fb04f3e57930c4625ac11.2a86cc9d73222e38f731c5a70015b5a3&signature=21d5a91eb66f4470914bae604a1956e5b36e6e30979a1c8fd6d53865084d8e8f|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="37" tvg-id="Cricket.37" tvg-name="[Cricket] Twenty20 International Women : England W vs India W vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Twenty20 International Women : England W vs India W vs  (Sky Sports Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=2fdf18c0817a916ce459cd32aeaebbe7c9bc2ed37aa508721e809d6263bd3d01.1779991961.4dbc94e9f0bce785f8aae7db9dc3f7c0.7da85d9385cf46a7369dd53d3c9e2dc9.e062e6cd68b60a9ff17472fcee0b6c81&signature=a64a5af6c263f15fab42412e23b2047d0dd8b7070e65058c7cad058d1c19203e|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="38" tvg-id="Cricket.38" tvg-name="[Cricket] Twenty20 International Women : England W vs India W vs  (Sky Sport 5)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Twenty20 International Women : England W vs India W vs  (Sky Sport 5)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+5&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+5&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-5/playlist.m3u8?token=570aca93647e5bdf6ca25a979472875a68090535762bcd091c9143f7bfb39317.1779991962.c69be15feaabef6acb9c027ae5b9b001.d8c2136efc3a6042aba8c83e7f260457.37d8330195e293d5ac216919ba30c066&signature=6a4ad24dfce8453b180456883d740fbf51a2dd1503ed648f8678d7aece0f4661|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="39" tvg-id="Cricket.39" tvg-name="[Cricket] Twenty20 International Women : England W vs India W vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Twenty20 International Women : England W vs India W vs  (SuperSport Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=4cf52af71e2a5d44309250a2b658349c873bec93cf5e73224dac4c2bee1a52c2.1779991963.e17c5846e845d447e1cfd70f70f69cef.cbcdd06e2f5a4d7465c5bed148e27213.9d5e77ca825337f187b2f75e6d3574ba&signature=3bec575edb794fd13f6de67847248a98405d5d1cc35e70aad329d6d84163ee27|x-forwarded-for:77.238.79.111
 
