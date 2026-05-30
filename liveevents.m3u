@@ -1,259 +1,169 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Flamengo vs Coritiba (SporTV 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/5981.png" group-title="Soccer",[Soccer] Flamengo vs Coritiba (SporTV 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sportv+1&code=br&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sportv+1&code=br&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Grêmio vs Corinthians (Viaplay Sports 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/5926.png" group-title="Soccer",[Soccer] Grêmio vs Corinthians (Viaplay Sports 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+1&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+1&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/br-sportv-1/playlist.m3u8?token=4a720cf3562ec83750cb22f5c7d6dd8c74702728222b851e958ab99c42e6e338.1780164158.3cad0ff06672e10449677d1461d6755f.341f1d7963eb7379d45409214df612f8.3c537d799fed00a956ff7d2c5c2155f9&signature=b7576863d98ce0d05b22c17a80660d97a0231c876f44365a8ce4a69a35762e35|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-1/playlist.m3u8?token=b6e77604ef619c5da9adb60ac51b9a9ac34844b5b5dacda4413928d16598dcbb.1780178459.f970347c6bd12290b8614fe027cb9c4c.56a99d0a7ec8897aa9841b81ddfe1588.19752a9ff2185afef4165bdb035baa77&signature=64d2af4ecba2a7be4722db38f421971bb5b98faa15a8a4b9e3cc8a3ea6f76341|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] La Serena vs Colo-Colo (TNT Sports)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/5031.png" group-title="Soccer",[Soccer] La Serena vs Colo-Colo (TNT Sports)
+#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Grêmio vs Corinthians (M Liga de Campeones 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/5926.png" group-title="Soccer",[Soccer] Grêmio vs Corinthians (M Liga de Campeones 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=m+liga+de+campeones+1&code=es&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=m+liga+de+campeones+1&code=es&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/es-m-liga-de-campeones-1/playlist.m3u8?token=d56a7eb464b33d06c3f53e3dc3dcff86e3c8f15529235ac591e4d1286bcfb0e8.1780178461.ac4f22891c0447954889bb658da8aeec.89b3b6393292519032b58f27c5676174.8128e9b15523425e0458bd715877c2a5&signature=4c7f49b8ba5493ff04139d9aada129e70a79a0f3ba829e8ef888f17c992ae35b|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.3" tvg-name="[Soccer] Grêmio vs Corinthians (SportDigital Fussball)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/5926.png" group-title="Soccer",[Soccer] Grêmio vs Corinthians (SportDigital Fussball)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sportdigital+fussball&code=de&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sportdigital+fussball&code=de&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/de-sportdigital-fussball/playlist.m3u8?token=422d60f5ae91f7851c0e5513dcbc65e4ccf746191eb2c4f8f33038089bf1fc5a.1780178461.c0ba62cc43d27763c1da55339955e8db.59431631d2cafff21066992c83be5ea4.797c364e2b09520c7f3cc5d32191aa53&signature=754ac2345fea6a3fc87be2db3e565640e5dda5cbed1e267f5f6d3b897e5091a8|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.4" tvg-name="[Soccer] Grêmio vs Corinthians (Arena 1 Premium)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/5926.png" group-title="Soccer",[Soccer] Grêmio vs Corinthians (Arena 1 Premium)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+1+premium&code=rs&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+1+premium&code=rs&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-1-premium/playlist.m3u8?token=b7c5fc42730275d77949810aee9ef86ebf8ead1079e5100aee5b483b2fc582be.1780178462.3dde28b5b95a74315683aabf59d1d8ea.034634b4590e2fa2068068fc7f36b292.3cd6b847a0f83c9dbc45f40f8473fbad&signature=1d749fa53e209148aba6a5d130fc1f5764577482109c744493b5eeeb8f5a9b98|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.5" tvg-name="[Soccer] Bahia vs Botafogo (Match Football 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1955.png" group-title="Soccer",[Soccer] Bahia vs Botafogo (Match Football 3)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=match+football+3&code=ru&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=match+football+3&code=ru&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/ru-match-football-3/playlist.m3u8?token=302c54d76cd83dc30d90598be8237ea3e57177936d1a0860b703d303c168b7f8.1780178463.506a3a5ed692d256bacbe2c37b0d2a42.46d036783df2b8c6e7fdc2a262077e31.cdfa50d1ec6568dad3eb5d4984690d1d&signature=ccd56dfb08c427b0e699d33b4ea489908ffd55232d539ac2c806c1317ff75b65|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.6" tvg-name="[Soccer] Universidad Chile vs Deportes Concepción (TNT Sports)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3161.png" group-title="Soccer",[Soccer] Universidad Chile vs Deportes Concepción (TNT Sports)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports&code=cl&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports&code=cl&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/cl-tnt-sports/playlist.m3u8?token=c11ba9571324f807789d9f56b377d9463b9b8edbec9da3f0fb000855439d591d.1780164159.9a20b7a114b03079959cd324aded9787.ac7044bfc1eddd0c456d9f201fcf5838.15d089a4dad1a0c98ca901bc5c66041a&signature=91746933b28c6fcdcc81571f93291435824c43f768e8439abf0dd570836c93d1|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/cl-tnt-sports/playlist.m3u8?token=22ff73dd1e9f96dca989f22d5bba3f3883618b32a77937c273f1988455151dba.1780178464.c530c9cc25a3bacd5ce3cbacc023157c.cce50fc086a8d5ca86462b718d40cb84.08d622a313e4d599c68440bc700af944&signature=7d230efe18007dccca19b70daaa98069224c927af209142b335cf57696cde49b|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.3" tvg-name="[Soccer] Granada vs Sporting Gijón (LaLiga TV Hypermotion 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/33779.png" group-title="Soccer",[Soccer] Granada vs Sporting Gijón (LaLiga TV Hypermotion 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=laliga+tv+hypermotion+1&code=es&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=laliga+tv+hypermotion+1&code=es&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/es-laliga-tv-hypermotion-1/playlist.m3u8?token=7237d506fb6a08970ffcd00b254e5b94b34231ab1b19ae7134278fb5ecd1451c.1780164159.3e387bf0686d711a1bd80ea0a8536dbb.21eb84a6338dcdd5b373fb8bb579b846.c1231a332f1d6456f9dc9dedad04a89b&signature=3d3b0c0c5bd44a3c44256e06941f20c55e015a1f626ffefe8d93a6b115f9cb4d|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="4" tvg-id="Cricket.4" tvg-name="[Cricket] 1st Test | Day 3 : Ireland vs New Zealand vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test | Day 3 : Ireland vs New Zealand vs  (Willow 2 Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=7bd17d58b01d2e455528f813cd4707037838726657ee275ff1f0dd5ef96fd424.1780164160.f00a8345c55176c10bfb79f358803942.98bf30c3e62a08ecb19ff1abe0700088.98fb1149a2e5ae88c5afa5500acf0192&signature=7b9796b29327eeb14db9fb484deb7cb164aa52b11b6cc45417d2c72a8804be10|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="5" tvg-id="Cricket.5" tvg-name="[Cricket] 1st Test | Day 3 : Ireland vs New Zealand vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test | Day 3 : Ireland vs New Zealand vs  (Astro Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=4c973280f6071fcab3bf1718c19c5890d09caa9a36246b5301648d8f1b43eefd.1780164160.3d4e7a95dc9f74ee49b47f40061215ba.00b032ad9a4e763e6d7d53774c285bb2.8ec19e4a312eed8261be17c0ca2053b2&signature=90aff061b390b939d5b3b65878b3bb3dc16651415a878271e74c498ff0107187|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="6" tvg-id="Cricket.6" tvg-name="[Cricket] 1st Test | Day 3 : Ireland vs New Zealand vs  (Sky Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test | Day 3 : Ireland vs New Zealand vs  (Sky Sport 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-2/playlist.m3u8?token=ebcb433fa8a899a8f07b33bb20ccf1c4d5e1b17c4c4a3859432ca8bfbf4c6839.1780164161.3351edff70c670d2ab9aa1405a3e8ea3.e9895dd4b852adac1c784e382bdfab6a.476e45ab7c292591a628b5d39d04e2e5&signature=586285e771b4f7acd9bd9f573d974e6ddf1db4514f902628bd68875bdc9fde1b|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="7" tvg-id="Cricket.7" tvg-name="[Cricket] 1st Test | Day 3 : Ireland vs New Zealand vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test | Day 3 : Ireland vs New Zealand vs  (Sky Sport 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=708f01482574ce248b493d7566b10c743ee3d02a8344ec7fc726aaf8b91abcf1.1780164161.5d1ad548667a5e0985de35b5f5882d1d.90170b306dc5baf6c2b30fe46a134019.ff556bc598a9b82438022bfc7e6f047d&signature=feb63c968e3270d9bba6a17db66c3da46f8a1e902544344de095c87cb5a5d050|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="8" tvg-id="Cricket.8" tvg-name="[Cricket] 1st Test | Day 3 : Ireland vs New Zealand vs  (SuperSport Action)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test | Day 3 : Ireland vs New Zealand vs  (SuperSport Action)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+action&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+action&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-action/playlist.m3u8?token=819994650956aa467ea82416f0a1663aa6d30ea70562f60109ec0484a4320038.1780164162.695ece59c742a2dff5c157f2d1072caa.ce390d9c575104836fe6ef2570b5c8ad.7d9ea2f1ec73c5bc53cdd6c88f7c6e49&signature=60f97dae6e5d914224088af7d81249e12c1b3a9247602a1cea560f96f823a5ce|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="9" tvg-id="Cricket.9" tvg-name="[Cricket] 1st Test | Day 3 : Ireland vs New Zealand vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test | Day 3 : Ireland vs New Zealand vs  (SuperSport Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=c45612b876842ce7c5cc3c68e60d0081e0df01cee8f96f95bfc14d18a8879792.1780164162.66b36312654680294549c5f0fa4c93b3.88a64c175fba9b740e4bdac7e8c8879d.2f38e249b9ebd3de5c6b0bd17985188e&signature=6bf26240415c1dc15f1965dfd956e2ec8f5bc1aa2ad992a3ead9b4710a2e65a6|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="10" tvg-id="Cricket.10" tvg-name="[Cricket] 1st Test | Day 3 : Ireland vs New Zealand vs  (SSC 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test | Day 3 : Ireland vs New Zealand vs  (SSC 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ssc+2&code=sa&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=ssc+2&code=sa&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/sa-ssc-2/playlist.m3u8?token=2b39747891c83f4aa4e079a4b83631f90f8d3975ddd50a8bdf00e012ae2c7bc5.1780164162.867dd99840c50d59083d405c3499c018.57b85c73884d520206b1e098d727f36d.77e06b0ffe34ff67aa0b9c9a99d48f68&signature=f7cb2d5b20c034dc7a5dcff01122ad1f7f9167d476f8fee792801439ceacd165|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="11" tvg-id="Cricket.11" tvg-name="[Cricket] 1st ODI : Pakistan Vs Australia vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st ODI : Pakistan Vs Australia vs  (Willow Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=05b7426fb2bd39c55b518a1d826b2f2b817c8991242942f2b824d582a3076cc3.1780164163.7e5a495bff835a0dad7e04d6bcb467b1.1030825987fc5ff638ddf1cec0465725.224dd59b5ced8371ccb9989783a3da37&signature=246314a9019cb32665bfe686bd26547bd444d30a3063b9ad3061659b51cabbca|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="12" tvg-id="Cricket.12" tvg-name="[Cricket] 1st ODI : Pakistan Vs Australia vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st ODI : Pakistan Vs Australia vs  (Astro Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=6765d5065ce475296c526dc44f0f3f0b46bf670111184b93629a38c50275c944.1780164163.525df441a42943c28b5ed85a2642af23.ebd31e25b6123d7d8934e2aa97f6e124.a9e4aedc794724d26af23c595e6a7e74&signature=d834bff5a9bee9718c2b821bc35c54d38c9fd1dab4e979ce5568f4f3df9bfaaa|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="13" tvg-id="Cricket.13" tvg-name="[Cricket] Twenty20 International Women : England W vs India W vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Twenty20 International Women : England W vs India W vs  (Sky Sports Cricket)
+#EXTINF:-1 tvg-chno="7" tvg-id="Cricket.7" tvg-name="[Cricket] Twenty20 International Women : England W vs India W vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Twenty20 International Women : England W vs India W vs  (Sky Sports Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=27b845677a25c9ec8f67bc54137d4643888d74beaa9b324fb491153cfc2bdd67.1780164164.27e4d4ab371f7605e5e5a54c72ff6fe1.90df4ad4a8e10002dd03b7a65fb4021c.5e2339743253782751e7d3b256363b7e&signature=441b639b1c4e4792387924ebc82cab0ce8d39c655111c0f3fdb571bc2248cac6|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=43b2c24d2f41771eea2870b8afd308d1949f5c0f973681bc30782d68fa0211fc.1780178464.c5ca3d71005f3e2cfb1098292bb26382.10b6561755e7700bbff7100e52d2fa9e.6e3c4957dba809099c254ecb31bf8c29&signature=2536ea0be33c6927b599c62dad913458257f766255fc16465cd41c7e278bd06a|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="14" tvg-id="Cricket.14" tvg-name="[Cricket] Twenty20 International Women : England W vs India W vs  (Channel 5)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Twenty20 International Women : England W vs India W vs  (Channel 5)
+#EXTINF:-1 tvg-chno="8" tvg-id="Cricket.8" tvg-name="[Cricket] Twenty20 International Women : England W vs India W vs  (Channel 5)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Twenty20 International Women : England W vs India W vs  (Channel 5)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=channel+5&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=channel+5&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-channel-5/playlist.m3u8?token=02c124890d2c64fd9d2b938175046152a545854321bab6bc775cecbd16be642d.1780164164.c2663fc02648359438b2069e86424f6e.ea0e81ff2e05c3e6423acbf309393234.d2a67f65c4d9590fd24480d0ffcf17d6&signature=8276b586a2fdc1f923b8b5b567f2d51c12b687c1cb370e82e01ead0eeadc3506|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-channel-5/playlist.m3u8?token=424bf9ed898999248d602c277ccd9d5d46b3c1aba6f83cb0ac24f8fb530411f6.1780178465.57547038fc75b036281b67afd26a3d92.f1ad41b7c29d63dc3ec589c48526a3e1.928c3c3075621f32b8a69c8c19ae689a&signature=41eb3ea99dde6905280af5886412ea812d104a5bc765e30868f6725435ea0142|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="15" tvg-id="Cricket.15" tvg-name="[Cricket] Twenty20 International Women : England W vs India W vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Twenty20 International Women : England W vs India W vs  (Sky Sports Main Event)
+#EXTINF:-1 tvg-chno="9" tvg-id="Cricket.9" tvg-name="[Cricket] Twenty20 International Women : England W vs India W vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Twenty20 International Women : England W vs India W vs  (Sky Sports Main Event)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=12f33860ccecf5a288b52202d18ff77e9d7b75b72cce4d5b2969bc567aa42f28.1780164165.3bf576e6d0dc284ffc0bc40c34ae9a0a.801f38535e9a87794ed7b106e494bbf2.08b4080f6fdef07b0661640dfc82b845&signature=2e99d9cc1a66b7bfbfaf97a622d112a3ec235f2588576311b960829e1357fc77|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=ca2030e59c3b55cc029a4f816f69c373a95d8bb03932cc4891d70d8b5de3f2b2.1780178466.03dc3f94c692e69da39169e564386fd1.df837f2b02802b17a267bb60a81e2a16.288122b510522e618deeea09218991cb&signature=3d0970ee83cf32a90eb6818b6285ca532868354f6b917e554648cc32aaf54cee|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="16" tvg-id="Cricket.16" tvg-name="[Cricket] Twenty20 International Women : England W vs India W vs  (Sky Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Twenty20 International Women : England W vs India W vs  (Sky Sport 3)
+#EXTINF:-1 tvg-chno="10" tvg-id="Cricket.10" tvg-name="[Cricket] Twenty20 International Women : England W vs India W vs  (Sky Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Twenty20 International Women : England W vs India W vs  (Sky Sport 3)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+3&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+3&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-3/playlist.m3u8?token=a043a664e209e7dd034266a30e6a0261ad257b7ea7cef116817ce56b42dfb7ed.1780164165.8ddb7e6d75d3664cc0238291cd26398d.b137845d7aeae6f0e8b1920881104c5b.4b12be122113b19acd30ae5c02d78ed3&signature=c92c641b3f0298bbaa16720e49c1d57a646e19313476c7b66aa9a558f9590ebd|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-3/playlist.m3u8?token=270d573276dcb04d9519d889b14fd212cf9db211fca2d227cf34c2964de003ca.1780178467.17c34477bd6ba962a4e0e9d0c8f66f9d.d86bb625dd181506a832af385337e40e.f4e8a38f75185204245731e389570723&signature=b476e6b1b40b05a71e380aea794daed998215a74ce5779e813e26a8f7fe27793|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="17" tvg-id="Cricket.17" tvg-name="[Cricket] Twenty20 International Women : England W vs India W vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Twenty20 International Women : England W vs India W vs  (SuperSport Cricket)
+#EXTINF:-1 tvg-chno="11" tvg-id="Cricket.11" tvg-name="[Cricket] Twenty20 International Women : England W vs India W vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Twenty20 International Women : England W vs India W vs  (SuperSport Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=4b5e253e09558f256934f3acc10703da76f2b084ace698a5ee7f88f6c603af9e.1780164166.249ed96d0f99066a3225a40cd51d2986.4e7f1a13d55d87c0260d6a67f9800d4f.32fede17457a4c86c412ede892ee4112&signature=ec4bef56ea23d76b95985174fedbfcde6c3ce4200735bf809f7005d432c046bc|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=753b41953c0faa216c52f8ebe310dfe4575cd1833c4641f5c5f725b595915899.1780178467.b4fba2fff2391ea10bf85cdad2821fe8.f2b2e7e71347c75da0d5f7d15b481a0a.a071ed26eea217c03d78d7106aaf1a6d&signature=579eed21ef8cb5022c71d5326a29621e5b3cc9526a607b540028ef28cb0624ae|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="18" tvg-id="Cricket.18" tvg-name="[Cricket] NatWest T20 Blast : Sussex vs Middlesex vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Sussex vs Middlesex vs  (Willow Cricket)
+#EXTINF:-1 tvg-chno="12" tvg-id="Cricket.12" tvg-name="[Cricket] NatWest T20 Blast : Sussex vs Middlesex vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Sussex vs Middlesex vs  (Willow Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=e18fc2e37f5e4e7962866c6adc67f026d5d2843b0b12ebacd216a880e582d273.1780164166.0ebb9a49d826bad38dda8b213541b54e.f9fb27c1a64ae6a1e79287fcfa7faaef.1dad198a2ddbdccc1f6b474defaf006a&signature=9037e7d3c127291cb335a90d56c64c41dcedb32e4f9f9569ebab5f978fe2d327|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=18aea3df24ea51dc2fe7d0fabf226a3fce0b599261972ebdcc9348302275132f.1780178468.5f83c09c1869663917da1900594f3b6e.dde48948b9518d9f06fd0e29d11ac884.97689ec3a8131be8c6cd38d65420689a&signature=217c017619d458e11081a2a69121ae9f59c449e1aea5ac9446d0b4bd93170c06|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="19" tvg-id="Cricket.19" tvg-name="[Cricket] NatWest T20 Blast : Sussex vs Middlesex vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Sussex vs Middlesex vs  (Willow 2 Cricket)
+#EXTINF:-1 tvg-chno="13" tvg-id="Cricket.13" tvg-name="[Cricket] NatWest T20 Blast : Sussex vs Middlesex vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Sussex vs Middlesex vs  (Willow 2 Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=bc677e5153f97e54a084b0cb2980b592c1e71cf8f5b551b453d7bd99116079a0.1780164167.53438d5c99c56862064be47fe22b047b.8fce32a975df6e440ccf0f48b7ba7d52.12de7ab62d0330e8ca6dd11d97ad861b&signature=b127ed64bf99b9b7014baf09d79da09c61727178fa9f2a2bc6caa899d420770f|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=2949ef7b953ecaff16f4526719ab0c63c2537188315bf958ae74f09c082ffbeb.1780178469.81e9aeb0f702cba2c209ba5477bcddce.1d313a41f571edeac3a1378139a009bc.bc9274e0e5a29ec6f0edc46cb7c7e57f&signature=8aae8fe5d139a004b07e1d58328d89b1cf98e1798d4382cddd1fc2e36d7b2192|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="20" tvg-id="Cricket.20" tvg-name="[Cricket] NatWest T20 Blast : Sussex vs Middlesex vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Sussex vs Middlesex vs  (Sky Sports Cricket)
+#EXTINF:-1 tvg-chno="14" tvg-id="Cricket.14" tvg-name="[Cricket] NatWest T20 Blast : Sussex vs Middlesex vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Sussex vs Middlesex vs  (Sky Sports Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=feea7ea0243b6d784a76ed8ef0243db6046ceb6fba58343f94ab4abfb629e2db.1780164167.3382f232e2d371f33bfc969fe018ad83.0e7ae0b57a162b23f7de6040646917ef.0b8550b0c062e478a9b7a9e473c2c294&signature=d7036056727524c27b10f9557612a72d2d623c4d5da1c020b15ab8e11b8683d9|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=a88aaf36b5fa906f2dd02ed359dc4cb7c78c1c2cfae018e507a90ace4ee7501d.1780178470.872975a7b8510d5dd966402c53e16832.78017c47cd95c4fcbd5c0c848ccf9336.b20bf50ddd27c0ee1c660fd02f311cc1&signature=aea09efcbb3977ceb3f3cd0b34c1413bab5b64c6f8b8439d9b260599032ebe8f|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="21" tvg-id="Cricket.21" tvg-name="[Cricket] NatWest T20 Blast : Sussex vs Middlesex vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Sussex vs Middlesex vs  (Sky Sports Main Event)
+#EXTINF:-1 tvg-chno="15" tvg-id="Cricket.15" tvg-name="[Cricket] NatWest T20 Blast : Sussex vs Middlesex vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Sussex vs Middlesex vs  (Sky Sports Main Event)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=ad252dbcee9d62d80d31cb4d66a21e3c32c769f3c7e665a1817d2701f0ac2d2c.1780164167.f6684b0e7b4d499d01991e7122b64de3.451939d222524bde12557b21e80f4fe0.45ffdfdd4adde9cd68fa37dcb0f1f303&signature=08090ededcc83ce01fe8da3476720a96d57644ef65edc19a7d1c3a579ea320d0|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=e013d365274c4c8d8cd074955e591540091ad6c796a9f039e01060453e4b5382.1780178471.6fa94a94311412b95189037260828504.f3487ee3cc752cebe28cecdfdbae3010.4c9c5f06482ce77b090479eacb07d551&signature=1d2623dd1d61f1b7021ec558e4d842e7d694912720b15908c17d1f34d1d1aafc|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="22" tvg-id="Cricket.22" tvg-name="[Cricket] NatWest T20 Blast : Sussex vs Middlesex vs  (Sky Sport 9)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Sussex vs Middlesex vs  (Sky Sport 9)
+#EXTINF:-1 tvg-chno="16" tvg-id="Cricket.16" tvg-name="[Cricket] NatWest T20 Blast : Sussex vs Middlesex vs  (Sky Sport 9)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Sussex vs Middlesex vs  (Sky Sport 9)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+9&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+9&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-9/playlist.m3u8?token=05623905a399ce06b58fee0f7eda6ba4af385734b22427c9887b0ef18e4eef35.1780164168.5abeff85a8a343b1fc83a6dd41265854.1aef9faa3cfb8dfc3bf5a25d9b8d50ec.6f8d5682f293fa1bd630d383bd606da2&signature=596af164b1a2aa322d526a3bfebaffd56d5ce082ee59cca3848e5ce0ef446887|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-9/playlist.m3u8?token=f0b942fafe6c2e4e15bb21e232298c1a8c44c0b3b2148e48393d162ff7ca1057.1780178471.104d95fc58a29dd4ecdb80196f6962c5.1616f297a33be873bb02c679200068fe.d51a1e6b7a15f1539b6f027206ef4c03&signature=2c5b0cb66476fbdf49a723e5ce2392840d84308abfe4739aa142179c1987cf62|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="23" tvg-id="Cricket.23" tvg-name="[Cricket] NatWest T20 Blast : Sussex vs Middlesex vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Sussex vs Middlesex vs  (SuperSport Cricket)
+#EXTINF:-1 tvg-chno="17" tvg-id="Cricket.17" tvg-name="[Cricket] NatWest T20 Blast : Sussex vs Middlesex vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Sussex vs Middlesex vs  (SuperSport Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=54441452e0325367c57fa3ed5ef766f136c5d9c87f5224bbac216191fedf7dd0.1780164168.cb20a6ce8f94ab731d703ca2ff2df6b8.81cccb4802420dd5eb7fdc7f10ddd130.5f3c2ac5f871ba59efd4260b5bd6c99c&signature=337ee4e03b8f6eda09a0efcefd710875c82306f8a40ffe002039cc3915085e2f|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=7e38ff62609b184595d53ca514d087c7a84535f0e2b356a06bf81d5b0c62e882.1780178472.24b1be794da7dec685983e3b8c946263.3fffe27ec06e8be2c719da39cbfda5f2.cff98311c9354ca773df6c02d7464dba&signature=d8c65226c3dfe7c71bb547bb1cbd98d1468b6ac566a3635eb0a78d890c58e6ad|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="24" tvg-id="Cricket.24" tvg-name="[Cricket] 1st Test | Day 3 : Ireland vs New Zealand vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test | Day 3 : Ireland vs New Zealand vs  (Willow 2 Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=fe1c122a120537055a788367f8afe6eeb6d61d72334fd9435b6865043e7e00a1.1780164169.2747e93238e45ce68810380471340377.223087e136ec48f90ad28dfa6fcfe10b.a00bda5ef2b1e27e866b6a097dd43e8e&signature=2ed92df138a13a4e3ac9d6d46ae1c6b655c94927588433ad954d85e8a882442d|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="25" tvg-id="Cricket.25" tvg-name="[Cricket] 1st Test | Day 3 : Ireland vs New Zealand vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test | Day 3 : Ireland vs New Zealand vs  (Astro Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=68b0d71f3c6216f4b2b2d19b0dc1f81aca5139c3036573f2742693ba1835f3b7.1780164169.44ca874f8a36ffecf219b1e15303ff1a.6e0129ad44961af2128fcc2ed2edf887.aabf96f4103688f6860bf9f2e6f6f18a&signature=f12a812f3d4c7780aaeba0a14c47949e941b5abb6346de953e86e7ee3ab1a816|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="26" tvg-id="Cricket.26" tvg-name="[Cricket] 1st Test | Day 3 : Ireland vs New Zealand vs  (Sky Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test | Day 3 : Ireland vs New Zealand vs  (Sky Sport 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-2/playlist.m3u8?token=e69bbb7649217d7948cd17dfd176e3d0b8182bfdb0bf8b1db907ac7b843ed8c8.1780164170.7c7e5f9a43a3f600ae0f1d1c1c7bd34d.d5c23db913ee5e03e3670b773a2b3c38.d9811979a3af07b059870536fae661ed&signature=5c95adbbf984a54145bb124c573913cdf1bf082a7cc7825f9f5b80b4ba321824|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="27" tvg-id="Cricket.27" tvg-name="[Cricket] 1st Test | Day 3 : Ireland vs New Zealand vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test | Day 3 : Ireland vs New Zealand vs  (Sky Sport 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=305606b92f1a680999831b7c84ddf9273abe9fd3912a9fd43fe9abacfa03172c.1780164170.868f149b478824b3270f1c1beabc06f6.2e775087828378073ed4f4f10ea0dbf9.330072cdee0ed097b8921b30eceee0ea&signature=8a485a1674613f5208875403f85b5cafde35a2ca643f1c953b8d3932ba5779e6|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="28" tvg-id="Cricket.28" tvg-name="[Cricket] 1st Test | Day 3 : Ireland vs New Zealand vs  (SuperSport Action)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test | Day 3 : Ireland vs New Zealand vs  (SuperSport Action)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+action&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+action&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-action/playlist.m3u8?token=9b40eac6a1c838369dd932ee293fbcfa56093b8bb5226ebec313a7de81b6221e.1780164171.8c02f671e2d4f1f8316d95cc3448bb6e.a5e013cb16e1beda217b31814a425e19.1f96ac786dbd2745f0c9118eb7b00e8c&signature=da2f4d2a702baa1d8d26fe873e137b36c1087fbe000fd0c75f493449de3a88f5|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="29" tvg-id="Cricket.29" tvg-name="[Cricket] 1st Test | Day 3 : Ireland vs New Zealand vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test | Day 3 : Ireland vs New Zealand vs  (SuperSport Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=f4267db9bcd3a9e00f77f23fb1b458d8dd4499332ae6cfed648ba89c1abcadc3.1780164171.9ae60a04c02975775c86c6a0eda0ffdd.be524710a8b5f4501826e7a069449307.2b35703802b0106f07eccfcd2d7c2f01&signature=8a41b80fbbff4efaabd6d3215973e47f9264d46ba47e73cb9f0dc84b0ad5ad7a|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="30" tvg-id="Cricket.30" tvg-name="[Cricket] 1st Test | Day 3 : Ireland vs New Zealand vs  (SSC 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test | Day 3 : Ireland vs New Zealand vs  (SSC 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ssc+2&code=sa&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=ssc+2&code=sa&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/sa-ssc-2/playlist.m3u8?token=5ffcee466574127df98aadd8e3bbed24191b740fede40ec0b4df6bf00e1923f3.1780164171.65aece18274dc63767970f1de6766dcc.aae1523cecfc04bdd2dcb4c2a8e2d4dd.c747ebf67950519bdcaa2f7e25c27245&signature=ee4e2226e5d0dc3da8eb39e91f0fffd802b386cdd7a8b2c6dfb3e637b58e5e63|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="31" tvg-id="Cricket.31" tvg-name="[Cricket] 1st ODI : Pakistan Vs Australia vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st ODI : Pakistan Vs Australia vs  (Willow Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=abb80143f9ad0903a20d0fb61b8b60638f80205df6fdee33f1c150793bbfde94.1780164172.eeab684c9c4505d70949ac104c4564e0.f9c945226486a122bedcbb386bf04c2b.7b60220d88ea5fd351de6c4ec6e43aa0&signature=c0fc1d82a61287b905e430d5dbf0e11dbd7c3b6a93b89d739e26a5e86fcf9293|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="32" tvg-id="Cricket.32" tvg-name="[Cricket] 1st ODI : Pakistan Vs Australia vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st ODI : Pakistan Vs Australia vs  (Astro Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=2ef5a08951c9f3d370e8f10da40eaafd527d0a3746689a0a731a0f0f04aa4683.1780164172.c6200b827f566176cee6fe8b8fe8a0ad.10c54b98247ea8b7c199c69ffb978b82.1c9062d1dfeade293bc705fc7319d0e7&signature=038f38ae08026e891a65e4affcbb21822a730630b870558d96d207f268c57e7a|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="33" tvg-id="Cricket.33" tvg-name="[Cricket] Twenty20 International Women : England W vs India W vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Twenty20 International Women : England W vs India W vs  (Sky Sports Cricket)
+#EXTINF:-1 tvg-chno="18" tvg-id="Cricket.18" tvg-name="[Cricket] Twenty20 International Women : England W vs India W vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Twenty20 International Women : England W vs India W vs  (Sky Sports Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=ca8891320a61a5369d39a6771492fdb993ddd8d23bac6a5e2e43b1b288dffa6a.1780164173.b7b84b7ffcd94d50d57f4f4c2abb0207.009979a34602069fcdc15eea0fe853dc.d1820da9112d460f93b96e0bcf52bff6&signature=2a1cf919824049598e4d0c06a9e21497e3edf888155469342018dccca86e45fb|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=95301d326f70f6983baca62495e85cc981bfa67732e46a98d5e1b43f95ca1559.1780178473.438a0e6da795a1a04777bc6eb5310249.a6d45a7b4735534debb65909bb73ab58.e4d4fa82586d5d3fb491e96edecd9e69&signature=9e4bff21803ba384e0fbeb66b7a9ef4a49476e3e6a2b216d9d8b8fb8fb286ece|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="34" tvg-id="Cricket.34" tvg-name="[Cricket] Twenty20 International Women : England W vs India W vs  (Channel 5)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Twenty20 International Women : England W vs India W vs  (Channel 5)
+#EXTINF:-1 tvg-chno="19" tvg-id="Cricket.19" tvg-name="[Cricket] Twenty20 International Women : England W vs India W vs  (Channel 5)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Twenty20 International Women : England W vs India W vs  (Channel 5)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=channel+5&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=channel+5&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-channel-5/playlist.m3u8?token=881d5f83a042dbf13be973ebe4c19b4e738a8925b7335fee960abf3d6aedc426.1780164173.920be120cbb166e94b72473d0c725b03.b3174852e60651bba6018307429efcc5.da231384f513c24f0d798a6e93f29eae&signature=b02cab427c22ccbc6301b89972569033a7b5ae88be13f43771ef37ee86554cc2|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-channel-5/playlist.m3u8?token=6f8da302c6d2db32ba28e28a04ae5fe3f0dcb2caeb832196602334de4808fa03.1780178474.37c43465b87d2fb29035da55670fc48a.9513e56284ef69fb77d0b8720ff2b37d.b35fcc76daff8dfffa4dce485d257fd7&signature=6703599f49fb7ce4cc8b762a02b4c97fccc72866e9b2a008547238d977c48305|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="35" tvg-id="Cricket.35" tvg-name="[Cricket] Twenty20 International Women : England W vs India W vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Twenty20 International Women : England W vs India W vs  (Sky Sports Main Event)
+#EXTINF:-1 tvg-chno="20" tvg-id="Cricket.20" tvg-name="[Cricket] Twenty20 International Women : England W vs India W vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Twenty20 International Women : England W vs India W vs  (Sky Sports Main Event)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=af4322dd67eb0059a8eed8bd252d5e3a170e947ef808f9bf3eb1b3e26dafdd3e.1780164174.ab0364d427345d823ac3268adc6fd349.0d0aa103fb89556fd782ae11c2b60524.ba89689374dc5c0c91ab883078cadf4e&signature=1e6a90cd962e316197ab504fb68d9485ab23b5ca01f6200c4fbd22fb37b867f0|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=f456a1c7e1178e0ff32380a577280a5ba0621a0a9879bbd292365288f12c3910.1780178474.4d25a7736657712e884af5b5578bd818.1f069a373924bd88c89c329019d23057.e348aebb1d97b7bb12dd1c1d36044082&signature=0ef8a0adad4331207c5751e2736c9a9d9fc09a952e7ce0f8dc657ce786916501|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="36" tvg-id="Cricket.36" tvg-name="[Cricket] Twenty20 International Women : England W vs India W vs  (Sky Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Twenty20 International Women : England W vs India W vs  (Sky Sport 3)
+#EXTINF:-1 tvg-chno="21" tvg-id="Cricket.21" tvg-name="[Cricket] Twenty20 International Women : England W vs India W vs  (Sky Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Twenty20 International Women : England W vs India W vs  (Sky Sport 3)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+3&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+3&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-3/playlist.m3u8?token=733b7b11b0bb72aca75879a5488f8676838a40999fcdb1a6241ee038ea5085fa.1780164174.97aa6580d91f71a582c2f03fc170cd01.c3c169ef2879c45084f45195c91dbf0f.a8dbeb285fb5fc727d63d34d8283dd61&signature=c823dbcbf86cad15c0300ca3d1e4881f9faa66e8503d6a612fe3101353325117|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-3/playlist.m3u8?token=27507fe0005c13ddc6683dabacbafe9ba9340b141824246c3c9fdbb5c80e580e.1780178475.9fa6c1ab3c1f46a8281c5edf748486b9.829159178e06044572a489adcb97fa7f.474bd4eb80c5b65787b338a425bf5496&signature=f1216c8dc8166ec348f9a2a4e6c61c787d2d3d08b641ba1f1410f57c62c4e3a4|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="37" tvg-id="Cricket.37" tvg-name="[Cricket] Twenty20 International Women : England W vs India W vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Twenty20 International Women : England W vs India W vs  (SuperSport Cricket)
+#EXTINF:-1 tvg-chno="22" tvg-id="Cricket.22" tvg-name="[Cricket] Twenty20 International Women : England W vs India W vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Twenty20 International Women : England W vs India W vs  (SuperSport Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=340c2b6db933c742fc520e7a7fa67376469fc144bc4d7d0b6457ccd92692b33a.1780164175.dbb04fece03ab30207595db486fa3655.e88ce368f774bdeabe69ef7da9564a3f.24736b90651e2faf51c6e96867a7ae4a&signature=f30d1e3e77cdfebb357fa001dd1b79c282aeb7ff8de4dd9517f124edbeadae16|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=7a543134c36c69e7f1c8dbd9a6967d987a0e36ca645c35502e610439766dc9ff.1780178476.e2816b684fd471afabc1ddee761c5b01.e763e5b66394f4c83e3bfe41f14b3513.e9c01ce369cf8609ffb8f4a4bb1a3b0a&signature=8e4d1deebb7754741e858222dd5e69e2ea89cc0cebc418220e95d9f522e2f7d6|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="38" tvg-id="Cricket.38" tvg-name="[Cricket] NatWest T20 Blast : Sussex vs Middlesex vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Sussex vs Middlesex vs  (Willow Cricket)
+#EXTINF:-1 tvg-chno="23" tvg-id="Cricket.23" tvg-name="[Cricket] NatWest T20 Blast : Sussex vs Middlesex vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Sussex vs Middlesex vs  (Willow Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=08362bc9eec803db62d755235d8810e1562fbb5333235eab694e4cd1e8739faa.1780164175.9f532c704aac23a3f441d72ad85bcac4.5c57b1316e42b9e03d2156c8d49e8813.325295e68f0f86e11840a618e0a4636c&signature=3779cea24b1c6cc7a1b8dba200b9282f90613cf866870da59374dcf44b73c884|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=c5d3f90ad80affbf2183b1110dadd3ce5a5e60dd1bb7f135a724fbb5cb0a0fa5.1780178477.19131e0bf386471dad0ae954e5208e34.d3580528bd613f2a1be20806273acc73.c7785de85c07f5d17e456923dcfe23af&signature=666d20e6bced0c4c6f87bef1e36b0bc700b21d67d9b58d0a972e278c0056315a|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="39" tvg-id="Cricket.39" tvg-name="[Cricket] NatWest T20 Blast : Sussex vs Middlesex vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Sussex vs Middlesex vs  (Willow 2 Cricket)
+#EXTINF:-1 tvg-chno="24" tvg-id="Cricket.24" tvg-name="[Cricket] NatWest T20 Blast : Sussex vs Middlesex vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Sussex vs Middlesex vs  (Willow 2 Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=4c796847784b08321a285d0774d5bd0526194780b8b2c5629b24d39ccd14bc92.1780164176.e7b044c6ab8baa0971369bcf1da808c5.4837bb13a684fa05d1218ab2bd583b2b.8ccb91d819dd9632e44c48ca388fbf86&signature=cee1b02c4b87a746422e47a00eade8cf78c6c88b73dbe13e36ef4ed3a22d0f4c|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=b1b871dc9f5297e34df7a091f646b5a6f561c6269f9012dbac3f23daacc7bd72.1780178477.1a0d77050ed2583d698d7bee4e0de55c.d498809e6bc0a3dc98ea3f46cb7bfc56.84bde6d34793a6918ff5ee12aec0369e&signature=cf0e5c40b40bfa35562f99484308a3928e9b3aaf6952e2fc331f27931df89af6|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="40" tvg-id="Cricket.40" tvg-name="[Cricket] NatWest T20 Blast : Sussex vs Middlesex vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Sussex vs Middlesex vs  (Sky Sports Cricket)
+#EXTINF:-1 tvg-chno="25" tvg-id="Cricket.25" tvg-name="[Cricket] NatWest T20 Blast : Sussex vs Middlesex vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Sussex vs Middlesex vs  (Sky Sports Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=0568ca7f12ff15138f4237c25942602aed915977e0c0158f26207acab3b9beb2.1780164176.5691ff2f374451c43ff0475c800dabeb.16f1af5c7eb5856733e53417aa121f99.8e76bad8d7b4342a8588c1b71e3a9d03&signature=6f2abcebcf3336da5a572e80aa6fb60a7f57cfc319c866dc2ed25494d43b0c0f|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=678644c994fd345ffcaa570e1fd496c7e683115b730f30cdce5b92d7e1f0d007.1780178478.baca4e858532709c01792048b8ec1ac7.3e26af40255c7cee4c8be9be06b37875.2007091c2a65f58db055f101eac1d7c3&signature=f85cd56f7e27db38a17631d9ad43bc169f6723c4409f6ab2f1b4f26cb6cf9038|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="41" tvg-id="Cricket.41" tvg-name="[Cricket] NatWest T20 Blast : Sussex vs Middlesex vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Sussex vs Middlesex vs  (Sky Sports Main Event)
+#EXTINF:-1 tvg-chno="26" tvg-id="Cricket.26" tvg-name="[Cricket] NatWest T20 Blast : Sussex vs Middlesex vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Sussex vs Middlesex vs  (Sky Sports Main Event)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=2fc0f3c72a4198ae98e8d09c021bae8764fce668560f9b1994c40327a9a73a6b.1780164177.75e16323353b4eaa2f2586961c8f3cfb.5c2043c646bbe97e4c0ebf9c8e33081a.ec5ee910a83c2811592c63c56347ea5f&signature=48412c93671c1da8a5c65ead8e42099a9be7bfac10ea7f583df7ec7019a77112|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=8183d85f9f9be65f6867d6861badf76f86ce0e5d78d05c835504cd5e7340c58b.1780178479.2f91f2d16f05ce1efc984f3186709e90.e4d3f44b10b1f75f14d69d10d8c5361b.3a2d3a31b5cfbb4b7fadc231a1a8a364&signature=d1b6cb2aaaaca866c8dd8cd8c6fcf9a21e2cd444b07e2bc052063def9ff27875|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="42" tvg-id="Cricket.42" tvg-name="[Cricket] NatWest T20 Blast : Sussex vs Middlesex vs  (Sky Sport 9)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Sussex vs Middlesex vs  (Sky Sport 9)
+#EXTINF:-1 tvg-chno="27" tvg-id="Cricket.27" tvg-name="[Cricket] NatWest T20 Blast : Sussex vs Middlesex vs  (Sky Sport 9)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Sussex vs Middlesex vs  (Sky Sport 9)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+9&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+9&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-9/playlist.m3u8?token=1ddb4139c365234802542bde0846985874c9af2f70cbcac19878cb3d93fe1135.1780164177.37d8bd8e292a57756a98220267fe2248.d1739245c723c711dd85ed7ac496f473.f5a5b04a8b936c637e415348becf2e4b&signature=d2ea14acbe7d640a9b09c4039b50e24238a53738c3b0665e6588c5d31ac9f0f4|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-9/playlist.m3u8?token=a93273079716ad7ca004ef27ee82f2eb346cbce3879886dbbfb91b7bda4d2d17.1780178480.f955e84bc77be51f40f9a8b9c25eb042.5693349813c14454877b2de8e93b235b.151853674ed042325397fdf7b56bf9a2&signature=c4e7aeaf21f538f5174f40c0c9987f7fff09a68958c3e0538cc1917b9eccb532|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="43" tvg-id="Cricket.43" tvg-name="[Cricket] NatWest T20 Blast : Sussex vs Middlesex vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Sussex vs Middlesex vs  (SuperSport Cricket)
+#EXTINF:-1 tvg-chno="28" tvg-id="Cricket.28" tvg-name="[Cricket] NatWest T20 Blast : Sussex vs Middlesex vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Sussex vs Middlesex vs  (SuperSport Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=dc68b76f2dd506fbc037a53d4a65c2e58fd71a5331802d5f5c14ce8f4602271d.1780164177.3c043a897af61de3344b67f4f2a17dc0.84cc728897479d8b590413923b43ec2f.3917dd49aacb4e63563ab31298579156&signature=7e86506646e1390eacde6ca27633ff6d95ad74ff566148f6bbe6775ed39670ac|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=44fc31b1111abdafea848231dd2b7a3ba01de2015ada01d52c382ea7bcc52199.1780178481.8bced0555b2be6026e3d94dccef69da0.18b2533b1e409e6222340c5f0ff34691.1632f11677f60fbebd9e6f572b9e5e13&signature=4cad339ca5065decac9c0534ac2c4a5c6d051ccbe9243a29501f2e157426a568|x-forwarded-for:77.238.79.111
 
