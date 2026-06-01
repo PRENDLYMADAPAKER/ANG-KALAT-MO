@@ -1,7 +1,1 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Palestino vs Audax Italiano (TNT Sports)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3157.png" group-title="Soccer",[Soccer] Palestino vs Audax Italiano (TNT Sports)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports&code=cl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports&code=cl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/cl-tnt-sports/playlist.m3u8?token=c14d06a171dc8d815c3e2bd0327a545e4a3b116af66e81f2db5b4d1b49c8bece.1780279066.52fe81574c620ac8de9ab79684ea86d7.9b3aafd2633f2e719dd5be16f78b692c.7ed65c973714bb067dae1ec29a7be756&signature=0d99d106cf9a99949a5e477c537e7172dc602d3e4f0f142dcaa3b036754b917d|x-forwarded-for:77.238.79.111
-
