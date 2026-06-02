@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Colombia vs Costa Rica (Sport TV 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Colombia vs Costa Rica (Sport TV 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+1&code=pt&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+1&code=pt&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="1" tvg-id="Cricket.1" tvg-name="[Cricket] 2nd ODI : Pakistan vs Australia vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 2nd ODI : Pakistan vs Australia vs  (Willow Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/pt-sport-tv-1/playlist.m3u8?token=ad344dfa7a9709c225793ec60b97095a153fe16a7b0beac59f17880a4e4b49d0.1780352298.376e688350c9a9bb633bdfedba967ff5.f6e52a38888da49abb23eab8faa5cd51.13ef4fb54b8a1b12b5519d25c460579e&signature=3596b8eb7f7f0cc238ff2968466d2af4f2d4c7c665f56743b6ae3251c741748e|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=74654c6067607e0e6dcaeb4514d4c748d162493c898ebb539d16ac2ef73a93a1.1780403304.96c5cc0e261873ee6f4a46e09b8ce92b.f3e7548897fdf2a0886494cad95d6cd2.2c34c54e13ed08f27bcbdccc2ce77e45&signature=0f6c4eccb7935fc3be0a4c4743b85e7a42fd0d00889e4e9b53490e92120f5470|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Colombia vs Costa Rica (SporTV 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Colombia vs Costa Rica (SporTV 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sportv+1&code=br&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sportv+1&code=br&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="2" tvg-id="Cricket.2" tvg-name="[Cricket] 2nd ODI : Pakistan vs Australia vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 2nd ODI : Pakistan vs Australia vs  (Willow Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/br-sportv-1/playlist.m3u8?token=b4a6490bce0968a381e7359f21bb4f91a919631c47213af55ae2a2dd988ed80e.1780352299.d301162a420bd9894292dcfb90159066.98c846ce644b1e78c543e4516a0aa9f8.b4b7c25599e8503d4ab10e65c27062d9&signature=e5bb50f82cc938761001ce10f8fab717507c3f03d76e4f773391f83582423996|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=ffa58b1781acb37758b693029ffbd4167074ccd9c4f1300f9d9d212dab926e8f.1780403305.cd3cc3a88c7f02e2bceb3f26ee6d3d09.aed95b6db5eda4c76bf7485a5cb621b9.e4f9450428b8deaf248e9b1fb74cd4fa&signature=ac4b6bcd44a5e3adbe6b24bea0b516fa30d753f2f1f69eb46b97c3ff5ea3315f|x-forwarded-for:77.238.79.111
 
