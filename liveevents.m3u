@@ -1,289 +1,517 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Sweden U21 vs Finland U21 (SuperSport Maximo 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Sweden U21 vs Finland U21 (SuperSport Maximo 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+maximo+1&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+maximo+1&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-maximo-1/playlist.m3u8?token=68b50251bfa35cdfe12ad5c8a11d7cf8ecafc90265271844a100b0a44d3c98d9.1780589071.933e270df846c7e3778ad1ef909f0a5b.1dbd81177c38b6f6bf013e3fc4a42cde.1b82f54cc0e7bf1e6f0fb3efdb5ea79c&signature=1e086c5feb8cfde9132d7db3ccd24780de4c81639e74857b612085bc68a214ed|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Northern Ireland vs Guinea (TNT Sports 7)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Northern Ireland vs Guinea (TNT Sports 7)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+7&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+7&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-7/playlist.m3u8?token=c83aaa94fd953cb998fc527a3cda270c164cc56294149fcfa64e4d23597cc443.1780589072.4cd1e42e3c577d249e1770c5b279be89.d2a1219a01bc33dc84ff9e323cbc5e4e.d5daa2a61cd2160cc1d7473a3a716f35&signature=319e15e558c80844660f662a5bd1bc5c05fc991c3a6137f5ee9bf9e1bad47fdf|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.3" tvg-name="[Soccer] Northern Ireland vs Guinea (Polsat Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Northern Ireland vs Guinea (Polsat Sport 3)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=polsat+sport+3&code=pl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=polsat+sport+3&code=pl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/pl-polsat-sport-3/playlist.m3u8?token=cfec34398c7985a3cc13d03cc73b4fdd09ea442673261dacc7e382a4f4e30257.1780589072.eb2925004f6e085ecb190502304fac82.5a026a1011901038414aa0a795768959.a919409c6420501d94e3b905273d406c&signature=93922f1065131a58ccdbd0e0ab13be47c53488eabe9cf2007c1951d8569c91c8|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.4" tvg-name="[Soccer] Northern Ireland vs Guinea (Diema Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Northern Ireland vs Guinea (Diema Sport 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=diema+sport+1&code=bg&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=diema+sport+1&code=bg&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/bg-diema-sport-1/playlist.m3u8?token=a29ea77414b5361dde9ccb59edb699f1a029ba56234fd79b6ef19a8ba8f7a46b.1780589073.8b15c61e9b33b5f55f36d521495bfe0d.8eb0fc28885d805d127eb6257bee8c27.fdb59e15a0453c00bb400421538dc112&signature=4ab69ceefd7468cb6eb573eed0a56fd4947338b37d4a7bf551a3a7d7f5cf47c9|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.5" tvg-name="[Soccer] Northern Ireland vs Guinea (Digi Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Northern Ireland vs Guinea (Digi Sport 3)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+3&code=ro&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+3&code=ro&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ro-digi-sport-3/playlist.m3u8?token=e45b3a23fd6654cb54ca2d96d44b9efab855786f9ab81a2cf78c1e83ccbb8942.1780589073.3745aeb2f1966de3781fcca4f640511e.f68163f9ca23c83ed2551b936d9b32d2.ba39b1ee10a4628bae3f74b15ddf5ca4&signature=c94af74a64d858563973fe53846b3a5195bec95c7088c23f27cd520c023ceb10|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.6" tvg-name="[Soccer] Northern Ireland vs Guinea (Prima Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Northern Ireland vs Guinea (Prima Sport 3)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+3&code=ro&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+3&code=ro&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ro-prima-sport-3/playlist.m3u8?token=ed8f6a1aef55b1c5ebd0c6ab491bc686626011d5dfe9aa396b3738c20a891eb7.1780589073.0af4a5111815ff52e923d885db47fb0a.0b141fd21ede253309ea0e56ffd0933c.a503410c587902ee1a678dabd7597a40&signature=232f2586b3fca14c418a837d5f55ef949e87a5dad68a7186d09f1642cfdf6ca9|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="7" tvg-id="Soccer.7" tvg-name="[Soccer] Northern Ireland vs Guinea (beIN SPORTS 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Northern Ireland vs Guinea (beIN SPORTS 4)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+4&code=sa&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+4&code=sa&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/sa-bein-sports-4/playlist.m3u8?token=f060b609b47f498ad3bd5a457b7c14c6297923dd616ee2d2273285fc5c810813.1780589074.132afdbcb9481ee1dc8401f7b189be2b.fffea823652abfb436ce98fe94d039bd.d4618acbe12648623840ced8ce41031e&signature=bc182867cfedcee5f9b805fc9bf78bdb465a27a80eb3dbd806bb526a4cd2f461|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="8" tvg-id="Soccer.8" tvg-name="[Soccer] Andorra vs Liechtenstein (FOX Soccer Plus)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/324871.png" group-title="Soccer",[Soccer] Andorra vs Liechtenstein (FOX Soccer Plus)
+#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Andorra vs Liechtenstein (FOX Soccer Plus)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/324871.png" group-title="Soccer",[Soccer] Andorra vs Liechtenstein (FOX Soccer Plus)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+soccer+plus&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+soccer+plus&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-fox-soccer-plus/playlist.m3u8?token=27736f0f0156dddbf9108c794fb286f09c140e7bf672642c3ec16293d0a097d8.1780589074.60266e6dcf4711a994095465da3ea040.82afd2c8ad56a448bfcd4fd6d837e1fe.486d9a368c96f646c27add7ffa4363f4&signature=74f89ea8d3a5ddd2b2bffb79ee8aa4a4ff6d843a3f6873e1ee70d93167800b61|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-fox-soccer-plus/playlist.m3u8?token=fd11087c54a56b0c7c762b31adf2c172a8b1180556cb86dccf5e41cf8f1088b3.1780597901.0c9b589055f36cf6f386184d44b0312c.a668b06489c0a125e735984f90e4ca00.f9067fcffe447a2515fe2bcb3f14f728&signature=7926a71147b0d9208a494ff9145127c2368e2c8d131e6db8bdaba656c593c2f2|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="9" tvg-id="Soccer.9" tvg-name="[Soccer] Andorra vs Liechtenstein (beIN SPORTS MENA 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/324871.png" group-title="Soccer",[Soccer] Andorra vs Liechtenstein (beIN SPORTS MENA 1)
+#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Andorra vs Liechtenstein (beIN SPORTS MENA 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/324871.png" group-title="Soccer",[Soccer] Andorra vs Liechtenstein (beIN SPORTS MENA 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+mena+1&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+mena+1&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-bein-sports-mena-1/playlist.m3u8?token=5c173854f532489cf001f045b5c13dccbdab309d66ac985214d8f1aacb6ab6fd.1780589075.56c886a1177de364559b079386548f43.022b601eefa2915e0f91df1eba645f83.d18d75d2236388b3d31aca584ed5db61&signature=0b9338b0092f9fe3eb8e959199519e3b2765f7ad0016ed5e992f97307c291ae4|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-bein-sports-mena-1/playlist.m3u8?token=cb7845e23ffb98c81a66e777c3f0593a413baca22b062c12b53067558d852822.1780597902.288124695056f778d4eed0d8cbf96733.7f0e56b52cc54f6467741fb73ea8fe4b.dcbcb82768c544f27d757018bd05c3e8&signature=f81e0e1dc09a4677ff8c68a3853e2aadd850308a9ed6fc0b243668633fa1d0c3|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="10" tvg-id="Soccer.10" tvg-name="[Soccer] Andorra vs Liechtenstein (Digi Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/324871.png" group-title="Soccer",[Soccer] Andorra vs Liechtenstein (Digi Sport 4)
+#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.3" tvg-name="[Soccer] Andorra vs Liechtenstein (Digi Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/324871.png" group-title="Soccer",[Soccer] Andorra vs Liechtenstein (Digi Sport 4)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+4&code=ro&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+4&code=ro&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ro-digi-sport-4/playlist.m3u8?token=d82a51b6be23276fa24559c25f0e990825cc11bf388b8a6f5553f03e9d5a61ed.1780589075.8a15fc52228a3d9eddc04d01be659940.fc434f25f9d89943830956f6ebc14002.06ff382d227fdc40f1add3dd2680fa57&signature=610a4683f5eff0187a34d14af34e715306b6cba66cb272859dcd59313e17ccb1|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/ro-digi-sport-4/playlist.m3u8?token=cc35a78314191258364f25348bcc8ad33e4e4d3023c0ae939237ddfe3e66c400.1780597902.cbc9ad7402de164c72c3c3378e841bb5.9f3d4e0f5443dc5c88a27b48fd1b3337.cdb6e013d0dae88680aacdd48b5d3e30&signature=0140e5da28a104d446c31266af580cca98e302a5c7af20bd34627581d81c738d|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="11" tvg-id="Soccer.11" tvg-name="[Soccer] Sweden vs Greece (Sky Sport Select)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Sweden vs Greece (Sky Sport Select)
+#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.4" tvg-name="[Soccer] Sweden vs Greece (Sky Sport Select)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Sweden vs Greece (Sky Sport Select)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+select&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+select&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-select/playlist.m3u8?token=cc723cb01472d9ab84e3d2951e6bb39db0d842bdb01ea59ab3948de9c0bc9a2f.1780589076.bb2de0ecf31484a71cbb3deec192d896.8ec22437777ff88053001a3a645850ed.1014e40d811a87bed8e4fc92dfea4fdd&signature=c9fc0ebd590338ed5416858a90505b4a18b64da7850e91fddfe22d5f16c2ebbc|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-select/playlist.m3u8?token=d37a6bcafb9e9e00d2ad78a51f516ee9285891e765e095c13ff927118327c711.1780597903.3b5f4d6fc2344640f3074286e2d49e08.64d3e52875ab79a45fdca58191113a4f.4da8e985292fb216c812b8f54fd88900&signature=9968cf162356a3417b0493226a323d51ffe6c240bf7c94b04206b58074305fac|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="12" tvg-id="Soccer.12" tvg-name="[Soccer] Sweden vs Greece (SuperSport PSL)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Sweden vs Greece (SuperSport PSL)
+#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.5" tvg-name="[Soccer] Sweden vs Greece (SuperSport PSL)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Sweden vs Greece (SuperSport PSL)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+psl&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+psl&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-psl/playlist.m3u8?token=a78ec4e4d117870c17915b91cee3a6bebd84595084d5c98e1d78f10c12edd790.1780589076.114b8fd3aad000af3291d1fba2383513.803e2e0c3141e5ee26d855acdf055769.c36e4f875d1d0ae717c155aacc384bd1&signature=a2810b05868a94df4dcf06b6348f47044f44bdbad5fd4ae602e1284857767d17|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-psl/playlist.m3u8?token=f60b13273a2a6947f60a91e01482af4c4f4921cfde5d98521ae6d2808e287bdf.1780597903.23fb611e8a00069c3c8c0bd20bda9146.6949408b45a40b28cf3e15a743c68609.398d166b6db58960d95ec35e34d04de7&signature=cc7a743a8fbfa5cc81d2c19f106ff5a91adef41540f7d9b2e69737ce1df820e2|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="13" tvg-id="Soccer.13" tvg-name="[Soccer] Sweden vs Greece (DAZN 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Sweden vs Greece (DAZN 1)
+#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.6" tvg-name="[Soccer] Sweden vs Greece (DAZN 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Sweden vs Greece (DAZN 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+1&code=de&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+1&code=de&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/de-dazn-1/playlist.m3u8?token=bd0d355418d15de79db2960e0f6a3ad65ffd148c810f1df3a5c00383f5ba343e.1780589077.87c1a0c440aed9808442292965132810.31f31ccae5a570e731d69855d0b42c00.236d187493a8e64d8fb031d6e64c6e23&signature=fa02791298039b82cf15f0e1a7552cd4b6ff3e423510a1fb772707731a3325fa|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/de-dazn-1/playlist.m3u8?token=29eb3084f3453a17c524cd275661a6ec1ca999cfea103fd248f51b97924c2bf1.1780597903.9c6f2ad96f0372291a5d48e51469388f.16c2a76bf235e862baa704280f4d5375.07b1a628ac79c5b13c5b7fe0d07f330d&signature=69d73c59e37b51023ff8cf03ced3a9809aa5f56db341ea53f46a9d12b7fcc51e|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="14" tvg-id="Soccer.14" tvg-name="[Soccer] Sweden vs Greece (Sport TV 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Sweden vs Greece (Sport TV 1)
+#EXTINF:-1 tvg-chno="7" tvg-id="Soccer.7" tvg-name="[Soccer] Sweden vs Greece (Sport TV 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Sweden vs Greece (Sport TV 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+1&code=pt&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+1&code=pt&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/pt-sport-tv-1/playlist.m3u8?token=7f07e7aea49eb70ee3501ef95e8e1bd7ce5e12163c4bb3f7475192c0e4a0ea88.1780589077.2dc780387942242d357be4a2a1e5b46a.e6dbbb7827a6b86d81ade67552e3d4d3.1d0e5a683302fc08a89143a0ada33c20&signature=b6d67e8058536c1ed22854bee91cb7c4fa9abdf156c52f8c6006f7436b246635|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/pt-sport-tv-1/playlist.m3u8?token=7cb4037e05d4fadd77cc4725a6958ee223ec563d47dd3f27fec318e6ccbf8e6e.1780597904.1b63153e12d86fb8b004de1f81ec8e14.c379609cb621d1d5a8f239aca135347c.300ddaa8c93bbe8c5aab7ffd2fa92066&signature=22dea775fabcdc91c9112635e6730341b05f1dc6974896a96f6bdb88fa8a25f4|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="15" tvg-id="Soccer.15" tvg-name="[Soccer] Sweden vs Greece (Ziggo Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Sweden vs Greece (Ziggo Sport 2)
+#EXTINF:-1 tvg-chno="8" tvg-id="Soccer.8" tvg-name="[Soccer] Sweden vs Greece (Ziggo Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Sweden vs Greece (Ziggo Sport 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ziggo+sport+2&code=nl&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=ziggo+sport+2&code=nl&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nl-ziggo-sport-2/playlist.m3u8?token=e5418f2225bb7771fc0bb87c93f4ed6066fe18a2eb4d1a6a475e339fd5c6f1e9.1780589077.4b14548b5d8cbc30d3907814167b20ea.1d2ea460f1933ac06f19f36ecde56eda.85d6423bb43662cfd618931e1026194b&signature=163fd0d8c046fa639d2ab7920520b02fe8a2b245839ccc00d5269f08ed0654f8|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nl-ziggo-sport-2/playlist.m3u8?token=40a10e08e9ff47e4398dd4b90437fc5fb714926f5554e107bee2fff1f357561d.1780597904.43adf05b5fcc3e43b2a067d964a1feb2.910e473ab8d42e714df6711f46bf3a6f.21392a0ffa30870cd19f53eab197ac8d&signature=2fa6b6d729a54aaf17f78ddfe9d1903033c2f63403e1a1664d21b1127c90bdd8|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="16" tvg-id="Soccer.16" tvg-name="[Soccer] Sweden vs Greece (TV2 Sport X)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Sweden vs Greece (TV2 Sport X)
+#EXTINF:-1 tvg-chno="9" tvg-id="Soccer.9" tvg-name="[Soccer] Sweden vs Greece (TV2 Sport X)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Sweden vs Greece (TV2 Sport X)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tv2+sport+x&code=dk&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tv2+sport+x&code=dk&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/dk-tv2-sport-x/playlist.m3u8?token=2bbb0fd03b781a54f61ade96231c6ea3a5e6ff6f9c984ffb3fcc83980e496c75.1780589078.47779ff787134ae5839b55df3eb724f7.097666d23de4dcd58b3cb650664907ff.cf01e9bf546bb1e5635932cbd31c4a50&signature=60fabdd670bf31ec1924be77ed7e5f2a6da03b74e67e1a586e20f04db338ea92|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/dk-tv2-sport-x/playlist.m3u8?token=4212ff3b886f8e5b5e9b5d23870b1b845b3fcec1ff7850c26596d32c1fff5d5c.1780597905.93d2626b77488dc5d592f24dbf54da25.b6d003123db6b3b51cb1a4206cc08011.b33caa1bb51ea22f0de4972668327a21&signature=520290cbf45c712e67e32ffabc11dc2e59b4db7382738c684780659da1b79799|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="17" tvg-id="Soccer.17" tvg-name="[Soccer] Sweden vs Greece (Polsat Sport)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Sweden vs Greece (Polsat Sport)
+#EXTINF:-1 tvg-chno="10" tvg-id="Soccer.10" tvg-name="[Soccer] Sweden vs Greece (Polsat Sport)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Sweden vs Greece (Polsat Sport)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=polsat+sport&code=pl&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=polsat+sport&code=pl&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/pl-polsat-sport/playlist.m3u8?token=84ab637bfa16a9fe4743a8c7a65bb71c921121bc02d0bc352bdae1f99ca0f4f0.1780589078.37b00a35981ba8464e54bd96a6edbf06.5b0ee32093a9e526c85d6fd913630fb2.b183ac649f1c9741bd04466ae9b8d486&signature=32e52b7eba1316cc623dcad3dbfbc710f3f387dc433248605829f3df550eb74b|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/pl-polsat-sport/playlist.m3u8?token=5fd7b26716e1fe029a0ed79bc9e3a3714f43b3b94cbbd47613d93dcd8aa4b960.1780597905.36bae40238dbca67acd369f3179a8167.b422e7487cd3a5957b58efb7b3d18a61.bef15c23abdc41213e05ca2e4061196b&signature=87df1ad447d2621c7a607ae7221675984519ccefa75df1225959c8653aec5519|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="18" tvg-id="Soccer.18" tvg-name="[Soccer] Sweden vs Greece (Diema Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Sweden vs Greece (Diema Sport 2)
+#EXTINF:-1 tvg-chno="11" tvg-id="Soccer.11" tvg-name="[Soccer] Sweden vs Greece (Diema Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Sweden vs Greece (Diema Sport 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=diema+sport+2&code=bg&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=diema+sport+2&code=bg&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/bg-diema-sport-2/playlist.m3u8?token=e30ea7dc5d0dc1522c5ee1751f1b5e288a5e071674f999eecd096e82dfa55313.1780589079.fed41a4c9c2c518d269741dd0fe8e4ed.571de8e8720386418d7ec255a6fa4592.8307912d7f67e56e1d29628047124769&signature=a25e783eda0dadbc11bf12fcb21871bcdfa11a792d8f2bcc057ed17035a02954|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/bg-diema-sport-2/playlist.m3u8?token=cc4bf3c6edc59e9ca55dd7c6b745139805b5cad395d94e1c01cd306f4cc7528c.1780597905.8317113d947680516e05b3e86f451640.32c416a893e0a7ec086ddab57c89d695.aa2ae5159c8f2e4b008dab80f54ba398&signature=f60b7e0f0f9002483edc0e8beadb39877673cac134ea489dfb7d63a83eb0ae68|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="19" tvg-id="Soccer.19" tvg-name="[Soccer] Sweden vs Greece (Cytavision Sports 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Sweden vs Greece (Cytavision Sports 3)
+#EXTINF:-1 tvg-chno="12" tvg-id="Soccer.12" tvg-name="[Soccer] Sweden vs Greece (Cytavision Sports 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Sweden vs Greece (Cytavision Sports 3)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=cytavision+sports+3&code=cy&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=cytavision+sports+3&code=cy&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/cy-cytavision-sports-3/playlist.m3u8?token=cad5d66b861d1db1f33a680b2b2e28035cf9c5a7bf8cc27a44a3d7a9a4fa8afa.1780589079.be0f11462840d5baf96aaa187f33b7ff.a5891e69351185866104f8c013b74479.dc5ea2a871e163f4c23f8a86716a1c18&signature=fe50010ecdfeceb182451cbbd672c6614851c6285f8ed99dcd9bf79ec1382d01|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/cy-cytavision-sports-3/playlist.m3u8?token=606ef3344500ff4d8e06871365a2936fe85b68c784e083778298f2f978fcf866.1780597906.7a3c210e28c2d846774bd84f29a00ff8.5f396fa0ddcd20a92a0018e5f378e0d8.0964ef0d1f3538ff7d6740ee911ed1c1&signature=63fd83830c894b5e5d3b7f559381317357a69cdb0585a94f177f8e238ac6ead6|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="20" tvg-id="Soccer.20" tvg-name="[Soccer] Sweden vs Greece (Arena Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Sweden vs Greece (Arena Sport 4)
+#EXTINF:-1 tvg-chno="13" tvg-id="Soccer.13" tvg-name="[Soccer] Sweden vs Greece (Arena Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Sweden vs Greece (Arena Sport 4)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+4&code=rs&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+4&code=rs&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-sport-4/playlist.m3u8?token=3786752e4342d031daf11f7fbbaf1384fbd5ed1cda326f04fb311204769baaf3.1780589080.e1af273e7929e64fa5b4e7fbe1aa65ee.cd2ade91fe2b59a51b0b57245912ca2a.72ed9a4b7f73a72930cfa9c2de277c3f&signature=0714b17dee2ade585b9909ae0e2919606979157f32ec6f7c6f9e94e6159db78d|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-sport-4/playlist.m3u8?token=8bcc56e65d67b180adb025ca3e5df312f5e1442233d1b51c14776c299eb1efb1.1780597906.f59485aa8ff1dcfd87569e427c4eb9cd.5504372a38b6e2e030bd0bfa98e0e914.347e36c43c43c05e63eab749efb1c11a&signature=e81b36bd6d07ed8512519f4acf99d5419a9b60a57abb9ebdb1cebe0ca2786ff7|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="21" tvg-id="Soccer.21" tvg-name="[Soccer] Sweden vs Greece (Sport Klub 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Sweden vs Greece (Sport Klub 2)
+#EXTINF:-1 tvg-chno="14" tvg-id="Soccer.14" tvg-name="[Soccer] Sweden vs Greece (Sport Klub 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Sweden vs Greece (Sport Klub 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+klub+2&code=rs&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+klub+2&code=rs&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/rs-sport-klub-2/playlist.m3u8?token=b0c2e1db536628251969a380bde84d7ed6f5a8d69e13bed41437d5fdf552fe66.1780589080.2927d3dfba32feb090357542156b77af.8ab08f8b8f79c008b0ecdbee08f91dc5.0ada4cbb999863357f16d24f2c67592f&signature=a357e32c07483e03ce6aae3bb547281e731ef06e5124c486bb19594514c2e30a|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/rs-sport-klub-2/playlist.m3u8?token=19a860a6eb09597230b027c5a9f93c4d9fa3a5d8941065fb98ece1e0b4dcfe17.1780597907.1a19360f0b550a87e31a29328e1839c4.da6f9fca9ad69244d37765d81b5b817a.6ebc141a0da0e94c05683add1586e8dc&signature=57230a058d587ba240977ea4e125ff86062912b9d79d8b9cdde7457c163110bf|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="22" tvg-id="Soccer.22" tvg-name="[Soccer] Sweden vs Greece (ESPN 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Sweden vs Greece (ESPN 4)
+#EXTINF:-1 tvg-chno="15" tvg-id="Soccer.15" tvg-name="[Soccer] Sweden vs Greece (ESPN 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Sweden vs Greece (ESPN 4)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+4&code=br&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+4&code=br&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/br-espn-4/playlist.m3u8?token=7508c29a02817564e5c5a9675512ca74f9395e84b7e92c955af5a53bbee8bc15.1780589080.160a8ed41a23bc76290857852ffb8d91.0a29c164b3365d1666a68a2846f2b27a.68e406e5865678355fb1e09c0c4d289c&signature=5b6a5780682ca89440576225bfa9af43d9a3edf1a44a7f80f13f101fd6382cea|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/br-espn-4/playlist.m3u8?token=d8651984c7d3acc898ab3a96c84e5096d63525f9a0f6d55874fec4ffe2b07ead.1780597907.34b08d2fe42ff48f702d77b4e6acfa88.159f673b869cd365ebffbde701e80219.83769d2fd43ff90afb4b93ddd0cf299d&signature=97447ef03f1aa1aa78afd979109ac562d6aa65c3263c207e69e196365d6102fe|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="23" tvg-id="Soccer.23" tvg-name="[Soccer] Sweden vs Greece (Digi Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Sweden vs Greece (Digi Sport 1)
+#EXTINF:-1 tvg-chno="16" tvg-id="Soccer.16" tvg-name="[Soccer] Sweden vs Greece (Digi Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Sweden vs Greece (Digi Sport 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+1&code=ro&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+1&code=ro&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ro-digi-sport-1/playlist.m3u8?token=1b6515bab56fb314bbdaf78933c47f924de249a085e692a6974d526fe2cb1e5f.1780589081.ea0cd323a05728fc06f67618d8ab5254.d24f59e13295f77dbfd6bbabaa42f2e5.bfce9207b8fc82fc353c12a855e8d44d&signature=8f43d708a42a190ff3dccb904006423cb1def0f72159b9ddee90d6c7f65b58c9|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/ro-digi-sport-1/playlist.m3u8?token=8b2bc03f845ed98b203ab5bcadae6d42ea61f70ab9d644780b4e354654b8724e.1780597908.1eac79cb33370fb6301275c43d51077f.054aaa763089c31507115d725ea369fd.7e0a200169545a49d4e9aa5ffb049eab&signature=4530871c87601f1b38c7709bba54ad3aed405ac3f6f42ece39764107a4a5e8df|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="24" tvg-id="Soccer.24" tvg-name="[Soccer] Sweden vs Greece (Prima Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Sweden vs Greece (Prima Sport 1)
+#EXTINF:-1 tvg-chno="17" tvg-id="Soccer.17" tvg-name="[Soccer] Sweden vs Greece (Prima Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Sweden vs Greece (Prima Sport 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+1&code=ro&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+1&code=ro&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ro-prima-sport-1/playlist.m3u8?token=03cd2bf646a016a85ab330c2a34a88e4076ae6fc64cb54dc405f92569610935c.1780589081.600a02bb4e7d49616d4368757648e8aa.a19849b1e11bb1268f5dec15acf0bb38.a606d40ecb12f663fe7a34a07c35b37e&signature=da0dad3d2bba81079b6d93ddb2072a5cf08aa0c9e440ce11238b53806b714d4d|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/ro-prima-sport-1/playlist.m3u8?token=9f801ad493d28e64264d2429a0c5f311ebb646600a055b9cc2bed29798bfdea5.1780597908.ebaa01d69dc07aac25a90bb420aa23a3.b41e8e665bf11df7f3d71780783543a3.d38915fb3df991bda76670d283f88b6b&signature=1b82bee1f6aafd583c5240873243e77b9f1cd58884b42f0be5c43b60a3166764|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="25" tvg-id="Soccer.25" tvg-name="[Soccer] Sweden vs Greece (Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Sweden vs Greece (Sport 1)
+#EXTINF:-1 tvg-chno="18" tvg-id="Soccer.18" tvg-name="[Soccer] Sweden vs Greece (Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Sweden vs Greece (Sport 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+1&code=il&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+1&code=il&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/il-sport-1/playlist.m3u8?token=918f09805ad343466a38479fd38195b143947c988e825fc8eb44500486f6fc63.1780589082.2cde2aac2dc0437b0203f36f5c9c186f.5431b7a435b522ff3fb24fe4a0da2ad1.26379b77e42db7dbe96b5d576a65d218&signature=b71c1cd67dc2252cdf854ebb8542c6dcb5dd8a7269ab6ca288153ed5eee97047|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/il-sport-1/playlist.m3u8?token=4c5501563186d2fa30013ed1261612b1fe839a305488df1d578135d164c7002a.1780597908.c657f621ca98b10a7266d728d6b0bbc3.220c1a5430d9f051052b9755ee9cd97e.62898855dfaad754ef83707d45d537db&signature=12986b7df83d850c5cfc7441f7aee6fd78c2ca0cf0c48f857b6da8775b042623|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="26" tvg-id="Soccer.26" tvg-name="[Soccer] Sweden vs Greece (beIN SPORTS 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Sweden vs Greece (beIN SPORTS 2)
+#EXTINF:-1 tvg-chno="19" tvg-id="Soccer.19" tvg-name="[Soccer] Sweden vs Greece (beIN SPORTS 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Sweden vs Greece (beIN SPORTS 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+2&code=sa&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+2&code=sa&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/sa-bein-sports-2/playlist.m3u8?token=c1c41210f775e9321a405dc386f542484a90317a57652ca3a0f79ee6f0aa43dc.1780589082.26f2bc0b2f52f83327524026dbe5b75f.0bc4ea9a1990ad7fcd6263b6c41d3bc2.fe82b40d3bf6c2466c8006ca3f7c8ff1&signature=f231049840892865ff2886396fc1d1e45f7a3b9693f17f9ab53fbd34104f475a|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/sa-bein-sports-2/playlist.m3u8?token=210c7ed8150c8703e7d206fa0afb9ffd87ff923541b75383b8052d011aa790f7.1780597909.b1fa5362b9954784941e9e3f1396dd10.15ba203863cf727fc8fd4a9a9fa29371.8dc272f01282168c4541327d98476642&signature=dea2234fac28d3a5f3aa469841dd76621ae62377630910668ef69a4a0b2fdb00|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="27" tvg-id="Cricket.27" tvg-name="[Cricket] 3rd ODI : Pakistan vs Australia vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 3rd ODI : Pakistan vs Australia vs  (Willow Cricket)
+#EXTINF:-1 tvg-chno="20" tvg-id="Soccer.20" tvg-name="[Soccer] Spain vs Iraq (Sky Sport 6)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/4698.png" group-title="Soccer",[Soccer] Spain vs Iraq (Sky Sport 6)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+6&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+6&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-6/playlist.m3u8?token=a381eb62715c2aaacfb58778aa038b2b4969270667c9cc2da8c16a4e7d471bca.1780597909.c223d8180db8581e9a234b2845045ccc.2c110531cc31c44080aa6dcaf6195a1f.8cfcc4d62b99392c872e6aa060577287&signature=8ebb635661383f31c6215f9b142a619b71c96a14599e0373511ed6a8e8deec87|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="21" tvg-id="Soccer.21" tvg-name="[Soccer] Spain vs Iraq (SuperSport PSL)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/4698.png" group-title="Soccer",[Soccer] Spain vs Iraq (SuperSport PSL)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+psl&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+psl&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-psl/playlist.m3u8?token=2c8a44a2dd4155149c091510a0b9550dc5a7b81c5fd1a2bc25027ad1218dd736.1780597910.23804c3821cf3f71b7f8df35aca26cad.0bcc2a4c206b3fdd4c29378c156eb057.77301595fbd2d576819e7f9a5fffc4d3&signature=388a5413286b4ed20ac1348fcc271c76730a1076e845f6b6f0648baa9a679996|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="22" tvg-id="Soccer.22" tvg-name="[Soccer] Spain vs Iraq (Sport TV 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/4698.png" group-title="Soccer",[Soccer] Spain vs Iraq (Sport TV 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+2&code=pt&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+2&code=pt&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/pt-sport-tv-2/playlist.m3u8?token=0f0ad62e54b8b2e6187a37f3ff33be8b316c579a16a229789f20cccdae454ebc.1780597910.d1322518485bc0b742c192a8dc85c2e6.e9d5823f9bec5e9a89e2b6793068bb2d.47685c49f4384dcb192829ee48e4eaa1&signature=6ae669a0778a4384714d7bc04f864707c114e077c3a7c64ab09e10792d1d9289|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="23" tvg-id="Soccer.23" tvg-name="[Soccer] Spain vs Iraq (Ziggo Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/4698.png" group-title="Soccer",[Soccer] Spain vs Iraq (Ziggo Sport 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ziggo+sport+2&code=nl&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=ziggo+sport+2&code=nl&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/nl-ziggo-sport-2/playlist.m3u8?token=a2d2f18ccbb4f318220d14ab1f4362395ca6bbc89a67b9e69a76e624f8aca00c.1780597910.6868bc05cbf808177382bf757859d855.2f2425f7d3912fd9a09229741cf049d3.e88317ca344a551e12bb7806a49af6b0&signature=4860b4a0182cbb6913fdf25f2c2ea65e3ae2c167ea8fb329eb52ba91c456d874|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="24" tvg-id="Soccer.24" tvg-name="[Soccer] Spain vs Iraq (Ziggo Sport 5)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/4698.png" group-title="Soccer",[Soccer] Spain vs Iraq (Ziggo Sport 5)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ziggo+sport+5&code=nl&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=ziggo+sport+5&code=nl&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/nl-ziggo-sport-5/playlist.m3u8?token=5f04536d88915b5319baa246c541a068ce530e50d8b83407a4543d2dddd2766c.1780597911.71a204bb7878b91a0a3da0e0bfd7803a.c380c300d6d898dfab0bc907a3059eef.df9d31cff80573820a00981c199b9ce4&signature=3a25900ce395c3062319194d04aac74d78452d52844524e4aaa1f631b80bb6f8|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="25" tvg-id="Soccer.25" tvg-name="[Soccer] Spain vs Iraq (Nova Sports Start)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/4698.png" group-title="Soccer",[Soccer] Spain vs Iraq (Nova Sports Start)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sports+start&code=gr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sports+start&code=gr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gr-nova-sports-start/playlist.m3u8?token=884bd7cdb3480d0ceb4316eb9dac41d28cf4d6fd8d1604ff35d2cca70c3e3798.1780597911.92bbfdd79964f6bf61c6385a74aa2e52.a079018573563e42f703845cdf59c72c.553ec87f363c0577898622e0c18aa5aa&signature=6fab3acb9487e320f8e9505c8020e30b638825ada21463db06b3b666dd11956b|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="26" tvg-id="Soccer.26" tvg-name="[Soccer] Spain vs Iraq (Diema Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/4698.png" group-title="Soccer",[Soccer] Spain vs Iraq (Diema Sport 3)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=diema+sport+3&code=bg&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=diema+sport+3&code=bg&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/bg-diema-sport-3/playlist.m3u8?token=000e3878b3e2f5ccfb5526fabdaed7d697dab85baba45b85828e2e3db33174de.1780597912.ccd499d11cc2826def8261e58f481cba.5ef7f6f52a77c002a781dd43dcb62748.5caed7288e1b9e123fa5402b9d9956d4&signature=a25ad96b7cc951532962d1ba584b3171ebce6611f3f5109783ff1dda72d2b2ea|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="27" tvg-id="Soccer.27" tvg-name="[Soccer] Spain vs Iraq (Cytavision Sports 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/4698.png" group-title="Soccer",[Soccer] Spain vs Iraq (Cytavision Sports 4)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=cytavision+sports+4&code=cy&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=cytavision+sports+4&code=cy&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/cy-cytavision-sports-4/playlist.m3u8?token=883b1d5f74c181760321455afad6054e03f9123aa84f5ed07396a1aa614d1802.1780597912.f9b78af7dd87be39c2c70df980ee0244.13d527f8e4de15410b88c0bae913fbe6.f6f3a7a394655912096ba3051dcd636b&signature=6d21c208640ec50aeb4786bee1e392ad4363b4d45388c78efa42d6023a60544a|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="28" tvg-id="Soccer.28" tvg-name="[Soccer] Spain vs Iraq (Arena 1 Premium)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/4698.png" group-title="Soccer",[Soccer] Spain vs Iraq (Arena 1 Premium)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+1+premium&code=rs&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+1+premium&code=rs&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-1-premium/playlist.m3u8?token=a90eae2c385e54973c0940c57c24ab2682b4a9adb98202c0318536821913cdb1.1780597913.8d8ea5495b3589bcb404cb969ea8af22.efa42197a6a25a8735494df685f408c8.7251a808cde373e7eb8fbdf224bb61c1&signature=f6d0f12d201ecf674cee9d4ae25dde2db2fefac1401b55f452431987a7eb1ff8|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="29" tvg-id="Soccer.29" tvg-name="[Soccer] Spain vs Iraq (Sport Klub 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/4698.png" group-title="Soccer",[Soccer] Spain vs Iraq (Sport Klub 4)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+klub+4&code=rs&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+klub+4&code=rs&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/rs-sport-klub-4/playlist.m3u8?token=11e6f658fef0bb1554c10f6dd834c0fadc8af5e3d5aaf65082abaaa1fa23c289.1780597913.7ee3437b3768d417df2041efda008fa8.2ef907318b1d0041006997921787123b.d9e33fb80a0a5f0cade8f23d92902fc2&signature=b9f694d197a5c4418709a23fc9713253d7aafe580561940befee8f35d9a52567|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="30" tvg-id="Soccer.30" tvg-name="[Soccer] Spain vs Iraq (ESPN)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/4698.png" group-title="Soccer",[Soccer] Spain vs Iraq (ESPN)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=br&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=br&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/br-espn/playlist.m3u8?token=af8d4054989ed090074a340212835fd533177c70953db9ce9134e38580b6182b.1780597913.55b9a05eb0ccf070910bf0e6e64a7c11.9d33d786cabe7b41043e43c4d3f117b7.dd1717463ab01fe55aedb9af23a106dd&signature=1310384faacbfbb7bc4a11ef149335946ebc46833d2c2d3c5a1fbb84108f014d|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="31" tvg-id="Soccer.31" tvg-name="[Soccer] Spain vs Iraq (Digi Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/4698.png" group-title="Soccer",[Soccer] Spain vs Iraq (Digi Sport 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+2&code=ro&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+2&code=ro&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/ro-digi-sport-2/playlist.m3u8?token=c7acd724f121c57e7cd269afb5417a116923b4adfa102028112b0695446b3e7d.1780597914.59660a13e0595a0e731388dcfb18e96a.888132e4f706812a9356268f92e61483.b0c143e4dfeb7c0553ebaaab046dc795&signature=400e05072c84e4f407c94d497891b836abbc8262cfcb4ade396df365f9207de0|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="32" tvg-id="Soccer.32" tvg-name="[Soccer] Spain vs Iraq (Prima Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/4698.png" group-title="Soccer",[Soccer] Spain vs Iraq (Prima Sport 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+2&code=ro&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+2&code=ro&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/ro-prima-sport-2/playlist.m3u8?token=ec12c8bd4c9a9a35198eef06efbaf493e29c415dcd7ee216490e7ed460fe2b10.1780597914.7e4592e0a3cc721ceda9911417276a36.b88bd52dc6d1b25ff213aa07beb0305d.39d9473ecda76f67193c05bc21344d89&signature=ab5aa9f7b1c003bacb328d50e331fcbb27c4c4ca842844408e8bc4ca58b6d296|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="33" tvg-id="Soccer.33" tvg-name="[Soccer] Spain vs Iraq (Prima Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/4698.png" group-title="Soccer",[Soccer] Spain vs Iraq (Prima Sport 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+1&code=ro&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+1&code=ro&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/ro-prima-sport-1/playlist.m3u8?token=ea45a04c4f07f261dc33a23e8ea754b190e357c825e8b87b6e8ce85008582369.1780597915.aecb581bac03e16c6449c346552cca64.bc8a221c55a0d4f0be0d06b9f0adae21.4fc142e6920dd532f3c741ab492e6f47&signature=9ba461edb4d99cc301a37720fbf69e625da0f44bd2e7de52287a5443c07c0e93|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="34" tvg-id="Soccer.34" tvg-name="[Soccer] France vs Côte d'Ivoire (FOX Soccer Plus)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] France vs Côte d'Ivoire (FOX Soccer Plus)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+soccer+plus&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+soccer+plus&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-fox-soccer-plus/playlist.m3u8?token=edb9534c96a2a83cd3c2cedeb5c9c25434d4dd5259ff690c5aaec1acb1dbb5ac.1780597915.70fd3d981379374fd787f424fe04accb.9944d7072696c547f6d7d2882cb83bd8.ff10f4fc78794e86d1251de7d6249a59&signature=8e0c0bbd12a520a0fcff82ac5a266504cb26694235a71c92509d41b8f298970a|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="35" tvg-id="Soccer.35" tvg-name="[Soccer] France vs Côte d'Ivoire (beIN SPORTS MENA 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] France vs Côte d'Ivoire (beIN SPORTS MENA 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+mena+2&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+mena+2&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-bein-sports-mena-2/playlist.m3u8?token=a505403555a80b8f6114e18dbe8cebed26b5b75e54a7eda70552fcddad496e4c.1780597915.3cdd7a727a4bf2a4017c0ad4ab90a1ca.1bf6991d0b0a8de7c6eb51bb38868c7e.c4c510e717d9580bcc94d85f84b91542&signature=6804d40bd29a23ceafdf1b084a1218f00367fb5c6800b8a6f709d91e9738df04|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="36" tvg-id="Soccer.36" tvg-name="[Soccer] France vs Côte d'Ivoire (Sky Sport Select)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] France vs Côte d'Ivoire (Sky Sport Select)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+select&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+select&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-select/playlist.m3u8?token=602c1a7b90403513e08c0da936161d3c375af45c95c9849433993ef40604a7a9.1780597916.ae420d4a81f9579023417d7572c24538.610d2cf2dc01843941c3a1a4efa3eb6e.8b485f1ddb3da1ab1ee840dbc0389d4b&signature=4fdb79d0e256b2dab98e9c363c248f467a0fd985a614775ac26e1e6fd3957948|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="37" tvg-id="Soccer.37" tvg-name="[Soccer] France vs Côte d'Ivoire (SuperSport Maximo 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] France vs Côte d'Ivoire (SuperSport Maximo 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+maximo+1&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+maximo+1&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-maximo-1/playlist.m3u8?token=d8bf7b41191788c8e81c9d4af0df10289a95926a396d7cbca699d0b6b0bf927c.1780597916.c8326e80ec42aadadcce0f997bb4e0df.40d7afe24fbacf6e78a98320dcc540ae.34b983850100cf1169f2671414790246&signature=151458a52f28ea7ebfb22f4f138422bf1f45fa2958a1907e6b284b00755c4971|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="38" tvg-id="Soccer.38" tvg-name="[Soccer] France vs Côte d'Ivoire (Sky Sport Calcio)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] France vs Côte d'Ivoire (Sky Sport Calcio)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+calcio&code=it&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+calcio&code=it&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/it-sky-sport-calcio/playlist.m3u8?token=e752c42bd3a7b3fe3a1c16f320d0db0182e29e0f171d125acbe4e9bed01145fe.1780597917.73958fca171df7d5580c0b66ec9de07e.0efb60cffdc0bf4c199d33bf0d3a15d6.8e30f209367bf0c236ca5de4fc8891c7&signature=b88222cb791d6fa043cb712877659169ea3e39ac6a5b4e316d2e92810330de20|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="39" tvg-id="Soccer.39" tvg-name="[Soccer] France vs Côte d'Ivoire (DAZN 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] France vs Côte d'Ivoire (DAZN 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+1&code=de&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+1&code=de&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/de-dazn-1/playlist.m3u8?token=3285d1b90e11dd187985288fdd14d2dfae39275566b7fd83bb9d07b8805aab44.1780597917.50649897a2983bb028ddf72584382106.b2d5d8f61a022350e65d45e8cecbaa47.277117d55fef4fa8c5f7d7d4c50796d7&signature=b79be15e4bdde8ec3102b2591c3ebf3b6b7204713ff6c56dddfdeaa3fab2b26f|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="40" tvg-id="Soccer.40" tvg-name="[Soccer] France vs Côte d'Ivoire (Sport TV 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] France vs Côte d'Ivoire (Sport TV 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+1&code=pt&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+1&code=pt&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/pt-sport-tv-1/playlist.m3u8?token=f9b4c42b254938edf88e585c8b8412076be062530b85867b0a9d8b962ed2252c.1780597918.02aa59a80f095cb0464eebbf4032fa8c.105aa71167534a3c206a622965b64221.33a730ac6d8d39a5e4f3847a7ffd768a&signature=e10e647216a865c2650fd187a5666ac5871a915c82ce1a88687f22f9c8232ffb|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="41" tvg-id="Soccer.41" tvg-name="[Soccer] France vs Côte d'Ivoire (Ziggo Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] France vs Côte d'Ivoire (Ziggo Sport 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ziggo+sport+1&code=nl&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=ziggo+sport+1&code=nl&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/nl-ziggo-sport-1/playlist.m3u8?token=91ae439dd156f8c4375444e318650ffc8237576d24d7670376152e0b60e42ff5.1780597918.1e191411952d4dc519c7dd99e17160d6.155d39a6e4d2d05d8f45eda431c6b92f.ddba801f47cb13178bc9d9718d9dc563&signature=0456d2c873f04a73918631ea524bec3525338030931a7b4219f2e319f41f2ef2|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="42" tvg-id="Soccer.42" tvg-name="[Soccer] France vs Côte d'Ivoire (Nova Sports Prime)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] France vs Côte d'Ivoire (Nova Sports Prime)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sports+prime&code=gr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sports+prime&code=gr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gr-nova-sports-prime/playlist.m3u8?token=de66a3ee52d5536146fc540fddd43da3bd2ec61c4b56ad0f7504c301225de55c.1780597918.878025f745cfa77bb2c291df2c617bbf.ed8253371dad8f0da0b4b8bd3fbd354e.684a18beb62fd7929530abc311fbb88d&signature=9c77c7ff6282c028abe137d33ae889a57d012f4bc4ea6942908a1b99f566ddb0|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="43" tvg-id="Soccer.43" tvg-name="[Soccer] France vs Côte d'Ivoire (TVP Sport)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] France vs Côte d'Ivoire (TVP Sport)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tvp+sport&code=pl&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tvp+sport&code=pl&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/pl-tvp-sport/playlist.m3u8?token=8ea292fcf53a7bcfb20080f343a62f85e9df97a2f99bb1d1d1cea58010bd2b01.1780597919.dea20603ef070717c277b65bb778806a.73be8ac5f23ea5ac9ba6a5964394b0d3.564c5e303c10a313496e9e498f7ddb54&signature=315627961403f7e08111b6d98b601e58fe43c22b5e371553be3545b02e038992|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="44" tvg-id="Soccer.44" tvg-name="[Soccer] France vs Côte d'Ivoire (Polsat Sport)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] France vs Côte d'Ivoire (Polsat Sport)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=polsat+sport&code=pl&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=polsat+sport&code=pl&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/pl-polsat-sport/playlist.m3u8?token=90a47ca5f2002da6658d12f615f1eea081720dca7113adf1e834e5a07934f227.1780597919.21d78d0cec264f08a6141c44160b3481.287c623c71087516e763405a2d64d933.8d0d7fec2b98cf12041694a8adbefc91&signature=40b4e63b055b083f301823e7b07a27dc87d4f782fa7ead42e49434d9f275d1ea|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="45" tvg-id="Soccer.45" tvg-name="[Soccer] France vs Côte d'Ivoire (Euro Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] France vs Côte d'Ivoire (Euro Sport 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=euro+sport+1&code=bg&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=euro+sport+1&code=bg&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/bg-euro-sport-1/playlist.m3u8?token=d6b9135d7a7fc7dabc07217b995d3d962c56cf7c86a55b2f226f60afa3dd7047.1780597920.8ae4904b980c1760c4595ed5d69f575e.6461ff4791ea00602001c5f87213f0bf.057144ac93548b33f549c7edf63a4e81&signature=f6219f3abc764882f144286513df8d3693ce1a0d6e38d2c74d3eaa87516e4f09|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="46" tvg-id="Soccer.46" tvg-name="[Soccer] France vs Côte d'Ivoire (Diema Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] France vs Côte d'Ivoire (Diema Sport 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=diema+sport+2&code=bg&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=diema+sport+2&code=bg&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/bg-diema-sport-2/playlist.m3u8?token=4d46d3c621444b701f06e2eeacac31c0779aad4c85e9d19eee0c6233985ab530.1780597920.fb52339733843d6e10615cf69a5e1660.7a4575502404769d8a755fbbf32a375a.3479eb7e718828a9d62f42698ccc1f99&signature=8ad72ca92c040d4a1c791a05283764a8ad4be782dbea79e086b0e255c964097b|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="47" tvg-id="Soccer.47" tvg-name="[Soccer] France vs Côte d'Ivoire (Cytavision Sports 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] France vs Côte d'Ivoire (Cytavision Sports 3)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=cytavision+sports+3&code=cy&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=cytavision+sports+3&code=cy&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/cy-cytavision-sports-3/playlist.m3u8?token=94b1e295ee17aaf98752914a4da5204877a1a242119c2e8f96e057e7859e3081.1780597920.a3a011dcc99731c424dd7e1231cb8b2d.207a48a8f95ece7b4c3cc9ea060d602b.6bb71049062d052e5999d589a5867594&signature=1e090b783dcff40039655c6fdefab1ab8057b101f9f2e910e5220308506c281c|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="48" tvg-id="Soccer.48" tvg-name="[Soccer] France vs Côte d'Ivoire (Arena 2 Premium)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] France vs Côte d'Ivoire (Arena 2 Premium)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+2+premium&code=rs&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+2+premium&code=rs&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-2-premium/playlist.m3u8?token=7d02113011f5a0583a8b72249d441d2193d3348ec8bd079d7ae7eb4584ce21ea.1780597921.029fb0962083f8d98c60a68d9c5ed388.7e58f0d46e979872e683497cc61babe9.c905702eb3f0fa2f2754648f2c78571f&signature=e2d29946dfc2cc840897a49376e44c740c404aaaa03189745cc9721e7c143c65|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="49" tvg-id="Soccer.49" tvg-name="[Soccer] France vs Côte d'Ivoire (Sport Klub 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] France vs Côte d'Ivoire (Sport Klub 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+klub+2&code=rs&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+klub+2&code=rs&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/rs-sport-klub-2/playlist.m3u8?token=15c1795014ca239e8edd7a11042e57be7669c20cd8c09a76cb9c8067dbb4c983.1780597921.b24c3fb8842795b253860e0a80aec7eb.113b903c7f1b820e11d41a0584398909.6574bf6544abcf6ca41811f8432214d5&signature=521e7a687cbc8a6ae525d2155478b2e430a669cceab2726a9eb6e17d042f9edd|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="50" tvg-id="Soccer.50" tvg-name="[Soccer] France vs Côte d'Ivoire (SporTV 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] France vs Côte d'Ivoire (SporTV 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sportv+1&code=br&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sportv+1&code=br&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/br-sportv-1/playlist.m3u8?token=6248098a6d95789c11f0e9a3cd1c35224e057eff6fb4264e9966087dbcb452c6.1780597922.f58c4642ee2b5fedd5bf2ed0bf9f3804.98c1a6c98bb3058385a360db39197f74.2f22190073defd70b83bc5efc5052744&signature=645029f3a945bc22e56890b1f8441cd73ecf545a77a6b933260e74e65c47a632|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="51" tvg-id="Soccer.51" tvg-name="[Soccer] France vs Côte d'Ivoire (ESPN)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] France vs Côte d'Ivoire (ESPN)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=ar&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=ar&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/ar-espn/playlist.m3u8?token=2451424e08280c59db262eaccee995ad236ed18f5ad0132277b3562191c4522a.1780597922.fe4f06d3c975daa63c7eca5cbb107ae7.84a5751d21d47b1392bc80bb7eb796a3.379ca4ccb8a156ea98c72b7f49e7e451&signature=9205c082db003511932535a2b5ce31dd8d48a5e2f952edfc803a93d9d51910e7|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="52" tvg-id="Soccer.52" tvg-name="[Soccer] France vs Côte d'Ivoire (Digi Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] France vs Côte d'Ivoire (Digi Sport 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+1&code=ro&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+1&code=ro&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/ro-digi-sport-1/playlist.m3u8?token=6a4164aa60497f7b84d241ba5d72b9709b34c2515f356a584741b8b16787fe52.1780597923.8313c7f45d0df9029bf2fdde5bafea6d.62854417d94b2b9fac1bc59c930cf200.4dad87870ae757080f5cd9bee698adab&signature=c16d04b4187d42ad3d9f53e13b3160cd48f0152e0dc62f62c52457ea39b5146c|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="53" tvg-id="Soccer.53" tvg-name="[Soccer] France vs Côte d'Ivoire (Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] France vs Côte d'Ivoire (Sport 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+1&code=il&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+1&code=il&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/il-sport-1/playlist.m3u8?token=5920d080205ab59ae4a6cce975e9d284b627829c20777dd7e0a123c3f6a2f6e4.1780597923.a6cf1e2f98ac034f4cd7529048e9a9d0.19ef29a955e1d51cab1abd18ebfc5d89.3a634002564a670eb9a2a4019a6fc075&signature=330c6a5c5c28d816bd103a537f97d3322b22a5ec42e9ed9cb3a417213b816ee8|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="54" tvg-id="Soccer.54" tvg-name="[Soccer] France vs Côte d'Ivoire (beIN SPORTS 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] France vs Côte d'Ivoire (beIN SPORTS 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+1&code=sa&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+1&code=sa&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/sa-bein-sports-1/playlist.m3u8?token=841a1c0620611d96a694cb953ec6443477db79fd1cb8e1aafc2a88b151f9a850.1780597923.c2875eb41db403e7d2708426ae2c8aa9.70996dd2de6c111ef2ca1f8c137ab53c.fecd61bb7abc1f2905762214bb7eba66&signature=80e58984198ff1391bb8d0c6697160580081258cedd302f321cbd3a963171d0a|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="55" tvg-id="Cricket.55" tvg-name="[Cricket] 3rd ODI : Pakistan vs Australia vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 3rd ODI : Pakistan vs Australia vs  (Willow Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=1e86af1357d2cd7a1c676c3e0766d65f3b4a2b6517f663ff6cb2c068d2ebfcfc.1780589083.52f6386cbdee266d8e5b0196f4556d54.6629de0443e90150839732d05cb6fd8a.f524a1d11a0746ee2c7ba5d1033f5223&signature=f6c8c884c53f287e3483a4cd8b826c7a3fa27e2298cd0c482ea29a0de2f0a58b|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=e3a8e29a977fa537d530d67ab8f114b852a5fc55bd721cd8f1da5ca330860f57.1780597924.200fed65433c7f1d0ea95be98b026392.d8cfc9f22dda108e62e263d5f9b0e5ed.1a960c7ad1bca144ea96d29ffc339609&signature=9bf3af1a07f4db23ddd33a5a37bcf76797bdfdd7c2fd2f056f1fa38b6bdc185f|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="28" tvg-id="Cricket.28" tvg-name="[Cricket] 1st Test Day-1 : England vs New Zealand vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test Day-1 : England vs New Zealand vs  (Willow 2 Cricket)
+#EXTINF:-1 tvg-chno="56" tvg-id="Cricket.56" tvg-name="[Cricket] 1st Test Day-1 : England vs New Zealand vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test Day-1 : England vs New Zealand vs  (Willow 2 Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=96fd515683e1933133cf31b12b58a85e51caf4fd04123eea84124aa0bd7de52b.1780589083.08044af3d3f91b70571ed13011744548.c722da548abfbf50e1e676bbc36b3bad.1d2d7a33836fa4311c0d3465eb7ca09b&signature=a2a15141d07397bfad1e4c7bb0281244065f1cfd7a229b0aec987091fd7980fd|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=bf1aabb0ebb6d74843cb68c88fd28d358ab5a902138a0e189d8fe4e038115a26.1780597924.0410eccf859fce234ef42bd94bff2020.8673d8db3a31cad7d7640136a257e0bb.6d5af2edb652eea15254033e70db14d5&signature=58dde9375d0eddce7f1751d96b2b6e01dc5bf8a7498fac7a1215c16da4b5f653|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="29" tvg-id="Cricket.29" tvg-name="[Cricket] 1st Test Day-1 : England vs New Zealand vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test Day-1 : England vs New Zealand vs  (Fox Cricket)
+#EXTINF:-1 tvg-chno="57" tvg-id="Cricket.57" tvg-name="[Cricket] 1st Test Day-1 : England vs New Zealand vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test Day-1 : England vs New Zealand vs  (Fox Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=f690f87da219a8cef273cf67598b4fc8e4fb23fc1482bed4ef8641b4febc2c60.1780589084.14f6d2b0313b152c0604c936bfdf24fe.c0805ed21aa18cfe580cfbde8deaf0b4.8e9685bad23a7207ecd950c7e21da3e4&signature=095f0b1cd3f280a4ba551ac336332a6e3e2b1188b722b4b6e247f49f475a9e89|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=7e065c07120181ff0a109a8994481fe75da76b83f29b1c5e38a454caa1bc0394.1780597925.fc1945ea19b24e2a7a1bd74211c90cdf.f72ad551bebf76b8120bfeba8f5e39fd.6121908dc2c3972f89ac983e4fb4f091&signature=b88ee7b3e4b00a581aa3fc85c2f7c214a2a8858183adab11a351193ce076b679|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="30" tvg-id="Cricket.30" tvg-name="[Cricket] 1st Test Day-1 : England vs New Zealand vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test Day-1 : England vs New Zealand vs  (Astro Cricket)
+#EXTINF:-1 tvg-chno="58" tvg-id="Cricket.58" tvg-name="[Cricket] 1st Test Day-1 : England vs New Zealand vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test Day-1 : England vs New Zealand vs  (Astro Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=debafd1fae10d13d3b18cc09aab81b51e4e2988d802bf9d3a323f9ddc7e58253.1780589084.4ad4dbef71ed96ccd86d845ad513c25b.a79eb7b8785d1ff8d905b25125979c0c.7bc5b4fc34e9bf4939dd60f0da0d6ac3&signature=6e11054bc882ed8d06b3ef1dca0f2edf175f2028ca313ada5cb8db97b716a81d|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=7dd37264addc9712ebdd4e86095236336df05ad12cd19dd3c2ff5ae75673825a.1780597925.07004307a139d6cbf660b70aeb063005.598c3403e39377208af17b1d9a5cb17d.73193478e90449b92b2dd051c957969e&signature=e629f71a03a6d5a45f3e685729d9da38c838487558f58c0a276ecea190251283|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="31" tvg-id="Cricket.31" tvg-name="[Cricket] 1st Test Day-1 : England vs New Zealand vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test Day-1 : England vs New Zealand vs  (Sky Sports Cricket)
+#EXTINF:-1 tvg-chno="59" tvg-id="Cricket.59" tvg-name="[Cricket] 1st Test Day-1 : England vs New Zealand vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test Day-1 : England vs New Zealand vs  (Sky Sports Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=f0391eb5d055b7f55c222dd13f53d4342c0d8b9dd623ffa916b06b2269b291bf.1780589084.033f1c0554987f2d27fd2354cb203680.393b0ac248a38dc0df6f20c91e3cef20.3f592fff8b80f3804795549e34053aba&signature=17df104e4415bd0b87d67aa0ddb5a598c364e0264ad9fe52ec6c8e51d0e8c112|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=436644de1da4fe9fd4c1ab88e8f2e7637e37cfcea6da8af4e31365dfc57ac188.1780597925.8a5c1cbf262c0d4f0c1f972a638e155e.8efdf6c82a34831d400a3f8ee5940681.7d070621f48141004eedd8e2061deb7f&signature=9eddc66eb1cfb5985380514ba4a9f74a2139efe579557d9860e9d370e024aa57|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="32" tvg-id="Cricket.32" tvg-name="[Cricket] 1st Test Day-1 : England vs New Zealand vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test Day-1 : England vs New Zealand vs  (Sky Sports Main Event)
+#EXTINF:-1 tvg-chno="60" tvg-id="Cricket.60" tvg-name="[Cricket] 1st Test Day-1 : England vs New Zealand vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test Day-1 : England vs New Zealand vs  (Sky Sports Main Event)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=93fb63b873595490f1524741be6105aeeafb832866f490a4f83ed0255c683a27.1780589085.7fa0de335ba2c7b0346b90047485bc24.23fff32d1796dfa259bda278da621572.865079d864ffa704418003318baa4442&signature=e6d7537f60483813d22c6adcd9edc99f5b0d1194001368734fe44dd9e5a1d1dc|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=90fb0f0844290fbc16830ab817a2fec845351d05f4de8ef7fd7271308c5d249d.1780597926.2b4430d65c419b1f43b21c33fdf3ad97.919750b2277b868ee3989f24a2171e25.85511549a110ae303e681aa026e3415d&signature=7490489982a53da72c61d115710478af3cc7ebb5124cd3f6cf1c674df3e31fb9|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="33" tvg-id="Cricket.33" tvg-name="[Cricket] 1st Test Day-1 : England vs New Zealand vs  (Fox Sports 507)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test Day-1 : England vs New Zealand vs  (Fox Sports 507)
+#EXTINF:-1 tvg-chno="61" tvg-id="Cricket.61" tvg-name="[Cricket] 1st Test Day-1 : England vs New Zealand vs  (Fox Sports 507)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test Day-1 : England vs New Zealand vs  (Fox Sports 507)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+507&code=au&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+507&code=au&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/au-fox-sports-507/playlist.m3u8?token=13fa4ab0a15546664cbcca64c3e659b947ea831128ec291a448155029a36a4b0.1780589085.43d10ee7c2e3a7798419aa6e63bfd2b5.b7dfb40f174a4022f8d1c730607518e0.daa17a95b7af273c04768ba982b3d14b&signature=d13a2e5ff871781ba3a662691490314af1ca870e732878e4f2c09ccba8bfbe4c|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/au-fox-sports-507/playlist.m3u8?token=c3f66aa955d64d7fd62249e1fa428ff1a9ad98ef7783d225a6d73a5de1f6e869.1780597926.cefeb6e777befbbb77e435bb3b9f0b29.fd77a3c4c2b4b3b669818e8adca9ea2f.a96f5802bfdf31f7d6936222f6d5cedd&signature=085f7d8ce5d6dac36238285b787ddf69a9d4ae8df7c470bdeaf7693c7e599d6f|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="34" tvg-id="Cricket.34" tvg-name="[Cricket] 1st Test Day-1 : England vs New Zealand vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test Day-1 : England vs New Zealand vs  (Sky Sport 1)
+#EXTINF:-1 tvg-chno="62" tvg-id="Cricket.62" tvg-name="[Cricket] 1st Test Day-1 : England vs New Zealand vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test Day-1 : England vs New Zealand vs  (Sky Sport 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=5a40520d9a0f381828e06be466bf698e59c36e77164372a0e11829dda87bd888.1780589086.639fec5c356a18094c487b89d59f2ab5.ed0804ab6c0ddf172449aa48bb1f228a.9d2488a2a9b2a1f07dbdf0820a232c66&signature=3eb869762a37c539f5103898b4fbf9efc7566a794256ac993592abe7effc2d13|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=6019e4cbf431b5e983a525656e205462eee4c54ec8075fbab1618fb37566d0de.1780597927.a0a3e3fe518487a206d10eff5d254982.d135fea50c7ac6eb29502cb363de7124.460b0d63189be63b3dd4626e170105a3&signature=60ec76df8ee97d8229b304e2affdcb871037db724152889ae55b1761899a5515|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="35" tvg-id="Cricket.35" tvg-name="[Cricket] 1st Test Day-1 : England vs New Zealand vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test Day-1 : England vs New Zealand vs  (SuperSport Cricket)
+#EXTINF:-1 tvg-chno="63" tvg-id="Cricket.63" tvg-name="[Cricket] 1st Test Day-1 : England vs New Zealand vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test Day-1 : England vs New Zealand vs  (SuperSport Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=fe93abb6b0cb082f05efd844cefad7b5919de0c25c94c7c832bd5063909053db.1780589086.02adebf20e3440cc5f18076390399e87.2191734fa6a016fcc0ae200a33eca1ab.fc1a58425626cd7bf69af1c1ad161d58&signature=686ddd0f78c5db4f6a96aa2111adbe089ac8080a0a81f51d22e93c8248822a6d|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=0e7e4f56836ef707bd02ed55c776b9df42d1875c20ded434d1e74576f2d7e2fe.1780597927.4615b826e651266878a4f5ce9d6550c5.37739b17dab751a2c4f311b622daf463.b6604773ce5198346b8c9951b4f09e8f&signature=df82ad209297ffec23163ba57a2815a3bd7bd20b52a868fe90fca7d6aeb09466|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="36" tvg-id="Cricket.36" tvg-name="[Cricket] 1st ODI : West Indies vs Sri Lanka vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st ODI : West Indies vs Sri Lanka vs  (SuperSport Cricket)
+#EXTINF:-1 tvg-chno="64" tvg-id="Cricket.64" tvg-name="[Cricket] 1st ODI : West Indies vs Sri Lanka vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st ODI : West Indies vs Sri Lanka vs  (SuperSport Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=8fc52ee9ee49e859ba21ff23791d9592d7b6edc8d4ddc73238a7e70d1258cdd5.1780589087.bdb364a3a8bd11247a5f3826a0d6c4b5.7084fbf060f5527e9eb6137443a407ea.fedd34d964e2e59afbdc5798a94b9c3b&signature=09e745b41bb2c1ed800224dd221f2e466657db59a88f99a9d24294a724745ac1|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=8ce025d94ac8d7e30fff42866fef0481b0884289c436684c7d28e5c08665110a.1780597928.5f0add106c2510668eaa2f457b6594a5.1222d18899850a17f20656cc240faabc.64a248cf1a72a54bbfdb5f5c5d64c55c&signature=848521f88250e25cc30452b72d25d947338d2b17331ac489667010668328bd14|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="37" tvg-id="Cricket.37" tvg-name="[Cricket] 1st ODI : West Indies vs Sri Lanka vs  (SuperSport Grandstand)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st ODI : West Indies vs Sri Lanka vs  (SuperSport Grandstand)
+#EXTINF:-1 tvg-chno="65" tvg-id="Cricket.65" tvg-name="[Cricket] 1st ODI : West Indies vs Sri Lanka vs  (SuperSport Grandstand)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st ODI : West Indies vs Sri Lanka vs  (SuperSport Grandstand)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+grandstand&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+grandstand&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-grandstand/playlist.m3u8?token=f3e8b208b0e0100b57b9404f16dec4417153ed7e48801fa0ca1efa1f5260efed.1780589087.f6d102aaabe9dc9a9730fe42dd2d5ccc.d42f54b3ae4302ed56954357804c01a4.8b36f82c371166944148b6dd46deaffb&signature=03890da6a5580ec1b36e65865c14cb4ad8e326fed841ca597f4ca6b997cfabf4|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-grandstand/playlist.m3u8?token=abdd11d24d27adc46c40aac4e9e3daa2d7f67fa4613934adeac716d8c7413670.1780597928.0de1824fbe9d45910a5ffc584492c7df.c31fa734f757f4d1960deaba9433527b.66f87094c75c170bdfb0f1504dd15895&signature=307fb68f1e2d05fd5088da1f034bc05496fad84be510ab146284c9b25cc4b1f5|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="38" tvg-id="Cricket.38" tvg-name="[Cricket] 3rd ODI : Pakistan vs Australia vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 3rd ODI : Pakistan vs Australia vs  (Willow Cricket)
+#EXTINF:-1 tvg-chno="66" tvg-id="Cricket.66" tvg-name="[Cricket] NatWest T20 Blast : Somerset vs Glamorgan vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Somerset vs Glamorgan vs  (Willow 2 Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=750dbb1e4833eea1099cffa879fbd6107be3de7d5ecb4ad29b18a0d3ab1f5014.1780597928.524a1549afa78f18bcad4299f06d7552.7f8df6945537077c1b8c9265b8b5b78a.581efe555424e8d907e78ee0efd859bf&signature=57a072e8302d5378e4c66f4c6d83f9686ad4ca54291976e2430ff52e52858a17|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="67" tvg-id="Cricket.67" tvg-name="[Cricket] NatWest T20 Blast : Somerset vs Glamorgan vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Somerset vs Glamorgan vs  (Sky Sports Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=03dc1fe4e6eaedde2af0cdd5e957d4934100ba865887c05b00f51ea5a781a25e.1780597929.13c2c534908e95afde0b0ef0699d6f25.1c4ed84c85c5934d7aa9f57e90ec8aff.d5ea9f18303dfb8e6a9f4570731cf14f&signature=377012078f5c1f16c3e24952369de7a6cc3107964a7886bfa5876e7bbec3a33e|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="68" tvg-id="Cricket.68" tvg-name="[Cricket] NatWest T20 Blast : Somerset vs Glamorgan vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Somerset vs Glamorgan vs  (Sky Sports Main Event)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=1b96f8da18ddaad1468075ebcb507b64b2074be4b67c9e2a3270692d5eafeb07.1780597929.dfdea5122122bba9074578829a8590e0.af3a305d692727c311bbd7521dc24eb2.3f62db7e1762557db8096981faae6001&signature=bcbef33ba4e56ec94136aa7fdd955e3bf1ff930b4a9efdc97d50fcae65e7b989|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="69" tvg-id="Cricket.69" tvg-name="[Cricket] NatWest T20 Blast : Somerset vs Glamorgan vs  (Sky Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Somerset vs Glamorgan vs  (Sky Sport 4)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+4&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+4&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-4/playlist.m3u8?token=002d67b0f5c4e7e0459c6a8dc7d7fee18f35a697308f5e8c048c60fc92699208.1780597930.9fe7229733d5e83517dfece505255e5d.dbf383655a25d7efcee8fc8a1e6cc075.b3469ece50d312f1351c2c0ae32ac722&signature=d4a4150538effc28df67d6361d4a4a4aefe2e1dc1fa8e2118d8b727cb026fac1|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="70" tvg-id="Cricket.70" tvg-name="[Cricket] NatWest T20 Blast : Somerset vs Glamorgan vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Somerset vs Glamorgan vs  (SuperSport Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=6573ae61538891910f135c1ea945702670a1b4a9120afe28af189410a3a33f78.1780597930.de723ba4131b2ea71fe3a32e1f291906.9a3d39bf6e375715ef65e697d864652d.7f068a3e7a50f25dc3653242a56ed676&signature=3d7f03c7662654afa93cd105f553519fefc97ccc78081e3a7a9e0b8af2ed029a|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="71" tvg-id="Cricket.71" tvg-name="[Cricket] 3rd ODI : Pakistan vs Australia vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 3rd ODI : Pakistan vs Australia vs  (Willow Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=852043d8230fc5c74cceb1cf4320e0a504144b992e2c11f4ce7984c3010dc33b.1780589087.312304ef59cea75869ab4f5b3fa78efa.ed0597b3339c7a8174e7c127d34ad7f0.5733958f0f003e7f221f6aceac0a9d72&signature=3c8a1e05455d96bcc6830d8b2700b7794705541ad924bf3b383c7be81230916a|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=86f39bec613b9e8a3a00ab2618cf8c08a211e05c0488d6f463c89774917e3c04.1780597930.0ffcc91bd943110358d0e909a7d30f90.d822532ca0939bdf6e093ac74a37e3ad.39720a5c9685f2b818864939dd0f467a&signature=0c75da879630423ecfceaa47952a840b4576f681916f1d184869b1ab4eb01c4e|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="39" tvg-id="Cricket.39" tvg-name="[Cricket] 1st Test Day-1 : England vs New Zealand vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test Day-1 : England vs New Zealand vs  (Willow 2 Cricket)
+#EXTINF:-1 tvg-chno="72" tvg-id="Cricket.72" tvg-name="[Cricket] 1st Test Day-1 : England vs New Zealand vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test Day-1 : England vs New Zealand vs  (Willow 2 Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=f5ab9ebf64a8a642d098207d567162d80c441d063eb71365aa0b9f2018c76fb2.1780589088.1d5494d2d82ab72f915baa9aecafb34e.d2180e7c0a1a6558ef7c2517f80a262a.957f7896445c9734fcaf7f98192e1528&signature=daa7524c7ae4e4370daea814fe6495f97559b8e994b40b56daad0153bbbf4213|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=d50f1d199e3b36e6daacd8a1cbfc97724014cc34e46598c50924784a93a62635.1780597931.755183ddfed4d3ce282455c72de7ee4b.7b68e33c454e696c5cb3d71486776c2d.e526a26fe56fa238447320bdfe29fc60&signature=f844d8d09f6979a5094eeb94572053cad172474f5168b3a84ebe1196b87c09d7|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="40" tvg-id="Cricket.40" tvg-name="[Cricket] 1st Test Day-1 : England vs New Zealand vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test Day-1 : England vs New Zealand vs  (Fox Cricket)
+#EXTINF:-1 tvg-chno="73" tvg-id="Cricket.73" tvg-name="[Cricket] 1st Test Day-1 : England vs New Zealand vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test Day-1 : England vs New Zealand vs  (Fox Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=cac58d9f13fca78a6ccb18b1d2ec6b30eb6cbaa0b8cf368408d44fd151878f16.1780589088.e5a15af8a8181420c0f2bc0db3eb7181.0266ad782c406a9345606bea47bb226d.52266b3bae3cf4aff1a05d960db3ee35&signature=b6aefc4c228c2fc042ae749e7439a26f78ed26eb060fcad9c0ea1d6f372a9fb0|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=c5aa4ca7c480bfc326852b8bc738bebfd451da5aa8da5e972ce9b08fb2014a01.1780597931.5da09bb077ba0b504f003f50e5b5db3e.495c2f3f49db7e0a31c704fe806be0af.4af3ae7fc82ef72a3b3b2a9ed5e44fd0&signature=db039e608c837bad91385be463897bfe3ad64ddc3fefc05db3bed00ac948139c|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="41" tvg-id="Cricket.41" tvg-name="[Cricket] 1st Test Day-1 : England vs New Zealand vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test Day-1 : England vs New Zealand vs  (Astro Cricket)
+#EXTINF:-1 tvg-chno="74" tvg-id="Cricket.74" tvg-name="[Cricket] 1st Test Day-1 : England vs New Zealand vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test Day-1 : England vs New Zealand vs  (Astro Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=04ceec933c3616ad933351910b4ad9f1f4fbb54540ab2a3f562459d928d9b3f6.1780589089.87f58268b14a200984a2e5aa8d69786d.99782a2e2866df428939ad55d50b0eaf.cb1ef0f37f0c0298f7bb34af25bb165c&signature=006de20811d64007867d5d2b09e48afa821d16ed538f9e711e8756904e2b2084|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=7d492f36e6e1d41b9125f31b81f6aad95654e513de5308e1bb2b5c10fb29d1b8.1780597932.219d247511ad6e01013a5edd515bb3d2.5da8391a3ef62b24e275fd161772ebbf.a76dc0f3eb194b302c7e9fc01069e589&signature=fd8b18fafdbf474e256591dc5a4e3c42d4fd53bd3a4b12a935859076b1006bc2|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="42" tvg-id="Cricket.42" tvg-name="[Cricket] 1st Test Day-1 : England vs New Zealand vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test Day-1 : England vs New Zealand vs  (Sky Sports Cricket)
+#EXTINF:-1 tvg-chno="75" tvg-id="Cricket.75" tvg-name="[Cricket] 1st Test Day-1 : England vs New Zealand vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test Day-1 : England vs New Zealand vs  (Sky Sports Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=bee6d6cd70db400ef69fabbadb23c15d2f3e4358e67ac8713892db176e52c06a.1780589089.823455cd812cd5de5e2b486cfa641e98.75b84783790c48ceae96ba10491cd060.0c5a8bdd7ca40dcd526962b94816ce67&signature=f846f9f73f8a630f36c6c94729eb579956e4cde6314a9b7d877e2b0b9a7e394e|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=359362b0c682aeab29a1166fc094f7fb3bb95482d1c471299353a1a86590d4e5.1780597932.ba8425b58b5d46f5a60708bf2d7cb80e.81214cf96fce8c254c06d5c71c523718.bbd51e4604bed32f50af4d719e195b23&signature=ae8184459d1cc61e44f5ae0385ddf1933a85a4086294df7a338e32752d8ffd19|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="43" tvg-id="Cricket.43" tvg-name="[Cricket] 1st Test Day-1 : England vs New Zealand vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test Day-1 : England vs New Zealand vs  (Sky Sports Main Event)
+#EXTINF:-1 tvg-chno="76" tvg-id="Cricket.76" tvg-name="[Cricket] 1st Test Day-1 : England vs New Zealand vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test Day-1 : England vs New Zealand vs  (Sky Sports Main Event)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=684bcc4166f47cfd83e3ebd46cff29d4575dd35dc3413839f32b5258894d54c2.1780589090.3f8370ac63c7d4051a89aa609cb9b8b6.923444fff6d82479ada415600dd67aaa.46a5b99eaf1985a678700554eb758946&signature=d5f5d5a759c822650cd28b7fec8d0883b82595be0281cca72067235b28278b1e|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=f15d3f4577909758f2929caa8877fa24c4df610611556ea7819b332d8ac79944.1780597933.949205f75ab037875dc0cb5e56e31c3e.d9f7be90a8ada028b627b86c34373880.c885b4460fb2cea129b0d4e1e384619b&signature=8c25a979c842a95047bfff665e9ce44f417e78d8b4798fd735253b9af5007d6b|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="44" tvg-id="Cricket.44" tvg-name="[Cricket] 1st Test Day-1 : England vs New Zealand vs  (Fox Sports 507)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test Day-1 : England vs New Zealand vs  (Fox Sports 507)
+#EXTINF:-1 tvg-chno="77" tvg-id="Cricket.77" tvg-name="[Cricket] 1st Test Day-1 : England vs New Zealand vs  (Fox Sports 507)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test Day-1 : England vs New Zealand vs  (Fox Sports 507)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+507&code=au&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+507&code=au&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/au-fox-sports-507/playlist.m3u8?token=6170ee3ef5ba757dda89f8d550e51550fddb4d4b4fa994f431f55129eb3f14b6.1780589090.5538df2b37b862693b5b4c639afa5ebb.5378668478df814eccdd64a70d055c0d.39b144c26340c472e0730b4c6e2b6f97&signature=b4897ec4b183edd7853d648028faf90c7c27f83cb1cd1081b6940f9d1dcd839f|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/au-fox-sports-507/playlist.m3u8?token=524b3e0250e2cd3be7f4519043381ed5f4b9a23559e71d103ead32988fe753bc.1780597933.131e532da9c3451a1c96e0ec6e77575d.ec985621b7366eccda18bb4b10ac85ea.ba962e33d619895ef531ea06eb9ab7e4&signature=094b434a4d9b16ac47c5f138e164fde1179eecfae79e4b5095502c8d82c3f28b|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="45" tvg-id="Cricket.45" tvg-name="[Cricket] 1st Test Day-1 : England vs New Zealand vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test Day-1 : England vs New Zealand vs  (Sky Sport 1)
+#EXTINF:-1 tvg-chno="78" tvg-id="Cricket.78" tvg-name="[Cricket] 1st Test Day-1 : England vs New Zealand vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test Day-1 : England vs New Zealand vs  (Sky Sport 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=4aa1ab607cfa09747853cda053db495c75d40aff11ef47cc242b81a76990d87b.1780589091.bd4d141e9562e973cf4c1c8599a581a7.91c7935c4263d071c86665056126d83b.5d692f6016a6449acccd52b47af641c9&signature=75e5e941203f9d25a4bbc27c9e261a1898f79710b23d3e39cb40e7b69d148e8c|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=a3d66089654c3ec380c5d2476f9477a9f296e6ac055ae34635dc1506254ebf29.1780597933.adda2d7577e176e657c9a67248404b7b.18a9a9a42975184964163990a48358ae.bf92f132d629d5494727cd7af4c1c2a2&signature=e5b7957725fe61136d4e3f977d15284b0e04bf90b098bab7ba6b0a5853fdcd2c|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="46" tvg-id="Cricket.46" tvg-name="[Cricket] 1st Test Day-1 : England vs New Zealand vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test Day-1 : England vs New Zealand vs  (SuperSport Cricket)
+#EXTINF:-1 tvg-chno="79" tvg-id="Cricket.79" tvg-name="[Cricket] 1st Test Day-1 : England vs New Zealand vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test Day-1 : England vs New Zealand vs  (SuperSport Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=c6ee7cafa5bb22d0839d31b41080d84d36c4eee0c12225c6da0aefb32d734281.1780589091.d1b5a316c8023f6725e6bc6d3e722e30.372a5ea187bd2f5b6bc8a810cf2ef6c8.30eda41e1823338c3e8974a15b736f09&signature=75fec044eab43dd23488e3b879001ce65ae036404d6358bccc0cc9c695bc45e1|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=26d6d8099a961906341a5183fbd80b9386cb439a18cabe97880862b4c1bc9eab.1780597934.141ef8fe762b2cf3bf6df505e16963b1.ac871afc705336aa86e224ed33504b11.33a7b4d4ae66b3e1ed159e63745da614&signature=aa360a31b8326e8c0f68d4c4bd524153c6277d15432dbc2a8fafe67995facf37|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="47" tvg-id="Cricket.47" tvg-name="[Cricket] 1st ODI : West Indies vs Sri Lanka vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st ODI : West Indies vs Sri Lanka vs  (SuperSport Cricket)
+#EXTINF:-1 tvg-chno="80" tvg-id="Cricket.80" tvg-name="[Cricket] 1st ODI : West Indies vs Sri Lanka vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st ODI : West Indies vs Sri Lanka vs  (SuperSport Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=689afd48768fe75d28c710e6acb07307155f70b340e491e74a672f4cfdf2f8c0.1780589091.ae89559287d71aee36604247fa96bb14.33bc9571d26eb36e304957d587d5ccb8.89a46e6ce2250b13b03c27685e0879be&signature=7e520d68c5e996ee9ecf10d9c9f581926d9160813a4f820b03e084669bed356b|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=9850af976878047c55ead0d1870ca173edec2bbf406b316c4ec481ef4827eaab.1780597934.cda5c235d76eec952845d95d565d6258.516a5da6da9b7029891e5fccbb68f29b.decfed0ac748f3e0b338a249d735533a&signature=c1e0c562bf1f76963743e7bdfcd6c9d9542770da5c49a8ccc9e257d171396e31|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="48" tvg-id="Cricket.48" tvg-name="[Cricket] 1st ODI : West Indies vs Sri Lanka vs  (SuperSport Grandstand)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st ODI : West Indies vs Sri Lanka vs  (SuperSport Grandstand)
+#EXTINF:-1 tvg-chno="81" tvg-id="Cricket.81" tvg-name="[Cricket] 1st ODI : West Indies vs Sri Lanka vs  (SuperSport Grandstand)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st ODI : West Indies vs Sri Lanka vs  (SuperSport Grandstand)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+grandstand&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+grandstand&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-grandstand/playlist.m3u8?token=c514fef8862ce1d76f9cc3351c8ab9d0d04a6f8689ea752147cd10a179c508a6.1780589092.cfc76f3af011a38f36cd363002e3b66b.c3625f0e6167901e39f84dfacf7b0c16.d1a760e8acb48637ae797fdf78b72f48&signature=1ff7fdb8e425bbc344d8204c36c720b82f0c13368c8e99d62d4cad7c41c30016|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-grandstand/playlist.m3u8?token=9b3f2de50229f96632360531bf3de4e045711af5b04049dc65fe9753bc4abe6c.1780597935.6dfd48df5659dda881967f3ec0404599.a449019a9de429ded1ecd00e9a5d9b42.dfab7428046f49638af8675e88c0d91e&signature=65b0c70945b0fda09da107dc550dfec99e76f3ad3101c1c92526df3c6e0eb407|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="82" tvg-id="Cricket.82" tvg-name="[Cricket] NatWest T20 Blast : Somerset vs Glamorgan vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Somerset vs Glamorgan vs  (Willow 2 Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=1ec1bbf993f08f8cf9f5f8687147c19637ecbb6bc7d3762c6af13a57f8d4772f.1780597935.a66196b999423c652d866db7dfabae06.36208509a77db9920974097c2a4f30bd.dd94d84364f00f71556e05bc4a8805d2&signature=f7f0ebfcc0659d8053bcfa15a053aad785376ddb446218a06a391ffa38de745a|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="83" tvg-id="Cricket.83" tvg-name="[Cricket] NatWest T20 Blast : Somerset vs Glamorgan vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Somerset vs Glamorgan vs  (Sky Sports Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=8f1f3a18697c1464cd152357a2f9c26f3087e338ffad58b61cc446d47cdb4b34.1780597936.7f32016b22de331d4d43fde277279fc9.623f5aae833e77b0819e547a04e30743.97184dc13d672abce95a0c5837f13a07&signature=f5c318b1d1c75cd1a8ed8c832c14e471be0c786b3c97307e08026932a80d3669|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="84" tvg-id="Cricket.84" tvg-name="[Cricket] NatWest T20 Blast : Somerset vs Glamorgan vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Somerset vs Glamorgan vs  (Sky Sports Main Event)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=d12f404894458004fbc2a88e6f496cd0c8af8c3fdae2b7861d610312c73a350f.1780597936.dc9d87e1bbaa82806af526af0a5532e3.5e85f328cf9c503e9d2896901b2b3572.a7f90edd8279e9bdae380c62729eff1d&signature=10cc47ddaec0497d7c3b52234d81e2f0db1109c0a041887f115f38ee4034e061|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="85" tvg-id="Cricket.85" tvg-name="[Cricket] NatWest T20 Blast : Somerset vs Glamorgan vs  (Sky Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Somerset vs Glamorgan vs  (Sky Sport 4)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+4&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+4&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-4/playlist.m3u8?token=c0312e5e7c6ce1f6e47ffa875deeba700f803ab5741db1b4d75069be3fd915da.1780597936.eb310c965749f9382b0f9ccc89de948c.bf9d3d8fc432bd3ade0f361b5d5e2474.c571fe4402361ccf917c829bf2a679ad&signature=59551b6096266c7a754f90757662b3fe8a8fbba1709380ba7ba3e5f54dd315cc|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="86" tvg-id="Cricket.86" tvg-name="[Cricket] NatWest T20 Blast : Somerset vs Glamorgan vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Somerset vs Glamorgan vs  (SuperSport Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=03a6e79287223007dccf98c14134ff0b13806c4b4b7e2a848443e7d64fd72833.1780597937.840eb3a1513a79e7b9c13b54fe22e2a2.c398fa63417416bd3f5fc1d7d3b55618.bf6bc8c8e551a0a75292cd07cb0767b4&signature=71815defb24bb81cbcae79520731e05ac6b681589107c68e9b0a410938f76540|x-forwarded-for:77.238.79.111
 
