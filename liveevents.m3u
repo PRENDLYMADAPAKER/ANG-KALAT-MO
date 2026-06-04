@@ -3,101 +3,65 @@
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sportv+1&code=br&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sportv+1&code=br&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/br-sportv-1/playlist.m3u8?token=f873e808cb39f76e7aee52849bf75fefc7468f65e75c952120a0a7ad4d73f02d.1780524448.4ecff1c34d9b48ea856becd6466c89f8.751029706e1af53180e39eccee62f664.6b12063b76f72c8763844d5bdb1d1873&signature=cf919e34a4a8e42dcbe6e8f9e80d7aa76f16669c18241dddda591e1844d35a70|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/br-sportv-1/playlist.m3u8?token=40ab7295c9c4aee5684201d625b6f325ac6227467b43c27e5b9224b99502f0d5.1780531494.2c352d094ed19735f498b38391b1d164.7d1a6a7da510133cf32500ff18e8f78f.7a2e53ba99eea4a4ddf50b0d5906d2f7&signature=0025ee73346988eaf4a1190263dcd05d7c238fb47eae53de365c58c96f053527|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="2" tvg-id="Cricket.2" tvg-name="[Cricket] 1st ODI : Sri Lanka in West Indies vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st ODI : Sri Lanka in West Indies vs  (Willow Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=2b0df29c4791dea981a46127b0e91beb3077b375d8fa52477b3a7b2e9cc74d25.1780524449.cb50606e7d1f7f7f6bda28ae32c2168b.a9ba5c468d712188e499092b7944609e.b9555655572c3209fbf99e960773b2c4&signature=f1d0628282e9b32728368d4741605eb21f977abdf002e191a18770369111b356|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="3" tvg-id="Cricket.3" tvg-name="[Cricket] 1st ODI : Sri Lanka in West Indies vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st ODI : Sri Lanka in West Indies vs  (Astro Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=9cd4b1b39eac0ba38138559547c356318fe19adc1ea7ff03db88f329260b56c8.1780524449.04837b9952463f735af38241faa7f271.8df9b228ce59a1727d36757dea22c9f8.772c5d8138695dc234be28a47c35ba62&signature=1d30dedb220fe56e46ee4f720263383abb893d80126c2652332a0ad1868a3ddc|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="4" tvg-id="Cricket.4" tvg-name="[Cricket] 1st ODI : Sri Lanka in West Indies vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st ODI : Sri Lanka in West Indies vs  (SuperSport Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=55ee2ebe61d1b6a92eac7e4bf615b00a31c5c8068c6bc4762db328ee8b95a07e.1780524450.5dbb962f63a77faff3c75720125a957b.025758881a7c35a39e4d20f496551613.f06e948ecbb39e50fa991cdfe5504441&signature=512de3e621564764c2a30bf568d610e413036c4f9eb51344403703640532b5eb|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="5" tvg-id="Cricket.5" tvg-name="[Cricket] NatWest T20 Blast : Surrey vs Middlesex vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Surrey vs Middlesex vs  (Willow 2 Cricket)
+#EXTINF:-1 tvg-chno="2" tvg-id="Cricket.2" tvg-name="[Cricket] NatWest T20 Blast : Surrey vs Middlesex vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Surrey vs Middlesex vs  (Willow 2 Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=b3991d4c9bcadfa33cfc4a5e1fcd8c0917f80667b3d659ef2ae78f5bdab8902b.1780524450.c43800d0dd28446b167d5a8d8337d2cc.d2ade75e9f79e1690cb4b4bc8f699c85.117627adb45734022eac67a980022dc9&signature=fec0b3a1a44c18784c573a9690afe6afb1063a95f87f7e8bcd1e7537a682a28a|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=11230497bd8ce86ad804e211a583ac7f39e7a8c7cae831fca09e454310650cb8.1780531495.a06e5e32f4fda1e1a0ee075331cd0563.e0c154c59c455026803181b767db7866.275ebfe53341a64c4733247f679e941d&signature=89af4d007fd2b9ceaf19323ed3852de00f15ea758b320120a50d512c9199d9fd|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="6" tvg-id="Cricket.6" tvg-name="[Cricket] NatWest T20 Blast : Surrey vs Middlesex vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Surrey vs Middlesex vs  (Sky Sports Cricket)
+#EXTINF:-1 tvg-chno="3" tvg-id="Cricket.3" tvg-name="[Cricket] NatWest T20 Blast : Surrey vs Middlesex vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Surrey vs Middlesex vs  (Sky Sports Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=56da2636ed33db21dd97742d4a78122793183a40e2869c5e88be1b2d514691e3.1780524451.c155d4ebdadf14b9d346505d4c8e9ace.1e88b26dfd18a3e243e53eddd74ee6bd.21d654830d4face77bfc2842c96356a7&signature=4150560a098a021abdda061534ba38a6dc83addcbf89549620f457d25c7a8dd6|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=a1415e9572b571df2665d4440298116b60835fd161705b9e4748838adf5fe775.1780531496.63d45133434367f3b48167e23dd1eeac.deaea9385b6ceeab05bba8d59de25f29.b38d67706e514ddac65afde1216cf894&signature=6af0280dee4175f7c6261019bbdc93bb4309fe50f424c67319824632f0ffc4a1|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="7" tvg-id="Cricket.7" tvg-name="[Cricket] NatWest T20 Blast : Surrey vs Middlesex vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Surrey vs Middlesex vs  (Sky Sports Main Event)
+#EXTINF:-1 tvg-chno="4" tvg-id="Cricket.4" tvg-name="[Cricket] NatWest T20 Blast : Surrey vs Middlesex vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Surrey vs Middlesex vs  (Sky Sports Main Event)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=775f417f770237c0d250366699c89c2e6ee0f7519ae245eb0d9aacb591170308.1780524451.bc07006cd4124f521ba1702b2840de50.190797e207d8d0e6f1a654736113f29f.cc8657948a1cf27ed4f4999f53fa0580&signature=f503ffa475b8fda34a30f35760f145c8f1f9699fc902309ad7ba9f684b7741d7|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=393592d785ebefc143fdefd615dfee161e8e74a9531d4219580bd0a1a6e1b6fc.1780531496.7dff583325f0c580f4ba737eb0b44aed.53a6dd0f506f4812a189f71ca0e72680.9128769c3bb28338d6d514573eaacffa&signature=d2777d892c8ab18a551de17d4d34186aa92587aafbc13d6a2e70e96855cdfb40|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="8" tvg-id="Cricket.8" tvg-name="[Cricket] NatWest T20 Blast : Surrey vs Middlesex vs  (Sky Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Surrey vs Middlesex vs  (Sky Sport 2)
+#EXTINF:-1 tvg-chno="5" tvg-id="Cricket.5" tvg-name="[Cricket] NatWest T20 Blast : Surrey vs Middlesex vs  (Sky Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Surrey vs Middlesex vs  (Sky Sport 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-2/playlist.m3u8?token=4831f3bac5779e9633376cf6931faeafeee4ee981a8c5361a3bb3e20cde63022.1780524452.202ebb4f774b93bb3188a9492e4f687d.19f9ef65760ba84c939025c287c71684.b8b84687485e14edc700140d6cab7ebf&signature=35c149cb86b1a8d9b8d2f385b01dd795bd8528cdb5f5aeb80b5bf77f76cf5623|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-2/playlist.m3u8?token=45d4746656504b6471176dc88defd95de874aae15a4e14a8fdebc39b54d39de4.1780531497.90d26b3794ca922ff96b8afe6038740c.a8fd71cfe71c78ba4a8e9e303dddcca3.01a8b32b26cf3ba5a68935fdcb367a33&signature=0cad699232d8f3b680377773ced8f79beaffa4d459d5e281f3fe80ed5f48fd42|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="9" tvg-id="Cricket.9" tvg-name="[Cricket] NatWest T20 Blast : Surrey vs Middlesex vs  (SuperSport Variety 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Surrey vs Middlesex vs  (SuperSport Variety 1)
+#EXTINF:-1 tvg-chno="6" tvg-id="Cricket.6" tvg-name="[Cricket] NatWest T20 Blast : Surrey vs Middlesex vs  (SuperSport Variety 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Surrey vs Middlesex vs  (SuperSport Variety 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+variety+1&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+variety+1&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-variety-1/playlist.m3u8?token=473d82282b0183fabe61d1cbf6c500ba17d5f0094dc73843ef08bf3090bbfdc2.1780524452.e02ffc6d532ad021d28fca960f751e4f.ca2c12a6a36e31ddbe845da03264e436.c28836f1e9e380757d1778fb4a9c5b56&signature=a00385925481155e18986b91ac508ec2d05ee4d4862ab80bcbcd3b3c5092081f|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-variety-1/playlist.m3u8?token=27b27a87df544b74bec46e2a5ef2c22e7989cd1e40f0368240b5f62923a31990.1780531497.777a2132155c82001a65647b8243f6b7.37f6a873c72292602590373b756db509.5e7d5fbfca2affa0cedea8f6edf939b1&signature=180d5ab2f43cc8b76cdd1ba25d0e304483e3ae340508bc03a68bbfa4817fa193|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="10" tvg-id="Cricket.10" tvg-name="[Cricket] 1st ODI : Sri Lanka in West Indies vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st ODI : Sri Lanka in West Indies vs  (Willow Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=cb7adf3b785ecfb45a55c89871333c4cce4b4e4c1e03d0368c590e07f7724974.1780524453.a84e1ba7d8fc5f35ef290a62ff22ff63.d94cdb3fec0b2347c704ebf503a2fa42.fad49a59cb72d8734cea7f9c2ee13370&signature=4f4d173c97f199096f8da3b5e8ec55b586653e37804533d5b1322e6cfd017a3e|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="11" tvg-id="Cricket.11" tvg-name="[Cricket] 1st ODI : Sri Lanka in West Indies vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st ODI : Sri Lanka in West Indies vs  (Astro Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=1b166b5cc9c11c365ca87123d36f25a6ee86015f340511ed958a5b37877f8cfc.1780524453.e70b9ae05519068c7cc0968ce3645119.69362699ea989389ac9560343ecfb8ed.4c00d59b128811a971756bd61b70e691&signature=23ceb14bd74f8014cbbcc7f8a1e094ceb63718088d0598487d16c61e7b0cb98e|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="12" tvg-id="Cricket.12" tvg-name="[Cricket] 1st ODI : Sri Lanka in West Indies vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st ODI : Sri Lanka in West Indies vs  (SuperSport Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=d355f9e817151f445ea142de90e2c30b0653c31426124d71ca9aa2e1c01b692e.1780524453.bfb2771d5feed908ee41151fe659bed6.4c5bd9bc33cc3be22fb2a7cc39429d99.d516b1a479c7cd18fdb13a4267a15838&signature=8d8ef6a0b6a9e4db80ae72d5506690707c5ae2637d9d4a098d3d66ab0e1d40c9|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="13" tvg-id="Cricket.13" tvg-name="[Cricket] NatWest T20 Blast : Surrey vs Middlesex vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Surrey vs Middlesex vs  (Willow 2 Cricket)
+#EXTINF:-1 tvg-chno="7" tvg-id="Cricket.7" tvg-name="[Cricket] NatWest T20 Blast : Surrey vs Middlesex vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Surrey vs Middlesex vs  (Willow 2 Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=3958b373bf9b14b5bfaf0cbfcf9e55891990425a37b288dc88c803f2a3810767.1780524454.533499812093811dbf23d81bac7b487e.27546a0cd3199c6e0e85cf24d4cccec4.4ebbf2184a535d41e586c25009129be6&signature=0996136a51e29acb5a1ea9c1edde5844f64fabaf0241d0cc050e8d1fb706d786|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=8a93535c7a7e5b2f4c7ac19578fcba42429464da9ed5f99d1b35f3bda338b0d6.1780531498.94dfec5368dca154ef3059b7a652172f.a588aae62d0a2873044334ab00f062ab.0300af9d2fca38241fdfda9fa755bd05&signature=cd7b62b07bc1858de0d9d07a4457e9016a95048c5689ea0e2de8a65a64702707|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="14" tvg-id="Cricket.14" tvg-name="[Cricket] NatWest T20 Blast : Surrey vs Middlesex vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Surrey vs Middlesex vs  (Sky Sports Cricket)
+#EXTINF:-1 tvg-chno="8" tvg-id="Cricket.8" tvg-name="[Cricket] NatWest T20 Blast : Surrey vs Middlesex vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Surrey vs Middlesex vs  (Sky Sports Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=ce1095cebb009220b9416742cb64e3984c5360d1617c8cfd605712a936b977e8.1780524454.6fe04b2115725e0298b839789982bc2d.7a3b69e52527cc49c119ea31de346238.cc7e35b5b1399de36fdb69761c436517&signature=23cdf78f2dc24cb6a3526950aaf216a0ad39a951ada07e4af4d40ae3fe96d545|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=5d020966a3c93c72cf8f9396eb79fe7dc6056ec4199c60829924ebaffac9fc0e.1780531498.f33de3bd1279af811540863d368fec7e.c0c5ea0a4210abbcaff747b14bddd075.8188b7bef8643f15c793e12b9fa58f6b&signature=e412f76f831aa0f024f8e485a2478b669cdf1427e95705355b2c0a72f608f220|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="15" tvg-id="Cricket.15" tvg-name="[Cricket] NatWest T20 Blast : Surrey vs Middlesex vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Surrey vs Middlesex vs  (Sky Sports Main Event)
+#EXTINF:-1 tvg-chno="9" tvg-id="Cricket.9" tvg-name="[Cricket] NatWest T20 Blast : Surrey vs Middlesex vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Surrey vs Middlesex vs  (Sky Sports Main Event)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=027a7bf3525e860c2f5311f1e25a46a792a661b71fab14d924cfd1c7214d7c9c.1780524455.68e1ac1e65682d2fa4cd887d031ee12b.afc737595d75c1be0edac711cf805070.f87bef41d55f3270d89742b5e2ba2e75&signature=2fa4abfa209cdbd757f44ad35326991baa6ebea11a2f05b38ce4171afb49fbba|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=37851a4bbc0b85cec25278157bc4ad38f4b51726b2c8120c79c42a9c6e000f35.1780531499.966bda7185fb7188b492d8eec0fba662.1e4a8108c2b09a571c6b2f410f06e1b3.b6bc89a41c531b9cd2ef8f87acb51394&signature=317319b077f676455bee4df15ce157b01e7e959a2bc5064d3f18dc0df961a05f|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="16" tvg-id="Cricket.16" tvg-name="[Cricket] NatWest T20 Blast : Surrey vs Middlesex vs  (Sky Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Surrey vs Middlesex vs  (Sky Sport 2)
+#EXTINF:-1 tvg-chno="10" tvg-id="Cricket.10" tvg-name="[Cricket] NatWest T20 Blast : Surrey vs Middlesex vs  (Sky Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Surrey vs Middlesex vs  (Sky Sport 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-2/playlist.m3u8?token=60e5a670e874bdd54efb22ba454bff680c57ac519e2516be14a1005eaf31bc66.1780524455.8c87f6d8dfe96dfe61cd902e3db9fbd6.ea8b5df411baf0e3a39e14b076bc94bd.c1b2dc899b6c20599c4803ffa173a08d&signature=7b7078bdb239e16c7e12fd2061bcfe5e500585e24d7a5c9aac8a3c7e5d6322bc|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-2/playlist.m3u8?token=75b4c33dba1115c534b06b0ebdcad1965ec1453cf7fd38f07f7543d16c9d73e0.1780531499.6a388b4d24395fb8a4f0ec501372d1fb.ad43338d962917d963971e0c2187f8d8.f919271d4253683a910d8b596aaf20bb&signature=3698f267847076f47952e9d0282afd1a28260c516eb81f7697435471f60463cc|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="17" tvg-id="Cricket.17" tvg-name="[Cricket] NatWest T20 Blast : Surrey vs Middlesex vs  (SuperSport Variety 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Surrey vs Middlesex vs  (SuperSport Variety 1)
+#EXTINF:-1 tvg-chno="11" tvg-id="Cricket.11" tvg-name="[Cricket] NatWest T20 Blast : Surrey vs Middlesex vs  (SuperSport Variety 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] NatWest T20 Blast : Surrey vs Middlesex vs  (SuperSport Variety 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+variety+1&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+variety+1&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-variety-1/playlist.m3u8?token=9c9e98170510c95674c3807602f7347cf111ae00f71555014b5767d1c6041fae.1780524456.bd0b12c826c9d54619f8a516a974c563.1c1e46894a62efbb900fb7383d181078.271e20937fb757ad2ed60b7298cc306a&signature=e7d82042ab176b51a005fa4a192b16cd5acd88ec1c3571d1214d30fc94a8cdb3|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-variety-1/playlist.m3u8?token=051f0a6f4bbda5525b1e244d3639a2cb0795cf5dfc6feafa18cf42d06d78c727.1780531500.e20071134753f0e9135d3173f6d64949.b9c241b3b8822314ee817daa2de7008f.639c30abce5e75ebdb2794e20c4d83f8&signature=a0d7e06357f65c758a67450f4153ef13068ec58a8445b01ef8716955b24a3522|x-forwarded-for:77.238.79.111
 
