@@ -79,7 +79,14 @@ async def check_m3u8_url(url):
 async def get_streams():
     async with aiohttp.ClientSession() as session:
         async with session.get(API_URL) as resp:
-            resp.raise_for_status()
+            print("Status:", resp.status)
+            print("Content-Type:", resp.headers.get("Content-Type"))
+
+            text = await resp.text()
+
+            print("Response preview:")
+            print(text[:1000])
+
             return await resp.json()
 
 async def grab_m3u8_from_iframe(page, iframe_url):
