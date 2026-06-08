@@ -3,41 +3,29 @@
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=win+futbol&code=co&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=win+futbol&code=co&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/co-win-futbol/playlist.m3u8?token=60e4fee1e4abb4dcce9729161d98c733f2d9dc1efc1256baca276b6dc4e0fa91.1780955368.2b0a86a3b0bd80bb3ae223b4afded7bb.0c5908078469f8f44a090eb0e2fe99d3.f19f3adcb8b62a93c63e736bbcd6bf2b&signature=bbebba4cd368fe66a1f1f3aed8f30610eb7e9c706647f6f57a88efcc2cffe5b7|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/co-win-futbol/playlist.m3u8?token=2a0134d282ba7ea3f0bb9fc2792d22f03b133f9702a79a303618fea81f50f916.1780960316.919fe1d4fb381c301938065bb5424933.394d86b020d0f8e1c1a75a5980200d8e.6549602096a978a24fd559dc22355f56&signature=e75023524641367c03c4b9684c3266c0e9f9748a1b4c1ed2a927e10d7bc60584|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="2" tvg-id="Cricket.2" tvg-name="[Cricket] T20 World Cup Women : England W vs Australia W vs  (Sky Sports Mix)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] T20 World Cup Women : England W vs Australia W vs  (Sky Sports Mix)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+mix&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+mix&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-mix/playlist.m3u8?token=9ebea0fa10b87d8f87c432f288c3ab488cae678393dfa207bbf2c72364c59f68.1780955369.55794e648087bcfa4c86df5338932d68.395fd11a638325296fa4298029e7c1f6.2e8ab480a3411d76e405f49e565690a1&signature=4b2be411fb1230fcbadd84c03c93c618586ce000620051bec23ee0fb4c82a04a|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="3" tvg-id="Cricket.3" tvg-name="[Cricket] EUT20 Belgium : Antwerp Anchors vs Ghent Gladiators vs  (Viaplay Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] EUT20 Belgium : Antwerp Anchors vs Ghent Gladiators vs  (Viaplay Sports 2)
+#EXTINF:-1 tvg-chno="2" tvg-id="Cricket.2" tvg-name="[Cricket] EUT20 Belgium : Antwerp Anchors vs Ghent Gladiators vs  (Viaplay Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] EUT20 Belgium : Antwerp Anchors vs Ghent Gladiators vs  (Viaplay Sports 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-2/playlist.m3u8?token=f1bdacf024a24a74aaddd4dc781cbe26200b18781c31a26d8658051fb9ae8fad.1780955369.9649de31e609d14fede403fbf995a715.78eda1b2f5b7072651f36d408fb21c46.e1c0bd03f2bf4de9d4b82c48f424302a&signature=34384e40485b381b461c76ae39818eda134b9af828d2b991b9cbbe91f4b82a21|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-2/playlist.m3u8?token=e548489740094e8cefc8885643a83c2c513303d1e976cfcf2a999f442a3b3d38.1780960317.cc53f2f69fe9b7332f6fd2cbf6f07048.5e3421fffcbf3856e462a6ff247d787e.aa885331ce4d11a4182bcebdcd03d557&signature=4f390122d0f8af0bd70b0db28412da1a6ffbe19bd4e26d7342b62881b2ddd409|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="4" tvg-id="Cricket.4" tvg-name="[Cricket] EUT20 Belgium : Antwerp Anchors vs Ghent Gladiators vs  (Premier Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] EUT20 Belgium : Antwerp Anchors vs Ghent Gladiators vs  (Premier Sports 2)
+#EXTINF:-1 tvg-chno="3" tvg-id="Cricket.3" tvg-name="[Cricket] EUT20 Belgium : Antwerp Anchors vs Ghent Gladiators vs  (Premier Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] EUT20 Belgium : Antwerp Anchors vs Ghent Gladiators vs  (Premier Sports 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-premier-sports-2/playlist.m3u8?token=3af1e0e8af50fa4f947a3da0c45f31486348549d789f4be5dc4f3431e706a042.1780955370.8ae77adf665f2a84c20f57b5c850b26e.5cefb4c4c10fc09608186b110ca32582.2921e2059e2a0a5e4de045f96ef2deb2&signature=8af9321fc0147e35e9029093f6847de9ded3aef39b93e2c589585ffd74a3c4bf|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-premier-sports-2/playlist.m3u8?token=9612d82e1960b43fe7b44ce2c6dadaf3905fd74c187b950edc998003c124bdda.1780960317.2f25120936f36ceac7c73f4ad5274620.dfbace11c45239ea9b459e7e94f11f72.7e14a0c5f0df0d405f41c798106a532c&signature=d8c79fb8b989e8757fca840ce3a9d141a27444054ad34396ffa45ac4c6257461|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="5" tvg-id="Cricket.5" tvg-name="[Cricket] T20 World Cup Women : England W vs Australia W vs  (Sky Sports Mix)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] T20 World Cup Women : England W vs Australia W vs  (Sky Sports Mix)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+mix&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+mix&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-mix/playlist.m3u8?token=47ed10e8120f7cb4ee09854ef57a9b8e7f07f31696a28bbdb4dac7155f45a087.1780955370.0657205cedf18451a4fd66bfc257388c.ead51d8bc4373d21a5f870fd49267422.eb3d7373cb58063c0be589084f2db5e4&signature=4d668400766ad994d229938df10c799a63078633cfdc8fa69ca6c1e5af1a102a|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="6" tvg-id="Cricket.6" tvg-name="[Cricket] EUT20 Belgium : Antwerp Anchors vs Ghent Gladiators vs  (Viaplay Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] EUT20 Belgium : Antwerp Anchors vs Ghent Gladiators vs  (Viaplay Sports 2)
+#EXTINF:-1 tvg-chno="4" tvg-id="Cricket.4" tvg-name="[Cricket] EUT20 Belgium : Antwerp Anchors vs Ghent Gladiators vs  (Viaplay Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] EUT20 Belgium : Antwerp Anchors vs Ghent Gladiators vs  (Viaplay Sports 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-2/playlist.m3u8?token=94d7a508fa271374a60ec1af6bb057afe8ee807df7c3373ec5d512ae5156a9a2.1780955371.19e3478bdd53600e087b713539b474e5.aacddd2b8869252da8b51fa4f8442554.0bd717ca35089dee4f1fee0db92d3848&signature=3f406f838a58fe211fd71ed624b3f18f8ce888762f4f70fdc29b1a5420f36719|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-2/playlist.m3u8?token=cc3302cc2c08654bd49bfdae5627a74d05bfb53a03a467ec8274faa37be5445a.1780960317.b0fad4f8a67dd176141497437b64f1dc.28e6fe5e4264e7c504f7127e5d0ec28b.0af73f3ec044ab9b744ab2b33dc81be2&signature=fe7f8beb754653732f527c8337f7f8e4c082052705501d5205bf18e63a320efb|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="7" tvg-id="Cricket.7" tvg-name="[Cricket] EUT20 Belgium : Antwerp Anchors vs Ghent Gladiators vs  (Premier Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] EUT20 Belgium : Antwerp Anchors vs Ghent Gladiators vs  (Premier Sports 2)
+#EXTINF:-1 tvg-chno="5" tvg-id="Cricket.5" tvg-name="[Cricket] EUT20 Belgium : Antwerp Anchors vs Ghent Gladiators vs  (Premier Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] EUT20 Belgium : Antwerp Anchors vs Ghent Gladiators vs  (Premier Sports 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-premier-sports-2/playlist.m3u8?token=734d61b6306ff032d06c01bc2570bc45aa2865d3791d967b884b9fc850ca9287.1780955371.4cd0b554926db122a72a5fad494e8750.6956f8690e830e9a3b75c48b332cde68.b781a6865e93e5c5a86e63bb6356e19d&signature=2d6f66897fdfd5712c53ef6968a08a904b90a2f8b72dc181f12fbe857a9b7438|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-premier-sports-2/playlist.m3u8?token=cebbc5b988ba1b72214a8d1a56ad85d3af8ece8a03166e787beacbbb3a983796.1780960318.3ed1ac4940b01bc4848fff89a766751a.9193c9743bcc816359a7dbe3affb47be.c05ce43487a545f10c2b23dd81a8de4b&signature=d1be56154ddcd46809805857d8d2aa07ab57be08f1d2c75298710aa96fd6785d|x-forwarded-for:77.238.79.111
 
