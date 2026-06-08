@@ -3,41 +3,17 @@
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+deportes&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+deportes&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-espn-deportes/playlist.m3u8?token=17acbffbbc2071d0eddaeeadb1a1f9a8683c4bdb93b3975459c742833f54d2b0.1780872321.7b41a78c4a11cb3447a3e613f8508761.8db9deb48adcb069beb3d14ecdff14d4.2ca390944bee59771f2ee7ebce935ac9&signature=a0b9a9b3e02b0d56b33d671c84455cf688f40d3dca31034eb19036fc64c7681c|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-espn-deportes/playlist.m3u8?token=29db2a8b27886108fc4e0aa7f44f474af57a1a5e3667a3d2adebdeff7be88361.1780877183.8da031a91d3a70549b5331ae25278f95.0810ac64274ece6f6fe0b092fdddf3d8.d701bfad14be72c387a2bd697b185278&signature=0caf10e14dea44ae4d3ae909f56cd3578948455dc3c6629c83de0079d258e186|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Colombia vs Jordan (M Liga de Campeones 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Colombia vs Jordan (M Liga de Campeones 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=m+liga+de+campeones+1&code=es&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=m+liga+de+campeones+1&code=es&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/es-m-liga-de-campeones-1/playlist.m3u8?token=0183a2b0763a50875e3c3f2bab07dd657fc466a8b985303c1906f0fd57e3dca2.1780872321.1204dfa90709511a3823cc4d205366f5.59fd7281fba2ffff2a47592adaad4770.3cd231a58609ca7e86f2a3f47a8cb943&signature=4357e258c989db7e662320601594b7d88d45f2cbc75f8a7a188fe51ee236d3e5|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/es-m-liga-de-campeones-1/playlist.m3u8?token=8dae01b074957b6eb5cd2072b165d0b19ed9e5dc21abe2ced1fc201892a2546a.1780877184.ee98b094de7eaeca50924b1c375bd2ee.ecb5e18eff2cce2882ed48ab4ebfd387.d4b8c997e66a6890f267882a91c5a9ab&signature=95d7033d7e119ee9778e54de07e22a30f7f4a3124953f73f95f35842c05f350b|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="3" tvg-id="Soccer.3" tvg-name="[Soccer] Colombia vs Jordan (Sport TV 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Colombia vs Jordan (Sport TV 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+1&code=pt&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+1&code=pt&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/pt-sport-tv-1/playlist.m3u8?token=1ac93e6e96d954baa5a060d61591ccd65988cb508c0ed9de3fa851fd095196f2.1780872322.fb837c58c2d79ab981de0edfe3337045.95f28476f43bf03c504da177e77769f9.9d1b94854930ffe0d6f54364f27fac6c&signature=89c4142b5acf1f21c1defee57f0e910b7347590a700da8ccb44d3b3ce2b7a561|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="4" tvg-id="Cricket.4" tvg-name="[Cricket] EUT20 Belgium : Antwerp Anchors vs. Akcel United Brussels vs  (Viaplay Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] EUT20 Belgium : Antwerp Anchors vs. Akcel United Brussels vs  (Viaplay Sports 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-2/playlist.m3u8?token=360706b229a05f65683690e8f21c19838eb7412444de9ba92f3924ba166c7572.1780872322.5c74eee17cfade119f56195a3b0a65ff.d62ecc203dcb33b4f2d0835f539f31e3.29c0fdd3c1406f64367ee462781f238c&signature=46966b421e5d3ab1a33bad0a5ddf0841f30269665152e90df9b1b3541c2f1491|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="5" tvg-id="Cricket.5" tvg-name="[Cricket] EUT20 Belgium : Antwerp Anchors vs. Akcel United Brussels vs  (Premier Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] EUT20 Belgium : Antwerp Anchors vs. Akcel United Brussels vs  (Premier Sports 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-premier-sports-2/playlist.m3u8?token=a90fc2562289bc5e5de4479aa307c089dda75ddcfbb986d5c301445ccb27abc6.1780872323.d4d839fb332a1b8bb41dad5ac4521ccb.6a58af1e245085a26e59273a1f773d30.f8bbece6caa456be31086f1bcf2fb9a7&signature=394f8f23b6128bf0edc8068979e098492ba41f164f804b6eba0a70290467709e|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="6" tvg-id="Cricket.6" tvg-name="[Cricket] EUT20 Belgium : Antwerp Anchors vs. Akcel United Brussels vs  (Viaplay Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] EUT20 Belgium : Antwerp Anchors vs. Akcel United Brussels vs  (Viaplay Sports 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-2/playlist.m3u8?token=46b98206ffd82ca2ca02cb5974774b2c02159db2990bd766758a4dab182fcb62.1780872323.56f004af8f3741b1ea68825e42049885.02b88a2351f66b5db21b5c65f42dbce9.0478dbd27f587faf2f2fde31be4f0c64&signature=763966ebc1f79c9fe1adf8aaf4a34905eb2299da0cc2f19e8995e898bba1cb0c|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="7" tvg-id="Cricket.7" tvg-name="[Cricket] EUT20 Belgium : Antwerp Anchors vs. Akcel United Brussels vs  (Premier Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] EUT20 Belgium : Antwerp Anchors vs. Akcel United Brussels vs  (Premier Sports 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-premier-sports-2/playlist.m3u8?token=c2ae5823ffcedbf97177b8ef5214657c7cd27f01902727eb8de520a4f96af19a.1780872324.a2b31484d0f355935d03aa181b851899.1d14f27db7a2761098459490a384179d.895c33cec2ac80d775c74258b415bc3d&signature=486d82b69e9892f0fdfe2618d5aaa8d96317cafbacbdb610a5e8ed60ea5ea404|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/pt-sport-tv-1/playlist.m3u8?token=d8887a1d6edc5fd30469ae87c98c9abdfdfd5b1f4b33ea4614a6a9b13434a3a7.1780877185.2bef5d99346310b317d6d9f4d19b4237.9f7389d579a237bf1d02697bdc541e20.e01f36d7c49a7a11538f4bc9665ff10a&signature=09c3c21f2ddc99765db61348c04edb45343cee5e4780dec5caa20acfb2349915|x-forwarded-for:77.238.79.111
 
