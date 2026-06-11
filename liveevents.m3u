@@ -3,59 +3,23 @@
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-2/playlist.m3u8?token=9308c3e8ccf5ae5c022e40d7e85ce167a2ce5519bcb3ac45df5e188dd7b2d790.1781206541.f0464955e631a9767e30fa8472180862.22a766f66bfad30db51413b309e02787.460d7079534cf40bfc38d0b2d0f269fd&signature=18f5d4b98798cf061d7f78d77f657364ad849d98de890756b137af7eee7f3bb8|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-2/playlist.m3u8?token=94d1e1b3bc5846c163042c36d476627155889323375bc841fb0c8270b8a4f087.1781213872.67c170edb5a13b801ebbc70c947428ac.c730fe5bbda7e60f528d0a52c7bc418d.84a3afc0855a0bf3417595c2521ff961&signature=63d3912d51d1bb5f2910c6ddb3f3bc5b534584f97a54961a9476592c5e2625fa|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="2" tvg-id="Cricket.2" tvg-name="[Cricket] : EUT20 Belgium : TBC vs TBC vs  (Premier Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] : EUT20 Belgium : TBC vs TBC vs  (Premier Sports 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-premier-sports-2/playlist.m3u8?token=da8e1c9649f9cae995c4d8f2a3e127172705a8336d3a53a3c61302b5ac5a6f76.1781206542.905aec352cf6d1f0a0373c6fef93ff1c.b101a8aca8d5c6eb4e5968d2b65694bd.a165cdb7c19acc21bb241ec24d9d5b5e&signature=5e11d48de935ff04ee3d95d8be10b032ac5cdb5a42b399f8ca3dd087e9e0d64d|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-premier-sports-2/playlist.m3u8?token=6497347eb325187f23e83b3e4a1cf3f0c11ba0634b98459f05fda0ee3d6a4451.1781213873.1b551417afdcecad5597f02a5fd57a43.a3c19a537e48d7baa168002404d15eba.43107c98d1661d4ef0cd3d81dd16c014&signature=3f8e123d288adec2a23a3d72059612ea29061f755a6f2fca46d9a431b2fa7567|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="3" tvg-id="Cricket.3" tvg-name="[Cricket] Queens Club Championships Live HSBC Championships - Queen's Club vs  (BBC Two)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Queens Club Championships Live HSBC Championships - Queen's Club vs  (BBC Two)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bbc+two&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bbc+two&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-bbc-two/playlist.m3u8?token=decc3851baaa2843b6d2e1390597b505210fbd5510118c4fb99cf97c0e56a358.1781206542.dc32264b4426cb00235ece82c5958168.f07dc7bf01d6c9d525082c04b043ba8d.767e139a14ad813e66b489de2c61944e&signature=fde33c343b8ed00df4c501fa24e056e951ad199e07259c6d36bcee3eca919978|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="4" tvg-id="Cricket.4" tvg-name="[Cricket] : EUT20 Belgium : TBC vs TBC vs  (Viaplay Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] : EUT20 Belgium : TBC vs TBC vs  (Viaplay Sports 2)
+#EXTINF:-1 tvg-chno="3" tvg-id="Cricket.3" tvg-name="[Cricket] : EUT20 Belgium : TBC vs TBC vs  (Viaplay Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] : EUT20 Belgium : TBC vs TBC vs  (Viaplay Sports 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-2/playlist.m3u8?token=c3db89f2bdadcfcacb0a40b7fdb8a5d3140e13c32cfed999b7cc35b5d461eb14.1781206543.d26a5955d1dca82111fb1e19f1018f32.4b3064d5efe36e2de864d02c8a9f7ea5.8bcd7b8fc7c80aaf6371f7c3848665e8&signature=b311c4ccb2d3ba558ceb4de0ed5e24a558ba8830e2b4b43fd751e1836ef49a4e|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-2/playlist.m3u8?token=6d73e27b3e7773da013a4b9e53b2cdc46813653801c7c06f53ae4bcc366a284d.1781213874.51c18299b3b70d43aeda6dfb2cc7dd54.f240724e7c23753681503a02ff2460d8.6a39c0e8072f258f20e6f9ed493dfe85&signature=2d17410d545b88f55fb955496d0ad8ea1fac4e36f64c1849ee2c8e3df5362b13|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="5" tvg-id="Cricket.5" tvg-name="[Cricket] : EUT20 Belgium : TBC vs TBC vs  (Premier Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] : EUT20 Belgium : TBC vs TBC vs  (Premier Sports 2)
+#EXTINF:-1 tvg-chno="4" tvg-id="Cricket.4" tvg-name="[Cricket] : EUT20 Belgium : TBC vs TBC vs  (Premier Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] : EUT20 Belgium : TBC vs TBC vs  (Premier Sports 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-premier-sports-2/playlist.m3u8?token=466f605cb29c8f876ceb0fa84933af5eb080018bbc920dcec28aad561b63440a.1781206543.16ebb9085a3e7197962655a3eed82574.99b144eaeae8f597ab420b04e5597087.6d6bc233169c84834b25a9556588d16a&signature=36543e6b2cb28a6b7a1f23e08614c71e8e6d2c0131abf98da86dcb64ad20aba7|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="6" tvg-id="Cricket.6" tvg-name="[Cricket] : EUT20 Belgium : TBC vs TBC vs  (Viaplay Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] : EUT20 Belgium : TBC vs TBC vs  (Viaplay Sports 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-2/playlist.m3u8?token=0659583833d5ad13754edf7771b210f4597319cb85e6db98d97349550c30c481.1781206543.74dc5f778033b3eaaebf102326da7ce0.2a6a8534832b74d1d49c31b03cb20725.39231e703143ae0cd317b1fb50fafa8f&signature=2a8ae5192f79adfea38d9c64dbfddf4c5f3a3bc2ea5e451121b5742a0f42c767|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="7" tvg-id="Cricket.7" tvg-name="[Cricket] : EUT20 Belgium : TBC vs TBC vs  (Premier Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] : EUT20 Belgium : TBC vs TBC vs  (Premier Sports 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-premier-sports-2/playlist.m3u8?token=ff5a025cdc6d5fd24cd680ebcd38be4327c2a9c1fcc39b2fcc733e6e329f7d97.1781206544.d1c3a67ff476c52acf8ddcebb02c657b.01163219e81795feabb20fd8e4ebb180.31ceaf1adc03b624d1caa43e27cf6129&signature=1f0da97e79c216e747c94b126cef1d0f57cee4bded881b748e6e33cdf4040035|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="8" tvg-id="Cricket.8" tvg-name="[Cricket] Queens Club Championships Live HSBC Championships - Queen's Club vs  (BBC Two)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Queens Club Championships Live HSBC Championships - Queen's Club vs  (BBC Two)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bbc+two&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bbc+two&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-bbc-two/playlist.m3u8?token=c30cec2c9895a1d64894a798fb7f15d4d25a02c660617dcccb9dc5609c091c44.1781206544.5891d4648c0fe4aa4d5efb51ecda3e5a.325cb51a971ba616be7671c0f7441aca.31c1867f4293b64b1dfbccc2d72d0608&signature=7f0d2713501f5e58ca1e3e480b29311fc08be40f07d501991792ec0a941974aa|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="9" tvg-id="Cricket.9" tvg-name="[Cricket] : EUT20 Belgium : TBC vs TBC vs  (Viaplay Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] : EUT20 Belgium : TBC vs TBC vs  (Viaplay Sports 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-2/playlist.m3u8?token=2b2158a63e595e40bf1b05f1271933a965c1e034d2d5759825cae1f0bfdfcea0.1781206544.23c4b903f8ede920de4eafe76bf7cebf.e595d89fc0b6af9164cdb9d373043032.9bf1864d824c972bceee08d9db977973&signature=19815a02080a4a41f44a2d70bdc1a95a8cf59abc1b4f425f20940e483a2f9067|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="10" tvg-id="Cricket.10" tvg-name="[Cricket] : EUT20 Belgium : TBC vs TBC vs  (Premier Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] : EUT20 Belgium : TBC vs TBC vs  (Premier Sports 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-premier-sports-2/playlist.m3u8?token=cc6c78c74436451a480982e10361ff0d25c940b62572945c45a40817caded9a2.1781206545.1a10b0a52f367f1290e92cf499053462.9079dacaafdd75f2153f282d8753c403.16dd9ea30710f8f62d769719cebf525b&signature=f19d96b86fa17ccdb042119974a39c98ec29b250dd4facfa815b2a6457a508ea|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-premier-sports-2/playlist.m3u8?token=c316e9b5d06568f675526b2623231728179dd474d3dbe758125901882aff2158.1781213874.88cbbbb4f9ce531c95a20b52b47b6b8e.3619973b3d74795c7cc0463d8452eadc.58ea63e6bc01bf8d9536ff49e0ca8a77&signature=891b456b82ee57e12cfec72c9950a77fc778fa7c2b874135e96060ce46dd84df|x-forwarded-for:77.238.79.111
 
