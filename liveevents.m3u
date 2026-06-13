@@ -1,241 +1,139 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Coquimbo Unido vs O'Higgins (TNT Sports)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3165.png" group-title="Soccer",[Soccer] Coquimbo Unido vs O'Higgins (TNT Sports)
+#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Everton vs Palestino (TNT Sports)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/5032.png" group-title="Soccer",[Soccer] Everton vs Palestino (TNT Sports)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports&code=cl&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports&code=cl&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/cl-tnt-sports/playlist.m3u8?token=41473246221282963c977ddab2bb753a6794bf24bb772bd8391dfbbae4dc1aa0.1781374011.ec1673acde966ab58ea098ebbdac61c2.e81e47f52daf74c2f91ad732b97c3357.4a504695ccdd5abce52c8ebdd70eca7a&signature=96379a3cd8e2eac986edee90dbfc844412254f182c0b773f2ef6803229f1d7e7|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/cl-tnt-sports/playlist.m3u8?token=d5be32cab09f576e6d93366c34e4d871280100a99095dccf0be1e569fca6df8e.1781380607.6982b33d75883465b5b4947b227d37a8.27ec5f65a606505858132f8a46344e22.dd1b2a44e6a550446606bc4b1fd08b96&signature=e0ba2bf9afc0b384c212f4b212013110a237f92da94f4443cfad9d151e6ce3a6|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Everton vs Palestino (TNT Sports)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/5032.png" group-title="Soccer",[Soccer] Everton vs Palestino (TNT Sports)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports&code=cl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports&code=cl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/cl-tnt-sports/playlist.m3u8?token=a1b6bb2b10089a69b4e63ee79eea739016bcce3e63e8c1009f165f3e47396e6e.1781374013.44cfeb906bcb8a3d2c286e8fbf66b83b.acfd88e7ff6194ced0a5a7ddd6e37678.809ddc6919f677de77fa6398add5f5dd&signature=b2cdd355c818f58aa3e40fd70edb1a509e3149a4bc8222a71aacb4e1df3f8d65|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="3" tvg-id="Cricket.3" tvg-name="[Cricket] Women's T20 World Cup : Scotland vs Ireland vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : Scotland vs Ireland vs  (Sky Sports Cricket)
+#EXTINF:-1 tvg-chno="2" tvg-id="Cricket.2" tvg-name="[Cricket] Women's T20 World Cup : Australia vs S. Africa vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : Australia vs S. Africa vs  (Sky Sports Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=a7c44b6939370d39d8cc08f64858e2115017338c99f7655364695fc3d987a205.1781374014.c3d585da5826044bb1726a1dfa1e7cd9.f4c1a1eefd3f7a8abf1008165016ba42.0eea6b62f21328b700fdd58c32af7d77&signature=1622dc420113a3dc714a01a93b9f3488add63cabfa54cda9ba8f7a234d7a764d|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=b2e44f9902e6503175eca50acf35ff275c19474087e470ad266ee7d879131cbc.1781380609.dee6b88dcadb232cfb8e2220f99fb5f7.f73be8cd356ba5f89347bb4c2a68f086.f363603b929778526ffb79029b2e5cb4&signature=11a385c679555a5a8433eba388029499433bdfb4106a21caa8640d806874da19|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="4" tvg-id="Cricket.4" tvg-name="[Cricket] Women's T20 World Cup : Scotland vs Ireland vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : Scotland vs Ireland vs  (Sky Sports Main Event)
+#EXTINF:-1 tvg-chno="3" tvg-id="Cricket.3" tvg-name="[Cricket] Women's T20 World Cup : Australia vs S. Africa vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : Australia vs S. Africa vs  (Sky Sports Main Event)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=1c1129e94aff233e7e9e77256be62299a5ae2d20af3b350a4c34d95371b06fe3.1781374015.51d3811ecd0108d7c2e080d4addda6c9.cb1bbcb3e2f41ecdcd868a9925c7af82.e1a8faf3c6d90a1e4d4312ef1e03e425&signature=5bcc397552c55b79b9ac7f6c9ec58c929a71c87663f9ab4f1a7de6593ccf6726|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=2c167de7f912efbcefd16ab876822706a1698cf5433ea54805460b85e185a25b.1781380610.5093f21eee00fa9a0388ed0fb2912842.43e5c03c54bf41fb866978297d5a8d0d.231f987ee81e7c8b563e69899b7af633&signature=5c11c012a5ef4e7c9d759bca08dbf61e76511ed385af11f2b8fa5e6901661e11|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="5" tvg-id="Cricket.5" tvg-name="[Cricket] Women's T20 World Cup : Scotland vs Ireland vs  (Sky Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : Scotland vs Ireland vs  (Sky Sport 4)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+4&code=nz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+4&code=nz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-4/playlist.m3u8?token=fef9928aa166afaa36d5620285edd48b1accce203a1d3b0d7514120defaa2127.1781374015.b06efd33f606ef55bc583bf14e7c8560.b8cea7445557bcb676c64d710dd6b973.00c514b752f36d3f381589b8549c8158&signature=ed31550c9d2e760f3f4eafc69c5c7e25d25f23eac77fe63e1f20750fe71a8dc1|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="6" tvg-id="Cricket.6" tvg-name="[Cricket] Women's T20 World Cup : Scotland vs Ireland vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : Scotland vs Ireland vs  (SuperSport Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=a430632b87534ef44449d81dee6700d89dfaf45c270dfe2029c1d42e9f83fb78.1781374016.eba1e331bd0ceccf9a086f68d9340707.28cd4787e2f4932f4940a519e58a6e52.9c2d944c50b2eaeadc25eeaa039e9798&signature=cafe2b6c09ba711eeeb14edc72e32e5191edc219a196cc86d6aa5873c0a0c94e|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="7" tvg-id="Cricket.7" tvg-name="[Cricket] Women's T20 World Cup : Scotland vs Ireland vs  (SuperSport Grandstand)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : Scotland vs Ireland vs  (SuperSport Grandstand)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+grandstand&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+grandstand&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-grandstand/playlist.m3u8?token=679b3d995a011119f2a58d64ec30f62a8a7759cfea8d246c5bf38b8be7c5dd53.1781374017.76251f71e312797084f3e9490617e20f.b1780866102e1959aa0a65fb957cdb18.99b38098e5acefa8651cab91637a0167&signature=534920bd0f6216b0940dd7580185571be8350b0cf14b25503be64fb04e1c4292|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="8" tvg-id="Cricket.8" tvg-name="[Cricket] Queens Club Championships Live HSBC Championships - Queen's Club vs  (BBC Two)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Queens Club Championships Live HSBC Championships - Queen's Club vs  (BBC Two)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bbc+two&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bbc+two&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-bbc-two/playlist.m3u8?token=182aadfea2caf3b1d281bae2e4ba0d6a02719f5097380e7d3647d8f149781dfe.1781374018.8d2de3ac51cce7fdc259ef0a0ad4b849.933ab51f375354f6c503915b4d7fe4e3.eaada765395cec02d9885cb8032da69a&signature=91e1eef12e29250e7a6373fd49e0d23a295d33c5ed486d8eb46c3f59a7c9c109|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="9" tvg-id="Cricket.9" tvg-name="[Cricket] Cricket : EUT20 Belgium : TBC vs TBC vs  (Viaplay Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Cricket : EUT20 Belgium : TBC vs TBC vs  (Viaplay Sports 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-2/playlist.m3u8?token=15dbd3f72a5fb981a77611374326d3e01bec932577cabeff25febda76f297849.1781374019.fa312e6841ca1b0a2a4d81513dd55e9b.040c5d0a87f9619750a9e42fdf6187a9.da2b1ef6dd3e8add8bf3c96891f22d70&signature=75dfbf7d235500439f87dcd1554775040f883c95ab5b25582ab42a2980363d7e|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="10" tvg-id="Cricket.10" tvg-name="[Cricket] Cricket : EUT20 Belgium : TBC vs TBC vs  (Premier Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Cricket : EUT20 Belgium : TBC vs TBC vs  (Premier Sports 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-premier-sports-2/playlist.m3u8?token=eec002c5b7f407a7c2fd1543e0168199f22a8d50115939eb38e63083e643a9af.1781374020.4c9d3f5059f6adc9a556d97e2330d910.4967f39d2e3874167dbf1992843a7a07.b25220878b8e457eb355230eeafddbc1&signature=c22b29c3754c9307fac5c3587f4e51d00801afbfaaf9ecd764e3cacf8f8cad56|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="11" tvg-id="Cricket.11" tvg-name="[Cricket] Women's T20 World Cup : Australia vs S. Africa vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : Australia vs S. Africa vs  (Sky Sports Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=3d2b6870ac3a4056a45646d493d6d42ba4118c098dd4d02454d9cd83a4862211.1781374020.d803329ed7e8e43196daecba8eba2bee.2e5a0516abff1b1d74f3755d8b25d016.728e3de94767a8beccce4946000a3953&signature=713d665ce8abe073fb91b55d48c529cdc139c1e156faa5bafd7d9e52a8c969e8|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="12" tvg-id="Cricket.12" tvg-name="[Cricket] Women's T20 World Cup : Australia vs S. Africa vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : Australia vs S. Africa vs  (Sky Sports Main Event)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=d00647ed4577a7220ec09f8076ad0eab8daa4fa87defd56622ba9eb6e8f803df.1781374021.62f625f8bb972162cbb6f7956973c01f.9dd750c60854e37af3c63be891dff0c1.603e856d7d2427da813d2a19ccc92bf0&signature=a1f2b02fbe6a4af5b65ab6986148b7cf258328d680679c7391f6badd1e6c9b5a|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="13" tvg-id="Cricket.13" tvg-name="[Cricket] Women's T20 World Cup : Australia vs S. Africa vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : Australia vs S. Africa vs  (Sky Sport 1)
+#EXTINF:-1 tvg-chno="4" tvg-id="Cricket.4" tvg-name="[Cricket] Women's T20 World Cup : Australia vs S. Africa vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : Australia vs S. Africa vs  (Sky Sport 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=9fbb75152dd9acddbb5025ac115b38b1675469e1fc0818be2558d467a58e85c8.1781374022.b25969acc9b86b54e3109352b0f25d37.912e15880a7ff6263386b56975ae9f24.17476708b7751098f5f11c10de39d87a&signature=0af73c1ef40d761e60acccd005b724630856d556ed231873b1d8310bfc03d591|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=ee2ae83c3900bd1b1f7c09024c4cbc289e9bbdf3f22b2494057ab83d7d3d686b.1781380610.70a5c8013944dc48e7450ed62e5d1c7c.e5d0acd2195f4f3f2bb519fdf404206b.bb45db64b8e95b920c4ccaf577ff55c9&signature=9b81c833c81326fab328056ce3448f4dfd49c784a4e30a535878bf8a17d2e050|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="14" tvg-id="Cricket.14" tvg-name="[Cricket] Women's T20 World Cup : Australia vs S. Africa vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : Australia vs S. Africa vs  (SuperSport Cricket)
+#EXTINF:-1 tvg-chno="5" tvg-id="Cricket.5" tvg-name="[Cricket] Women's T20 World Cup : Australia vs S. Africa vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : Australia vs S. Africa vs  (SuperSport Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=bca321d818d0d547bd97cf3eec168473445831941bbe2b70de5a7363b9c352bf.1781374023.f62139ae1a3557f2ca3810cccdb1e58e.39cb74612d678470f10a8e4a0e5ac0c2.1460c3773037ffbf024c0c7474917cad&signature=edd29c689b6cc6767bc6ecb441d5be21caba9d068c5fb690aed3bd3348f80867|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=8740a672ce9c7be41a3e9ef7dd7a433c1c75b37af0c00262e12e8526c5d85823.1781380611.63c7f668affe3ff3933e185d6253afad.b7a750eadadd88b3a22eaf2e052ad315.8c4f2dbbefe1c318f4c1773410228cf6&signature=ffdb170b3da9b085d3beb1c9b3e0d959651dd74db0d817c0f667a89174cf6bb3|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="15" tvg-id="Cricket.15" tvg-name="[Cricket] Women's T20 World Cup : Australia vs S. Africa vs  (SuperSport Grandstand)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : Australia vs S. Africa vs  (SuperSport Grandstand)
+#EXTINF:-1 tvg-chno="6" tvg-id="Cricket.6" tvg-name="[Cricket] Women's T20 World Cup : Australia vs S. Africa vs  (SuperSport Grandstand)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : Australia vs S. Africa vs  (SuperSport Grandstand)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+grandstand&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+grandstand&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-grandstand/playlist.m3u8?token=015880b397c6d4e523c58cc5781e722861a0f68b0584558d1e5e5295c2006a12.1781374024.189ce8dd7c7c323d9a79d32836032d5b.8f9702ac9ec0c71ab92acc57d9729196.90996cff4d87e538d6e4ad59cd0e1642&signature=a974bedfef6c0d55babde4e9a0a9be00e04320deb35ab77ebcdecb9e1af3778e|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-grandstand/playlist.m3u8?token=366b2cdb542f1cbd72c5028c34c795c6be9c1cd2bfbfef68843c1dd425b4890d.1781380612.d187cc775c8506fa958846698cab4bcd.94cfcdeca14d4a230148e87d18443605.8f32dbc341afd65995162d28a5574a3e&signature=c3d11d7e71a52869f7d03c075fccb77c6a5b66e0125d6129044b4a4f2a093228|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="16" tvg-id="Cricket.16" tvg-name="[Cricket] Cricket : EUT20 Belgium : TBC vs TBC vs  (Viaplay Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Cricket : EUT20 Belgium : TBC vs TBC vs  (Viaplay Sports 2)
+#EXTINF:-1 tvg-chno="7" tvg-id="Cricket.7" tvg-name="[Cricket] Cricket : EUT20 Belgium : TBC vs TBC vs  (Viaplay Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Cricket : EUT20 Belgium : TBC vs TBC vs  (Viaplay Sports 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-2/playlist.m3u8?token=8d97a869b3cef3568f118db2c123e5b4de614b23fddd2555f436409ff45f0d04.1781374024.8265c57e227f86c328efd77e3dddac3b.5e6fb8effae637e0a2e91e446933fe7c.b92e55b8e7b76e54ad6daa4d81b3378f&signature=eee828eea2fa50f475c678ca4f6322c28a46e450ddc51962278d917afdf46647|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-2/playlist.m3u8?token=4079acb3cac41eabf4bfd17e92550e2f7b3beea006e4f2154b2caf708ddfab2e.1781380612.25e026abe43de15342fd201cd059c57f.3ee95c85bceeda6afeb2e1f1e890b0af.eccfcdfd456d1529cf604e88d85e3a56&signature=9524303459b52c80660c11c3d9bfb10f645ad58493a9f204ed3460be83d3c3a3|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="17" tvg-id="Cricket.17" tvg-name="[Cricket] Cricket : EUT20 Belgium : TBC vs TBC vs  (Premier Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Cricket : EUT20 Belgium : TBC vs TBC vs  (Premier Sports 2)
+#EXTINF:-1 tvg-chno="8" tvg-id="Cricket.8" tvg-name="[Cricket] Cricket : EUT20 Belgium : TBC vs TBC vs  (Premier Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Cricket : EUT20 Belgium : TBC vs TBC vs  (Premier Sports 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-premier-sports-2/playlist.m3u8?token=14ff1f87c2a2a6d84607f19ae464b1139ac12fb5fb06a5ae89b1103c767fec51.1781374025.a187417056033c491b35f920ed937f30.20d67bf4fb2fa109065fa6ac0850823d.626040fe106b8964a051ff0a5d238959&signature=b7a5141d461062b955e3dfe2a4240e5f8610577a57f342ce06286a95ef493760|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-premier-sports-2/playlist.m3u8?token=8e210898a6a86eda03c8cbb9c6eaabd9bb76d55af4b929e0b822d1d615d97397.1781380613.26a3fa7961362540b2e8434108f89c78.7aa2c535b3391d56880cc235686bf31a.30614a553ef44114410f964856870fa8&signature=11048774dc8797d97fe49398992c88ec94e91429430156e822f298a99ea891d6|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="18" tvg-id="Cricket.18" tvg-name="[Cricket] Women's T20 World Cup : West Indies vs NZ vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : West Indies vs NZ vs  (Sky Sports Cricket)
+#EXTINF:-1 tvg-chno="9" tvg-id="Cricket.9" tvg-name="[Cricket] Women's T20 World Cup : West Indies vs NZ vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : West Indies vs NZ vs  (Sky Sports Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=d7b7a6f6640570ca0c9e10c9b36a22d15c6604afdfd4e9b72dc3e66d3b4dd04e.1781374026.48d744f0bd12fa07b81ec792bc8076b7.bf2be85a39fa9fd7c4b0d1c2dbd875f6.39bbdfaaac14737414d8675369f7d451&signature=8d9ea9602f3bcd46d730f63f1649bd88cb2b2ef6480df66bc0b3bb3fc89e0e33|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=78a0bd2ddaa8b418afdf61f3c53cf574a3ce840026cda6c72449011fee0769ad.1781380614.6ea2cb7197c4a62e1ce8f74b7c710873.d6e8ff175d30c4b74850e8862d67f97f.95ff8006c133be3c04da4af6f9d41d65&signature=b341a7ed6ede336bd5088bb0d831522c8f099dc2003b8380378dd18a3f2de315|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="19" tvg-id="Cricket.19" tvg-name="[Cricket] Women's T20 World Cup : West Indies vs NZ vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : West Indies vs NZ vs  (Sky Sports Main Event)
+#EXTINF:-1 tvg-chno="10" tvg-id="Cricket.10" tvg-name="[Cricket] Women's T20 World Cup : West Indies vs NZ vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : West Indies vs NZ vs  (Sky Sports Main Event)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=272a09089b54fae9c7eaf184d33f920fa014c5babd3b7ad6a9f0bde4090e1110.1781374027.902f7a30a0c5a64c20a83dd1e6eaddef.129aadfe443e9b2dee4ddd319fad5724.58b16bc9d671ec085bcbf70b287985e7&signature=00255fc85b539d691d3d040225e33e42b409d299ad968250d4f2239737852884|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=ab90f7622393e109691560e4e59ea7b66952880e73607f9cbfadd9c30d378917.1781380615.e206797e4adbcd7e0975c7708b38813c.1e29b3697933e9dfc5c25d66c0dadff8.fe8c8f0b57fe4eca110828d471fe6f92&signature=808022deb6485a2bde77f7c8529b7566c57b4e292a60b8af31d5f05377986d31|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="20" tvg-id="Cricket.20" tvg-name="[Cricket] Women's T20 World Cup : West Indies vs NZ vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : West Indies vs NZ vs  (Sky Sport 1)
+#EXTINF:-1 tvg-chno="11" tvg-id="Cricket.11" tvg-name="[Cricket] Women's T20 World Cup : West Indies vs NZ vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : West Indies vs NZ vs  (Sky Sport 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=28e66c6294c51f5fa5a0a7d8557b1739f8f2823e7275262b82c8db3909dd5d91.1781374028.2bea404bf0be3eeecc1a281e2b555434.d8cb5adee0227512c2244bbf2c81b267.8c91b3f8a8d707f4dc2c99157b4f3a77&signature=0a88bb5390b7f3642b9e6ffa18faf7107222b8d5b95659e25e62a7dc8e920386|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=e4cbc68bcde6105db63292c10ecc590755a410b08836cee1938ca0a5b2d105c3.1781380615.9d6f9956b6438c0c8027f780cef8c7a1.4b50fb7ef6a9f7382daa23360539710f.19226fdf020a49cb2605fab56124b14f&signature=6088785d13d52b5bd10ccecea4ec2eb99bf7e6f8e721edc987e8ff5827067878|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="21" tvg-id="Cricket.21" tvg-name="[Cricket] Women's T20 World Cup : West Indies vs NZ vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : West Indies vs NZ vs  (SuperSport Cricket)
+#EXTINF:-1 tvg-chno="12" tvg-id="Cricket.12" tvg-name="[Cricket] Women's T20 World Cup : West Indies vs NZ vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : West Indies vs NZ vs  (SuperSport Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=8c7239958e58c6532d189a5c84fbaa8c9bd0efcff781c49c9daff46c65cd335e.1781374029.eff5da288d8c4c9d44475f7284482165.c30cb484dc87092473d282a5703312a0.46d3386f216008ed47093835ac95c61d&signature=30d3ab1163ed187e97eac8786f85437bf611daab3bfaa5a73fd26cdf15809966|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=5f722bb6a243989048f7a6fa67b8f3da4614d222ad7d0abd130d8f836ac6720a.1781380616.eb8e6b7f738a2478b1a2f534b9ea8ed5.10c851bb92f1668070df3a3e5d6a5cb6.6626ec82c3f6c77f58c0be690c326dbf&signature=c48549467bffc2cbb0556c173b00fbd1069c7946065046bb238a83f15b5e441d|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="22" tvg-id="Cricket.22" tvg-name="[Cricket] Women's T20 World Cup : Scotland vs Ireland vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : Scotland vs Ireland vs  (Sky Sports Cricket)
+#EXTINF:-1 tvg-chno="13" tvg-id="Cricket.13" tvg-name="[Cricket] Women's T20 World Cup : Australia vs S. Africa vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : Australia vs S. Africa vs  (Sky Sports Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=c813ff145a8c91c8fc869e9960330b21f5e051d6b7e8fe2b18ba1c449e81056d.1781374030.a4c5cc7529211fc66a5fcfcaf01bdc3f.3ad63e482d1515a8362d2fbfe8340610.1f236504a6376781680d2674a31ed7c2&signature=584d51c233e63d3c0ba5b81423b6839593f0551617d73964c6454ceef2f5ac53|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=07623b267f885bd58233955e4b6ae6158b1d47d7dc920d621ca2a6b2757e59e9.1781380617.30f5833072512bac1eca0a40bd8f3fe7.551fa29991a23d0fab86c3aee37f2710.71bab80141c8ccad6eae4d40e9afea13&signature=1dbdbef556cc3909999415f145a684dbb30fbae518f4be6477b6a1e09c9ef2f1|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="23" tvg-id="Cricket.23" tvg-name="[Cricket] Women's T20 World Cup : Scotland vs Ireland vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : Scotland vs Ireland vs  (Sky Sports Main Event)
+#EXTINF:-1 tvg-chno="14" tvg-id="Cricket.14" tvg-name="[Cricket] Women's T20 World Cup : Australia vs S. Africa vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : Australia vs S. Africa vs  (Sky Sports Main Event)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=4297b69078350daea43e1e708d0d4527047e5fbfd6a8b75ddddfde9454a28235.1781374030.69c6ff7a9d04e5b7e9693fa02b47916c.e33a5f936bd5675846a6c6b98318e253.029914e6e41820328692eaf4b7efc9ed&signature=a507c13e2c9c86a3e738ba4a7bda5ea926cc2fc2a8070ed257fe9cf416378d56|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=d187535dcc646da2cc1f61d3acc7288b9fa9bbc37ab77b22243849081f1bbfba.1781380617.79408409740c73155af751cbc7b99f1e.318d830c1a6923352f9b5be71b76c781.e343e2d5306ec58e8eccb298132cce97&signature=8409d35068d5f49e407a46e6ae9671483553cf1baf1fc417fb8398e59121d937|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="24" tvg-id="Cricket.24" tvg-name="[Cricket] Women's T20 World Cup : Scotland vs Ireland vs  (Sky Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : Scotland vs Ireland vs  (Sky Sport 4)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+4&code=nz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+4&code=nz&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="15" tvg-id="Cricket.15" tvg-name="[Cricket] Women's T20 World Cup : Australia vs S. Africa vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : Australia vs S. Africa vs  (Sky Sport 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-4/playlist.m3u8?token=0436f7180f053fbf899ff45b176b10e9d1d6943635a0056c6cf550d8fa87f2ec.1781374031.a67c75779d4445509038306066e7de2c.2c34dfe96fdc9bc53fab5e3d160c8542.c22ce3682f1386b200b7a215eb4b0d47&signature=23ae801cff918899c1bc4c5e0278a5e5817ce541de9746470496b30cc2d71907|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=8d866813d3eb1e09f538776c1bec9a3a21564c766d62c42193c21bd5cc9312c3.1781380618.21b08d30b9bbfa8beaff121e40ae2d1b.301e392771b63770639d59bc5edcc624.7da232ef087af71d44dd233b65ef9f97&signature=b656d9350b32859f1c5d8484e503da759cb765aca990adaf1cc503cb6921a028|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="25" tvg-id="Cricket.25" tvg-name="[Cricket] Women's T20 World Cup : Scotland vs Ireland vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : Scotland vs Ireland vs  (SuperSport Cricket)
+#EXTINF:-1 tvg-chno="16" tvg-id="Cricket.16" tvg-name="[Cricket] Women's T20 World Cup : Australia vs S. Africa vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : Australia vs S. Africa vs  (SuperSport Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=a92f0ca77a8c6ac3b9f4bf01644400a11dbfe981285df11e04e9c1a106e7d0cc.1781374032.82e1544fcc67840ea0d9274c1320967e.95217a18b2b08169f0ee8c68131d4d78.a3fa76b9f2ccfbd89704a0236ee61857&signature=6ff40c0df67f56f57ee9c6172741282c92c2dad4c3c2bd398bb54ad1d4806368|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=240811b5319a56ad0462467ab3938c7b14e2b40a04bd928e17b541883303c6df.1781380619.242cda5e201af564ac5dc6f070ef60fa.1d1d942c8b82f9e36337aa00c457cc11.80ddbfd2aa5bfe793e5332a8ffd6de5d&signature=0087275e1676c779a4daa705aeb50a7ff468b874c402f427b25111d7f42a227e|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="26" tvg-id="Cricket.26" tvg-name="[Cricket] Women's T20 World Cup : Scotland vs Ireland vs  (SuperSport Grandstand)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : Scotland vs Ireland vs  (SuperSport Grandstand)
+#EXTINF:-1 tvg-chno="17" tvg-id="Cricket.17" tvg-name="[Cricket] Women's T20 World Cup : Australia vs S. Africa vs  (SuperSport Grandstand)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : Australia vs S. Africa vs  (SuperSport Grandstand)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+grandstand&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+grandstand&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-grandstand/playlist.m3u8?token=b8ab23abb0b42bd0862cbc578d3a612cd46defaa8ee1a3541c7b445eee04fc27.1781374033.f7400d02ad9c9b07c85bb78da62de844.5f42c0a690f87d743f70c560427b3b65.e789d5174bf9a9950f9c640cef72e69b&signature=d4ab600a58c1e2f062c5f1b035fc1b15e952513092cf6b3382b93fb85261df0e|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-grandstand/playlist.m3u8?token=c149ff4a44c5dcc5ed8402f1fd31c0d035700bc518c21cdad79086c4a8a2b84b.1781380620.3ae36abfcd54d6e828b0fc48d8c39d6b.287295dbcfbf8f3febf1833357ec7c6f.c6b9237cf8a2f7b0ff218c858fe0e712&signature=93c725e59b82b4f20c684336f9095f1ada100f68cf8d4628a5efb5d5072ab515|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="27" tvg-id="Cricket.27" tvg-name="[Cricket] Queens Club Championships Live HSBC Championships - Queen's Club vs  (BBC Two)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Queens Club Championships Live HSBC Championships - Queen's Club vs  (BBC Two)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bbc+two&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bbc+two&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-bbc-two/playlist.m3u8?token=75ec9f19842bd56ae948174a29460637b1c9844939c266ca5588245efd9d52e6.1781374034.e041a83526f00198a20ad4ebdb472699.432a9701363cebed547a838eb388715e.df194a158abb538ff3de66e389cb36a4&signature=9afd859f14990ccd92640c56531897cba79134f5f1a97e30a352b5b7ba749255|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="28" tvg-id="Cricket.28" tvg-name="[Cricket] Cricket : EUT20 Belgium : TBC vs TBC vs  (Viaplay Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Cricket : EUT20 Belgium : TBC vs TBC vs  (Viaplay Sports 2)
+#EXTINF:-1 tvg-chno="18" tvg-id="Cricket.18" tvg-name="[Cricket] Cricket : EUT20 Belgium : TBC vs TBC vs  (Viaplay Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Cricket : EUT20 Belgium : TBC vs TBC vs  (Viaplay Sports 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-2/playlist.m3u8?token=04e52b303e4aea1fd118878ca5cfd222f303669a771f8691b3483585e7dc8b8c.1781374035.3dd2979996dff9e781a722add9835956.bfa0106d48531266726e04c608765356.ac395060ef7496d209ad8b0889b0bc1f&signature=3e4ae864205e4a933354e132246d0f92039c82cfd0aef728b9a4c3451a578a8b|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-2/playlist.m3u8?token=ca0201229c422a84b2c492b3a3567d7ec94dc3e6ac0080cc1de88cdc3565c99e.1781380620.662113bcb273f60adb174f3d4f78b801.dfb2cb2962659a7e4d4c2bb6b8364e25.cbeaeded62b62ae54906b23708671ad3&signature=97f7ece6fe9e3bf333f91ea758feac059232062d1693a05be13e19a118df770e|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="29" tvg-id="Cricket.29" tvg-name="[Cricket] Cricket : EUT20 Belgium : TBC vs TBC vs  (Premier Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Cricket : EUT20 Belgium : TBC vs TBC vs  (Premier Sports 2)
+#EXTINF:-1 tvg-chno="19" tvg-id="Cricket.19" tvg-name="[Cricket] Cricket : EUT20 Belgium : TBC vs TBC vs  (Premier Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Cricket : EUT20 Belgium : TBC vs TBC vs  (Premier Sports 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-premier-sports-2/playlist.m3u8?token=4876687048a556a626f080b9264cf49f1a2d176384a6e66d16dbfc182ee29063.1781374035.667a4c7201414c5622db7be0b175defc.381bafc3691520e6e70e1f64dcd8fd57.940bc5634e12141e7d2feaec68bf1b74&signature=732974e3ab6849dce5c018982290a71f0740465faa223b905cbf4591fe57b41c|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-premier-sports-2/playlist.m3u8?token=30ad982675ca1275611858457568a0d0932901b67699a11f3e3be289d332eced.1781380621.cca2336752f42b07a53dd5d42336a2ae.77426e7e02ffcd45809393ad077d2bc6.d9b2e80482e46a5fe5253b6df76046cd&signature=225aa89e3115a40974557c9189ad52fc2de2c7d9299bdaff45b5a935faa60aa0|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="30" tvg-id="Cricket.30" tvg-name="[Cricket] Women's T20 World Cup : Australia vs S. Africa vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : Australia vs S. Africa vs  (Sky Sports Cricket)
+#EXTINF:-1 tvg-chno="20" tvg-id="Cricket.20" tvg-name="[Cricket] Women's T20 World Cup : West Indies vs NZ vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : West Indies vs NZ vs  (Sky Sports Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=932e6b8057ec3d1bcebd282d9a66504abb5637ce30ff7cbb969b477d7c313bbc.1781374036.e42416a56540318ea828601c2f607d97.efdf8d15de13b0107b74b1ac7201fdde.222a4c986acdebddbc5ec195eee47f68&signature=438fca07d1356e6e27a9b92169c0d34998da49820f17faf839fb7577f74d03e9|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=5da1da9ec0e0cb7e7b905400b8728173cd6dbf9deed7b77d2263412c286fc3e6.1781380622.0d5664ccf36c02df565befb84a28938f.e6b0e710725e47196b52d606fb7db1ba.d0ad8f52cc0db1bfa91589656159b3b8&signature=d7e82c6381b4ef5ffd0bd30ff79739d54d34943d0edbee82817f39fd6bba2628|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="31" tvg-id="Cricket.31" tvg-name="[Cricket] Women's T20 World Cup : Australia vs S. Africa vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : Australia vs S. Africa vs  (Sky Sports Main Event)
+#EXTINF:-1 tvg-chno="21" tvg-id="Cricket.21" tvg-name="[Cricket] Women's T20 World Cup : West Indies vs NZ vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : West Indies vs NZ vs  (Sky Sports Main Event)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=d80585ee86f287ca144804fcb09045b88b24a51ca0b141f660b1fd9628f80250.1781374037.93d446faccc14e807908aef894b30f11.8be9c083f46c2adc87b8c1f3ab29b0eb.4f2ed7eecdabd228f829a060f74a3f70&signature=66cf2d233525bc3b86629ec6c1bc56b79094fd58458e54302d879aa39628ac45|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=f855510c0922f96419670472b0e273dfa1f22aef457733cb8cd8391f1528d320.1781380622.d601827a48cf7c58cb882c482f8152f9.141696bee2305b31d76abd951a3a4eb7.57d987bb797cde8f81cd50cd0b4998db&signature=d74d50815cb7b87920761d6afde2d45b57d1e8a3430b04ab1dac3dab85842165|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="32" tvg-id="Cricket.32" tvg-name="[Cricket] Women's T20 World Cup : Australia vs S. Africa vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : Australia vs S. Africa vs  (Sky Sport 1)
+#EXTINF:-1 tvg-chno="22" tvg-id="Cricket.22" tvg-name="[Cricket] Women's T20 World Cup : West Indies vs NZ vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : West Indies vs NZ vs  (Sky Sport 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=18cf3bd9e2fca8c3b3e7f010868601d6debb14e9b94731a5285180fe7d9de919.1781374038.277f287984f0598c1a60dcf273403867.57bb0e537326f1ae723e332b09b6121d.cecbd91683dc3fdd204b1de87dc48013&signature=b14b3581947cf2c1c028e4a1ed772a390e581bdf34a1157669169547f9d07432|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=a8bf4a6f9514100d29821798e67e311cd9fe391022d642b899fbd4d9199d2f1b.1781380623.8272250d9353add345d7d08a100d5fcf.4a0bb58ba25ce489e2b44e5a252b0c62.8ff0fd8b15faf65412be8e4a7454aa0c&signature=5f9f2ffdc95971dd242e0ed9366e31f892941e7dcf77d5812da25297025c6940|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="33" tvg-id="Cricket.33" tvg-name="[Cricket] Women's T20 World Cup : Australia vs S. Africa vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : Australia vs S. Africa vs  (SuperSport Cricket)
+#EXTINF:-1 tvg-chno="23" tvg-id="Cricket.23" tvg-name="[Cricket] Women's T20 World Cup : West Indies vs NZ vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : West Indies vs NZ vs  (SuperSport Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=cacea2c5689af1efdc86c09e5f0f4668f3f5e270bf1207f2b326f577f897b2f2.1781374039.7ab7309b8be64cbc6af6cf5505a9ac49.34d9cf27a6622a0bf30dd58f6ce43da4.74ffcd9747094779795357a6e669583d&signature=93e81fb27cd69d79f0dd5f9330fe8830c3597285b994a6f7584ddc2cce9b948c|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="34" tvg-id="Cricket.34" tvg-name="[Cricket] Women's T20 World Cup : Australia vs S. Africa vs  (SuperSport Grandstand)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : Australia vs S. Africa vs  (SuperSport Grandstand)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+grandstand&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+grandstand&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-grandstand/playlist.m3u8?token=305bdd5e3a55ee28fc70d90ba386310559e4175a1368a4d769674e230f0a8b30.1781374039.b661edb759cafb290ee662ed7fa9d368.65c2c0c160b1f79a94108929ffc76a8a.6b48a77604515abdf0e5a76ec1f44121&signature=c7bb8dfa78862bc94f5524364d2d58268993f6ac84d4879ad7bd606c1c0495dd|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="35" tvg-id="Cricket.35" tvg-name="[Cricket] Cricket : EUT20 Belgium : TBC vs TBC vs  (Viaplay Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Cricket : EUT20 Belgium : TBC vs TBC vs  (Viaplay Sports 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-2/playlist.m3u8?token=0076423db3a6ec859be38e3f6401991ba1c1fc81f3eb6d0c4d68d783c54f2239.1781374040.289c6a0093a691793bd486faec9cd8bc.4871064f63b5403b5dfa987e9d50998d.21af49cba7cf729f07baca1f7270e180&signature=640aa451df6c9ab615f2cfc7f1310395b7a0c7f9b1a7b2749e5ce731b1a5ba5a|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="36" tvg-id="Cricket.36" tvg-name="[Cricket] Cricket : EUT20 Belgium : TBC vs TBC vs  (Premier Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Cricket : EUT20 Belgium : TBC vs TBC vs  (Premier Sports 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-premier-sports-2/playlist.m3u8?token=4069229c16602bab179837bdf203b59d40cb31d464b87ead1f50fb59dfecdf6b.1781374041.7b58d25c3db64f449b1d91cd14b3ac7f.dff65d31c7aec370a46ebf0457619160.32c024f2e84cfac7ab34e96bb53c314a&signature=0416164a3a085252799af86bd99f6d6381a5a1c3122362ba2450650d220d5ff5|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="37" tvg-id="Cricket.37" tvg-name="[Cricket] Women's T20 World Cup : West Indies vs NZ vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : West Indies vs NZ vs  (Sky Sports Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=6fdbb2075aa2cb3e13dff8110dd4b3c4ff158c40b21c2bbdb8215abd9af02583.1781374042.9da4b97bffb8a18823d13b5b00ea7631.4450b3c233baa162d7366bb5f042d996.887bfaba70cc2afd2fdf2c0285bf95c5&signature=617a10edb398d721200704c63e7d2cd3707934c461156b19f8eea3b43618e973|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="38" tvg-id="Cricket.38" tvg-name="[Cricket] Women's T20 World Cup : West Indies vs NZ vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : West Indies vs NZ vs  (Sky Sports Main Event)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=8790dd19219312fa50d0ee6af31579ae7561a008edf085a6e1b08fd997da81f8.1781374043.7dd8675f374e64de980e9453d2b472e2.aa7a2d9f6398d2b72478d202c7698e65.77660388f13058c15b5f8675735f051f&signature=bda76517d3b9d8902a73ad1bd726c86f5cf71541ee8ed33be5caf458985321b3|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="39" tvg-id="Cricket.39" tvg-name="[Cricket] Women's T20 World Cup : West Indies vs NZ vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : West Indies vs NZ vs  (Sky Sport 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=24b074a127a41ec4e23b81e90add3e83976c2788c4ebff17aa9854c1cd229433.1781374044.74af3a2cf002ec3c90f8ed1d2d17c926.bde1368d40f12158e328bf66e9d14d74.a69d289733ff2b17a5680e661b590837&signature=533dc2d0fba2690a879dbef8e2fe0fd13fd7f31ef3027294e5bd6e51d6363af1|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="40" tvg-id="Cricket.40" tvg-name="[Cricket] Women's T20 World Cup : West Indies vs NZ vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's T20 World Cup : West Indies vs NZ vs  (SuperSport Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=d04bae070b9bb40221cf6f5be5def6150dd58f86e5003ae71e62efc82b5e83a7.1781374044.ae5ba2788238638cf801347309b64206.42dbd122341bfeb0623d5a852fff7e81.abe42914a6ddf7ccd7560a7cb72ad8df&signature=39f5ea6cc21581396bd969407bcfd0962f6d5e6bee4b0dce5588a37b4146941d|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=d4e88aece9d9227e8acb973523204904c074bd7796ac2027ce6f97e44924ac28.1781380624.f1bdcaeedd141fc36afa029fcded6776.59b98e20958006b0e729e5389a7005ff.618e1a6cafbe90e5e53537fe6fda882b&signature=624aadab35b507889b0ce905a788c40b82aeeaf9ec39e4dcf4f45f469413b6dc|x-forwarded-for:77.238.79.111
 
