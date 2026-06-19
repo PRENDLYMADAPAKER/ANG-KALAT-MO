@@ -39,7 +39,8 @@ jobs:
             
             if ! git diff --cached --quiet; then
               git commit -m "Auto-Update streams: $(date -u +'%Y-%m-%d %H:%M:%S') UTC"
-              git push origin main
+              # FIX: Use --force to prevent merge rejection errors
+              git push --force origin main
             else
               echo "No track modifications detected. Skipping revision updates."
             fi
