@@ -1,9 +1,13 @@
-name: 🚀 Update TheTVApp Playlist 📺
+name: 📺 Update TheTVApp Playlist 📺
 
 on:
   schedule:
-    - cron: '0 */2 * * *'  # Every 2 hours on the hour (00:00, 02:00, ..., 22:00 UTC)
+    - cron: '0 */2 * * *'  # Every 2 hours
   workflow_dispatch:        # Manual trigger
+
+# Fix: Grant write permissions explicitly to allow code pushing
+permissions:
+  contents: write
 
 jobs:
   scrape:
@@ -18,20 +22,35 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: 📦 Install Python dependencies & Playwright browsers + system deps
+      - name: 📦 Install Python dependencies & Playwright
         run: |
           python -m pip install --upgrade pip
           pip install playwright urllib3
           playwright install firefox
           playwright install-deps
 
-      - name: 🎯 Run scraping script
+      - name: 🚀 Run scraping script
         run: python tv.py
 
-      - name: 💾 Commit & force-push playlist if changed (excluding workflow files)
+      - name: 💾 Commit & force-push playlist changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add TheTVApp.m3u
-          git reset -- .github/workflows/ || true    # Unstage workflow files if staged
-          git diff --cached --quiet || (git commit -m "Update playlist $(date -u)" && git push --force origin main)
+          
+          # Only attempt tracking if file exists
+          if [ -f TheTVApp.m3u ]; then
+            git add TheTVApp.m3u
+            git reset -- .github/workflows/ || true
+            
+            # Check if there are changes to commit
+            if ! git diff --cached --quiet; then
+              git commit -m "Update playlist $(date -u)"
+              git push --force origin main
+            else
+              echo "No changes detected in the playlist file."
+            fi
+          else
+            echo "Error: TheTVApp.m3u was not created."
+            exit 1
+          fi
+          
