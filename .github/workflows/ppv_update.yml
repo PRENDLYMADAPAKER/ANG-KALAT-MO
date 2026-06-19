@@ -40,10 +40,13 @@ jobs:
             if ! git diff --cached --quiet; then
               git commit -m "Auto-Update streams: $(date -u +'%Y-%m-%d %H:%M:%S') UTC"
               
-              # 🔄 Pull latest changes from remote using rebase to prevent branch conflicts
-              git pull --rebase origin main
+              # 🔄 Fetch the absolute latest history status from GitHub
+              git fetch origin main
               
-              # 🚀 Push cleanly
+              # 🔀 Merge the changes, forcing our newly generated playlist to win any conflicts
+              git merge origin/main -X theirs --allow-unrelated-histories -m "Merge remote changes"
+              
+              # 🚀 Push the updated playlist cleanly
               git push origin main
             else
               echo "No track modifications detected. Skipping revision updates."
