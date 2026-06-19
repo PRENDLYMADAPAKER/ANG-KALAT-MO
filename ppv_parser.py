@@ -6,7 +6,6 @@ from pathlib import Path
 M3U8_FILE = "PPV_Streams.m3u"
 API_URL = "https://api.ppv.to/api/streams"
 
-# Fallback headers to replicate a browser request and prevent 403 blocks
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; Gecko/20100101) Firefox/130.0",
     "Accept": "application/json",
@@ -15,11 +14,6 @@ HEADERS = {
 }
 
 def build_stream_url(uri_name: str) -> str:
-    """
-    Constructs the absolute streaming URL using the uri_name.
-    Adjust this template format if your media player handles proxy layers 
-    or custom stream delivery extensions (e.g., appending .m3u8).
-    """
     if uri_name.startswith("http"):
         return uri_name
     return f"https://ppv.to/live/{uri_name}"
@@ -39,7 +33,6 @@ async def fetch_streams():
 
 def build_m3u_content(data) -> list:
     lines = []
-    # Configure baseline EPG repositories for metadata handling
     lines.append('#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz"')
     
     if not data or not data.get("success"):
@@ -62,11 +55,9 @@ def build_m3u_content(data) -> list:
             if not uri_name:
                 continue
                 
-            # Clean up title configuration
             display_title = f"{name} ({tag})" if tag else name
             stream_link = build_stream_url(uri_name)
             
-            # Formulate the safe metadata string block
             lines.append(f'#EXTINF:-1 tvg-logo="{logo}" group-title="{group_name}",{display_title}')
             lines.append(stream_link)
             streams_added += 1
@@ -82,7 +73,6 @@ async def main():
         
     m3u_lines = build_m3u_content(data)
     
-    # Save processed payload configuration to file output
     with open(M3U8_FILE, "w", encoding="utf-8") as f:
         f.write("\n".join(m3u_lines))
         
@@ -90,4 +80,4 @@ async def main():
 
 if __name__ == "__main__":
     asyncio.run(main())
-      
+    
