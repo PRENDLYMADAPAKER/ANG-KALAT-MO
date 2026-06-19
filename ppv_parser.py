@@ -14,17 +14,17 @@ HEADERS = {
 }
 
 def build_stream_url(uri_name: str) -> str:
-    """
-    Converts the internal uri_name into a direct, playable .m3u8 stream link.
-    """
     if uri_name.startswith("http"):
         return uri_name
         
-    # Clean up any trailing or leading slashes
     clean_uri = uri_name.strip("/")
+    base_stream = f"https://stream.ppv.to/live/{clean_uri}/index.m3u8"
     
-    # FIX: Map to the live streaming media server delivery domain instead of the website frontend
-    return f"https://stream.ppv.to/live/{clean_uri}/index.m3u8"
+    # 🌟 THE SECRET SOLUTION: Inject strict browser identity parameters directly into the playlist stream URL
+    # This works perfectly on players like TiviMate, Televizo, OTT Navigator, and Perfect Player.
+    bypass_headers = "|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0&Referer=https://ppv.to/&Origin=https://ppv.to"
+    
+    return f"{base_stream}{bypass_headers}"
 
 async def fetch_streams():
     print(f"🔄 Fetching data from API: {API_URL}")
@@ -88,4 +88,4 @@ async def main():
 
 if __name__ == "__main__":
     asyncio.run(main())
-    
+            
