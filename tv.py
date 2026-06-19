@@ -37,9 +37,13 @@ async def scrape_tv_urls():
         page = await context.new_page()
 
         print(f"🔄 Loading /tv channel list...")
-        await page.goto(CHANNEL_LIST_URL)
-        links = await page.locator("ol.list-group a").all()
-        hrefs = [await link.get_attribute("href") for link in links if await link.get_attribute("href")]
+        try:
+            await page.goto(CHANNEL_LIST_URL, wait_until="domcontentloaded")
+            links = await page.locator("ol.list-group a").all()
+            hrefs = [await link.get_attribute("href") for link in links if await link.get_attribute("href")]
+        except Exception as e:
+            print(f"❌ Failed to load channel list: {e}")
+            hrefs = []
         await page.close()
 
         for href in hrefs:
@@ -56,12 +60,13 @@ async def scrape_tv_urls():
                         stream_url = real
 
                 new_page.on("response", handle_response)
-                await new_page.goto(full_url)
                 try:
-                    await new_page.get_by_text(f"Load {quality} Stream", exact=True).click(timeout=5000)
+                    await new_page.goto(full_url, wait_until="commit")
+                    await new_page.get_by_text(f"Load {quality} Stream", exact=True).click(timeout=3000)
+                    # Wait up to 3 seconds for network to go idle instead of hard pausing 4 seconds
+                    await new_page.wait_for_load_state("networkidle", timeout=3000)
                 except:
                     pass
-                await asyncio.sleep(4)
                 await new_page.close()
 
                 if stream_url:
@@ -78,17 +83,20 @@ async def scrape_section_urls(context, section_path, group_name):
     page = await context.new_page()
     section_url = BASE_URL + section_path
     print(f"\n📁 Loading section: {section_url}")
-    await page.goto(section_url)
-    links = await page.locator("ol.list-group a").all()
-    hrefs_and_titles = []
+    try:
+        await page.goto(section_url, wait_until="domcontentloaded")
+        links = await page.locator("ol.list-group a").all()
+        hrefs_and_titles = []
 
-    for link in links:
-        href = await link.get_attribute("href")
-        title_raw = await link.text_content()
-        if href and title_raw:
-            title = " - ".join(line.strip() for line in title_raw.splitlines() if line.strip())
-            hrefs_and_titles.append((href, title))
-
+        for link in links:
+            href = await link.get_attribute("href")
+            title_raw = await link.text_content()
+            if href and title_raw:
+                title = " - ".join(line.strip() for line in title_raw.splitlines() if line.strip())
+                hrefs_and_titles.append((href, title))
+    except Exception as e:
+        print(f"❌ Failed to load section {group_name}: {e}")
+        hrefs_and_titles = []
     await page.close()
 
     for href, title in hrefs_and_titles:
@@ -106,14 +114,12 @@ async def scrape_section_urls(context, section_path, group_name):
                     stream_url = real
 
             new_page.on("response", handle_response)
-            await new_page.goto(full_url)
-
             try:
-                await new_page.get_by_text(f"Load {quality} Stream", exact=True).click(timeout=5000)
+                await new_page.goto(full_url, wait_until="commit")
+                await new_page.get_by_text(f"Load {quality} Stream", exact=True).click(timeout=3000)
+                await new_page.wait_for_load_state("networkidle", timeout=3000)
             except:
                 pass
-
-            await asyncio.sleep(4)
             await new_page.close()
 
             if stream_url:
@@ -190,7 +196,6 @@ def append_new_streams(lines, new_urls_with_groups):
             lines.append(url)
 
     lines = [line for line in lines if line.strip()]
-    lines.insert(0, '#EXTM3U url-tvg="https://tinyurl.com/DrewLive002-epg"')
     return lines
 
 def clean_m3u_header_with_epg(lines):
@@ -199,9 +204,11 @@ def clean_m3u_header_with_epg(lines):
     return lines
 
 async def main():
+    # Fix: Create file automatically if missing from repository runner
     if not Path(M3U8_FILE).exists():
-        print(f"❌ File not found: {M3U8_FILE}")
-        return
+        print(f"ℹ️ {M3U8_FILE} not found. Creating a blank template file...")
+        with open(M3U8_FILE, "w", encoding="utf-8") as f:
+            f.write('#EXTM3U\n')
 
     with open(M3U8_FILE, "r", encoding="utf-8") as f:
         lines = f.read().splitlines()
@@ -210,9 +217,12 @@ async def main():
 
     print("🔧 Replacing only /tv stream URLs...")
     tv_new_urls = await scrape_tv_urls()
-    if not tv_new_urls:
-        print("❌ No TV URLs scraped.")
-        return
+    
+    # If file was blank template, build placeholders for tv channels
+    if len(lines) <= 1 and tv_new_urls:
+        for i, url in enumerate(tv_new_urls):
+            lines.append(f'#EXTINF:-1 group-title="TV",Channel {i+1}')
+            lines.append(url)
 
     updated_lines = replace_urls_in_tv_section(lines, tv_new_urls)
 
@@ -220,11 +230,8 @@ async def main():
     append_new_urls = await scrape_all_append_sections()
 
     if append_new_urls:
-        # 🧹 Remove old section entries before appending new ones
         section_groups = list(SECTIONS_TO_APPEND.values())
         updated_lines = remove_old_section_entries(updated_lines, section_groups)
-
-        # ➕ Append new streams
         updated_lines = append_new_streams(updated_lines, append_new_urls)
 
     updated_lines = clean_m3u_header_with_epg(updated_lines)
@@ -232,7 +239,8 @@ async def main():
     with open(M3U8_FILE, "w", encoding="utf-8") as f:
         f.write("\n".join(updated_lines))
 
-    print(f"\n✅ {M3U8_FILE} updated: Cleaned old sections, added new streams, header set.")
+    print(f"\n✅ {M3U8_FILE} updated successfully.")
 
 if __name__ == "__main__":
     asyncio.run(main())
+            
