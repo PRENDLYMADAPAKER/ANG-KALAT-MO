@@ -14,9 +14,17 @@ HEADERS = {
 }
 
 def build_stream_url(uri_name: str) -> str:
+    """
+    Converts the internal uri_name into a direct, playable .m3u8 stream link.
+    """
     if uri_name.startswith("http"):
         return uri_name
-    return f"https://ppv.to/live/{uri_name}"
+        
+    # Clean up any trailing or leading slashes
+    clean_uri = uri_name.strip("/")
+    
+    # FIX: Map to the live streaming media server delivery domain instead of the website frontend
+    return f"https://stream.ppv.to/live/{clean_uri}/index.m3u8"
 
 async def fetch_streams():
     print(f"🔄 Fetching data from API: {API_URL}")
