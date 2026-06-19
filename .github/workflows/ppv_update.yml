@@ -1,0 +1,51 @@
+name: 🔄 Auto-Update PPV Streams Playlist
+
+on:
+  schedule:
+    - cron: '0 */2 * * *'  # Runs every 2 hours on the hour
+  workflow_dispatch:        # Allows manual run from GitHub dashboard
+
+permissions:
+  contents: write          # Required to commit modifications back to repository
+
+jobs:
+  update-list:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Checkout code repo
+        uses: actions/checkout@v4
+
+      - name: 🐍 Initialize Python Runtime
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'     # Optimizes pipeline execution environments
+
+      - name: 📦 Install Network Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install httpx
+
+      - name: 🚀 Parse Stream JSON Payload
+        run: python ppv_parser.py
+
+      - name: 💾 Commit & Push Playlists Changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          
+          if [ -f PPV_Streams.m3u ]; then
+            git add PPV_Streams.m3u
+            
+            if ! git diff --cached --quiet; then
+              git commit -m "Auto-Update streams: $(date -u +'%Y-%m-%d %H:%M:%S') UTC"
+              git push origin main
+            else
+              echo "No track modifications detected. Skipping revision updates."
+            fi
+          else
+            echo "Error: Output playlist asset target missing."
+            exit 1
+          fi
+          
