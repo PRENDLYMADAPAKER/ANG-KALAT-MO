@@ -39,8 +39,12 @@ jobs:
             
             if ! git diff --cached --quiet; then
               git commit -m "Auto-Update streams: $(date -u +'%Y-%m-%d %H:%M:%S') UTC"
-              # FIX: Use --force to prevent merge rejection errors
-              git push --force origin main
+              
+              # 🔄 Pull latest changes from remote using rebase to prevent branch conflicts
+              git pull --rebase origin main
+              
+              # 🚀 Push cleanly
+              git push origin main
             else
               echo "No track modifications detected. Skipping revision updates."
             fi
@@ -48,4 +52,3 @@ jobs:
             echo "Error: Output playlist asset target missing."
             exit 1
           fi
-          
