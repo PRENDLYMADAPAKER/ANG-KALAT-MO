@@ -1,0 +1,46 @@
+name: Update IPTV Playlist
+
+on:
+  schedule:
+    # Runs every 6 hours (Adjust the cron expression if you want a different frequency)
+    - cron: '0 */6 * * *'
+  workflow_dispatch: # Allows you to manually trigger the script from the Actions tab
+
+jobs:
+  update-playlist:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository Content
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
+
+    - name: Install Dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests
+
+    - name: Execute Python Script
+      run: |
+        # Replace 'script.py' with the exact name of your python file
+        python script.py
+
+    - name: Commit and Push Changes
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        
+        # Check if the file changed before attempting to commit to prevent empty commit errors
+        if git status --porcelain | grep -q "UDPTV.m3u"; then
+          git add UDPTV.m3u
+          git commit -m "Automated Playlist Update: $(date -u +'%Y-%m-%d %H:%M:%S') UTC"
+          git push
+          echo "Playlist updated and pushed successfully."
+        else
+          echo "No changes detected in the playlist file. Skipping push."
+        fi
+        
