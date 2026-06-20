@@ -1,24 +1,6 @@
 #EXTM3U
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz, https://raw.githubusercontent.com/dbghelp/mewatch-EPG/refs/heads/main/mewatch.xml" refresh="3600"
 
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport LOW 1" tvg-logo="" group-title="BEIN SPORTS",Bein Sport LOW 1
-http://ahsa.live/live/mokebek/013458015/968657.ts
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport LOW 2" tvg-logo="" group-title="BEIN SPORTS",Bein Sport LOW 2
-http://ahsa.live/live/mokebek/013458015/968658.ts
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport LOW 3" tvg-logo="" group-title="BEIN SPORTS",Bein Sport LOW 3
-http://ahsa.live/live/mokebek/013458015/968659.ts
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport LOW 4" tvg-logo="" group-title="BEIN SPORTS",Bein Sport LOW 4
-http://ahsa.live/live/mokebek/013458015/968660.ts
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport LOW 5" tvg-logo="" group-title="BEIN SPORTS",Bein Sport LOW 5
-http://ahsa.live/live/mokebek/013458015/968661.ts
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport LOW 6" tvg-logo="" group-title="BEIN SPORTS",Bein Sport LOW 6
-http://ahsa.live/live/mokebek/013458015/968662.ts
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport LOW 7" tvg-logo="" group-title="BEIN SPORTS",Bein Sport LOW 7
-http://ahsa.live/live/mokebek/013458015/968663.ts
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport LOW 8" tvg-logo="" group-title="BEIN SPORTS",Bein Sport LOW 8
-http://ahsa.live/live/mokebek/013458015/968664.ts
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport LOW 9" tvg-logo="" group-title="BEIN SPORTS",Bein Sport LOW 9
-http://ahsa.live/live/mokebek/013458015/968665.ts
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport SD1" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="BEIN SPORTS",Bein Sport SD1
 http://ahsa.live/live/mokebek/013458015/537156.ts
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport SD2" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png" group-title="BEIN SPORTS",Bein Sport SD2
@@ -81,10 +63,6 @@ http://ahsa.live/live/mokebek/013458015/537167.ts
 http://ahsa.live/live/mokebek/013458015/537168.ts
 #EXTINF:-1 tvg-id="" tvg-name="Bein Xtra HD1 720" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_XTRA1_Digital_Mono.png" group-title="BEIN SPORTS",Bein Xtra HD1 720
 http://ahsa.live/live/mokebek/013458015/537169.ts
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport English 1 720" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png" group-title="BEIN SPORTS",Bein Sport English 1 720
-http://ahsa.live/live/mokebek/013458015/537172.ts
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport English 2 720" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS2_ENGLISH_Digital_Mono.png" group-title="BEIN SPORTS",Bein Sport English 2 720
-http://ahsa.live/live/mokebek/013458015/537173.ts
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport French HD2 720" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS2_FRENCH_Digital_Mono.png" group-title="BEIN SPORTS",Bein Sport French HD2 720
 http://ahsa.live/live/mokebek/013458015/537175.ts
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 HD (G)" tvg-logo="https://up6.cc/2025/08/175526810479821.png" group-title="BEIN SPORTS",BEIN SPORTS 1 HD (G)
@@ -201,24 +179,6 @@ http://ahsa.live/live/mokebek/013458015/537224.ts
 http://ahsa.live/live/mokebek/013458015/537225.ts
 #EXTINF:-1 tvg-id="" tvg-name="BEIN Sports 9 720P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/BeIN-Sports-Logo.svg/2560px-BeIN-Sports-Logo.svg.png" group-title="BEIN SPORTS",BEIN Sports 9 720P
 http://ahsa.live/live/mokebek/013458015/537226.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN Sports 1 En hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/BeIN-Sports-Logo.svg/2560px-BeIN-Sports-Logo.svg.png" group-title="BEIN SPORTS",BEIN Sports 1 En hd
-http://ahsa.live/live/mokebek/013458015/537227.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN Sports 2 En hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/BeIN-Sports-Logo.svg/2560px-BeIN-Sports-Logo.svg.png" group-title="BEIN SPORTS",BEIN Sports 2 En hd
-http://ahsa.live/live/mokebek/013458015/537228.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN Sports 3 En hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/BeIN-Sports-Logo.svg/2560px-BeIN-Sports-Logo.svg.png" group-title="BEIN SPORTS",BEIN Sports 3 En hd
-http://ahsa.live/live/mokebek/013458015/537229.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN Sports 1 FR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/BeIN-Sports-Logo.svg/2560px-BeIN-Sports-Logo.svg.png" group-title="BEIN SPORTS",BEIN Sports 1 FR
-http://ahsa.live/live/mokebek/013458015/537230.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN Sports 2 FR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/BeIN-Sports-Logo.svg/2560px-BeIN-Sports-Logo.svg.png" group-title="BEIN SPORTS",BEIN Sports 2 FR
-http://ahsa.live/live/mokebek/013458015/537231.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN Sports 3 FR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/BeIN-Sports-Logo.svg/2560px-BeIN-Sports-Logo.svg.png" group-title="BEIN SPORTS",BEIN Sports 3 FR
-http://ahsa.live/live/mokebek/013458015/537232.ts
-#EXTINF:-1 tvg-id="" tvg-name="TOD" tvg-logo="" group-title="BEIN SPORTS",TOD
-http://ahsa.live/live/mokebek/013458015/1027879.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN 4k UHD (3840×2160p)" tvg-logo="https://i.postimg.cc/rwb8fMFH/BEIN-4-K-1.png" group-title="BEIN SPORTS",BEIN 4k UHD (3840×2160p)
-http://ahsa.live/live/mokebek/013458015/537234.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN 4k 1080p" tvg-logo="https://i.postimg.cc/rwb8fMFH/BEIN-4-K-1.png" group-title="BEIN SPORTS",BEIN 4k 1080p
-http://ahsa.live/live/mokebek/013458015/537235.ts
 #EXTINF:-1 tvg-id="" tvg-name="BEIN Sports 1 1080P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/BeIN-Sports-Logo.svg/2560px-BeIN-Sports-Logo.svg.png" group-title="BEIN SPORTS",BEIN Sports 1 1080P
 http://ahsa.live/live/mokebek/013458015/537236.ts
 #EXTINF:-1 tvg-id="" tvg-name="BEIN Sports 2 1080P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/BeIN-Sports-Logo.svg/2560px-BeIN-Sports-Logo.svg.png" group-title="BEIN SPORTS",BEIN Sports 2 1080P
