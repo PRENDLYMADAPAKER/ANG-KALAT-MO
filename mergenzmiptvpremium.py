@@ -7,7 +7,6 @@ from datetime import datetime
 urls = [
     "https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/tv.m3u",
     "https://raw.githubusercontent.com/PRENDLYMADAPAKER/ANG-KALAT-MO/refs/heads/main/IPTV%20PREMIUM",
-    "https://raw.githubusercontent.com/PRENDLYMADAPAKER/ANG-KALAT-MO/refs/heads/main/Sports.m3u",
     "https://raw.githubusercontent.com/insa-ship-it/app-m3u-generator/refs/heads/main/playlists/roku_all.m3u",
     "https://raw.githubusercontent.com/PRENDLYMADAPAKER/ANG-KALAT-MO/refs/heads/main/playlists/plutotv_all.m3u"
 ]
