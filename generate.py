@@ -4,7 +4,7 @@ RakutenTV UK — EPG + M3U generator
 Fetches programme data from the Rakuten v3/live_channels API and merges
 stream URLs from an external M3U source to produce:
   • epg.xml      — 72-hour XMLTV guide
-  • Rakuten.m3u — paired M3U playlist (channels with matched streams only)
+  • playlist.m3u — paired M3U playlist (channels with matched streams only)
 """
 
 import hashlib
