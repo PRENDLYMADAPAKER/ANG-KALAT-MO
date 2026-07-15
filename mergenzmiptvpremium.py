@@ -1,7 +1,4 @@
 import requests
-from collections import defaultdict
-import re
-from datetime import datetime
 
 # List of M3U source URLs
 urls = [
@@ -12,13 +9,13 @@ urls = [
     "https://raw.githubusercontent.com/BuddyChewChew/RakutenTV/refs/heads/main/playlist.m3u"
 ]
 
-# EPG URLs (Removed spaces after commas for better IPTV player compatibility)
-EPG_URL = "https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz,https://raw.githubusercontent.com/dbghelp/mewatch-EPG/refs/heads/main/mewatch.xml,https://raw.githubusercontent.com/BuddyChewChew/RakutenTV/main/epg.xml,https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
+# EPG URLs with spaces after commas to satisfy your IPTV player
+EPG_URL = "https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz, https://raw.githubusercontent.com/dbghelp/mewatch-EPG/refs/heads/main/mewatch.xml, https://raw.githubusercontent.com/BuddyChewChew/RakutenTV/main/epg.xml, https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
 
 output_file = "NZMIPTVPREMIUM.m3u"
 
 with open(output_file, "w", encoding="utf-8") as outfile:
-    # 1. Write your custom header first with the x-tvg-url attribute
+    # Write the custom header containing the spaced out EPG list
     outfile.write(f'#EXTM3U x-tvg-url="{EPG_URL}"\n')
 
     for url in urls:
@@ -28,11 +25,10 @@ with open(output_file, "w", encoding="utf-8") as outfile:
             lines = response.text.splitlines()
 
             for line in lines:
-                # 2. Skip the original #EXTM3U headers from the downloaded files completely
+                # Skip the headers inside the downloaded M3U files
                 if line.strip().startswith("#EXTM3U"):
                     continue
                 
-                # Write all the actual channel data
                 outfile.write(line + "\n")
                 
             print(f"✅ Downloaded and merged: {url}")
