@@ -12,14 +12,15 @@ urls = [
     "https://raw.githubusercontent.com/BuddyChewChew/RakutenTV/refs/heads/main/playlist.m3u"
 ]
 
-# File where merged content will be saved
-EPG_URL = "https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz, https://raw.githubusercontent.com/dbghelp/mewatch-EPG/refs/heads/main/mewatch.xml,https://raw.githubusercontent.com/BuddyChewChew/RakutenTV/main/epg.xml,https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
+# EPG URLs (Removed spaces after commas for better IPTV player compatibility)
+EPG_URL = "https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz,https://raw.githubusercontent.com/dbghelp/mewatch-EPG/refs/heads/main/mewatch.xml,https://raw.githubusercontent.com/BuddyChewChew/RakutenTV/main/epg.xml,https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
+
 output_file = "NZMIPTVPREMIUM.m3u"
 
-# Track whether we've added the #EXTM3U header already
-header_written = False
-
 with open(output_file, "w", encoding="utf-8") as outfile:
+    # 1. Write your custom header first with the x-tvg-url attribute
+    outfile.write(f'#EXTM3U x-tvg-url="{EPG_URL}"\n')
+
     for url in urls:
         try:
             response = requests.get(url)
@@ -27,13 +28,13 @@ with open(output_file, "w", encoding="utf-8") as outfile:
             lines = response.text.splitlines()
 
             for line in lines:
-                # Skip header from other files
+                # 2. Skip the original #EXTM3U headers from the downloaded files completely
                 if line.strip().startswith("#EXTM3U"):
-                    if not header_written:
-                        outfile.write(line + "\n")
-                        header_written = True
                     continue
+                
+                # Write all the actual channel data
                 outfile.write(line + "\n")
+                
             print(f"✅ Downloaded and merged: {url}")
         except Exception as e:
             print(f"❌ Failed to fetch {url}: {e}")
