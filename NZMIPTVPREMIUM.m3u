@@ -121,6 +121,9 @@ http://103.185.24.134:3001/Star-Movies/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bcOROs4.jpeg" group-title="Local Channels 🇵🇭",Star Movies Select HD
 http://103.185.24.134:3001/STAR-MOVIES-SEL-HD/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="tapsilog" tvg-logo="https://i.imgur.com/MnCnzSE.jpeg" group-logo="https://i.imgur.com/IV8omb6.jpeg" group-title="Local Channels 🇵🇭",Tapsilog
+http://cdn2.djdoolky76.com/blast/300024.m3u8
+
 #EXTINF:-212 tvg-logo="https://i.imgur.com/aeRpXyj.png" group-logo="https://i.imgur.com/IV8omb6.jpeg" group-title="Local Channels 🇵🇭",TAP Sports
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
