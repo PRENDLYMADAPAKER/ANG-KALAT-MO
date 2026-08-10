@@ -194,9 +194,6 @@ https://OTTB.live.cf.ww.aiv-cdn.net/PDX/clients/dash/enc/0f5clvxn6o/out/v1/d5a95
 #EXTINF:-1 tvg-logo="" group-title="Movie Channels",AMC Thrillers
 http://nocable.cc:8080/vVgP6v/817017/66243
 
-#EXTINF:-1 tvg-id="BLASTMOVIES.ph" tvg-name="kqtv" tvg-logo="https://i.imgur.com/heg9onl.png" group-title="Movie Channels",Blast Movies
-https://amg19223-amg19223c7-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c7-amgplt0351/playlist.m3u8
-
 #EXTINF:-163 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Celestial_HD_v1.png" group-logo="https://i.imgur.com/rsPE0Fp.png" group-title="Movie Channels",CELESTIAL MOVIES
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c5c1ba26907291afec11a9a78d513410:361197805d0149c29801946cf2dde67c
@@ -204,10 +201,7 @@ https://amg19223-amg19223c7-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-a
 http://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_ott.mpd
 
 #EXTINF:-1 tvg-id="Cinemax.-.Eastern.Feed.us" tvg-name="CINEMAX EAST" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" group-title="Movie Channels",CINEMAX EAST
-http://fl1.moveonjoy.com/CINEMAX_EAST/index.m3u8
-
-#EXTINF:-1  tvg-name="CINEMAX MOREMAX" tvg-id="MoreMax..Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-moremax-us.png?raw=true" group-title="Movie Channels" radio="false",CINEMAX MOREMAX
-http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
+http://tvmate.icu:8080/Vanlith/01654/13380
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-1-ca.png" group-title="Movie Channels", CRAVE 1
 http://tvmate.icu:8080/Vanlith/01654/57309
@@ -275,11 +269,7 @@ https://ucdn.mediaquest.com.ph/bpk-tv/cg_hbohits/default/index.mpd
 http://tvmate.icu:8080/Vanlith/01654/9266
 
 #EXTINF:-71 tvg-id="Cg.Hbofam.ph" tvg-logo="https://i.imgur.com/Zy3pvJV.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Movie Channels",HBO FAMILY
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c6e4b9218f534a709d165c3a7e2f8048:87c0e7cf73324aea32dada7b5f33063d
-https://ucdn.mediaquest.com.ph/bpk-tv/cg_hbofam/default/index.mpd
+http://tvmate.icu:8080/Vanlith/01654/17772
 
 #EXTINF:-1  tvg-name="HBO Zone" tvg-id="HBO.Zone.HD.-.East.us" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/HBO_Zone_East._SL170_FMpng_.png" group-title="Movie Channels",HBO Zone
 http://nocable.cc:8080/vVgP6v/817017/9265
@@ -4171,12 +4161,6 @@ https://jmp2.uk/rok-ca25dfba8ba45a1bb277c8b0ca8f56c4.m3u8
 https://jmp2.uk/rok-82bd10ceb52152a7adb6bdc5d776e794.m3u8
 #EXTINF:-1 channel-id="f450ca31c0f7dde46cfdccb15d2154cb" tvg-id="f450ca31c0f7dde46cfdccb15d2154cb" tvg-chno="233" tvg-name="Speed Sport 1" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/f450ca31c0f7dde46cfdccb15d2154cb/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1775162724998_SPEED_SPORT_1_HUD_logo_260x147.png" group-title="Roku",Speed Sport 1
 https://jmp2.uk/rok-f450ca31c0f7dde46cfdccb15d2154cb.m3u8
-#EXTINF:-1 channel-id="c0b79a332cfd90b8eeb6d4a0dcb63674" tvg-id="c0b79a332cfd90b8eeb6d4a0dcb63674" tvg-chno="240" tvg-name="Top Rank Classics" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/c0b79a332cfd90b8eeb6d4a0dcb63674/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1730998467166_TRClassics_HUD.png" group-title="Roku",Top Rank Classics
-https://jmp2.uk/rok-c0b79a332cfd90b8eeb6d4a0dcb63674.m3u8
-#EXTINF:-1 channel-id="6d8659091f745b8b864f438f06c56fae" tvg-id="6d8659091f745b8b864f438f06c56fae" tvg-chno="241" tvg-name="TNA Wrestling Channel" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/6d8659091f745b8b864f438f06c56fae/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1709314978559_TNAWrestling_Roku_WhiteLogo_CenterAligned_260x147.png" group-title="Roku",TNA Wrestling Channel
-https://jmp2.uk/rok-6d8659091f745b8b864f438f06c56fae.m3u8
-#EXTINF:-1 channel-id="8c48bcf59acd57779977b83a41fac919" tvg-id="8c48bcf59acd57779977b83a41fac919" tvg-chno="243" tvg-name="Swerve Combat" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/8c48bcf59acd57779977b83a41fac919/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1697035676086_Swerve_Combat_Logo_260x147_Center_Align_White.png" group-title="Roku",Swerve Combat
-https://jmp2.uk/rok-8c48bcf59acd57779977b83a41fac919.m3u8
 #EXTINF:-1 channel-id="b4273871759a5631bd536d2214f175e5" tvg-id="b4273871759a5631bd536d2214f175e5" tvg-chno="246" tvg-name="Fubo Sports Network" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/b4273871759a5631bd536d2214f175e5/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1761774127737_Roku-FSN-Logo-efefef.png" group-title="Roku",Fubo Sports Network
 https://jmp2.uk/rok-b4273871759a5631bd536d2214f175e5.m3u8
 #EXTINF:-1 channel-id="e08aa3af93f95c9db062ce237e90f6d1" tvg-id="e08aa3af93f95c9db062ce237e90f6d1" tvg-chno="250" tvg-name="GOLFPASS" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/e08aa3af93f95c9db062ce237e90f6d1/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1764960071124_golfpass-fclogo-72-dpi-260-x-147-260-147-roku-hud-logo-center-align-efefef-w-trans-bkgd-1.png" group-title="Roku",GOLFPASS
@@ -4279,14 +4263,16 @@ https://jmp2.uk/rok-e7b30e2a58409242100d0edd2bfebbfd.m3u8
 https://jmp2.uk/rok-885d5897052b53709a83c4947174cd09.m3u8
 #EXTINF:-1 channel-id="96bf5b40666353ae919ba1caadc66a1a" tvg-id="96bf5b40666353ae919ba1caadc66a1a" tvg-chno="389" tvg-name="TheGrio" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/96bf5b40666353ae919ba1caadc66a1a/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1662135630120_theGrio_logo_HUD_CenterAligned.png" group-title="Roku",TheGrio
 https://jmp2.uk/rok-96bf5b40666353ae919ba1caadc66a1a.m3u8
+#EXTINF:-1 channel-id="c0de867f29485305b9197b14cd08240f" tvg-id="c0de867f29485305b9197b14cd08240f" tvg-chno="401" tvg-name="Like Nastya" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/c0de867f29485305b9197b14cd08240f/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1666305411241_RC_likeNastya_HUD_logo_260x147-mono.png" group-title="Roku",Like Nastya
+https://jmp2.uk/rok-c0de867f29485305b9197b14cd08240f.m3u8
+#EXTINF:-1 channel-id="34335ef32c02519d897664a78767cc59" tvg-id="34335ef32c02519d897664a78767cc59" tvg-chno="402" tvg-name="PBS Retro" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/34335ef32c02519d897664a78767cc59/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1772722428276_260x147_CenterAligned.png" group-title="Roku",PBS Retro
+https://jmp2.uk/rok-34335ef32c02519d897664a78767cc59.m3u8
+#EXTINF:-1 channel-id="d1bfe824cfee5369a493d7a8bbd96ec1" tvg-id="d1bfe824cfee5369a493d7a8bbd96ec1" tvg-chno="403" tvg-name="Ryan and Friends" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/d1bfe824cfee5369a493d7a8bbd96ec1/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1661554205530_RYAN_AND_FRIENDS_260x147.png" group-title="Roku",Ryan and Friends
+https://jmp2.uk/rok-d1bfe824cfee5369a493d7a8bbd96ec1.m3u8
+#EXTINF:-1 channel-id="d8b7e94b7edc53918e6afa251822df14" tvg-id="d8b7e94b7edc53918e6afa251822df14" tvg-chno="405" tvg-name="Pocket.watch Game-On" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/d8b7e94b7edc53918e6afa251822df14/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1725978776066_pocket.watchGame-On_Info_HUD_260x147.png" group-title="Roku",Pocket.watch Game-On
+https://jmp2.uk/rok-d8b7e94b7edc53918e6afa251822df14.m3u8
 #EXTINF:-1 channel-id="f66aa243a9465896ac3e7eaef7cba3fd" tvg-id="f66aa243a9465896ac3e7eaef7cba3fd" tvg-chno="412" tvg-name="Power Rangers" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/f66aa243a9465896ac3e7eaef7cba3fd/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1683056022523_PWR_FAST_HUD_Logo_top_260x147.png" group-title="Roku",Power Rangers
 https://jmp2.uk/rok-f66aa243a9465896ac3e7eaef7cba3fd.m3u8
-#EXTINF:-1 channel-id="40d73ba5be775428a377908b02033b4c" tvg-id="40d73ba5be775428a377908b02033b4c" tvg-chno="419" tvg-name="BABY SHARK TV" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/40d73ba5be775428a377908b02033b4c/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1700073147593_Roku_BABY_SHARK_TV_Image_HUD_2_260x147.png" group-title="Roku",BABY SHARK TV
-https://jmp2.uk/rok-40d73ba5be775428a377908b02033b4c.m3u8
-#EXTINF:-1 channel-id="ac7629367b3f5fae93753623469c440d" tvg-id="ac7629367b3f5fae93753623469c440d" tvg-chno="421" tvg-name="Sensical Gaming" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/ac7629367b3f5fae93753623469c440d/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1667323738009_Sensical_Gaming_Logo_EFEFEF-CENTER.png" group-title="Roku",Sensical Gaming
-https://jmp2.uk/rok-ac7629367b3f5fae93753623469c440d.m3u8
-#EXTINF:-1 channel-id="b5cde121f98257329346020e2a60295a" tvg-id="b5cde121f98257329346020e2a60295a" tvg-chno="428" tvg-name="Moonbug Kids" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/b5cde121f98257329346020e2a60295a/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1684954939211_MOONBUG_ROKU_LOGO_EPG_2023MONO.png" group-title="Roku",Moonbug Kids
-https://jmp2.uk/rok-b5cde121f98257329346020e2a60295a.m3u8
 #EXTINF:-1 channel-id="9aff620ece2457a3a7572886ecae0495" tvg-id="9aff620ece2457a3a7572886ecae0495" tvg-chno="430" tvg-name="Super Simple Songs" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9aff620ece2457a3a7572886ecae0495/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1657674103329_SuperSimpleSongs_Image_HUD2.png" group-title="Roku",Super Simple Songs
 https://jmp2.uk/rok-9aff620ece2457a3a7572886ecae0495.m3u8
 #EXTINF:-1 channel-id="498b53f6f63455bbba27754ceb5fcefc" tvg-id="498b53f6f63455bbba27754ceb5fcefc" tvg-chno="431" tvg-name="Sonic The Hedgehog" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/498b53f6f63455bbba27754ceb5fcefc/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1673905008826_Sonic_the_Hedgehog_HUD_Logo_260x147_Monochromatic.png" group-title="Roku",Sonic The Hedgehog
@@ -4365,6 +4351,10 @@ https://jmp2.uk/rok-8abbea29b86a5a5da299c7ef2e288cab.m3u8
 https://jmp2.uk/rok-cc72c25b76295e07862192d21bbff05b.m3u8
 #EXTINF:-1 channel-id="645518dc5f92519688baed84d025b14e" tvg-id="645518dc5f92519688baed84d025b14e" tvg-chno="516" tvg-name="JAIL" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/645518dc5f92519688baed84d025b14e/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1709832057729_JAIL_IMAGE_HUD_2_Meela_Hice.png" group-title="Roku",JAIL
 https://jmp2.uk/rok-645518dc5f92519688baed84d025b14e.m3u8
+#EXTINF:-1 channel-id="845b77875b6056d192401e10949948d2" tvg-id="845b77875b6056d192401e10949948d2" tvg-chno="518" tvg-name="Dr. G: Medical Examiner" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/845b77875b6056d192401e10949948d2/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1673450454351_filmRiseDrGMedicalExaminer_HUDlogo_260x147.png" group-title="Roku",Dr. G: Medical Examiner
+https://jmp2.uk/rok-845b77875b6056d192401e10949948d2.m3u8
+#EXTINF:-1 channel-id="4ecf313b40975382b983c183bf7d86f0" tvg-id="4ecf313b40975382b983c183bf7d86f0" tvg-chno="520" tvg-name="Unsolved Mysteries" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/4ecf313b40975382b983c183bf7d86f0/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1673454714451_FilmRise-Crime_Unsolved_Mysteries_260x147.png" group-title="Roku",Unsolved Mysteries
+https://jmp2.uk/rok-4ecf313b40975382b983c183bf7d86f0.m3u8
 #EXTINF:-1 channel-id="d1e4e369eda359c897e1fdfd8286b19b" tvg-id="d1e4e369eda359c897e1fdfd8286b19b" tvg-chno="522" tvg-name="Midsomer Murders" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/d1e4e369eda359c897e1fdfd8286b19b/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1663971266370_MIDSOMER_MURDERS_260Wx147H_EPG_IMAGE_HUD_2.png" group-title="Roku",Midsomer Murders
 https://jmp2.uk/rok-d1e4e369eda359c897e1fdfd8286b19b.m3u8
 #EXTINF:-1 channel-id="0141916713c53d074650f14e2c9ff61e" tvg-id="0141916713c53d074650f14e2c9ff61e" tvg-chno="527" tvg-name="Britbox Mysteries" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0141916713c53d074650f14e2c9ff61e/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1735672484947_ROKU_BRITBOX_MYSTERIES_CHANNEL_ASSETS_HUD2_LOGO_260x147_CENTER_MONOCHROMATIC.png" group-title="Roku",Britbox Mysteries
@@ -4415,10 +4405,6 @@ https://jmp2.uk/rok-e88ce0afc4f05acc1c35e625128c43e5.m3u8
 https://jmp2.uk/rok-6481345ad870a9f94508f32216a59141.m3u8
 #EXTINF:-1 channel-id="0a1aa26e3e6316eedf422da44cd0999b" tvg-id="0a1aa26e3e6316eedf422da44cd0999b" tvg-chno="575" tvg-name="The Prof G Channel" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0a1aa26e3e6316eedf422da44cd0999b/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1775605818359_STV_TPGC-HUD-260x147-W.png" group-title="Roku",The Prof G Channel
 https://jmp2.uk/rok-0a1aa26e3e6316eedf422da44cd0999b.m3u8
-#EXTINF:-1 channel-id="07143b8eb2940144933e5faadb8c19e2" tvg-id="07143b8eb2940144933e5faadb8c19e2" tvg-chno="576" tvg-name="Revolt Mixtape" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/07143b8eb2940144933e5faadb8c19e2/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1748884189656_REVOLTMIXTAPE_EFEFEF_260x147.png" group-title="Roku",Revolt Mixtape
-https://jmp2.uk/rok-07143b8eb2940144933e5faadb8c19e2.m3u8
-#EXTINF:-1 channel-id="5199d161259a5f3c93c3c5d3532d3732" tvg-id="5199d161259a5f3c93c3c5d3532d3732" tvg-chno="578" tvg-name="Revry" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5199d161259a5f3c93c3c5d3532d3732/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1748880492330_Roku_HUD_Revry_260x147.png" group-title="Roku",Revry
-https://jmp2.uk/rok-5199d161259a5f3c93c3c5d3532d3732.m3u8
 #EXTINF:-1 channel-id="eec9d131b4095083a23c485d804c8b2d" tvg-id="eec9d131b4095083a23c485d804c8b2d" tvg-chno="612" tvg-name="American Ninja Warrior" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/eec9d131b4095083a23c485d804c8b2d/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1713548868549_ANW_260x147_2x1_logo_center_align_EFEFEF_transparent_bkgd_roku_PNG.png" group-title="Roku",American Ninja Warrior
 https://jmp2.uk/rok-eec9d131b4095083a23c485d804c8b2d.m3u8
 #EXTINF:-1 channel-id="34b686f999ecaacfbcd91bb5195c3124" tvg-id="34b686f999ecaacfbcd91bb5195c3124" tvg-chno="619" tvg-name="The Masked Singer" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/34b686f999ecaacfbcd91bb5195c3124/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1739302196547_MS_ROKU_HUD_Logo_2.png" group-title="Roku",The Masked Singer
@@ -4471,6 +4457,8 @@ https://jmp2.uk/rok-22d9d1cb36e855a2b40ba752313a50d9.m3u8
 https://jmp2.uk/rok-856fca464da0544784204ba8f6161dac.m3u8
 #EXTINF:-1 channel-id="83d43dc731781826c0e004c1fa879a5f" tvg-id="83d43dc731781826c0e004c1fa879a5f" tvg-chno="731" tvg-name="Braxton Family Values" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/83d43dc731781826c0e004c1fa879a5f/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1763398151629_WEtv_BFV_ChannelLogo_EPG_260x147_InfoHUD2_Horiz_efefef_Bill_Watts.png" group-title="Roku",Braxton Family Values
 https://jmp2.uk/rok-83d43dc731781826c0e004c1fa879a5f.m3u8
+#EXTINF:-1 channel-id="dacd8aab4ff68232ed9d452aa706e2e6" tvg-id="dacd8aab4ff68232ed9d452aa706e2e6" tvg-chno="733" tvg-name="World Of Love Island" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/dacd8aab4ff68232ed9d452aa706e2e6/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1763489824921_ROKU_INFO_HUD.png" group-title="Roku",World Of Love Island
+https://jmp2.uk/rok-dacd8aab4ff68232ed9d452aa706e2e6.m3u8
 #EXTINF:-1 channel-id="e3a9171a7b9155ca89ba9f7f3e1a6bde" tvg-id="e3a9171a7b9155ca89ba9f7f3e1a6bde" tvg-chno="744" tvg-name="Ghost Hunters" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/e3a9171a7b9155ca89ba9f7f3e1a6bde/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1692646351368_Ghosthunters_Roku_HUD_Center.png" group-title="Roku",Ghost Hunters
 https://jmp2.uk/rok-e3a9171a7b9155ca89ba9f7f3e1a6bde.m3u8
 #EXTINF:-1 channel-id="349e0f0840cf21b888bff327b41a2413" tvg-id="349e0f0840cf21b888bff327b41a2413" tvg-chno="746" tvg-name="Scares by Shudder" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/349e0f0840cf21b888bff327b41a2413/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1734485619426_SHUD_FastChanel_Roku_Image_HUD2BillWatts_.png" group-title="Roku",Scares by Shudder
@@ -4517,10 +4505,6 @@ https://jmp2.uk/rok-6212fc29da09d7938c80b54a09f3fd69.m3u8
 https://jmp2.uk/rok-2b54188672a6acb8d3e4c6b9e71a3a7c.m3u8
 #EXTINF:-1 channel-id="0af429c36c6b517e8df2025e809b3964" tvg-id="0af429c36c6b517e8df2025e809b3964" tvg-chno="900" tvg-name="Estrella News" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0af429c36c6b517e8df2025e809b3964/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1652921499084_RoKu_260x147_Estrella_NEWS.png" group-title="Roku",Estrella News
 https://jmp2.uk/rok-0af429c36c6b517e8df2025e809b3964.m3u8
-#EXTINF:-1 channel-id="5a28fbf15c135b51b3638e8bd02d6577" tvg-id="5a28fbf15c135b51b3638e8bd02d6577" tvg-chno="901" tvg-name="N+ Univision 24/7" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5a28fbf15c135b51b3638e8bd02d6577/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1772737218229_NMasUnivision247_RokuHUD_260x147_White.png" group-title="Roku",N+ Univision 24/7
-https://jmp2.uk/rok-5a28fbf15c135b51b3638e8bd02d6577.m3u8
-#EXTINF:-1 channel-id="e6f5a623c45d5757a50e602eb0591f62" tvg-id="e6f5a623c45d5757a50e602eb0591f62" tvg-chno="902" tvg-name="Noticias Telemundo AHORA" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/e6f5a623c45d5757a50e602eb0591f62/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1718135290274_noticias-telemundo-ahora-fclogo-72-dpi-260-x-147-260-147-roku-hud-logo-center-align-efefef-w-trans-bkgd-1.png" group-title="Roku",Noticias Telemundo AHORA
-https://jmp2.uk/rok-e6f5a623c45d5757a50e602eb0591f62.m3u8
 #EXTINF:-1 channel-id="8e0bb4b7ca7c5ea1af52427462297f38" tvg-id="8e0bb4b7ca7c5ea1af52427462297f38" tvg-chno="907" tvg-name="Telemundo Al Día" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/8e0bb4b7ca7c5ea1af52427462297f38/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1746812594347_TELEMUNDO_AL_DIA_260x147_2x1_logo_center_align_EFEFEF_transparent_bkgd_roku.png" group-title="Roku",Telemundo Al Día
 https://jmp2.uk/rok-8e0bb4b7ca7c5ea1af52427462297f38.m3u8
 #EXTINF:-1 channel-id="ceb64d994c7756c2a8f09ace94c3e43f" tvg-id="ceb64d994c7756c2a8f09ace94c3e43f" tvg-chno="909" tvg-name="Telediario Now" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/ceb64d994c7756c2a8f09ace94c3e43f/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1715804997455_Logtipo_TDNOW_260x147_centradoaleje.png" group-title="Roku",Telediario Now
@@ -9355,8 +9339,8 @@ https://jmp2.uk/plu-5ec5761aabe4690007f6e047.m3u8
 https://jmp2.uk/plu-69492467ae33e24d916e56cf.m3u8
 #EXTINF:-1 channel-id="6a3160bd5304e3244427863d-de" tvg-id="6a3160bd5304e3244427863d" tvg-chno="29" tvg-name="Pluto TV Star Trek: Kirks Missionen" tvg-logo="https://images.pluto.tv/channels/6a3160bd5304e3244427863d/colorLogoPNG_1785149124560.png" group-title="Germany",Pluto TV Star Trek: Kirks Missionen
 https://jmp2.uk/plu-6a3160bd5304e3244427863d.m3u8
-#EXTINF:-1 channel-id="6a3160fe9465b98649e7d89a-de" tvg-id="6a3160fe9465b98649e7d89a" tvg-chno="30" tvg-name="Pluto TV Star Trek: Spock - Lebe lang und in Frieden" tvg-logo="https://images.pluto.tv/channels/6a3160fe9465b98649e7d89a/colorLogoPNG_1785149260686.png" group-title="Germany",Pluto TV Star Trek: Spock - Lebe lang und in Frieden
-https://jmp2.uk/plu-6a3160fe9465b98649e7d89a.m3u8
+#EXTINF:-1 channel-id="6a3160eae022927e1c9eb429-de" tvg-id="6a3160eae022927e1c9eb429" tvg-chno="30" tvg-name="Pluto TV Star Trek: Picards Scharfsinn" tvg-logo="https://images.pluto.tv/channels/6a3160eae022927e1c9eb429/colorLogoPNG_1785149206402.png" group-title="Germany",Pluto TV Star Trek: Picards Scharfsinn
+https://jmp2.uk/plu-6a3160eae022927e1c9eb429.m3u8
 #EXTINF:-1 channel-id="663a176ecb3ea10008edacf9-de" tvg-id="663a176ecb3ea10008edacf9" tvg-chno="227" tvg-name="Pluto TV Stimulierende Dokus" tvg-logo="https://images.pluto.tv/channels/663a176ecb3ea10008edacf9/colorLogoPNG_1784109744018.png" group-title="Germany",Pluto TV Stimulierende Dokus
 https://jmp2.uk/plu-663a176ecb3ea10008edacf9.m3u8
 #EXTINF:-1 channel-id="65253fdf3fd33c00080214a3-it" tvg-id="65253fdf3fd33c00080214a3" tvg-chno="845" tvg-name="Pluto TV Storia" tvg-logo="https://images.pluto.tv/channels/65253fdf3fd33c00080214a3/colorLogoPNG_1773147329671.png" group-title="Italy",Pluto TV Storia
