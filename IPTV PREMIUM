@@ -207,9 +207,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_ott.mpd
 #EXTINF:-1 tvg-id="Cinemax.-.Eastern.Feed.us" tvg-name="CINEMAX EAST" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" group-title="Movie Channels",CINEMAX EAST
 http://fl1.moveonjoy.com/CINEMAX_EAST/index.m3u8
 
-#EXTINF:-1  tvg-name="CINEMAX MOREMAX" tvg-id="MoreMax..Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-moremax-us.png?raw=true" group-title="Movie Channels" radio="false",CINEMAX MOREMAX
-http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-1-ca.png" group-title="Movie Channels", CRAVE 1
 http://tvmate.icu:8080/Vanlith/01654/57309
 
@@ -276,11 +273,7 @@ https://ucdn.mediaquest.com.ph/bpk-tv/cg_hbohits/default/index.mpd
 http://tvmate.icu:8080/Vanlith/01654/9266
 
 #EXTINF:-71 tvg-id="Cg.Hbofam.ph" tvg-logo="https://i.imgur.com/Zy3pvJV.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Movie Channels",HBO FAMILY
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c6e4b9218f534a709d165c3a7e2f8048:87c0e7cf73324aea32dada7b5f33063d
-https://ucdn.mediaquest.com.ph/bpk-tv/cg_hbofam/default/index.mpd
+http://tvmate.icu:8080/Vanlith/01654/17772
 
 #EXTINF:-1  tvg-name="HBO Zone" tvg-id="HBO.Zone.HD.-.East.us" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/HBO_Zone_East._SL170_FMpng_.png" group-title="Movie Channels",HBO Zone
 http://nocable.cc:8080/vVgP6v/817017/9265
