@@ -211,24 +211,16 @@ http://fl1.moveonjoy.com/CINEMAX_EAST/index.m3u8
 http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-1-ca.png" group-title="Movie Channels", CRAVE 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4a107945066f45a9af2c32ea88be60f4:df97e849d68479ec16e395feda7627d0
-https://live-crave.video.9c9media.com/137c6e2e72e1bf67b82614c7c9b216d6f3a8c8281748505659713/fe/f/crave/crave1/manifest.mpd
+http://tvmate.icu:8080/Vanlith/01654/57309
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-2-ca.png" group-title="Movie Channels", CRAVE 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4ac6eaaf0e5e4f94987cbb5b243b54e8:8bb3f2f421f6afd025fa46c784944ad6
-https://live-crave.video.9c9media.com/ab4332c60e19b6629129eeb38a2a6ac6db5df2571721750022187/fe/f/crave/crave2/manifest.mpd
+http://tvmate.icu:8080/Vanlith/01654/57310
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-3-ca.png" group-title="Movie Channels", CRAVE 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eac7cd7979f04288bc335fc1d88fa344:0fca71cf91b3c4931ad3cf66c631c24c
-https://live-crave.video.9c9media.com/58def7d65f59ffaf995238981dd0e276d5a8fe8d1748593014588/fe/f/crave/crave3/manifest.mpd
+http://tvmate.icu:8080/Vanlith/01654/57322
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-4-ca.png" group-title="Movie Channels", CRAVE 4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7242a7026ff45609114ee1f3beb34dc:65c32ada65548203a3683d5d37dd3a06
-https://live-crave.video.9c9media.com/c5875a31f178e038f7cc572b1aa0defb996ce7171748593186018/fe/f/crave/crave4/manifest.mpd
+http://tvmate.icu:8080/Vanlith/01654/57311
 
 #EXTINF:-1 tvg-id="kqtv" tvg-name="kqtv" tvg-logo="https://i.imgur.com/HLJtTBw.jpeg" group-title="Movie Channels",&Flix HD
 https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/chunklist_b996000.m3u8
@@ -281,11 +273,7 @@ http://nocable.cc:8080/vVgP6v/817017/17773
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_hbohits/default/index.mpd
 
 #EXTINF:-70 tvg-id="Cg.Hbosign.ph" tvg-logo="https://i.imgur.com/3BOoqQn.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Movie Channels",HBO SIGNATURE
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c8a4e6917f324d05b9186c5e3a2f7049:92b4ece8c84379145045267b47f183d2
-https://ucdn.mediaquest.com.ph/bpk-tv/cg_hbosign/default/index.mpd
+http://tvmate.icu:8080/Vanlith/01654/9266
 
 #EXTINF:-71 tvg-id="Cg.Hbofam.ph" tvg-logo="https://i.imgur.com/Zy3pvJV.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Movie Channels",HBO FAMILY
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -791,11 +779,7 @@ https://ucdn.mediaquest.com.ph/bpk-tv/depedch_sd/default/index.mpd
 https://ucdn.mediaquest.com.ph/bpk-tv/fashiontvhd/default/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/t4HF5va.png" group-title="Cignal", HBO Signature
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c8a4e6917f324d05b9186c5e3a2f7049:92b4ece8c84379145045267b47f183d2
-https://ucdn.mediaquest.com.ph/bpk-tv/cg_hbosign/default/index.mpd
+http://tvmate.icu:8080/Vanlith/01654/9266
 
 #EXTINF:-1 tvg-id="KIX.ph" tvg-logo="https://i.imgur.com/B8Fmzer.png" group-title="Cignal",KIX
 #KODIPROP:inputstreamaddon=inputstream.adaptive
