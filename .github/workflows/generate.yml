@@ -1,0 +1,65 @@
+name: Generate M3U Playlists
+
+on:
+  schedule:
+    # Runs every day at 3:00 AM UTC
+    - cron: '0 3 * * *'
+  workflow_dispatch: # Allows manual triggering from the Actions tab
+  push:
+    branches:
+      - main # Optional: Run when the script itself is updated on the main branch
+    paths:
+      - 'generate.py'
+      - '.github/workflows/generate.yml'
+
+jobs:
+  build-playlists:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Allow the job to push changes back to the repo
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10' # Or your preferred Python version
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Run Playlist Generation Script
+        run: python generate.py
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          # Check if there are any changes in the playlists directory
+          if git diff --quiet --exit-code roku.m3u; then
+            echo "No changes detected in playlists."
+            exit 0 # Exit successfully, no commit needed
+          fi
+          echo "Changes detected, committing updates..."
+          git add --force roku.m3u # Stage only changes in the playlists
+          git commit -m "Update M3U playlists [skip ci]" # [skip ci] prevents triggering another run if 'push' is enabled
+          # Retry push with delay in case of transient errors or race conditions
+          n=0
+          until [ $n -ge 5 ]
+          do
+             git push && break # Try to push, exit loop if successful
+             n=$((n+1))
+             echo "Push failed. Retrying attempt $n/5..."
+             sleep 15 # Wait before retrying
+          done
+          if [ $n -ge 5 ]; then
+             echo "Failed to push changes after multiple attempts."
+             exit 1 # Exit with error if push fails after retries
+          fi
+        env:
+          # The GITHUB_TOKEN is automatically provided by GitHub Actions
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
