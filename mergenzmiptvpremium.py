@@ -3,14 +3,14 @@ import requests
 # List of M3U source URLs
 urls = [
     "https://raw.githubusercontent.com/PRENDLYMADAPAKER/ANG-KALAT-MO/refs/heads/main/IPTV%20PREMIUM",
-    "https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/tv.m3u",
+    "https://raw.githubusercontent.com/BuddyChewChew/xumo-playlist-generator/refs/heads/main/playlists/xumo_playlist.m3u",
     "https://raw.githubusercontent.com/BuddyChewChew/pluto/refs/heads/main/pluto_us.m3u",
     "https://raw.githubusercontent.com/BuddyChewChew/tcl-playlist-generator/refs/heads/main/tcl.m3u8",
     "https://raw.githubusercontent.com/BuddyChewChew/RakutenTV/refs/heads/main/playlist.m3u"
 ]
 
 # EPG URLs with spaces after commas to satisfy your IPTV player
-EPG_URL = "https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz, https://raw.githubusercontent.com/dbghelp/mewatch-EPG/refs/heads/main/mewatch.xml, https://raw.githubusercontent.com/BuddyChewChew/RakutenTV/main/epg.xml, https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml, https://raw.githubusercontent.com/BuddyChewChew/tcl-playlist-generator/refs/heads/main/tcl_epg.xml, https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/us.xml.gz"
+EPG_URL = "https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz, https://raw.githubusercontent.com/dbghelp/mewatch-EPG/refs/heads/main/mewatch.xml, https://raw.githubusercontent.com/BuddyChewChew/RakutenTV/main/epg.xml, https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml, https://raw.githubusercontent.com/BuddyChewChew/tcl-playlist-generator/refs/heads/main/tcl_epg.xml, https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/us.xml.gz, https://raw.githubusercontent.com/BuddyChewChew/xumo-playlist-generator/main/playlists/xumo_epg.xml.gz"
 
 output_file = "NZMIPTVPREMIUM.m3u"
 
