@@ -15,10 +15,10 @@ def format_extinf(channel_id, tvg_id, tvg_chno, tvg_name, tvg_logo, group_title,
     return (f"#EXTINF:-1 "
             f"channel-id=\"{channel_id}\" "
             f"tvg-id=\"{tvg_id}\" "
-            f"tvg-chno=\"{chno_str}\" "
-            f"tvg-name=\"{sanitized_tvg_name}\" "
-            f"tvg-logo=\"{tvg_logo}\" "
-            f"group-title=\"{sanitized_group_title}\","
+            f"tvg-chno=\"\" "
+            f"tvg-name=\"\" "
+            f"tvg-logo=\"\" "
+            f"group-title=\"\","
             f"{sanitized_display_name}\n")
 
 
@@ -115,6 +115,7 @@ def get_roku_stream_enhanced(channel_id):
 
 def fetch_url(url, is_json=True, is_gzipped=False):
     """Fetches URL content (placeholder implementation)."""
+    # You'll need to implement this function based on your needs
     try:
         response = requests.get(url)
         response.raise_for_status()
@@ -128,6 +129,7 @@ def fetch_url(url, is_json=True, is_gzipped=False):
 
 def write_m3u_file(filename, content):
     """Writes M3U content to file (placeholder implementation)."""
+    # You'll need to implement this function based on your needs
     try:
         with open(filename, 'w', encoding='utf-8') as f:
             f.write(content)
@@ -168,10 +170,8 @@ def generate_roku_playlist(sort="chno"):
         chno = channel.get("chno")
         name = channel.get("name", "Unknown Channel")
         logo = channel.get("logo", "")
-        
-        # Override group title to always be "Roku"
-        group_title = "Roku"
-        
+        groups_list = channel.get("groups", [])
+        group_title = groups_list[0] if groups_list else "Uncategorized"
         tvg_id = channel_id  # Roku IDs seem unique enough
 
         extinf = format_extinf(channel_id, tvg_id, chno, name, logo, group_title, name)
