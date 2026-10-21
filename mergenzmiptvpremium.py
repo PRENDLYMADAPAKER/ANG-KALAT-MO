@@ -9,7 +9,6 @@ urls = [
     "https://raw.githubusercontent.com/BuddyChewChew/RakutenTV/refs/heads/main/playlist.m3u",
     "https://raw.githubusercontent.com/BuddyChewChew/tubi-scraper/refs/heads/main/tubi_playlist.m3u",
     "https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/playlist.m3u",
-    "http://cord-cutter.net:8080/get.php?username=Jk8BeprBQ2&password=7QfvzHGb77&type=m3u_plus",
     "https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/refs/heads/main/Roku-All.m3u"
 ]
 
