@@ -120,10 +120,6 @@ https://live20.bozztv.com/giatv/giatv-sinemanila/sinemanila/playlist.m3u8
 
 #EXTINF:-1 tvg-id="1086" tvg-logo="https://i.imgur.com/DZyMRLe.jpeg" group-title="Local Channels 🇵🇭",Star Movies FHD
 http://93.119.105.61:80/play/live.php?mac=00:1A:79:79:d3:51&stream=441217&extension=ts&play_token=GvUETavQFI&sn2=
-http://202.70.146.135:8000/play/a06r/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bcOROs4.jpeg" group-title="Local Channels 🇵🇭",Star Movies Select HD
-http://103.185.24.134:3001/STAR-MOVIES-SEL-HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="tapsilog" tvg-logo="https://i.imgur.com/MnCnzSE.jpeg" group-logo="https://i.imgur.com/IV8omb6.jpeg" group-title="Local Channels 🇵🇭",Tapsilog
 http://cdn2.djdoolky76.com/blast/300024.m3u8
@@ -183,10 +179,7 @@ https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/995zvakyej/o
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/oynu8tcxfa/out/v1/ab567b96658c4d84ae1fc6c67110987c/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/145fb397b95a82a730cb3887f421145121cb473b7a0845cf8b108551b381126e._SL170_FMpng_.png" group-title="Movie Channels",AMC+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=59a51164c2c915352f04066a06f6e807:eba5cc362d1d63c0fe6460febca0fd11
-https://OTTB.live.cf.ww.aiv-cdn.net/PDX/clients/dash/enc/0f5clvxn6o/out/v1/d5a953bb19734fa3baa1776266887fcb/cenc.mpd
+http://cord-cutter.net:8080/Jk8BeprBQ2/7QfvzHGb77/18925
 
 #EXTINF:-1 tvg-logo="" group-title="Movie Channels",AMC Thrillers
 http://nocable.cc:8080/vVgP6v/817017/66243
@@ -194,33 +187,33 @@ http://nocable.cc:8080/vVgP6v/817017/66243
 #EXTINF:-163 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Celestial_HD_v1.png" group-logo="https://i.imgur.com/rsPE0Fp.png" group-title="Movie Channels",CELESTIAL MOVIES
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c5c1ba26907291afec11a9a78d513410:361197805d0149c29801946cf2dde67c
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-http://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_ott.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_primary.mpd
 
 #EXTINF:-1 tvg-id="Cinemax.-.Eastern.Feed.us" tvg-name="CINEMAX EAST" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" group-title="Movie Channels",CINEMAX EAST
-http://tvmate.icu:8080/Vanlith/01654/13380
+http://cord-cutter.net:8080/Jk8BeprBQ2/7QfvzHGb77/13380
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-1-ca.png" group-title="Movie Channels", CRAVE 1
-http://tvmate.icu:8080/Vanlith/01654/57309
+http://cord-cutter.net:8080/Jk8BeprBQ2/7QfvzHGb77/57309
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-2-ca.png" group-title="Movie Channels", CRAVE 2
-http://tvmate.icu:8080/Vanlith/01654/57310
+http://cord-cutter.net:8080/Jk8BeprBQ2/7QfvzHGb77/57310
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-3-ca.png" group-title="Movie Channels", CRAVE 3
-http://tvmate.icu:8080/Vanlith/01654/57322
+http://cord-cutter.net:8080/Jk8BeprBQ2/7QfvzHGb77/57322
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-4-ca.png" group-title="Movie Channels", CRAVE 4
-http://tvmate.icu:8080/Vanlith/01654/57311
+http://cord-cutter.net:8080/Jk8BeprBQ2/7QfvzHGb77/57311
 
 #EXTINF:-1 tvg-id="kqtv" tvg-name="kqtv" tvg-logo="https://i.imgur.com/HLJtTBw.jpeg" group-title="Movie Channels",&Flix HD
 https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/chunklist_b996000.m3u8
 
 #EXTINF:-1 tvg-id="FX.Networks.East.Coast.us" tvg-name="FX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png" group-title="Movie Channels",FX
-http://23.237.104.106:8080/USA_FX/index.m3u8
+http://cord-cutter.net:8080/Jk8BeprBQ2/7QfvzHGb77/46690
 #EXTINF:-1 tvg-id="FX.Movie.Channel.us" tvg-name="FXM" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fxm-movie-channel-us.png?raw=true" group-title="Movie Channels",FXM
-http://fortv.cc:8080/38871863/38871863/10260
+http://cord-cutter.net:8080/Jk8BeprBQ2/7QfvzHGb77/10260
 #EXTINF:-1 tvg-id="FXX.USA.-.Eastern.us" tvg-name="FXX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17927_dark_360w_270h.png" group-title="Movie Channels",FXX
-http://fortv.cc:8080/38871863/38871863/46699
+http://cord-cutter.net:8080/Jk8BeprBQ2/7QfvzHGb77/46699
 
 #EXTINF:-1 tvg-id="hits-hd" tvg-logo="https://i.imgur.com/CxqHKUO.png" group-title="Movie Channels",Hits HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -250,26 +243,22 @@ https://linear-59.frequency.stream/dist/xumo/59/hls/master/playlist_1920x1080.m3
 http://136.239.158.10:6610/001/2/ch00000090990000001065/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BosKg8aLji3LHWqHUI%2FwQyJytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001085&contentid=ch00000000000000001085&videoid=ch00000090990000001065&recommendtype=0&userid=1362658369654&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=UVJL5F87UVBXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
 #EXTINF:-1  tvg-name="HBO2" tvg-id="HBO.2.-.Eastern.Feed.us" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/HBO2._SL170_FMpng_.png" group-title="Movie Channels",HBO2
-http://nocable.cc:8080/vVgP6v/817017/9816
+http://cord-cutter.net:8080/Jk8BeprBQ2/7QfvzHGb77/9816
 
 #EXTINF:-1  tvg-name="HBO Comedy" tvg-id="HBO.Comedy.HD.-.East.us" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/HBO_Comedy._SL170_FMpng_.png" group-title="Movie Channels",HBO Comedy
-http://nocable.cc:8080/vVgP6v/817017/17773
+http://cord-cutter.net:8080/Jk8BeprBQ2/7QfvzHGb77/17773
 
 #EXTINF:-69 tvg-id="Cg.Hbohits.ph" tvg-logo="https://i.imgur.com/pZn9JHj.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Movie Channels",HBO HITS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3e8c5a917d424f06b2196a5c9e2d8043:516c47ccef00a12421d9805c8c1c6c1d
-https://ucdn.mediaquest.com.ph/bpk-tv/cg_hbohits/default/index.mpd
+https://play-drm.aliiptv.com/live/HBOHitsHD.m3u8?verify=1790056376-3h4Cr8Ngj_O6ExW3QRz_qEjYgxMOSj9PVrSZRMaFZz
 
 #EXTINF:-70 tvg-id="Cg.Hbosign.ph" tvg-logo="https://i.imgur.com/3BOoqQn.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Movie Channels",HBO SIGNATURE
-http://tvmate.icu:8080/Vanlith/01654/9266
+http://cord-cutter.net:8080/Jk8BeprBQ2/7QfvzHGb77/9266
 
 #EXTINF:-71 tvg-id="Cg.Hbofam.ph" tvg-logo="https://i.imgur.com/Zy3pvJV.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Movie Channels",HBO FAMILY
-http://tvmate.icu:8080/Vanlith/01654/17772
+http://cord-cutter.net:8080/Jk8BeprBQ2/7QfvzHGb77/17772
 
 #EXTINF:-1  tvg-name="HBO Zone" tvg-id="HBO.Zone.HD.-.East.us" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/HBO_Zone_East._SL170_FMpng_.png" group-title="Movie Channels",HBO Zone
-http://nocable.cc:8080/vVgP6v/817017/9265
+http://cord-cutter.net:8080/Jk8BeprBQ2/7QfvzHGb77/9265
 
 #EXTINF:-1 tvg-id="MGM+.HDTV.(East).(MGM+HD).us" tvg-name="MGM+" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mgm-plus-us.png?raw=true" group-title="Movie Channels",MGM+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
