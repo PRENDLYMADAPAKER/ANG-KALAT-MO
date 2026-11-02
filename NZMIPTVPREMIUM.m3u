@@ -168,10 +168,7 @@ http://136.239.158.18:6610/001/2/ch00000090990000001079/manifest.mpd?AuthInfo=v8
 http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/903490ef7b5effa45b2fdba457ac3bea95d9fb2fbc1ef8b62fee61317125a270._SL170_FMpng_.png" group-title="Movie Channels",Action MAX HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=136a75130b82cdf89cb5f05d739b663f:0ef360ff75bb11b7f0982a86b86d39ae
-https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/995zvakyej/out/v1/3fa049c0afea4a83bb5f508f1859f160/cenc.mpd
+http://cord-cutter.net:8080/Jk8BeprBQ2/7QfvzHGb77/21013
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ETZqCII.png" group-title="Movie Channels", Amazon Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -249,7 +246,10 @@ http://cord-cutter.net:8080/Jk8BeprBQ2/7QfvzHGb77/9816
 http://cord-cutter.net:8080/Jk8BeprBQ2/7QfvzHGb77/17773
 
 #EXTINF:-69 tvg-id="Cg.Hbohits.ph" tvg-logo="https://i.imgur.com/pZn9JHj.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Movie Channels",HBO HITS
-https://play-drm.aliiptv.com/live/HBOHitsHD.m3u8?verify=1790056376-3h4Cr8Ngj_O6ExW3QRz_qEjYgxMOSj9PVrSZRMaFZz
+###KODIPROP:inputstream.adaptive.license_type=clearkey
+###KODIPROP:inputstream.adaptive.license_key=5d600eb70944d681c26c1f48fbe61f10:796139ba05a2ab425f978c7fd98b4372
+###EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+###https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default_primary.mpd
 
 #EXTINF:-70 tvg-id="Cg.Hbosign.ph" tvg-logo="https://i.imgur.com/3BOoqQn.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Movie Channels",HBO SIGNATURE
 http://cord-cutter.net:8080/Jk8BeprBQ2/7QfvzHGb77/9266
