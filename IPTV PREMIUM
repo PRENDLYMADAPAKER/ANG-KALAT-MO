@@ -9,7 +9,7 @@
 https://ucdn.mediaquest.com.ph/bpk-tv/cgnl_nba/default/index.mpd
 
 #EXTINF:-1 tvg-id="NBA.TV.USA.us" tvg-name="NBA TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-us.png?raw=true" group-title="NBA CHANNEL🏀",NBA TV
-http://myultratv.com:8080/lisettecastillotv/6ge3h7f/35332
+http://ramz.123tv.to:8080/MZvzYsdaq2/Eg51DKxiqZ/533
 
 #EXTINF:-1 tvg-id="A2z.ph" tvg-logo="https://i.imgur.com/3myn4zH.png" group-logo="https://i.imgur.com/083Ud3K.jpeg" group-title="Local Channels 🇵🇭",A2Z
 http://136.239.173.2:6610/001/2/ch00000090990000001087/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqHRrK8UUahwItHhKpXgPXKytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001176&contentid=ch00000000000000001176&videoid=ch00000090990000001087&recommendtype=0&userid=1287297673984&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=U4DB4Z0H2EXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
@@ -244,7 +244,7 @@ http://136.239.158.10:6610/001/2/ch00000090990000001065/manifest.mpd?AuthInfo=v8
 http://ramz.123tv.to:8080/MZvzYsdaq2/Eg51DKxiqZ/11796
 
 #EXTINF:-1  tvg-name="HBO Comedy" tvg-id="HBO.Comedy.HD.-.East.us" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/HBO_Comedy._SL170_FMpng_.png" group-title="Movie Channels",HBO Comedy
-http://myultratv.com:8080/lisettecastillotv/6ge3h7f/24004
+http://ramz.123tv.to:8080/MZvzYsdaq2/Eg51DKxiqZ/530
 
 #EXTINF:-69 tvg-id="Cg.Hbohits.ph" tvg-logo="https://i.imgur.com/pZn9JHj.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Movie Channels",HBO HITS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -256,7 +256,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default_primary.mpd
 http://myultratv.com:8080/lisettecastillotv/6ge3h7f/23998
 
 #EXTINF:-1 tvg-id="LifetimeMovieNetwork.us" tvg-name="US | LIFETIME MOVIES" tvg-logo="https://tlgrm.re/images/lifetime-movies-us.png" group-title="Movie Channels",LIFETIME MOVIES
-http://myultratv.com:8080/lisettecastillotv/6ge3h7f/23792
+http://ramz.123tv.to:8080/MZvzYsdaq2/Eg51DKxiqZ/82796
 
 #EXTINF:-1 tvg-id="MGM+.HDTV.(East).(MGM+HD).us" tvg-name="MGM+" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mgm-plus-us.png?raw=true" group-title="Movie Channels",MGM+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -303,25 +303,91 @@ https://268d7193278949b4b4796e63861deee5.mediatailor.us-east-1.amazonaws.com/v1/
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
 
-#EXTINF:-1 tvg-id="showtimeextreme.us" tvg-name="US | Showtime Extreme" tvg-logo="https://tlgrm.re/images/showtime-extreme-us.png" group-title="Movie Channels",Showtime Extreme
-http://myultratv.com:8080/lisettecastillotv/6ge3h7f/23928
-#EXTINF:-1 tvg-id="showtime2west.us" tvg-name="US | Showtime West" tvg-logo="https://tlgrm.re/images/showtime-us.png" group-title="Movie Channels",Showtime West
-http://myultratv.com:8080/lisettecastillotv/6ge3h7f/23922
+#EXTINF:-1 tvg-id="Showtime2East.us" tvg-name="Showtime 2 HD US" tvg-logo="" group-title="Movie Channels",Showtime 2 HD US
+http://ramz.123tv.to:8080/MZvzYsdaq2/Eg51DKxiqZ/7737
+#EXTINF:-1 tvg-id="Showtime2East.us" tvg-name="Showtime 2 HD VIP US" tvg-logo="" group-title="Movie Channels",Showtime 2 HD VIP US
+http://ramz.123tv.to:8080/MZvzYsdaq2/Eg51DKxiqZ/8981
+#EXTINF:-1 tvg-id="Showtime2East.us" tvg-name="Showtime 2 US" tvg-logo="" group-title="Movie Channels",Showtime 2 US
+http://ramz.123tv.to:8080/MZvzYsdaq2/Eg51DKxiqZ/534
+#EXTINF:-1 tvg-id="ShowtimeEast.us" tvg-name="Showtime East HD US" tvg-logo="" group-title="Movie Channels",Showtime East HD US
+http://ramz.123tv.to:8080/MZvzYsdaq2/Eg51DKxiqZ/7736
+#EXTINF:-1 tvg-id="ShowtimeEast.us" tvg-name="Showtime East HD VIP US" tvg-logo="" group-title="Movie Channels",Showtime East HD VIP US
+http://ramz.123tv.to:8080/MZvzYsdaq2/Eg51DKxiqZ/8980
+#EXTINF:-1 tvg-id="ShowtimeWest.us" tvg-name="Showtime FHD US" tvg-logo="" group-title="Movie Channels",Showtime FHD US
+http://ramz.123tv.to:8080/MZvzYsdaq2/Eg51DKxiqZ/535
+#EXTINF:-1 tvg-id="ShowtimeShowcaseEast.us" tvg-name="Showtime Showcase HD US" tvg-logo="" group-title="Movie Channels",Showtime Showcase HD US
+http://ramz.123tv.to:8080/MZvzYsdaq2/Eg51DKxiqZ/7735
+#EXTINF:-1 tvg-id="ShowtimeShowcaseEast.us" tvg-name="Showtime Showcase HD VIP US" tvg-logo="" group-title="Movie Channels",Showtime Showcase HD VIP US
+http://ramz.123tv.to:8080/MZvzYsdaq2/Eg51DKxiqZ/8979
+#EXTINF:-1 tvg-id="ShowtimeWest.us" tvg-name="Showtime West FHD VIP US" tvg-logo="" group-title="Movie Channels",Showtime West FHD VIP US
+http://ramz.123tv.to:8080/MZvzYsdaq2/Eg51DKxiqZ/11786
+#EXTINF:-1 tvg-id="ShowtimeWest.us" tvg-name="Showtime West US" tvg-logo="" group-title="Movie Channels",Showtime West US
+http://ramz.123tv.to:8080/MZvzYsdaq2/Eg51DKxiqZ/485
 
-#EXTINF:-1 tvg-logo="https://tlgrm.re/images/starz-encore-westerns-us.png" group-logo="" group-title="Movie Channels", Starz Cinema (East)
-http://myultratv.com:8080/lisettecastillotv/6ge3h7f/23903
-#EXTINF:-1 tvg-logo="https://tlgrm.re/images/starz-us.png" group-logo="" group-title="Movie Channels", Starz East (S)
-http://myultratv.com:8080/lisettecastillotv/6ge3h7f/23900
-#EXTINF:-1 tvg-logo="https://tlgrm.re/images/starz-encore-us.png" group-logo="" group-title="Movie Channels", US | STARZENCORE
-http://myultratv.com:8080/lisettecastillotv/6ge3h7f/23917
-#EXTINF:-1 tvg-logo="https://tlgrm.re/images/starz-encore-classic-us.png" group-logo="" group-title="Movie Channels", US | STARZENCORE CLASSIC
-http://myultratv.com:8080/lisettecastillotv/6ge3h7f/23918
-#EXTINF:-1 tvg-logo="https://tlgrm.re/images/starz-encore-family-us.png" group-logo="" group-title="Movie Channels", STARZENCORE FAMILY
-http://myultratv.com:8080/lisettecastillotv/6ge3h7f/212
+#EXTINF:-1 tvg-id="Starz In Black - Pacific US" tvg-name="Starz Black FHD VIP US" tvg-logo="" group-title="Movie Channels",Starz Black FHD VIP US
+http://ramz.123tv.to:8080/MZvzYsdaq2/Eg51DKxiqZ/11785
+#EXTINF:-1 tvg-id="StarzCinemaEast.us" tvg-name="Starz Cinema East FHD VIP US" tvg-logo="" group-title="Movie Channels",Starz Cinema East FHD VIP US
+http://ramz.123tv.to:8080/MZvzYsdaq2/Eg51DKxiqZ/11784
+#EXTINF:-1 tvg-id="StarzCinemaEast.us" tvg-name="Starz Cinema FHD VIP US" tvg-logo="" group-title="Movie Channels",Starz Cinema FHD VIP US
+http://ramz.123tv.to:8080/MZvzYsdaq2/Eg51DKxiqZ/11783
+#EXTINF:-1 tvg-id="StarzCinemaEast.us" tvg-name="Starz Cinema US" tvg-logo="" group-title="Movie Channels",Starz Cinema US
+http://ramz.123tv.to:8080/MZvzYsdaq2/Eg51DKxiqZ/536
+#EXTINF:-1 tvg-id="StarzCinemaWest.us" tvg-name="Starz Cinema West FHD VIP US" tvg-logo="" group-title="Movie Channels",Starz Cinema West FHD VIP US
+http://ramz.123tv.to:8080/MZvzYsdaq2/Eg51DKxiqZ/11782
+#EXTINF:-1 tvg-id="Starz Comedy - Pacific US" tvg-name="Starz Comedy FHD VIP US" tvg-logo="" group-title="Movie Channels",Starz Comedy FHD VIP US
+http://ramz.123tv.to:8080/MZvzYsdaq2/Eg51DKxiqZ/11781
+#EXTINF:-1 tvg-id="Starz Comedy - Pacific US" tvg-name="Starz Comedy US" tvg-logo="" group-title="Movie Channels",Starz Comedy US
+http://ramz.123tv.to:8080/MZvzYsdaq2/Eg51DKxiqZ/537
+#EXTINF:-1 tvg-id="Starz - Eastern US" tvg-name="Starz East FHD VIP US" tvg-logo="" group-title="Movie Channels",Starz East FHD VIP US
+http://ramz.123tv.to:8080/MZvzYsdaq2/Eg51DKxiqZ/11780
+#EXTINF:-1 tvg-id="Starz Edge - Pacific US" tvg-name="Starz Edge FHD VIP US" tvg-logo="" group-title="Movie Channels",Starz Edge FHD VIP US
+http://ramz.123tv.to:8080/MZvzYsdaq2/Eg51DKxiqZ/11779
+#EXTINF:-1 tvg-id="Starz Edge - Pacific US" tvg-name="Starz Edge HD US" tvg-logo="" group-title="Movie Channels",Starz Edge HD US
+http://ramz.123tv.to:8080/MZvzYsdaq2/Eg51DKxiqZ/519
+#EXTINF:-1 tvg-id="Starz Edge - Pacific US" tvg-name="Starz Edge HD VIP US" tvg-logo="" group-title="Movie Channels",Starz Edge HD VIP US
+http://ramz.123tv.to:8080/MZvzYsdaq2/Eg51DKxiqZ/8973
+#EXTINF:-1 tvg-id="Starz Edge - Pacific US" tvg-name="Starz Edge US" tvg-logo="" group-title="Movie Channels",Starz Edge US
+http://ramz.123tv.to:8080/MZvzYsdaq2/Eg51DKxiqZ/7780
+#EXTINF:-1 tvg-id="Starz Encore Westerns - Pacific US" tvg-name="Starz Edge West FHD VIP US" tvg-logo="" group-title="Movie Channels",Starz Edge West FHD VIP US
+http://ramz.123tv.to:8080/MZvzYsdaq2/Eg51DKxiqZ/11778
+#EXTINF:-1 tvg-id="Starz Encore - Pacific US" tvg-name="Starz Encore 2 East FHD VIP US" tvg-logo="" group-title="Movie Channels",Starz Encore 2 East FHD VIP US
+http://ramz.123tv.to:8080/MZvzYsdaq2/Eg51DKxiqZ/11777
+#EXTINF:-1 tvg-id="Starz Encore Action - Pacific US" tvg-name="Starz Encore Action FHD VIP US" tvg-logo="" group-title="Movie Channels",Starz Encore Action FHD VIP US
+http://ramz.123tv.to:8080/MZvzYsdaq2/Eg51DKxiqZ/11776
+#EXTINF:-1 tvg-id="Starz Encore Black - Pacific US" tvg-name="Starz Encore Black FHD VIP US" tvg-logo="" group-title="Movie Channels",Starz Encore Black FHD VIP US
+http://ramz.123tv.to:8080/MZvzYsdaq2/Eg51DKxiqZ/11775
+#EXTINF:-1 tvg-id="Starz Encore Black - Pacific US" tvg-name="Starz Encore Classic FHD VIP US" tvg-logo="" group-title="Movie Channels",Starz Encore Classic FHD VIP US
+http://ramz.123tv.to:8080/MZvzYsdaq2/Eg51DKxiqZ/11774
+#EXTINF:-1 tvg-id="Starz Encore Westerns - Pacific US" tvg-name="Starz Encore East FHD VIP US" tvg-logo="" group-title="Movie Channels",Starz Encore East FHD VIP US
+http://ramz.123tv.to:8080/MZvzYsdaq2/Eg51DKxiqZ/11773
+#EXTINF:-1 tvg-id="Starz Encore Family - Pacific US" tvg-name="Starz Encore Family FHD VIP US" tvg-logo="" group-title="Movie Channels",Starz Encore Family FHD VIP US
+http://ramz.123tv.to:8080/MZvzYsdaq2/Eg51DKxiqZ/11772
+#EXTINF:-1 tvg-id="Starz Encore - Pacific US" tvg-name="Starz Encore FHD VIP US" tvg-logo="" group-title="Movie Channels",Starz Encore FHD VIP US
+http://ramz.123tv.to:8080/MZvzYsdaq2/Eg51DKxiqZ/11771
+#EXTINF:-1 tvg-id="Starz Encore - Pacific US" tvg-name="Starz Encore HD US" tvg-logo="" group-title="Movie Channels",Starz Encore HD US
+http://ramz.123tv.to:8080/MZvzYsdaq2/Eg51DKxiqZ/7731
+#EXTINF:-1 tvg-id="Starz Encore - Pacific US" tvg-name="Starz Encore HD VIP US" tvg-logo="" group-title="Movie Channels",Starz Encore HD VIP US
+http://ramz.123tv.to:8080/MZvzYsdaq2/Eg51DKxiqZ/8972
+#EXTINF:-1 tvg-id="Starz Encore Suspense - Pacific US" tvg-name="Starz Encore Suspense FHD VIP US" tvg-logo="" group-title="Movie Channels",Starz Encore Suspense FHD VIP US
+http://ramz.123tv.to:8080/MZvzYsdaq2/Eg51DKxiqZ/11770
+#EXTINF:-1 tvg-id="Starz Encore - Pacific US" tvg-name="Starz Encore US" tvg-logo="" group-title="Movie Channels",Starz Encore US
+http://ramz.123tv.to:8080/MZvzYsdaq2/Eg51DKxiqZ/538
+#EXTINF:-1 tvg-id="Starz Encore Westerns - Pacific US" tvg-name="Starz Encore West FHD VIP US" tvg-logo="" group-title="Movie Channels",Starz Encore West FHD VIP US
+http://ramz.123tv.to:8080/MZvzYsdaq2/Eg51DKxiqZ/11769
+#EXTINF:-1 tvg-id="Starz Encore Westerns - Pacific US" tvg-name="Starz Encore Western FHD VIP US" tvg-logo="" group-title="Movie Channels",Starz Encore Western FHD VIP US
+http://ramz.123tv.to:8080/MZvzYsdaq2/Eg51DKxiqZ/11768
+#EXTINF:-1 tvg-id="Starz Encore Family - Pacific US" tvg-name="Starz Family FHD VIP US" tvg-logo="" group-title="Movie Channels",Starz Family FHD VIP US
+http://ramz.123tv.to:8080/MZvzYsdaq2/Eg51DKxiqZ/11767
+#EXTINF:-1 tvg-id="Starz - Pacific US" tvg-name="Starz FHD VIP US" tvg-logo="" group-title="Movie Channels",Starz FHD VIP US
+http://ramz.123tv.to:8080/MZvzYsdaq2/Eg51DKxiqZ/11766
+#EXTINF:-1 tvg-id="Starz In Black - Pacific US" tvg-name="Starz In Black FHD VIP US" tvg-logo="" group-title="Movie Channels",Starz In Black FHD VIP US
+http://ramz.123tv.to:8080/MZvzYsdaq2/Eg51DKxiqZ/11764
+#EXTINF:-1 tvg-id="Starz - Eastern US" tvg-name="Starz West FHD VIP US" tvg-logo="" group-title="Movie Channels",Starz West FHD VIP US
+http://ramz.123tv.to:8080/MZvzYsdaq2/Eg51DKxiqZ/11763
 #EXTINF:-1 tvg-id="syfy.us" tvg-name="SyFy HD" tvg-logo="https://tlgrm.re/images/syfy-hz-us.png" group-title="Movie Channels",SyFy HD
-http://myultratv.com:8080/lisettecastillotv/6ge3h7f/23403
+http://ramz.123tv.to:8080/MZvzYsdaq2/Eg51DKxiqZ/548
 #EXTINF:-1 tvg-id="sundancetv.us" tvg-name="US | SUNDANCE" tvg-logo="https://tlgrm.re/images/sundance-tv-us.png" group-title="Movie Channels",SUNDANCE
-http://myultratv.com:8080/lisettecastillotv/6ge3h7f/23604
+http://ramz.123tv.to:8080/MZvzYsdaq2/Eg51DKxiqZ/10132
 
 #EXTINF:-62 tvg-id="Tapmovies.Hd.ph" tvg-logo="https://i.imgur.com/3RVA5mV.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Movie Channels",TAP MOVIES
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -359,7 +425,7 @@ https://amc-anime-x-hidive-1-us.tablo.wurl.tv/playlist.m3u8
 https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E6FA5Sr.jpeg" group-title="Anime/Cartoons",BOOMERANG TV
-http://myultratv.com:8080/lisettecastillotv/6ge3h7f/24117
+http://ramz.123tv.to:8080/MZvzYsdaq2/Eg51DKxiqZ/502
 
 #EXTINF:-92 tvg-id="Cartoon.Net.Hd.ph" tvg-logo="https://i.imgur.com/l7p2MpK.png" group-logo="https://i.imgur.com/NbRG0IW.jpeg" group-title="Anime/Cartoons",CARTOON NETWORK HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -377,13 +443,13 @@ http://161.49.17.2:6610/001/2/ch00000090990000001125/manifest.mpd?AuthInfo=v87HD
 https://tglmp02.akamaized.net/out/v1/a32e566460eb41ce9295b9c45fe25825/manifest.mpd
 
 #EXTINF:-1 tvg-id="US: DISNEY CHANNEL EAST" tvg-name="USA Disney Channel East UHD" tvg-logo="http://epg4you.com/logos/disneychannel.png" group-title="Anime/Cartoons",Disney Channel
-http://myultratv.com:8080/lisettecastillotv/6ge3h7f/23588
+http://ramz.123tv.to:8080/MZvzYsdaq2/Eg51DKxiqZ/7766
 
 #EXTINF:-1 tvg-id="US: DISNEY JR EAST" tvg-name="USA Disney Junior UHD" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/disney-junior.png" group-title="Anime/Cartoons",Disney Junior
 http://myultratv.com:8080/lisettecastillotv/6ge3h7f/24058
 
 #EXTINF:-1 tvg-id="US: DISNEY XD WEST" tvg-name="USA Disney XD West LHD" tvg-logo="http://epg4you.com/logos/disneyxd.png" group-title="Anime/Cartoons",Disney XD
-http://myultratv.com:8080/lisettecastillotv/6ge3h7f/254739
+http://ramz.123tv.to:8080/MZvzYsdaq2/Eg51DKxiqZ/7765
 
 #EXTINF:-1 tvg-id="DREAMWORKS.ph"  tvg-name="Dreamworks Tagalized" tvg-id="Dreamworks.Hd.ph" tvg-logo="https://i.imgur.com/cgfKSDP.png" group-title="Anime/Cartoons",Dreamworks
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -426,7 +492,7 @@ https://ucdn.mediaquest.com.ph/bpk-tv/dr_nickelodeon/default/index.mpd
 https://ucdn.mediaquest.com.ph/bpk-tv/dr_nickjr/default/index.mpd
 
 #EXTINF:-1 tvg-id="US: NICKTOONS EAST" tvg-name="USA NickToons UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Nicktoons.png" group-title="Anime/Cartoons",USA NickToons
-http://myultratv.com:8080/lisettecastillotv/6ge3h7f/23754
+http://ramz.123tv.to:8080/MZvzYsdaq2/Eg51DKxiqZ/78599
 
 #EXTINF:-101 tvg-logo="https://i.imgur.com/xhmWQXs.png" group-logo="https://i.imgur.com/NbRG0IW.jpeg" group-title="Anime/Cartoons",PBS KIDS
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
@@ -485,7 +551,7 @@ http://136.158.97.2:6610/001/2/ch00000090990000001102/manifest.mpd?AuthInfo=v87H
 https://tglmp03.akamaized.net/out/v1/c8e964618dbd41b38ae487760387af24/manifest.mpd
 
 #EXTINF:-115 tvg-logo="https://i.imgur.com/dBjSEyl.png" group-logo="https://i.imgur.com/tURRa1o.png" group-title="Entertainment/Documentary",FOOD NETWORK
-http://kstv.us:8080/live/5NWCtCyG06/0316873732/23323.m3u8
+http://ramz.123tv.to:8080/MZvzYsdaq2/Eg51DKxiqZ/544
 
 #EXTINF:-1  tvg-name="Gordon Ramsay's Hell's Kitchen" tvg-id="5b4e99f4423e067bd6df6903" tvg-logo="https://images.pluto.tv/channels/5b4e99f4423e067bd6df6903/colorLogoPNG.png" tvg-chno="1900" group-title="Entertainment/Documentary",Gordon Ramsay's Hell's Kitchen
 https://jmp2.uk/plu-5b4e99f4423e067bd6df6903.m3u8
@@ -498,7 +564,7 @@ https://jmp2.uk/plu-5b4e99f4423e067bd6df6903.m3u8
 https://ucdn.mediaquest.com.ph/bpk-tv/dr_historyhd/default/index.mpd
 
 #EXTINF:-116 tvg-logo="https://i.imgur.com/FGgFyoi.png" group-logo="https://i.imgur.com/tURRa1o.png" group-title="Entertainment/Documentary",HGTV
-http://kstv.us:8080/live/5NWCtCyG06/0316873732/15972.m3u8
+http://ramz.123tv.to:8080/MZvzYsdaq2/Eg51DKxiqZ/7782
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J6r4eB5.jpeg" group-title="Entertainment/Documentary",Just for Laugh Gags
 https://dtqutq7lmcchv.cloudfront.net/10001/99991204/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991204&ads._fw_ifa_type=dpid&ads._fw_did=413d7e29-b63e-b34e-b143-bf0efe32f394&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=JustForLaughsGags&ads.csid=xumo_desktopweb_JustForLaughsGags_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=1YNN&ads._fw_coppa=0&ads.genre=Comedy&ads._fw_content_category=IAB1-7&ads._fw_content_language=undefined&ads._fw_content_genre=Comedy&ads._fw_content_rating=TV-PG&ads.xumo_contentId=146&ads.xumo_contentName=JustForLaughsGags&ads.xumo_providerId=146&ads.xumo_providerName=JustForLaughsGags&ads._fw_deviceMake=&ads._fw_device_model=&ads.channelId=99991204&ads.xumo_platform=desktopweb&ads.site_id=26840&ads.appName=xumo&ads.appVersion=2.18.0&ads._fw_app_bundle=&ads._fw_app_store_url=&ads.site_name=XumoPlay&ads.site_page=https%253A%252F%252Fplay.xumo.com
@@ -512,7 +578,7 @@ https://dtqutq7lmcchv.cloudfront.net/10001/99991204/hls/master.m3u8?includeAsset
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default_ott.mpd
 
 #EXTINF:-122 tvg-logo="https://i.imgur.com/LIrEjuN.png" group-logo="https://i.imgur.com/tURRa1o.png" group-title="Entertainment/Documentary",LIFETIME
-http://kstv.us:8080/live/5NWCtCyG06/0316873732/23293.m3u8
+http://ramz.123tv.to:8080/MZvzYsdaq2/Eg51DKxiqZ/7745
 
 #EXTINF:-1  tvg-id="97073" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6318742'&EntityType='Item'&EntityId='97073'&Width=488&Height=249" group-title="Entertainment/Documentary", LIVE 1
 https://tglmp04.akamaized.net/out/v1/b38b8a6306714a8e91ae7674291a4a94/manifest.mpd
@@ -540,9 +606,9 @@ https://tglmp03.akamaized.net/out/v1/5623928a97774b698b3404a843a827d6/manifest.m
 ‎http://136.158.97.2:6610/001/2/ch00000090990000001267/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Br4hyjlpFsJWrmHS5nwWoXTytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001549&contentid=ch00000000000000001549&videoid=ch00000090990000001267&recommendtype=0&userid=1142671346514&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=LTCR16K4MRAXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
 #EXTINF:-1 tvg-id="National.Geographic.US.-.Eastern.us" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png" group-title="Entertainment/Documentary",NATIONAL GEOGRAPHIC
-http://kstv.us:8080/live/5NWCtCyG06/0316873732/22503.m3u8
+http://ramz.123tv.to:8080/MZvzYsdaq2/Eg51DKxiqZ/517
 #EXTINF:-1 tvg-id="National.Geographic.Wild.us" tvg-name="NATIONAL GEOGRAPHIC WILD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66804_dark_360w_270h.png" group-title="Entertainment/Documentary",NATIONAL GEOGRAPHIC WILD
-http://kstv.us:8080/live/5NWCtCyG06/0316873732/22502.m3u8
+http://ramz.123tv.to:8080/MZvzYsdaq2/Eg51DKxiqZ/7692
 
 #EXTINF:-1  tvg-name="NHK World Japan" tvg-id="Nhk.Japan.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/360px-NHK_World.svg.png" group-title="Entertainment/Documentary",NHK World Japan
 http://136.239.173.3:6610/001/2/ch00000090990000001145/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqZTKpeZkGzV2we2%2BZ6q6g3ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001315&contentid=ch00000000000000001315&videoid=ch00000090990000001145&recommendtype=0&userid=1553915080287&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=G0CGMZFORK5XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
@@ -550,17 +616,17 @@ http://136.239.173.3:6610/001/2/ch00000090990000001145/manifest.mpd?AuthInfo=v87
 #EXTINF:-225 tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png" group-logo="https://i.imgur.com/IV8omb6.jpeg" group-title="Entertainment/Documentary",REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
 
-#EXTINF:-158 tvg-logo="https://i.imgur.com/ar3ixog.png" grdualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" group-title="Entertainment/Documentary" radio="false",TNT
-http://kstv.us:8080/live/5NWCtCyG06/0316873732/15955.m3u8
+#EXTINF:-158 tvg-logo="http://tugapt.com/picons/tntse.png" grdualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" group-title="Entertainment/Documentary" radio="false",TNT
+http://ramz.123tv.to:8080/MZvzYsdaq2/Eg51DKxiqZ/549
 
 #EXTINF:-120 tvg-logo="https://i.imgur.com/LplHeem.png" group-logo="https://i.imgur.com/tURRa1o.png" group-title="Entertainment/Documentary",TRAVEL CHANNEL
-http://kstv.us:8080/live/5NWCtCyG06/0316873732/24856.m3u8
+http://ramz.123tv.to:8080/MZvzYsdaq2/Eg51DKxiqZ/7694
 
 #EXTINF:-131 tvg-logo="https://i.imgur.com/5Qbiv1q.png" group-logo="https://i.imgur.com/tURRa1o.png" group-title="Entertainment/Documentary",TRAVELXP
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-117 tvg-logo="https://i.imgur.com/bU6a84F.png" group-logo="https://i.imgur.com/tURRa1o.png" group-title="Entertainment/Documentary",TLC
-http://kstv.us:8080/live/5NWCtCyG06/0316873732/22463.m3u8
+http://ramz.123tv.to:8080/MZvzYsdaq2/Eg51DKxiqZ/8970
 
 #EXTINF:-1  tvg-name="UFC" tg-id="677d9adfa9a51b0008497fa0" tvg-logo="https://images.pluto.tv/channels/677d9adfa9a51b0008497fa0/colorLogoPNG.png" tvg-chno="2850" group-title="Entertainment/Documentary",UFC
 https://jmp2.uk/plu-677d9adfa9a51b0008497fa0.m3u8
@@ -571,7 +637,7 @@ https://jmp2.uk/plu-677d9adfa9a51b0008497fa0.m3u8
 https://tglmp02.akamaized.net/out/v1/1063ebb215c14312ba9d4e415ac706d2/manifest.mpd
 
 #EXTINF:-1 group-title="Entertainment/Documentary" tvg-id="" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/a77021bb-a973-4a9b-8902-47e05787b08f/d8txzp1-3f32b570-9b7f-437d-ad29-2df8cdbf554c.png/v1/fill/w_707,h_668/wwe_network_logo_by_jjk100_d8txzp1-fullview.png", WWE Network
-http://kstv.us:8080/live/5NWCtCyG06/0316873732/47642.m3u8
+http://ramz.123tv.to:8080/MZvzYsdaq2/Eg51DKxiqZ/7544
 
 #EXTINF:-1 tvg-id="AtlantaHawks.nba" tvg-name="  ATLANTA HAWKS" tvg-logo="http://icons.tw:8080/images/1ae01d064c6cd7dff0de9d2572ef8265.png" group-title="NBA LEAGUE",  ATLANTA HAWKS
 https://hostengine.live:/live/Tkarymom1/Reggine1/55162.m3u8
