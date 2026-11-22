@@ -168,8 +168,7 @@ http://136.239.173.10:6610/001/2/ch00000090990000001091/manifest.mpd?AuthInfo=v8
 #EXTINF:-45 tvg-id="VIVA.Cinema.ph" tvg-logo="https://i.imgur.com/8y3fc3F.png" group-logo="https://i.imgur.com/083Ud3K.jpeg" group-title="Local Channels 🇵🇭",VIVA CINEMA
 http://136.239.158.18:6610/001/2/ch00000090990000001079/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoglCgy7TAZamPXsCV8PgebytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001138&contentid=ch00000000000000001138&videoid=ch00000090990000001079&recommendtype=0&userid=1897516127558&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=1Z8S6AOLQ8XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
-#EXTINF:-1 group-title="Movie Channels", 5 StarMax
-http://myultratv.com:8080/lisettecastillotv/6ge3h7f/12063
+#EXTINF:-1 tvg-id="5StarMaxEast.us" tvg-name="CineMax 5 StarMax US" tvg-logo="" group-title="Movie Channels",CineMax 5 StarMax US
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ETZqCII.png" group-title="Movie Channels", Amazon Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -177,7 +176,7 @@ http://myultratv.com:8080/lisettecastillotv/6ge3h7f/12063
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/oynu8tcxfa/out/v1/ab567b96658c4d84ae1fc6c67110987c/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/145fb397b95a82a730cb3887f421145121cb473b7a0845cf8b108551b381126e._SL170_FMpng_.png" group-title="Movie Channels",AMC
-http://myultratv.com:8080/lisettecastillotv/6ge3h7f/24126
+http://ramz.123tv.to:8080/MZvzYsdaq2/Eg51DKxiqZ/521
 
 #EXTINF:-163 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Celestial_HD_v1.png" group-logo="https://i.imgur.com/rsPE0Fp.png" group-title="Movie Channels",CELESTIAL MOVIES
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -185,30 +184,34 @@ http://myultratv.com:8080/lisettecastillotv/6ge3h7f/24126
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_primary.mpd
 
-#EXTINF:-1 tvg-id="Cinemax.-.Eastern.Feed.us" tvg-name="CINEMAX EAST" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" group-title="Movie Channels",CINEMAX EAST
-http://myultratv.com:8080/lisettecastillotv/6ge3h7f/23698
+#EXTINF:-1 tvg-id="Cinemax - Pacific US" tvg-name="CineMax Action HD US" tvg-logo="" group-title="Movie Channels",CineMax Action HD US
+http://ramz.123tv.to:8080/MZvzYsdaq2/Eg51DKxiqZ/567
 
-#EXTINF:-1 group-title="Movie Channels", Cinemax ThrillerMax
-http://myultratv.com:8080/lisettecastillotv/6ge3h7f/23823
+#EXTINF:-1 tvg-id="ActionMaxEast.us" tvg-name="CineMax ActionMax East US" tvg-logo="" group-title="Movie Channels",CineMax ActionMax East US
+http://ramz.123tv.to:8080/MZvzYsdaq2/Eg51DKxiqZ/508
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-1-ca.png" group-title="Movie Channels", CRAVE 1
-http://myultratv.com:8080/lisettecastillotv/6ge3h7f/254726
+#EXTINF:-1 tvg-id="CinemaxEast.us" tvg-name="CineMax East US" tvg-logo="" group-title="Movie Channels",CineMax East US
+http://ramz.123tv.to:8080/MZvzYsdaq2/Eg51DKxiqZ/509
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-2-ca.png" group-title="Movie Channels", CRAVE 2
-http://myultratv.com:8080/lisettecastillotv/6ge3h7f/254727
+#EXTINF:-1 tvg-id="Cinemax - Pacific US" tvg-name="Cinemax More HD US" tvg-logo="" group-title="Movie Channels",Cinemax More HD US
+http://ramz.123tv.to:8080/MZvzYsdaq2/Eg51DKxiqZ/7768
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-3-ca.png" group-title="Movie Channels", CRAVE 3
-http://myultratv.com:8080/lisettecastillotv/6ge3h7f/254728
+#EXTINF:-1 tvg-id="MoreMaxEast.us" tvg-name="CineMax MoreMax US" tvg-logo="" group-title="Movie Channels",CineMax MoreMax US
+http://ramz.123tv.to:8080/MZvzYsdaq2/Eg51DKxiqZ/501
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-4-ca.png" group-title="Movie Channels", CRAVE 4
-http://myultratv.com:8080/lisettecastillotv/6ge3h7f/254729
+#EXTINF:-1 tvg-id="EPIX - Pacific US" tvg-name="EPIX  HD US" tvg-logo="" group-title="Movie Channels",EPIX  HD US
+http://ramz.123tv.to:8080/MZvzYsdaq2/Eg51DKxiqZ/83555
+#EXTINF:-1 tvg-id="EPIX2 - Pacific US" tvg-name="EPIX 2 HD US" tvg-logo="" group-title="Movie Channels",EPIX 2 HD US
+http://ramz.123tv.to:8080/MZvzYsdaq2/Eg51DKxiqZ/83556
+#EXTINF:-1 tvg-id="EPIX Drive-In US" tvg-name="EPIX DRIVE IN HD US" tvg-logo="" group-title="Movie Channels",EPIX DRIVE IN HD US
+http://ramz.123tv.to:8080/MZvzYsdaq2/Eg51DKxiqZ/83557
 
 #EXTINF:-1 tvg-id="FX.Networks.East.Coast.us" tvg-name="FX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png" group-title="Movie Channels",FX
-http://myultratv.com:8080/lisettecastillotv/6ge3h7f/24040
+http://ramz.123tv.to:8080/MZvzYsdaq2/Eg51DKxiqZ/8990
 #EXTINF:-1 tvg-id="FX.Movie.Channel.us" tvg-name="FXM" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fxm-movie-channel-us.png?raw=true" group-title="Movie Channels",FXM
-http://kstv.us:8080/live/5NWCtCyG06/0316873732/23309.m3u8
+http://ramz.123tv.to:8080/MZvzYsdaq2/Eg51DKxiqZ/82831
 #EXTINF:-1 tvg-id="FXX.USA.-.Eastern.us" tvg-name="FXX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17927_dark_360w_270h.png" group-title="Movie Channels",FXX
-http://myultratv.com:8080/lisettecastillotv/6ge3h7f/23799
+http://ramz.123tv.to:8080/MZvzYsdaq2/Eg51DKxiqZ/82832
 
 #EXTINF:-1 tvg-id="hits-hd" tvg-logo="https://i.imgur.com/CxqHKUO.png" group-title="Movie Channels",Hits HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -238,7 +241,7 @@ https://linear-59.frequency.stream/dist/xumo/59/hls/master/playlist_1920x1080.m3
 http://136.239.158.10:6610/001/2/ch00000090990000001065/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BosKg8aLji3LHWqHUI%2FwQyJytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001085&contentid=ch00000000000000001085&videoid=ch00000090990000001065&recommendtype=0&userid=1362658369654&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=UVJL5F87UVBXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
 #EXTINF:-1  tvg-name="HBO2" tvg-id="HBO.2.-.Eastern.Feed.us" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/HBO2._SL170_FMpng_.png" group-title="Movie Channels",HBO2
-http://myultratv.com:8080/lisettecastillotv/6ge3h7f/24006
+http://ramz.123tv.to:8080/MZvzYsdaq2/Eg51DKxiqZ/11796
 
 #EXTINF:-1  tvg-name="HBO Comedy" tvg-id="HBO.Comedy.HD.-.East.us" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/HBO_Comedy._SL170_FMpng_.png" group-title="Movie Channels",HBO Comedy
 http://myultratv.com:8080/lisettecastillotv/6ge3h7f/24004
@@ -248,12 +251,6 @@ http://myultratv.com:8080/lisettecastillotv/6ge3h7f/24004
 #KODIPROP:inputstream.adaptive.license_key=5d600eb70944d681c26c1f48fbe61f10:796139ba05a2ab425f978c7fd98b4372
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default_primary.mpd
-
-#EXTINF:-70 tvg-id="Cg.Hbosign.ph" tvg-logo="https://i.imgur.com/3BOoqQn.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Movie Channels",HBO SIGNATURE
-http://myultratv.com:8080/lisettecastillotv/6ge3h7f/24000
-
-#EXTINF:-71 tvg-id="Cg.Hbofam.ph" tvg-logo="https://i.imgur.com/Zy3pvJV.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Movie Channels",HBO FAMILY
-http://myultratv.com:8080/lisettecastillotv/6ge3h7f/24002
 
 #EXTINF:-1  tvg-name="HBO Zone" tvg-id="HBO.Zone.HD.-.East.us" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/HBO_Zone_East._SL170_FMpng_.png" group-title="Movie Channels",HBO Zone
 http://myultratv.com:8080/lisettecastillotv/6ge3h7f/23998
