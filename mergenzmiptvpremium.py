@@ -9,6 +9,7 @@ urls = [
     "https://raw.githubusercontent.com/BuddyChewChew/RakutenTV/refs/heads/main/playlist.m3u",
     "https://raw.githubusercontent.com/BuddyChewChew/tubi-scraper/refs/heads/main/tubi_playlist.m3u",
     "https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/playlist.m3u",
+    "https://ppv.atone77721.workers.dev/SportsWebcast.m3u8","https://tvpass.org/playlist.m3u",
     "https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/refs/heads/main/Roku-All.m3u"
 ]
 
