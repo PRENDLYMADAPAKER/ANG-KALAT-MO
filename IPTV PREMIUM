@@ -168,13 +168,19 @@ http://136.239.173.10:6610/001/2/ch00000090990000001091/manifest.mpd?AuthInfo=v8
 #EXTINF:-45 tvg-id="VIVA.Cinema.ph" tvg-logo="https://i.imgur.com/8y3fc3F.png" group-logo="https://i.imgur.com/083Ud3K.jpeg" group-title="Local Channels 🇵🇭",VIVA CINEMA
 http://136.239.158.18:6610/001/2/ch00000090990000001079/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoglCgy7TAZamPXsCV8PgebytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001138&contentid=ch00000000000000001138&videoid=ch00000090990000001079&recommendtype=0&userid=1897516127558&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=1Z8S6AOLQ8XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
+#EXTINF:-1 tvg-id="" tvg-name="Usa: 5 StarMAX" tvg-logo="http://pro.netmos.ovh:7355/images/38e98731a878d8428c3cf80bfe65f3b7.png" group-title="Movie Channels",5 StarMAX
+http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/239168.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="USA: ActionMAX" tvg-logo="http://pro.netmos.ovh:7355/images/096e13e6ef6789524daafc087489c138.png" group-title="Movie Channels",ActionMAX
+http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/239169.ts
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ETZqCII.png" group-title="Movie Channels", Amazon Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3e429eb91a1791d55df2a554dc58dda7:2f688f94ef580a61eada6932598137e4
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/oynu8tcxfa/out/v1/ab567b96658c4d84ae1fc6c67110987c/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/145fb397b95a82a730cb3887f421145121cb473b7a0845cf8b108551b381126e._SL170_FMpng_.png" group-title="Movie Channels",AMC
-http://skysmt.com:8080/live/23839393939944/3838494958/74182.ts
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/145fb397b95a82a730cb3887f421145121cb473b7a0845cf8b108551b381126e._SL170_FMpng_.png" group-title="Movie Channels",AMC+
+http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/239170.ts
 
 #EXTINF:-163 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Celestial_HD_v1.png" group-logo="https://i.imgur.com/rsPE0Fp.png" group-title="Movie Channels",CELESTIAL MOVIES
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -182,11 +188,17 @@ http://skysmt.com:8080/live/23839393939944/3838494958/74182.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_primary.mpd
 
-#EXTINF:-1 tvg-id="CinemaxEast.us" tvg-name="CineMax East US" tvg-logo="" group-title="Movie Channels",CineMax East US
-http://skysmt.com:8080/live/23839393939944/3838494958/222399.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CineMAX HD" tvg-logo="http://pro.netmos.ovh:7355/images/c3d912d71344b6301e8c6995a30cf673.png" group-title="Movie Channels",USA: CineMAX HD
+http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/239174.ts
 
-#EXTINF:-1 tvg-id="FX.Networks.East.Coast.us" tvg-name="FX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png" group-title="Movie Channels",FX
-http://skysmt.com:8080/live/23839393939944/3838494958/74245.ts
+#EXTINF:-1 tvg-id="" tvg-name="Usa: EPIX Drive-In HD" tvg-logo="http://pro.netmos.ovh:7355/images/06cd5ad38394df552b09df3300ebc579.png" group-title="Movie Channels",Usa: EPIX Drive-In HD
+http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/239178.ts
+#EXTINF:-1 tvg-id="" tvg-name="Usa: EPIX HD" tvg-logo="http://pro.netmos.ovh:7355/images/9b7c35719411076df4ce0221538a85fe.png" group-title="Movie Channels",Usa: EPIX HD
+http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/239179.ts
+#EXTINF:-1 tvg-id="" tvg-name="Usa: EPIX Hits" tvg-logo="http://pro.netmos.ovh:7355/images/bbcabaf00c531bf348710feb61b1f990.png" group-title="Movie Channels",Usa: EPIX Hits
+http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/239180.ts
+#EXTINF:-1 tvg-id="" tvg-name="Usa:  EPIX 2 HD" tvg-logo="http://vod-logo.net/photos/dc388b5fcc93caf7fbbf8bb18f5639c4.png" group-title="Movie Channels",EPIX 2 HD
+http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/239167.ts
 
 #EXTINF:-1 tvg-id="hits-hd" tvg-logo="https://i.imgur.com/CxqHKUO.png" group-title="Movie Channels",Hits HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -215,26 +227,8 @@ https://linear-59.frequency.stream/dist/xumo/59/hls/master/playlist_1920x1080.m3
 #EXTINF:-52 tvg-id="Cg.Hbohd.ph" tvg-logo="https://i.imgur.com/pa2SF5Z.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Movie Channels",HBO
 http://136.239.158.10:6610/001/2/ch00000090990000001065/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BosKg8aLji3LHWqHUI%2FwQyJytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001085&contentid=ch00000000000000001085&videoid=ch00000090990000001065&recommendtype=0&userid=1362658369654&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=UVJL5F87UVBXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
-#EXTINF:-1  tvg-name="HBO2" tvg-id="HBO.2.-.Eastern.Feed.us" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/HBO2._SL170_FMpng_.png" group-title="Movie Channels",HBO2
-http://skysmt.com:8080/live/23839393939944/3838494958/74212.ts
-
-#EXTINF:-1  tvg-name="HBO Comedy" tvg-id="HBO.Comedy.HD.-.East.us" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/HBO_Comedy._SL170_FMpng_.png" group-title="Movie Channels",HBO Comedy
-http://skysmt.com:8080/live/23839393939944/3838494958/74219.ts
-
-#EXTINF:-69 tvg-id="Cg.Hbohits.ph" tvg-logo="https://i.imgur.com/pZn9JHj.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Movie Channels",HBO HITS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5d600eb70944d681c26c1f48fbe61f10:796139ba05a2ab425f978c7fd98b4372
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default_primary.mpd
-
-#EXTINF:-1 tvg-id="hbofamily.us" tvg-name="US | HBO FAMILY" tvg-logo="https://i.ibb.co/5RYysCD/download-74.png" group-title="Movie Channels", HBO FAMILY
-http://skysmt.com:8080/live/23839393939944/3838494958/74224.ts
-
-#EXTINF:-1  tvg-name="HBO Zone" tvg-id="HBO.Zone.HD.-.East.us" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/HBO_Zone_East._SL170_FMpng_.png" group-title="Movie Channels",HBO Zone
-http://skysmt.com:8080/live/23839393939944/3838494958/74216.ts
-
-#EXTINF:-1 tvg-id="LifetimeMovieNetwork.us" tvg-name="US | LIFETIME MOVIES" tvg-logo="https://tlgrm.re/images/lifetime-movies-us.png" group-title="Movie Channels",LIFETIME MOVIES
-http://skysmt.com:8080/live/23839393939944/3838494958/74232.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Lifetime Movies" tvg-logo="http://pro.netmos.ovh:7355/images/bf228a6bc9decc173792f670b37dfe09.jpg" group-title="Movie Channels",USA: Lifetime Movies
+http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/239186.ts
 
 #EXTINF:-1 tvg-id="MGM+.HDTV.(East).(MGM+HD).us" tvg-name="MGM+" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mgm-plus-us.png?raw=true" group-title="Movie Channels",MGM+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -318,6 +312,9 @@ https://ucdn.mediaquest.com.ph/bpk-tv/cg_tapmovies_hd1/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b8c3d5906e424f17a9215d8c7a2e6043:02ce48f1b48f7cbdc3e2703a56e8fa31
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_thrill_sd/default/index.mpd 
+
+#EXTINF:-1 tvg-id="" tvg-name="Usa: ThrillerMAX" tvg-logo="http://vod-logo.net/photos/bf2cc83d5980f5aba55312367ec9e4ae.png" group-title="Movie Channels",ThrillerMAX
+http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/239132.ts
 
 #EXTINF:-150 tvg-logo="https://i.imgur.com/oLzTyUX.png" group-logo="https://i.imgur.com/rsPE0Fp.png" group-title="Movie Channels",TVN MOVIES
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -551,6 +548,101 @@ https://tglmp02.akamaized.net/out/v1/1063ebb215c14312ba9d4e415ac706d2/manifest.m
 
 #EXTINF:-1 group-title="Entertainment/Documentary" tvg-id="" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/a77021bb-a973-4a9b-8902-47e05787b08f/d8txzp1-3f32b570-9b7f-437d-ad29-2df8cdbf554c.png/v1/fill/w_707,h_668/wwe_network_logo_by_jjk100_d8txzp1-fullview.png", WWE Network
 http://skysmt.com:8080/live/23839393939944/3838494958/84055.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY 3" tvg-logo="https://yt3.googleusercontent.com/-7wF73TDzfrE8Bo1I1mvRdShpdbX0wDWYtYTvcUr4Ts0zbGwO1GdqfnD9cearRpo2b3WjarycAI=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS DISNEY",DISNEY 3
+http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/217307.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY 1" tvg-logo="https://yt3.googleusercontent.com/-7wF73TDzfrE8Bo1I1mvRdShpdbX0wDWYtYTvcUr4Ts0zbGwO1GdqfnD9cearRpo2b3WjarycAI=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS DISNEY",DISNEY 1
+http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/217305.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY 5" tvg-logo="https://yt3.googleusercontent.com/-7wF73TDzfrE8Bo1I1mvRdShpdbX0wDWYtYTvcUr4Ts0zbGwO1GdqfnD9cearRpo2b3WjarycAI=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS DISNEY",DISNEY 5
+http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/217309.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY 7" tvg-logo="https://yt3.googleusercontent.com/-7wF73TDzfrE8Bo1I1mvRdShpdbX0wDWYtYTvcUr4Ts0zbGwO1GdqfnD9cearRpo2b3WjarycAI=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS DISNEY",DISNEY 7
+http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/217311.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY 8" tvg-logo="https://yt3.googleusercontent.com/-7wF73TDzfrE8Bo1I1mvRdShpdbX0wDWYtYTvcUr4Ts0zbGwO1GdqfnD9cearRpo2b3WjarycAI=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS DISNEY",DISNEY 8
+http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/217312.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISENY 9" tvg-logo="https://yt3.googleusercontent.com/-7wF73TDzfrE8Bo1I1mvRdShpdbX0wDWYtYTvcUr4Ts0zbGwO1GdqfnD9cearRpo2b3WjarycAI=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS DISNEY",DISENY 9
+http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/217412.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY 10" tvg-logo="https://yt3.googleusercontent.com/-7wF73TDzfrE8Bo1I1mvRdShpdbX0wDWYtYTvcUr4Ts0zbGwO1GdqfnD9cearRpo2b3WjarycAI=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS DISNEY",DISNEY 10
+http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/217413.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY 11" tvg-logo="https://yt3.googleusercontent.com/-7wF73TDzfrE8Bo1I1mvRdShpdbX0wDWYtYTvcUr4Ts0zbGwO1GdqfnD9cearRpo2b3WjarycAI=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS DISNEY",DISNEY 11
+http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/217414.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY 12" tvg-logo="https://yt3.googleusercontent.com/-7wF73TDzfrE8Bo1I1mvRdShpdbX0wDWYtYTvcUr4Ts0zbGwO1GdqfnD9cearRpo2b3WjarycAI=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS DISNEY",DISNEY 12
+http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/217415.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY 13" tvg-logo="https://yt3.googleusercontent.com/-7wF73TDzfrE8Bo1I1mvRdShpdbX0wDWYtYTvcUr4Ts0zbGwO1GdqfnD9cearRpo2b3WjarycAI=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS DISNEY",DISNEY 13
+http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/217416.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY 14" tvg-logo="https://yt3.googleusercontent.com/-7wF73TDzfrE8Bo1I1mvRdShpdbX0wDWYtYTvcUr4Ts0zbGwO1GdqfnD9cearRpo2b3WjarycAI=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS DISNEY",DISNEY 14
+http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/217417.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY 15" tvg-logo="https://yt3.googleusercontent.com/-7wF73TDzfrE8Bo1I1mvRdShpdbX0wDWYtYTvcUr4Ts0zbGwO1GdqfnD9cearRpo2b3WjarycAI=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS DISNEY",DISNEY 15
+http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/217418.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY 16" tvg-logo="https://yt3.googleusercontent.com/-7wF73TDzfrE8Bo1I1mvRdShpdbX0wDWYtYTvcUr4Ts0zbGwO1GdqfnD9cearRpo2b3WjarycAI=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS DISNEY",DISNEY 16
+http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/217419.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY 17" tvg-logo="https://yt3.googleusercontent.com/-7wF73TDzfrE8Bo1I1mvRdShpdbX0wDWYtYTvcUr4Ts0zbGwO1GdqfnD9cearRpo2b3WjarycAI=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS DISNEY",DISNEY 17
+http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/217420.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY 18" tvg-logo="https://yt3.googleusercontent.com/-7wF73TDzfrE8Bo1I1mvRdShpdbX0wDWYtYTvcUr4Ts0zbGwO1GdqfnD9cearRpo2b3WjarycAI=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS DISNEY",DISNEY 18
+http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/217421.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY 4" tvg-logo="https://yt3.googleusercontent.com/-7wF73TDzfrE8Bo1I1mvRdShpdbX0wDWYtYTvcUr4Ts0zbGwO1GdqfnD9cearRpo2b3WjarycAI=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS DISNEY",DISNEY 4
+http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/217308.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY 2" tvg-logo="https://yt3.googleusercontent.com/-7wF73TDzfrE8Bo1I1mvRdShpdbX0wDWYtYTvcUr4Ts0zbGwO1GdqfnD9cearRpo2b3WjarycAI=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS DISNEY",DISNEY 2
+http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/217306.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY 6" tvg-logo="https://yt3.googleusercontent.com/-7wF73TDzfrE8Bo1I1mvRdShpdbX0wDWYtYTvcUr4Ts0zbGwO1GdqfnD9cearRpo2b3WjarycAI=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS DISNEY",DISNEY 6
+http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/217310.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+3 ENGLISH" tvg-logo="https://yt3.googleusercontent.com/-7wF73TDzfrE8Bo1I1mvRdShpdbX0wDWYtYTvcUr4Ts0zbGwO1GdqfnD9cearRpo2b3WjarycAI=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS DISNEY",DISNEY+3 ENGLISH
+http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/230788.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+2 ENGLISH" tvg-logo="https://yt3.googleusercontent.com/-7wF73TDzfrE8Bo1I1mvRdShpdbX0wDWYtYTvcUr4Ts0zbGwO1GdqfnD9cearRpo2b3WjarycAI=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS DISNEY",DISNEY+2 ENGLISH
+http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/230787.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+1 ENGLISH" tvg-logo="https://yt3.googleusercontent.com/-7wF73TDzfrE8Bo1I1mvRdShpdbX0wDWYtYTvcUr4Ts0zbGwO1GdqfnD9cearRpo2b3WjarycAI=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS DISNEY",DISNEY+1 ENGLISH
+http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/230786.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+6" tvg-logo="https://yt3.googleusercontent.com/-7wF73TDzfrE8Bo1I1mvRdShpdbX0wDWYtYTvcUr4Ts0zbGwO1GdqfnD9cearRpo2b3WjarycAI=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS DISNEY",DISNEY+6
+http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/230785.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+5" tvg-logo="https://yt3.googleusercontent.com/-7wF73TDzfrE8Bo1I1mvRdShpdbX0wDWYtYTvcUr4Ts0zbGwO1GdqfnD9cearRpo2b3WjarycAI=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS DISNEY",DISNEY+5
+http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/230784.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+4" tvg-logo="https://yt3.googleusercontent.com/-7wF73TDzfrE8Bo1I1mvRdShpdbX0wDWYtYTvcUr4Ts0zbGwO1GdqfnD9cearRpo2b3WjarycAI=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS DISNEY",DISNEY+4
+http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/230783.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+3" tvg-logo="https://yt3.googleusercontent.com/-7wF73TDzfrE8Bo1I1mvRdShpdbX0wDWYtYTvcUr4Ts0zbGwO1GdqfnD9cearRpo2b3WjarycAI=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS DISNEY",DISNEY+3
+http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/230782.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+2" tvg-logo="https://yt3.googleusercontent.com/-7wF73TDzfrE8Bo1I1mvRdShpdbX0wDWYtYTvcUr4Ts0zbGwO1GdqfnD9cearRpo2b3WjarycAI=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS DISNEY",DISNEY+2
+http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/230781.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ 20" tvg-logo="https://yt3.googleusercontent.com/-7wF73TDzfrE8Bo1I1mvRdShpdbX0wDWYtYTvcUr4Ts0zbGwO1GdqfnD9cearRpo2b3WjarycAI=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS DISNEY",Disney+ 20
+http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/231940.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ 19" tvg-logo="https://yt3.googleusercontent.com/-7wF73TDzfrE8Bo1I1mvRdShpdbX0wDWYtYTvcUr4Ts0zbGwO1GdqfnD9cearRpo2b3WjarycAI=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS DISNEY",Disney+ 19
+http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/231939.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ 18" tvg-logo="https://yt3.googleusercontent.com/-7wF73TDzfrE8Bo1I1mvRdShpdbX0wDWYtYTvcUr4Ts0zbGwO1GdqfnD9cearRpo2b3WjarycAI=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS DISNEY",Disney+ 18
+http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/231938.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ 17" tvg-logo="https://yt3.googleusercontent.com/-7wF73TDzfrE8Bo1I1mvRdShpdbX0wDWYtYTvcUr4Ts0zbGwO1GdqfnD9cearRpo2b3WjarycAI=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS DISNEY",Disney+ 17
+http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/231937.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ 16" tvg-logo="https://yt3.googleusercontent.com/-7wF73TDzfrE8Bo1I1mvRdShpdbX0wDWYtYTvcUr4Ts0zbGwO1GdqfnD9cearRpo2b3WjarycAI=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS DISNEY",Disney+ 16
+http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/231936.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ 15" tvg-logo="https://yt3.googleusercontent.com/-7wF73TDzfrE8Bo1I1mvRdShpdbX0wDWYtYTvcUr4Ts0zbGwO1GdqfnD9cearRpo2b3WjarycAI=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS DISNEY",Disney+ 15
+http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/231935.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ 14" tvg-logo="https://yt3.googleusercontent.com/-7wF73TDzfrE8Bo1I1mvRdShpdbX0wDWYtYTvcUr4Ts0zbGwO1GdqfnD9cearRpo2b3WjarycAI=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS DISNEY",Disney+ 14
+http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/231934.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ 13" tvg-logo="https://yt3.googleusercontent.com/-7wF73TDzfrE8Bo1I1mvRdShpdbX0wDWYtYTvcUr4Ts0zbGwO1GdqfnD9cearRpo2b3WjarycAI=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS DISNEY",Disney+ 13
+http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/231933.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ 12" tvg-logo="https://yt3.googleusercontent.com/-7wF73TDzfrE8Bo1I1mvRdShpdbX0wDWYtYTvcUr4Ts0zbGwO1GdqfnD9cearRpo2b3WjarycAI=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS DISNEY",Disney+ 12
+http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/231932.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ 11" tvg-logo="https://yt3.googleusercontent.com/-7wF73TDzfrE8Bo1I1mvRdShpdbX0wDWYtYTvcUr4Ts0zbGwO1GdqfnD9cearRpo2b3WjarycAI=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS DISNEY",Disney+ 11
+http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/231931.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ 10" tvg-logo="https://yt3.googleusercontent.com/-7wF73TDzfrE8Bo1I1mvRdShpdbX0wDWYtYTvcUr4Ts0zbGwO1GdqfnD9cearRpo2b3WjarycAI=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS DISNEY",Disney+ 10
+http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/231930.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ 09" tvg-logo="https://yt3.googleusercontent.com/-7wF73TDzfrE8Bo1I1mvRdShpdbX0wDWYtYTvcUr4Ts0zbGwO1GdqfnD9cearRpo2b3WjarycAI=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS DISNEY",Disney+ 09
+http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/231929.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ 08" tvg-logo="https://yt3.googleusercontent.com/-7wF73TDzfrE8Bo1I1mvRdShpdbX0wDWYtYTvcUr4Ts0zbGwO1GdqfnD9cearRpo2b3WjarycAI=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS DISNEY",Disney+ 08
+http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/231928.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ 07" tvg-logo="https://yt3.googleusercontent.com/-7wF73TDzfrE8Bo1I1mvRdShpdbX0wDWYtYTvcUr4Ts0zbGwO1GdqfnD9cearRpo2b3WjarycAI=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS DISNEY",Disney+ 07
+http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/231927.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ 06" tvg-logo="https://yt3.googleusercontent.com/-7wF73TDzfrE8Bo1I1mvRdShpdbX0wDWYtYTvcUr4Ts0zbGwO1GdqfnD9cearRpo2b3WjarycAI=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS DISNEY",Disney+ 06
+http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/231926.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ 05" tvg-logo="https://yt3.googleusercontent.com/-7wF73TDzfrE8Bo1I1mvRdShpdbX0wDWYtYTvcUr4Ts0zbGwO1GdqfnD9cearRpo2b3WjarycAI=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS DISNEY",Disney+ 05
+http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/231925.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ 04" tvg-logo="https://yt3.googleusercontent.com/-7wF73TDzfrE8Bo1I1mvRdShpdbX0wDWYtYTvcUr4Ts0zbGwO1GdqfnD9cearRpo2b3WjarycAI=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS DISNEY",Disney+ 04
+http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/231924.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ 03" tvg-logo="https://yt3.googleusercontent.com/-7wF73TDzfrE8Bo1I1mvRdShpdbX0wDWYtYTvcUr4Ts0zbGwO1GdqfnD9cearRpo2b3WjarycAI=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS DISNEY",Disney+ 03
+http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/231923.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ 02" tvg-logo="https://yt3.googleusercontent.com/-7wF73TDzfrE8Bo1I1mvRdShpdbX0wDWYtYTvcUr4Ts0zbGwO1GdqfnD9cearRpo2b3WjarycAI=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS DISNEY",Disney+ 02
+http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/231922.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+1" tvg-logo="https://yt3.googleusercontent.com/-7wF73TDzfrE8Bo1I1mvRdShpdbX0wDWYtYTvcUr4Ts0zbGwO1GdqfnD9cearRpo2b3WjarycAI=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS DISNEY",DISNEY+1
+http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/230780.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ 01" tvg-logo="https://yt3.googleusercontent.com/-7wF73TDzfrE8Bo1I1mvRdShpdbX0wDWYtYTvcUr4Ts0zbGwO1GdqfnD9cearRpo2b3WjarycAI=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS DISNEY",Disney+ 01
+http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/231921.ts
 
 ########## CIGNAL TV ########
 
