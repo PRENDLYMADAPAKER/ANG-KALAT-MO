@@ -9,7 +9,7 @@
 https://ucdn.mediaquest.com.ph/bpk-tv/cgnl_nba/default/index.mpd
 
 #EXTINF:-1 tvg-id="NBA.TV.USA.us" tvg-name="NBA TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-us.png?raw=true" group-title="NBA CHANNEL🏀",NBA TV
-http://skysmt.com:8080/live/23839393939944/3838494958/254468.ts
+http://23.237.104.106:8080/USA_NBA/index.m3u8
 
 #EXTINF:-1 tvg-id="A2z.ph" tvg-logo="https://i.imgur.com/3myn4zH.png" group-logo="https://i.imgur.com/083Ud3K.jpeg" group-title="Local Channels 🇵🇭",A2Z
 http://136.239.173.2:6610/001/2/ch00000090990000001087/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqHRrK8UUahwItHhKpXgPXKytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001176&contentid=ch00000000000000001176&videoid=ch00000090990000001087&recommendtype=0&userid=1287297673984&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=U4DB4Z0H2EXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
@@ -168,19 +168,13 @@ http://136.239.173.10:6610/001/2/ch00000090990000001091/manifest.mpd?AuthInfo=v8
 #EXTINF:-45 tvg-id="VIVA.Cinema.ph" tvg-logo="https://i.imgur.com/8y3fc3F.png" group-logo="https://i.imgur.com/083Ud3K.jpeg" group-title="Local Channels 🇵🇭",VIVA CINEMA
 http://136.239.158.18:6610/001/2/ch00000090990000001079/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoglCgy7TAZamPXsCV8PgebytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001138&contentid=ch00000000000000001138&videoid=ch00000090990000001079&recommendtype=0&userid=1897516127558&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=1Z8S6AOLQ8XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
-#EXTINF:-1 tvg-id="" tvg-name="Usa: 5 StarMAX" tvg-logo="http://pro.netmos.ovh:7355/images/38e98731a878d8428c3cf80bfe65f3b7.png" group-title="Movie Channels",5 StarMAX
-http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/239168.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="USA: ActionMAX" tvg-logo="http://pro.netmos.ovh:7355/images/096e13e6ef6789524daafc087489c138.png" group-title="Movie Channels",ActionMAX
-http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/239169.ts
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ETZqCII.png" group-title="Movie Channels", Amazon Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3e429eb91a1791d55df2a554dc58dda7:2f688f94ef580a61eada6932598137e4
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/oynu8tcxfa/out/v1/ab567b96658c4d84ae1fc6c67110987c/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/145fb397b95a82a730cb3887f421145121cb473b7a0845cf8b108551b381126e._SL170_FMpng_.png" group-title="Movie Channels",AMC+
-http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/239170.ts
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/145fb397b95a82a730cb3887f421145121cb473b7a0845cf8b108551b381126e._SL170_FMpng_.png" group-title="Movie Channels",AMC
+https://tvsen6.aynaott.com/amc/index.m3u8
 
 #EXTINF:-163 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Celestial_HD_v1.png" group-logo="https://i.imgur.com/rsPE0Fp.png" group-title="Movie Channels",CELESTIAL MOVIES
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -188,17 +182,23 @@ http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/239170.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_primary.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="USA: CineMAX HD" tvg-logo="http://pro.netmos.ovh:7355/images/c3d912d71344b6301e8c6995a30cf673.png" group-title="Movie Channels",USA: CineMAX HD
-http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/239174.ts
+#EXTINF:-1 tvg-chno="32" tvg-id="Cinemax.Classics.us2" tvg-name="Cinemax Classics" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cinemax-classics-us.png" group-title="Movie Channels",Cinemax Classics
+http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Usa: EPIX Drive-In HD" tvg-logo="http://pro.netmos.ovh:7355/images/06cd5ad38394df552b09df3300ebc579.png" group-title="Movie Channels",Usa: EPIX Drive-In HD
-http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/239178.ts
-#EXTINF:-1 tvg-id="" tvg-name="Usa: EPIX HD" tvg-logo="http://pro.netmos.ovh:7355/images/9b7c35719411076df4ce0221538a85fe.png" group-title="Movie Channels",Usa: EPIX HD
-http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/239179.ts
-#EXTINF:-1 tvg-id="" tvg-name="Usa: EPIX Hits" tvg-logo="http://pro.netmos.ovh:7355/images/bbcabaf00c531bf348710feb61b1f990.png" group-title="Movie Channels",Usa: EPIX Hits
-http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/239180.ts
-#EXTINF:-1 tvg-id="" tvg-name="Usa:  EPIX 2 HD" tvg-logo="http://vod-logo.net/photos/dc388b5fcc93caf7fbbf8bb18f5639c4.png" group-title="Movie Channels",EPIX 2 HD
-http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/239167.ts
+#EXTINF:-1 tvg-chno="33" tvg-id="Cinemax.Hits.us2" tvg-name="Cinemax Hits" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cinemax-hits-us.png" group-title="Movie Channels",Cinemax Hits
+http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
+
+#EXTINF:-1 tvg-chno="34" tvg-id="Cinemax.HD.(Pacific).us2" tvg-name="Cinemax West" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cinemax-us.png" group-title="Movie Channels",Cinemax West
+http://23.237.104.106:8080/USA_CINEMAX_WEST/index.m3u8
+
+#EXTINF:-1 tvg-chno="70" tvg-id="FX.HD.us2" tvg-name="FX" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s73681_dark_360w_270h.png" group-title="Movie Channels",FX
+http://89.187.179.148:826/1368/gXwiagaXda/1364
+
+#EXTINF:-1 tvg-chno="71" tvg-id="FX.Movie.Channel.HD.us2" tvg-name="FX Movie Channel" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s70253_dark_360w_270h.png" group-title="Movie Channels",FX Movie Channel
+http://89.187.179.148:826/1368/gXwiagaXda/29312
+
+#EXTINF:-1 tvg-chno="72" tvg-id="FXX.HD.us2" tvg-name="FXX" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s17927_dark_360w_270h.png" group-title="Movie Channels",FXX
+http://89.187.179.148:826/1368/gXwiagaXda/1671
 
 #EXTINF:-1 tvg-id="hits-hd" tvg-logo="https://i.imgur.com/CxqHKUO.png" group-title="Movie Channels",Hits HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -275,29 +275,24 @@ https://268d7193278949b4b4796e63861deee5.mediatailor.us-east-1.amazonaws.com/v1/
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
 
-#EXTINF:-1 tvg-id="showtime.us" tvg-name="US | SHOWTIME HD" tvg-logo="https://i.ibb.co/R736Jdd/images-1.png" group-title="Movie Channels",US | SHOWTIME HD
-http://skysmt.com:8080/live/23839393939944/3838494958/74231.ts
-#EXTINF:-1 tvg-id="showtimeextreme.us" tvg-name="U | SHOWTIME EXTREME" tvg-logo="https://i.ibb.co/R736Jdd/images-1.png" group-title="Movie Channels",U | SHOWTIME EXTREME
-http://skysmt.com:8080/live/23839393939944/3838494958/74228.ts
-#EXTINF:-1 tvg-id="showtimefamilyzonepacific.us" tvg-name="US | SHOWTIME FAMILY ZONE" tvg-logo="https://i.ibb.co/R736Jdd/images-1.png" group-title="Movie Channels",US | SHOWTIME FAMILY ZONE
-http://skysmt.com:8080/live/23839393939944/3838494958/74229.ts
-#EXTINF:-1 tvg-id="showtimewomen.us" tvg-name="US | SHOWTIME WOMEN" tvg-logo="https://i.ibb.co/R736Jdd/images-1.png" group-title="Movie Channels",US | SHOWTIME WOMEN
-http://skysmt.com:8080/live/23839393939944/3838494958/74230.ts
+#EXTINF:-1 tvg-chno="124" tvg-id="Showtime.Extreme.HD.us2" tvg-name="Showtime Extreme" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s18086_dark_360w_270h.png" group-title="Movie Channels",Showtime Extreme
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363d28c/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNkMjhjOjE3OTU1NTc2MDU2NTY6Y2RubGl2ZXR2LnR2OjcxMmZmNjk4Nzg5YjA4ZjEuNTBmYWRkYzRmZTJiZDRhZjk0MDY5NTY4NTA0NTU5MmVjNTM3NDk0MWQ3YzhjZTM1NjEyYzRjNzU0M2E4YTE0OA
 
-#EXTINF:-1 tvg-id="starzinblack.us" tvg-name="US |  STARZ BLACK |  FHD" tvg-logo="https://i.ibb.co/L9mMJnw/download-72.png" group-title="Movie Channels",US |  STARZ BLACK |  FHD
-http://skysmt.com:8080/live/23839393939944/3838494958/74233.ts
-#EXTINF:-1 tvg-id="starzedge.us" tvg-name="US | STARZ EDGE" tvg-logo="https://i.ibb.co/L9mMJnw/download-72.png" group-title="Movie Channels",US | STARZ EDGE
-http://skysmt.com:8080/live/23839393939944/3838494958/74237.ts
-#EXTINF:-1 tvg-id="starzencore.us" tvg-name="US | STARZENCORE" tvg-logo="https://i.ibb.co/L9mMJnw/download-72.png" group-title="Movie Channels",US | STARZENCORE
-http://skysmt.com:8080/live/23839393939944/3838494958/74238.ts
-#EXTINF:-1 tvg-id="starzencoreaction.us" tvg-name="US | STARZENCORE ACTION" tvg-logo="https://i.ibb.co/L9mMJnw/download-72.png" group-title="Movie Channels",US | STARZENCORE ACTION
-http://skysmt.com:8080/live/23839393939944/3838494958/74239.ts
-#EXTINF:-1 tvg-id="starzencoreclassics.us" tvg-name="US | STARZENCORE CLASSIC" tvg-logo="https://i.ibb.co/QrnsnW6/download-71.png" group-title="Movie Channels",US | STARZENCORE CLASSIC
-http://skysmt.com:8080/live/23839393939944/3838494958/74240.ts
-#EXTINF:-1 tvg-id="starzencorefamily.us" tvg-name="US | STARZENCORE FAMILY" tvg-logo="https://i.ibb.co/qMRyFVF/download-70.png" group-title="Movie Channels",US | STARZENCORE FAMILY
-http://skysmt.com:8080/live/23839393939944/3838494958/74241.ts
-#EXTINF:-1 tvg-id="" tvg-name="US | STARZ East | HD" tvg-logo="https://i.ibb.co/p37f5cs/download-69.png" group-title="Movie Channels",US | STARZ East | HD
-http://skysmt.com:8080/live/23839393939944/3838494958/74242.ts
+#EXTINF:-1 tvg-chno="125" tvg-id="Showtime.Familyzone.HD.us2" tvg-name="Showtime FamilyZone" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s25274_dark_360w_270h.png" group-title="Movie Channels",Showtime FamilyZone
+http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8
+
+#EXTINF:-1 tvg-chno="140" tvg-id="Starz.HD.us2" tvg-name="Starz" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s12719_dark_360w_270h.png" group-title="Movie Channels",Starz
+http://89.187.179.148:826/1368/gXwiagaXda/1271
+
+#EXTINF:-1 tvg-chno="141" tvg-id="Starz.Comedy.HD.us2" tvg-name="Starz Comedy" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s34901_dark_360w_270h.png" group-title="Movie Channels",Starz Comedy
+http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
+
+#EXTINF:-1 tvg-chno="142" tvg-id="Starz.Encore.Family.SD.us2" tvg-name="Starz Encore Family" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/starz-encore-family-us.png" group-title="Movie Channels",Starz Encore Family
+http://23.237.104.106:8080/USA_STARZ_FAMILY/index.m3u8
+
+#EXTINF:-1 tvg-chno="144" tvg-id="Syfy.HD.us2" tvg-name="Syfy" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s11097_dark_360w_270h.png" group-title="Movie Channels",Syfy
+http://23.237.104.106:8080/USA_SYFY/index.m3u8
 
 #EXTINF:-62 tvg-id="Tapmovies.Hd.ph" tvg-logo="https://i.imgur.com/3RVA5mV.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Movie Channels",TAP MOVIES
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -312,9 +307,6 @@ https://ucdn.mediaquest.com.ph/bpk-tv/cg_tapmovies_hd1/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b8c3d5906e424f17a9215d8c7a2e6043:02ce48f1b48f7cbdc3e2703a56e8fa31
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_thrill_sd/default/index.mpd 
-
-#EXTINF:-1 tvg-id="" tvg-name="Usa: ThrillerMAX" tvg-logo="http://vod-logo.net/photos/bf2cc83d5980f5aba55312367ec9e4ae.png" group-title="Movie Channels",ThrillerMAX
-http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/239132.ts
 
 #EXTINF:-150 tvg-logo="https://i.imgur.com/oLzTyUX.png" group-logo="https://i.imgur.com/rsPE0Fp.png" group-title="Movie Channels",TVN MOVIES
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -338,7 +330,7 @@ https://amc-anime-x-hidive-1-us.tablo.wurl.tv/playlist.m3u8
 https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E6FA5Sr.jpeg" group-title="Anime/Cartoons",BOOMERANG TV
-http://skysmt.com:8080/live/23839393939944/3838494958/67092.ts
+http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
 
 #EXTINF:-92 tvg-id="Cartoon.Net.Hd.ph" tvg-logo="https://i.imgur.com/l7p2MpK.png" group-logo="https://i.imgur.com/NbRG0IW.jpeg" group-title="Anime/Cartoons",CARTOON NETWORK HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -356,13 +348,13 @@ http://161.49.17.2:6610/001/2/ch00000090990000001125/manifest.mpd?AuthInfo=v87HD
 https://tglmp02.akamaized.net/out/v1/a32e566460eb41ce9295b9c45fe25825/manifest.mpd
 
 #EXTINF:-1 tvg-id="US: DISNEY CHANNEL EAST" tvg-name="USA Disney Channel East UHD" tvg-logo="http://epg4you.com/logos/disneychannel.png" group-title="Anime/Cartoons",Disney Channel
-http://skysmt.com:8080/live/23839393939944/3838494958/137767.ts
+http://212.5.144.156:8080/disney/index.m3u8
 
 #EXTINF:-1 tvg-id="US: DISNEY JR EAST" tvg-name="USA Disney Junior UHD" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/disney-junior.png" group-title="Anime/Cartoons",Disney Junior
-http://skysmt.com:8080/live/23839393939944/3838494958/74075.ts
+https://tvsen5.aynaott.com/disney/index.m3u8
 
 #EXTINF:-1 tvg-id="US: DISNEY XD WEST" tvg-name="USA Disney XD West LHD" tvg-logo="http://epg4you.com/logos/disneyxd.png" group-title="Anime/Cartoons",Disney XD
-http://skysmt.com:8080/live/23839393939944/3838494958/291245.ts
+http://89.187.179.148:826/1368/gXwiagaXda/1672
 
 #EXTINF:-1 tvg-id="DREAMWORKS.ph"  tvg-name="Dreamworks Tagalized" tvg-id="Dreamworks.Hd.ph" tvg-logo="https://i.imgur.com/cgfKSDP.png" group-title="Anime/Cartoons",Dreamworks
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -403,6 +395,9 @@ https://ucdn.mediaquest.com.ph/bpk-tv/dr_nickelodeon/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ca7e5b318d624f099c246a3e7d5f8140:3175f0646c504fad87e97c7677a85393
 https://ucdn.mediaquest.com.ph/bpk-tv/dr_nickjr/default/index.mpd
+
+#EXTINF:-1 tvg-chno="113" tvg-id="Nicktoons.us2" tvg-name="Nicktoons" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s30420_dark_360w_270h.png" group-title="Movie Channels",Nicktoons
+http://41.205.93.154/NICKTOONS/index.m3u8
 
 #EXTINF:-101 tvg-logo="https://i.imgur.com/xhmWQXs.png" group-logo="https://i.imgur.com/NbRG0IW.jpeg" group-title="Anime/Cartoons",PBS KIDS
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
@@ -449,7 +444,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/501/default_ott.mpd
 https://ucdn.mediaquest.com.ph/bpk-tv/discovery/default/index.mpd
 
 #EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-us.png" group-title="Entertainment/Documentary",ESPN USA
-http://skysmt.com:8080/live/23839393939944/3838494958/254452.ts
+http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
 
 #EXTINF:-1  tvg-name="FailArmy" tvg-id="554158e864526b29254ff105" tvg-logo="https://images.pluto.tv/channels/554158e864526b29254ff105/colorLogoPNG.png" tvg-chno="460" group-title="Entertainment/Documentary",FailArmy
 https://jmp2.uk/plu-554158e864526b29254ff105.m3u8
@@ -461,7 +456,7 @@ http://136.158.97.2:6610/001/2/ch00000090990000001102/manifest.mpd?AuthInfo=v87H
 https://tglmp03.akamaized.net/out/v1/c8e964618dbd41b38ae487760387af24/manifest.mpd
 
 #EXTINF:-115 tvg-logo="https://i.imgur.com/dBjSEyl.png" group-logo="https://i.imgur.com/tURRa1o.png" group-title="Entertainment/Documentary",FOOD NETWORK
-http://skysmt.com:8080/live/23839393939944/3838494958/222510.ts
+http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
 
 #EXTINF:-1  tvg-name="Gordon Ramsay's Hell's Kitchen" tvg-id="5b4e99f4423e067bd6df6903" tvg-logo="https://images.pluto.tv/channels/5b4e99f4423e067bd6df6903/colorLogoPNG.png" tvg-chno="1900" group-title="Entertainment/Documentary",Gordon Ramsay's Hell's Kitchen
 https://jmp2.uk/plu-5b4e99f4423e067bd6df6903.m3u8
@@ -488,7 +483,7 @@ https://dtqutq7lmcchv.cloudfront.net/10001/99991204/hls/master.m3u8?includeAsset
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default_ott.mpd
 
 #EXTINF:-122 tvg-logo="https://i.imgur.com/LIrEjuN.png" group-logo="https://i.imgur.com/tURRa1o.png" group-title="Entertainment/Documentary",LIFETIME
-http://skysmt.com:8080/live/23839393939944/3838494958/222523.ts
+http://89.187.179.148:826/1368/gXwiagaXda/1589
 
 #EXTINF:-1  tvg-id="97073" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6318742'&EntityType='Item'&EntityId='97073'&Width=488&Height=249" group-title="Entertainment/Documentary", LIVE 1
 https://tglmp04.akamaized.net/out/v1/b38b8a6306714a8e91ae7674291a4a94/manifest.mpd
@@ -527,16 +522,14 @@ http://136.239.173.3:6610/001/2/ch00000090990000001145/manifest.mpd?AuthInfo=v87
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
 
 #EXTINF:-158 tvg-logo="http://tugapt.com/picons/tntse.png" grdualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" group-title="Entertainment/Documentary" radio="false",TNT
-http://skysmt.com:8080/live/23839393939944/3838494958/74253.ts
+https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:-120 tvg-logo="https://i.imgur.com/LplHeem.png" group-logo="https://i.imgur.com/tURRa1o.png" group-title="Entertainment/Documentary",TRAVEL CHANNEL
-http://skysmt.com:8080/live/23839393939944/3838494958/137801.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363d154/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNkMTU0OjE3OTU1NTc2MDg0MTg6Y2RubGl2ZXR2LnR2OjJiZGY2OWNjNzZjMGNmNTUuNDFmYTI2OWQ5MzlmNjU5NDdkODBlMzlhZGNkZTRjOWYzN2NhM2UwNzU5ZDkxYmIxOTQ1NzcwOGY4NjYxNWU0ZA
 
 #EXTINF:-131 tvg-logo="https://i.imgur.com/5Qbiv1q.png" group-logo="https://i.imgur.com/tURRa1o.png" group-title="Entertainment/Documentary",TRAVELXP
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
-
-#EXTINF:-117 tvg-logo="https://i.imgur.com/bU6a84F.png" group-logo="https://i.imgur.com/tURRa1o.png" group-title="Entertainment/Documentary",TLC
-http://skysmt.com:8080/live/23839393939944/3838494958/242472.ts
 
 #EXTINF:-1  tvg-name="UFC" tg-id="677d9adfa9a51b0008497fa0" tvg-logo="https://images.pluto.tv/channels/677d9adfa9a51b0008497fa0/colorLogoPNG.png" tvg-chno="2850" group-title="Entertainment/Documentary",UFC
 https://jmp2.uk/plu-677d9adfa9a51b0008497fa0.m3u8
@@ -545,104 +538,6 @@ https://jmp2.uk/plu-677d9adfa9a51b0008497fa0.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9e8888ac964d430cbfef9c922ee6714b:9b1dbd9f59a39a9ebaf1fb8e665a3ef3
 https://tglmp02.akamaized.net/out/v1/1063ebb215c14312ba9d4e415ac706d2/manifest.mpd
-
-#EXTINF:-1 group-title="Entertainment/Documentary" tvg-id="" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/a77021bb-a973-4a9b-8902-47e05787b08f/d8txzp1-3f32b570-9b7f-437d-ad29-2df8cdbf554c.png/v1/fill/w_707,h_668/wwe_network_logo_by_jjk100_d8txzp1-fullview.png", WWE Network
-http://skysmt.com:8080/live/23839393939944/3838494958/84055.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY 3" tvg-logo="https://yt3.googleusercontent.com/-7wF73TDzfrE8Bo1I1mvRdShpdbX0wDWYtYTvcUr4Ts0zbGwO1GdqfnD9cearRpo2b3WjarycAI=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS DISNEY",DISNEY 3
-http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/217307.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY 1" tvg-logo="https://yt3.googleusercontent.com/-7wF73TDzfrE8Bo1I1mvRdShpdbX0wDWYtYTvcUr4Ts0zbGwO1GdqfnD9cearRpo2b3WjarycAI=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS DISNEY",DISNEY 1
-http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/217305.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY 5" tvg-logo="https://yt3.googleusercontent.com/-7wF73TDzfrE8Bo1I1mvRdShpdbX0wDWYtYTvcUr4Ts0zbGwO1GdqfnD9cearRpo2b3WjarycAI=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS DISNEY",DISNEY 5
-http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/217309.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY 7" tvg-logo="https://yt3.googleusercontent.com/-7wF73TDzfrE8Bo1I1mvRdShpdbX0wDWYtYTvcUr4Ts0zbGwO1GdqfnD9cearRpo2b3WjarycAI=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS DISNEY",DISNEY 7
-http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/217311.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY 8" tvg-logo="https://yt3.googleusercontent.com/-7wF73TDzfrE8Bo1I1mvRdShpdbX0wDWYtYTvcUr4Ts0zbGwO1GdqfnD9cearRpo2b3WjarycAI=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS DISNEY",DISNEY 8
-http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/217312.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISENY 9" tvg-logo="https://yt3.googleusercontent.com/-7wF73TDzfrE8Bo1I1mvRdShpdbX0wDWYtYTvcUr4Ts0zbGwO1GdqfnD9cearRpo2b3WjarycAI=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS DISNEY",DISENY 9
-http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/217412.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY 10" tvg-logo="https://yt3.googleusercontent.com/-7wF73TDzfrE8Bo1I1mvRdShpdbX0wDWYtYTvcUr4Ts0zbGwO1GdqfnD9cearRpo2b3WjarycAI=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS DISNEY",DISNEY 10
-http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/217413.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY 11" tvg-logo="https://yt3.googleusercontent.com/-7wF73TDzfrE8Bo1I1mvRdShpdbX0wDWYtYTvcUr4Ts0zbGwO1GdqfnD9cearRpo2b3WjarycAI=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS DISNEY",DISNEY 11
-http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/217414.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY 12" tvg-logo="https://yt3.googleusercontent.com/-7wF73TDzfrE8Bo1I1mvRdShpdbX0wDWYtYTvcUr4Ts0zbGwO1GdqfnD9cearRpo2b3WjarycAI=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS DISNEY",DISNEY 12
-http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/217415.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY 13" tvg-logo="https://yt3.googleusercontent.com/-7wF73TDzfrE8Bo1I1mvRdShpdbX0wDWYtYTvcUr4Ts0zbGwO1GdqfnD9cearRpo2b3WjarycAI=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS DISNEY",DISNEY 13
-http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/217416.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY 14" tvg-logo="https://yt3.googleusercontent.com/-7wF73TDzfrE8Bo1I1mvRdShpdbX0wDWYtYTvcUr4Ts0zbGwO1GdqfnD9cearRpo2b3WjarycAI=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS DISNEY",DISNEY 14
-http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/217417.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY 15" tvg-logo="https://yt3.googleusercontent.com/-7wF73TDzfrE8Bo1I1mvRdShpdbX0wDWYtYTvcUr4Ts0zbGwO1GdqfnD9cearRpo2b3WjarycAI=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS DISNEY",DISNEY 15
-http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/217418.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY 16" tvg-logo="https://yt3.googleusercontent.com/-7wF73TDzfrE8Bo1I1mvRdShpdbX0wDWYtYTvcUr4Ts0zbGwO1GdqfnD9cearRpo2b3WjarycAI=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS DISNEY",DISNEY 16
-http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/217419.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY 17" tvg-logo="https://yt3.googleusercontent.com/-7wF73TDzfrE8Bo1I1mvRdShpdbX0wDWYtYTvcUr4Ts0zbGwO1GdqfnD9cearRpo2b3WjarycAI=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS DISNEY",DISNEY 17
-http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/217420.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY 18" tvg-logo="https://yt3.googleusercontent.com/-7wF73TDzfrE8Bo1I1mvRdShpdbX0wDWYtYTvcUr4Ts0zbGwO1GdqfnD9cearRpo2b3WjarycAI=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS DISNEY",DISNEY 18
-http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/217421.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY 4" tvg-logo="https://yt3.googleusercontent.com/-7wF73TDzfrE8Bo1I1mvRdShpdbX0wDWYtYTvcUr4Ts0zbGwO1GdqfnD9cearRpo2b3WjarycAI=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS DISNEY",DISNEY 4
-http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/217308.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY 2" tvg-logo="https://yt3.googleusercontent.com/-7wF73TDzfrE8Bo1I1mvRdShpdbX0wDWYtYTvcUr4Ts0zbGwO1GdqfnD9cearRpo2b3WjarycAI=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS DISNEY",DISNEY 2
-http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/217306.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY 6" tvg-logo="https://yt3.googleusercontent.com/-7wF73TDzfrE8Bo1I1mvRdShpdbX0wDWYtYTvcUr4Ts0zbGwO1GdqfnD9cearRpo2b3WjarycAI=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS DISNEY",DISNEY 6
-http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/217310.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY+3 ENGLISH" tvg-logo="https://yt3.googleusercontent.com/-7wF73TDzfrE8Bo1I1mvRdShpdbX0wDWYtYTvcUr4Ts0zbGwO1GdqfnD9cearRpo2b3WjarycAI=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS DISNEY",DISNEY+3 ENGLISH
-http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/230788.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY+2 ENGLISH" tvg-logo="https://yt3.googleusercontent.com/-7wF73TDzfrE8Bo1I1mvRdShpdbX0wDWYtYTvcUr4Ts0zbGwO1GdqfnD9cearRpo2b3WjarycAI=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS DISNEY",DISNEY+2 ENGLISH
-http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/230787.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY+1 ENGLISH" tvg-logo="https://yt3.googleusercontent.com/-7wF73TDzfrE8Bo1I1mvRdShpdbX0wDWYtYTvcUr4Ts0zbGwO1GdqfnD9cearRpo2b3WjarycAI=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS DISNEY",DISNEY+1 ENGLISH
-http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/230786.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY+6" tvg-logo="https://yt3.googleusercontent.com/-7wF73TDzfrE8Bo1I1mvRdShpdbX0wDWYtYTvcUr4Ts0zbGwO1GdqfnD9cearRpo2b3WjarycAI=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS DISNEY",DISNEY+6
-http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/230785.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY+5" tvg-logo="https://yt3.googleusercontent.com/-7wF73TDzfrE8Bo1I1mvRdShpdbX0wDWYtYTvcUr4Ts0zbGwO1GdqfnD9cearRpo2b3WjarycAI=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS DISNEY",DISNEY+5
-http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/230784.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY+4" tvg-logo="https://yt3.googleusercontent.com/-7wF73TDzfrE8Bo1I1mvRdShpdbX0wDWYtYTvcUr4Ts0zbGwO1GdqfnD9cearRpo2b3WjarycAI=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS DISNEY",DISNEY+4
-http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/230783.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY+3" tvg-logo="https://yt3.googleusercontent.com/-7wF73TDzfrE8Bo1I1mvRdShpdbX0wDWYtYTvcUr4Ts0zbGwO1GdqfnD9cearRpo2b3WjarycAI=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS DISNEY",DISNEY+3
-http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/230782.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY+2" tvg-logo="https://yt3.googleusercontent.com/-7wF73TDzfrE8Bo1I1mvRdShpdbX0wDWYtYTvcUr4Ts0zbGwO1GdqfnD9cearRpo2b3WjarycAI=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS DISNEY",DISNEY+2
-http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/230781.ts
-#EXTINF:-1 tvg-id="" tvg-name="Disney+ 20" tvg-logo="https://yt3.googleusercontent.com/-7wF73TDzfrE8Bo1I1mvRdShpdbX0wDWYtYTvcUr4Ts0zbGwO1GdqfnD9cearRpo2b3WjarycAI=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS DISNEY",Disney+ 20
-http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/231940.ts
-#EXTINF:-1 tvg-id="" tvg-name="Disney+ 19" tvg-logo="https://yt3.googleusercontent.com/-7wF73TDzfrE8Bo1I1mvRdShpdbX0wDWYtYTvcUr4Ts0zbGwO1GdqfnD9cearRpo2b3WjarycAI=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS DISNEY",Disney+ 19
-http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/231939.ts
-#EXTINF:-1 tvg-id="" tvg-name="Disney+ 18" tvg-logo="https://yt3.googleusercontent.com/-7wF73TDzfrE8Bo1I1mvRdShpdbX0wDWYtYTvcUr4Ts0zbGwO1GdqfnD9cearRpo2b3WjarycAI=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS DISNEY",Disney+ 18
-http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/231938.ts
-#EXTINF:-1 tvg-id="" tvg-name="Disney+ 17" tvg-logo="https://yt3.googleusercontent.com/-7wF73TDzfrE8Bo1I1mvRdShpdbX0wDWYtYTvcUr4Ts0zbGwO1GdqfnD9cearRpo2b3WjarycAI=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS DISNEY",Disney+ 17
-http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/231937.ts
-#EXTINF:-1 tvg-id="" tvg-name="Disney+ 16" tvg-logo="https://yt3.googleusercontent.com/-7wF73TDzfrE8Bo1I1mvRdShpdbX0wDWYtYTvcUr4Ts0zbGwO1GdqfnD9cearRpo2b3WjarycAI=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS DISNEY",Disney+ 16
-http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/231936.ts
-#EXTINF:-1 tvg-id="" tvg-name="Disney+ 15" tvg-logo="https://yt3.googleusercontent.com/-7wF73TDzfrE8Bo1I1mvRdShpdbX0wDWYtYTvcUr4Ts0zbGwO1GdqfnD9cearRpo2b3WjarycAI=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS DISNEY",Disney+ 15
-http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/231935.ts
-#EXTINF:-1 tvg-id="" tvg-name="Disney+ 14" tvg-logo="https://yt3.googleusercontent.com/-7wF73TDzfrE8Bo1I1mvRdShpdbX0wDWYtYTvcUr4Ts0zbGwO1GdqfnD9cearRpo2b3WjarycAI=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS DISNEY",Disney+ 14
-http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/231934.ts
-#EXTINF:-1 tvg-id="" tvg-name="Disney+ 13" tvg-logo="https://yt3.googleusercontent.com/-7wF73TDzfrE8Bo1I1mvRdShpdbX0wDWYtYTvcUr4Ts0zbGwO1GdqfnD9cearRpo2b3WjarycAI=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS DISNEY",Disney+ 13
-http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/231933.ts
-#EXTINF:-1 tvg-id="" tvg-name="Disney+ 12" tvg-logo="https://yt3.googleusercontent.com/-7wF73TDzfrE8Bo1I1mvRdShpdbX0wDWYtYTvcUr4Ts0zbGwO1GdqfnD9cearRpo2b3WjarycAI=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS DISNEY",Disney+ 12
-http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/231932.ts
-#EXTINF:-1 tvg-id="" tvg-name="Disney+ 11" tvg-logo="https://yt3.googleusercontent.com/-7wF73TDzfrE8Bo1I1mvRdShpdbX0wDWYtYTvcUr4Ts0zbGwO1GdqfnD9cearRpo2b3WjarycAI=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS DISNEY",Disney+ 11
-http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/231931.ts
-#EXTINF:-1 tvg-id="" tvg-name="Disney+ 10" tvg-logo="https://yt3.googleusercontent.com/-7wF73TDzfrE8Bo1I1mvRdShpdbX0wDWYtYTvcUr4Ts0zbGwO1GdqfnD9cearRpo2b3WjarycAI=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS DISNEY",Disney+ 10
-http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/231930.ts
-#EXTINF:-1 tvg-id="" tvg-name="Disney+ 09" tvg-logo="https://yt3.googleusercontent.com/-7wF73TDzfrE8Bo1I1mvRdShpdbX0wDWYtYTvcUr4Ts0zbGwO1GdqfnD9cearRpo2b3WjarycAI=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS DISNEY",Disney+ 09
-http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/231929.ts
-#EXTINF:-1 tvg-id="" tvg-name="Disney+ 08" tvg-logo="https://yt3.googleusercontent.com/-7wF73TDzfrE8Bo1I1mvRdShpdbX0wDWYtYTvcUr4Ts0zbGwO1GdqfnD9cearRpo2b3WjarycAI=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS DISNEY",Disney+ 08
-http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/231928.ts
-#EXTINF:-1 tvg-id="" tvg-name="Disney+ 07" tvg-logo="https://yt3.googleusercontent.com/-7wF73TDzfrE8Bo1I1mvRdShpdbX0wDWYtYTvcUr4Ts0zbGwO1GdqfnD9cearRpo2b3WjarycAI=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS DISNEY",Disney+ 07
-http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/231927.ts
-#EXTINF:-1 tvg-id="" tvg-name="Disney+ 06" tvg-logo="https://yt3.googleusercontent.com/-7wF73TDzfrE8Bo1I1mvRdShpdbX0wDWYtYTvcUr4Ts0zbGwO1GdqfnD9cearRpo2b3WjarycAI=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS DISNEY",Disney+ 06
-http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/231926.ts
-#EXTINF:-1 tvg-id="" tvg-name="Disney+ 05" tvg-logo="https://yt3.googleusercontent.com/-7wF73TDzfrE8Bo1I1mvRdShpdbX0wDWYtYTvcUr4Ts0zbGwO1GdqfnD9cearRpo2b3WjarycAI=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS DISNEY",Disney+ 05
-http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/231925.ts
-#EXTINF:-1 tvg-id="" tvg-name="Disney+ 04" tvg-logo="https://yt3.googleusercontent.com/-7wF73TDzfrE8Bo1I1mvRdShpdbX0wDWYtYTvcUr4Ts0zbGwO1GdqfnD9cearRpo2b3WjarycAI=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS DISNEY",Disney+ 04
-http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/231924.ts
-#EXTINF:-1 tvg-id="" tvg-name="Disney+ 03" tvg-logo="https://yt3.googleusercontent.com/-7wF73TDzfrE8Bo1I1mvRdShpdbX0wDWYtYTvcUr4Ts0zbGwO1GdqfnD9cearRpo2b3WjarycAI=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS DISNEY",Disney+ 03
-http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/231923.ts
-#EXTINF:-1 tvg-id="" tvg-name="Disney+ 02" tvg-logo="https://yt3.googleusercontent.com/-7wF73TDzfrE8Bo1I1mvRdShpdbX0wDWYtYTvcUr4Ts0zbGwO1GdqfnD9cearRpo2b3WjarycAI=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS DISNEY",Disney+ 02
-http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/231922.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY+1" tvg-logo="https://yt3.googleusercontent.com/-7wF73TDzfrE8Bo1I1mvRdShpdbX0wDWYtYTvcUr4Ts0zbGwO1GdqfnD9cearRpo2b3WjarycAI=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS DISNEY",DISNEY+1
-http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/230780.ts
-#EXTINF:-1 tvg-id="" tvg-name="Disney+ 01" tvg-logo="https://yt3.googleusercontent.com/-7wF73TDzfrE8Bo1I1mvRdShpdbX0wDWYtYTvcUr4Ts0zbGwO1GdqfnD9cearRpo2b3WjarycAI=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS DISNEY",Disney+ 01
-http://pro.netmos.ovh:7355/live/PR3378681185711/8304942028140/231921.ts
 
 ########## CIGNAL TV ########
 
